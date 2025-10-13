@@ -1,0 +1,89 @@
+.moveable_target {
+  position: absolute;
+  /* border: 1px solid transparent; */
+}
+.moveable_target.selected,
+.moveable_target.notSelected:hover {
+  outline: 1px dashed #3887fd;
+  cursor: pointer;
+}
+
+.moveable_target.selectedGroup {
+  outline: 1px solid #3887fd;
+  cursor: pointer;
+}
+
+.moveable_target {
+  user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+/* .moveable_target:focus-visible {
+  outline: 1px solid black;
+} */
+
+/* .angle_display {
+  font-size: 28px;
+  padding: 0.75rem 1.25rem;
+  border-radius: 0.5rem;
+  background: var(--Global-secondary-m-secondary-80);
+  box-shadow: 0 0.3125rem 0.9375rem 0 #0000000d;
+  color: var(--Global-neutral-m-neutral-10);
+  position: absolute;
+  display: none;
+}
+.angle_display::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid var(--Global-secondary-m-secondary-80);
+} */
+
+.custom_angle_tooltip {
+  font-size: 28px;
+  padding: 0.75rem 1.25rem;
+  border-radius: 0.5rem;
+  background: var(--Global-secondary-m-secondary-80);
+  box-shadow: 0 0.3125rem 0.9375rem 0 #0000000d;
+  color: var(--Global-neutral-m-neutral-10);
+  display: none;
+}
+
+.custom_angle_tooltip::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid var(--Global-secondary-m-secondary-80);
+}
+
+.custom_angle_tooltip.isUHD {
+  font-size: 56px;
+  padding: 1.5rem 2.5rem;
+  border-radius: 01rem;
+}
+
+.custom_angle_tooltip.isUHD::after {
+  content: '';
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid var(--Global-secondary-m-secondary-80);
+}

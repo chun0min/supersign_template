@@ -1,0 +1,475 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1920,
+    "height": 1080,
+    "angle": 0,
+    "thumbnail_url": "thumbnail.jpg",
+    "media_url": "background.png",
+    "content_size": 6000475,
+    "scene_no": 1,
+    "media_name": "background.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 813.51,
+    "height": 1080,
+    "angle": 0,
+    "thumbnail_url": "img_01.png",
+    "media_url": "img_01.png",
+    "content_size": 3317102,
+    "scene_no": 1,
+    "media_name": "img_01.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "IMAGE",
+    "top": 175,
+    "left": 1574,
+    "width": 188,
+    "height": 80,
+    "angle": 0,
+    "thumbnail_url": "img_05.svg",
+    "media_url": "img_05.svg",
+    "content_size": 22334,
+    "scene_no": 1,
+    "media_name": "img_05.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "TEXT",
+    "top": 126,
+    "left": 66,
+    "width": 410,
+    "height": 122,
+    "angle": 0,
+    "content_size": 5,
+    "text_value": "SUSHI",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Bungee",
+      "editor_option_text_font_size": "110",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255,255,255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Bungee-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "TEXT",
+    "top": 248,
+    "left": 66,
+    "width": 518,
+    "height": 73,
+    "angle": 0,
+    "content_size": 10,
+    "text_value": "RESTAURANT",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Bungee",
+      "editor_option_text_font_size": "60",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255,255,255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Bungee-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "TEXT",
+    "top": 952,
+    "left": 178,
+    "width": 581,
+    "height": 29,
+    "angle": 0,
+    "content_size": 13,
+    "text_value": "000-0000-0000",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Bungee",
+      "editor_option_text_font_size": "24",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "223,255,255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "right",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Bungee-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "TEXT",
+    "top": 991,
+    "left": 178,
+    "width": 581,
+    "height": 29,
+    "angle": 0,
+    "content_size": 16,
+    "text_value": "OPEN 17:00~23:00",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Bungee",
+      "editor_option_text_font_size": "24",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "225,255,255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "right",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Bungee-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "T_MENU-NEW",
+    "width": 500,
+    "height": 900,
+    "top": 82,
+    "left": 986,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_table": {
+      "layout_type": "V",
+      "img_w": 0,
+      "name_w": 70,
+      "price_w": 30,
+      "dash": {
+        "position": "",
+        "style": ""
+      }
+    },
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "3",
+        "price_type_text": ["S", "M", "L"],
+        "menu_list": [
+          {
+            "menu_name": "RED SNAPPER",
+            "description": "Add 100% fresh fish",
+            "price": [
+              "12.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "milk, nuts, eggs",
+            "ordr": 1
+          },
+          {
+            "menu_name": "EEL SUSHI EEL SUSHI EEL SUSHI EEL SUSHI EEL SUSHI",
+            "description": "Add 100% fresh fish Add 100% fresh fish Add 100% fresh fish",
+            "price": [
+              "12.0", "12.5", "13.0"
+            ],
+            "calory": [
+              "240", "260", "300"
+            ],
+            "allergy": "milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2
+          }
+        ],
+        "image": [
+          {
+            "content_name" : "img_02.png",
+            "id" : "1",
+            "img_url" : "img_02.png",
+            "menu_id" : "1",
+            "size" : 339956,
+            "type" : "Image"
+          },
+          {
+            "content_name" : "img_03.png",
+            "id" : "2",
+            "img_url" : "img_03.png",
+            "menu_id" : "2",
+            "type" : "Image"
+          } 
+        ]
+      },
+      "menu_option": [
+        {
+          "text_type": "Menu Name",
+          "font": "Gothic A1",
+          "text_size": "18",
+          "style_bold": true,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "255,255,255",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Description",
+          "font": "Gothic A1",
+          "text_size": "14",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "255,255,255",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Price",
+          "font": "Gothic A1",
+          "text_size": "20",
+          "style_bold": true,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "255,158,47",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Calories",
+          "font": "Gothic A1",
+          "text_size": "12",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "255,255,255",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Allergies",
+          "font": "Gothic A1",
+          "text_size": "16",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "80,73,101",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "left"
+        }
+      ],
+      "column": "1"
+    }
+  }
+  
+]

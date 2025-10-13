@@ -1,0 +1,581 @@
+<!-- /* 웹화면 누락(임의로 생성함) */ -->
+<head>    
+  <meta charset="UTF-8">
+  <title>템플릿 타입 TEST</title>    
+  <style>        
+    @import url("../../../css/editor/draggable-resizable/index.module.css");
+    @import url("../../../css/editor/draggable-resizable/moveable.css");
+    @import url("../../../css/editor/draggable-resizable/t_menu_new.css");   
+
+    .menuItem + .menuItem {
+      margin-top: 2rem;
+    }
+
+  </style>
+</head>
+<body style="margin: 0;padding: 0;">
+
+
+
+<!-- 여기부터 템플릿 화면 -->
+<style>
+  .backgroundSize {
+    width: 1920px;
+    height: 1080px;
+    background-size: 1920px 1080px;
+    position: relative;
+  }
+  .widgetCon {
+    position: absolute;
+  }
+</style>
+
+<div
+  id="editor"
+  class="backgroundSize"
+  style="background-image: url('background.png')"
+>
+  <!-- image -->
+  <div>
+    <img
+      class="widgetCon"
+      style="top: 0px; left: 0px; width: 813.51px; height: 1080px"
+      src="img_01.png"
+    />
+  </div>
+  <div>
+    <img
+      class="widgetCon"
+      style="top: 60px; left: 1000px; width: 188px; height: 80px; z-index: 999;"
+      src="img_05.svg"
+    />
+  </div>
+
+  <!-- text -->
+  <div
+    class="widgetCon"
+    style="
+      top: 126px;
+      left: 66px;
+      width: 410px;
+      height: 122px;
+      text-align: left;
+      color: rgba(255, 255, 255, 1);
+      font-size: 110px;
+      font-family: Bungee;
+    "
+  >
+    SUSHI
+  </div>
+  <div
+    class="widgetCon"
+    style="
+      top: 248px;
+      left: 66px;
+      width: 518px;
+      height: 73px;
+      text-align: left;
+      color: rgba(255, 255, 255, 1);
+      font-size: 60px;
+      font-family: Bungee;
+    "
+  >
+    RESTAURANT
+  </div>
+  <div
+    class="widgetCon"
+    style="
+      top: 952px;
+      left: 178px;
+      width: 581px;
+      height: 29px;
+      text-align: right;
+      color: rgba(225, 255, 255, 1);
+      font-size: 24px;
+      font-family: Bungee;
+    "
+  >
+    000-0000-0000
+  </div>
+  <div
+    class="widgetCon"
+    style="
+      top: 991px;
+      left: 178px;
+      width: 581px;
+      height: 29px;
+      text-align: right;
+      color: rgba(225, 255, 255, 1);
+      font-size: 24px;
+      font-family: Bungee;
+    "
+  >
+    OPEN 17:00~23:00
+  </div>
+
+  <!-- 여기부터 메뉴구성 레이아웃 -->
+  <div
+    id="editorItem7"
+    class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+    role="application"
+    tabindex="0"
+    aria-label=", 콘텐츠 순서 : 8, 콘텐츠 타입 : t_menu_new"
+    aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+    aria-haspopup="true"
+    aria-expanded="false"
+    style="
+      width: 500px;
+      height: 900px;
+      top: 82px;
+      left: 986px;
+      transform: rotate(0deg);
+    "
+  >
+    <div
+      style="width: 100%; height: 100%; position: relative; overflow: hidden"
+    >
+      <div
+        class="menuTypeArea"
+        style="width: 100%; height: 100%;"
+      >
+        <div
+          class="menuTypeGroup"
+        >
+          <div 
+            class="menuItem itemGrid type-03" 
+          >
+            <!-- Grid-A -->
+            <div
+              class="itemGrid-A dragContainer"
+            >
+              <div 
+                class="image-cell dragBox" 
+                draggable="true"
+                style="width: 100%;"
+              >
+                <img src="img_03.png" 
+                alt="img_03.png의 썸네일입니다.">
+              </div>
+            </div>
+
+            <!-- Grid-B -->
+            <div
+              class="itemGrid-B dragContainer"
+            >
+              <div 
+                class="menuTitle dragBox"
+                draggable="true"
+                style="
+                  font-family: 'Gothic A1';
+                  font-size: 18px;
+                  font-weight: bold;
+                  font-style: normal;
+                  color: rgb(255,255,255);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: left;
+                "
+              >
+                RED SNAPPER
+              </div>
+              <div
+                class="menuInfo dragBox"
+                draggable="true"
+              >
+                <div
+                  class="menuExplain"
+                  style="
+                    font-family: 'Gothic A1';
+                    font-size: 16px;
+                    font-weight: normal;
+                    font-style: normal;
+                    color: rgb(255,255,255);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  Add 100% fresh fish
+                </div>
+                <div
+                  class="menuAllegy"
+                  style="
+                    font-family: 'Gothic A1';
+                    font-size: 12px;
+                    font-weight: normal;
+                    font-style: normal;
+                    color: rgb(255,255,255);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  milk, nuts, eggs
+                </div>
+              </div>
+            </div>
+
+            <!-- Grid-C -->
+            <div
+              class="itemGrid-C dragContainer"
+            >
+              <div 
+                class="menuOption dragBox"
+                draggable="true"
+                style="gap: 14px"
+              >
+                <div class="kcal_option kcal_right">
+                  <div class="size_option size_left">
+                    <span
+                      style="
+                        font-family: 'Gothic A1';
+                        font-size: 20px;
+                        font-weight: bold;
+                        font-style: normal;
+                        color: rgb(255, 158, 47);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      S
+                    </span>
+                    <div
+                      class="price_option price_left"
+                    >
+                      <span
+                        class="priceItem"
+                        style="
+                          font-family: 'Gothic A1';
+                          font-size: 20px;
+                          font-weight: bold;
+                          font-style: normal;
+                          color: rgb(255, 158, 47);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: left;
+                          margin-left: 0rem;
+                        "
+                      >
+                        $
+                      </span>
+                      <span
+                        style="
+                          font-family: 'Gothic A1';
+                          font-size: 20px;
+                          font-weight: bold;
+                          font-style: normal;
+                          color: rgb(255, 158, 47);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: left;
+                          margin-left: 0rem;
+                        "
+                      >
+                        12.0
+                      </span>
+                    </div>
+                  </div>
+                  <span
+                    class="kcal-right"
+                    style="
+                      font-family: 'Gothic A1';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(255, 255, 255);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                      margin-left: 0.5rem;
+                    "
+                  >
+                    240 kcal
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div 
+            class="menuItem itemGrid type-03" 
+          >
+            <!-- Grid-A -->
+            <div
+              class="itemGrid-A dragContainer"
+            >
+              <div 
+                class="image-cell dragBox" 
+                draggable="true"
+                style="width: 100%;"
+              >
+                <img src="img_04.png" 
+                alt="img_04.png의 썸네일입니다.">
+              </div>
+            </div>
+
+            <!-- Grid-B -->
+            <div
+              class="itemGrid-B dragContainer"
+            >
+              <div 
+                class="menuTitle dragBox"
+                draggable="true"
+                style="
+                  font-family: 'Gothic A1';
+                  font-size: 18px;
+                  font-weight: bold;
+                  font-style: normal;
+                  color: rgb(255,255,255);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: left;
+                "
+              >
+                EEL SUSHI EEL SUSHI EEL SUSHI EEL SUSHI EEL SUSHI
+              </div>
+              <div
+                class="menuInfo dragBox"
+                draggable="true"
+              >
+                <div
+                  class="menuExplain"
+                  style="
+                    font-family: 'Gothic A1';
+                    font-size: 16px;
+                    font-weight: normal;
+                    font-style: normal;
+                    color: rgb(255,255,255);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  Add 100% fresh fish Add 100% fresh fish Add 100% fresh fish
+                </div>
+                <div
+                  class="menuAllegy"
+                  style="
+                    font-family: 'Gothic A1';
+                    font-size: 12px;
+                    font-weight: normal;
+                    font-style: normal;
+                    color: rgb(255,255,255);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                </div>
+              </div>
+            </div>
+
+            <!-- Grid-C -->
+            <div
+              class="itemGrid-C dragContainer"
+            >
+              <div 
+                class="menuOption dragBox"
+                draggable="true"
+                style="gap: 14px"
+              >
+                <div class="kcal_option kcal_right">
+                  <div class="size_option size_left">
+                    <span
+                      style="
+                        font-family: 'Gothic A1';
+                        font-size: 20px;
+                        font-weight: bold;
+                        font-style: normal;
+                        color: rgb(255, 158, 47);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      SMALL
+                    </span>
+                    <div
+                      class="price_option price_left"
+                    >
+                      <span
+                        class="priceItem"
+                        style="
+                          font-family: 'Gothic A1';
+                          font-size: 20px;
+                          font-weight: bold;
+                          font-style: normal;
+                          color: rgb(255, 158, 47);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: left;
+                          margin-left: 0rem;
+                        "
+                      >
+                        $
+                      </span>
+                      <span
+                        style="
+                          font-family: 'Gothic A1';
+                          font-size: 20px;
+                          font-weight: bold;
+                          font-style: normal;
+                          color: rgb(255, 158, 47);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: left;
+                          margin-left: 0rem;
+                        "
+                      >
+                        12.0
+                      </span>
+                    </div>
+                  </div>
+                  <span
+                    class="kcal-right"
+                    style="
+                      font-family: 'Gothic A1';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(255, 255, 255);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                      margin-left: 0.5rem;
+                    "
+                  >
+                    240 kcal
+                  </span>
+                </div>
+                <div class="kcal_option kcal_right">
+                  <div class="size_option size_left">
+                    <span
+                      style="
+                        font-family: 'Gothic A1';
+                        font-size: 20px;
+                        font-weight: bold;
+                        font-style: normal;
+                        color: rgb(255, 158, 47);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      MEDIUM
+                    </span>
+                    <div
+                      class="price_option price_left"
+                    >
+                      <span
+                        class="priceItem"
+                        style="
+                          font-family: 'Gothic A1';
+                          font-size: 20px;
+                          font-weight: bold;
+                          font-style: normal;
+                          color: rgb(255, 158, 47);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: left;
+                          margin-left: 0rem;
+                        "
+                      >
+                        $
+                      </span>
+                      <span
+                        style="
+                          font-family: 'Gothic A1';
+                          font-size: 20px;
+                          font-weight: bold;
+                          font-style: normal;
+                          color: rgb(255, 158, 47);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: left;
+                          margin-left: 0rem;
+                        "
+                      >
+                        12.5
+                      </span>
+                    </div>
+                  </div>
+                  <span
+                    class="kcal-right"
+                    style="
+                      font-family: 'Gothic A1';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(255, 255, 255);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                      margin-left: 0.5rem;
+                    "
+                  >
+                    260 kcal
+                  </span>
+                </div>
+                <div class="kcal_option kcal_right">
+                  <div class="size_option size_left">
+                    <span
+                      style="
+                        font-family: 'Gothic A1';
+                        font-size: 20px;
+                        font-weight: bold;
+                        font-style: normal;
+                        color: rgb(255, 158, 47);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      LARGE
+                    </span>
+                    <div
+                      class="price_option price_left"
+                    >
+                      <span
+                        class="priceItem"
+                        style="
+                          font-family: 'Gothic A1';
+                          font-size: 20px;
+                          font-weight: bold;
+                          font-style: normal;
+                          color: rgb(255, 158, 47);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: left;
+                          margin-left: 0rem;
+                        "
+                      >
+                        $
+                      </span>
+                      <span
+                        style="
+                          font-family: 'Gothic A1';
+                          font-size: 20px;
+                          font-weight: bold;
+                          font-style: normal;
+                          color: rgb(255, 158, 47);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: left;
+                          margin-left: 0rem;
+                        "
+                      >
+                        13.0
+                      </span>
+                    </div>
+                  </div>
+                  <span
+                    class="kcal-right"
+                    style="
+                      font-family: 'Gothic A1';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(255, 255, 255);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                      margin-left: 0.5rem;
+                    "
+                  >
+                    300 kcal
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <!-- 여기까지 -->
+
+</div>
+
+<body>

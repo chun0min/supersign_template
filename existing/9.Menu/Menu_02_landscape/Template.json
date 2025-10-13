@@ -1,0 +1,11 @@
+{
+  "type": "template_New",
+  "name": "Menu_01",
+  "group": "Menu",
+  "screen": {
+    "width": "1920",
+    "height": "1080"
+  },
+  "version": "1.00",
+  "folderName": "Menu_01_landscape"
+}

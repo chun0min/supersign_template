@@ -1,0 +1,108 @@
+.menuTypeArea {
+  position: absolute;
+}
+
+.menuTypeArea .itemGrid {
+  display: grid;
+  transition: 0.5s;
+}
+
+.menuTypeGroup .menuTitle {
+  width: 100%;
+}
+.menuTypeGroup .image-cell {
+  width: 100%;
+}
+.menuTypeGroup .image-cell img {
+  width: 100%; 
+  /* height: 100%;  */
+  object-fit: cover;
+}
+.menuTypeGroup .menuOption {
+  display: flex;
+  width: 100%;
+}
+.menuTypeGroup .kcal_option,
+.menuTypeGroup .size_option {
+  display: flex;
+}
+.menuTypeGroup .kcal_option.kcal_right {
+  flex-direction: row;
+  align-items: flex-end
+}
+.menuTypeGroup .kcal_option.kcal_down {
+  flex-direction: column;
+  align-items: flex-start
+}
+.menuTypeGroup .size_option.size_up {
+  flex-direction: column;
+}
+.menuTypeGroup .size_option.size_down {
+  margin-right: 0.5rem;
+  flex-direction: row;
+}
+.menuTypeGroup .price_option {
+  display: flex;
+  flex-direction: row;
+}
+.menuTypeGroup .price_option.price_right {
+  /* flex-direction: row-reverse; */
+}
+.menuTypeGroup .price_option.price_right .priceItem {
+  order: 2;
+}
+.menuTypeGroup .price_option.priceText_left {
+  justify-content: flex-start;
+}
+.menuTypeGroup .price_option.priceText_center {
+  justify-content: center;
+}
+.menuTypeGroup .price_option.priceText_right {
+  justify-content: flex-end;
+}
+
+
+/* 이미지 강조 TYPE-01 */
+.menuTypeGroup .type-01 {
+  grid-template-columns: 1fr 1fr;
+  --col1: 50;
+  --col2: 50;
+}
+.menuTypeGroup .type-01 .itemGrid-A {
+	grid-row: span 2;
+}
+
+/* 이미지 강조 TYPE-02 */
+.menuTypeGroup .type-02 {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 2fr auto;
+  --col1: 50;
+  --col2: 50;
+}
+.menuTypeGroup .type-02 .itemGrid-B {
+	grid-row: span 2;
+}
+
+/* 이미지 강조 TYPE-03 */
+.menuTypeGroup .type-03 {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 2fr;
+}
+.menuTypeGroup .type-03 .itemGrid-A {
+  grid-column: 1 / span 2;
+}
+
+/* 이미지 강조 TYPE-04 */
+.menuTypeGroup .type-04 {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 2fr;
+}
+.menuTypeGroup .type-04 .itemGrid-C {
+  grid-column: 1 / span 2;
+	grid-row: 2 / span 2; 
+}
+
+/* 이미지 강조 TYPE-05 */
+.menuTypeGroup .type-05 {
+  grid-template-columns: none !important;
+}
