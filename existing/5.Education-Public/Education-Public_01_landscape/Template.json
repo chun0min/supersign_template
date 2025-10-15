@@ -1,11 +1,11 @@
 {
     "type": "template",
-    "name": "Trans_4",
-    "group": "Trans",
+    "name": "Education-Public_1",
+    "group": "Education-Public",
     "screen": {
         "width": "1920",
         "height": "1080"
     },
     "version": "1.00",
-    "folderName": "Trans_04_landscape"
+    "folderName": "Education-Public_01_landscape"
 }
