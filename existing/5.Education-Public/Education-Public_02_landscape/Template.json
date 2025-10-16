@@ -1,0 +1,11 @@
+{
+    "type": "template",
+    "name": "Education-Public_2",
+    "group": "Education-Public",
+    "screen": {
+        "width": "1920",
+        "height": "1080"
+    },
+    "version": "1.00",
+    "folderName": "Education-Public_02_landscape"
+}
