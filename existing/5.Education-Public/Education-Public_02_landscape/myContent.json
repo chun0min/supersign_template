@@ -2,7 +2,7 @@
   {
     "display_order": 1,
     "id": 0,
-    "content_size": 11191,
+    "content_size": 21854058,
     "content_type": "IMAGE",
     "width": 1920,
     "height": 1080,
@@ -45,7 +45,7 @@
   {
     "display_order": 2,
     "id": 1,
-    "content_size": 9,
+    "content_size": 17,
     "content_type": "TEXT",
     "width": 644,
     "height": 198,
@@ -95,7 +95,7 @@
   {
     "display_order": 3,
     "id": 2,    
-    "content_size": 14,
+    "content_size": 161,
     "content_type": "TEXT",
     "width": 644,
     "height": 124,    
@@ -145,7 +145,7 @@
   {
     "display_order": 4,
     "id": 3,    
-    "content_size": 14,
+    "content_size": 39,
     "content_type": "TEXT",
     "width": 800,
     "height": 36,    
@@ -195,7 +195,7 @@
   {
     "display_order": 5,
     "id": 4,    
-    "content_size": 14,
+    "content_size": 39,
     "content_type": "TEXT",
     "width": 362,
     "height":58,    

@@ -2,7 +2,7 @@
   {
     "display_order": 1,
     "id": 0,
-    "content_size": 11191,
+    "content_size": 960490,
     "content_type": "IMAGE",
     "width": 1920,
     "height": 1080,
@@ -45,7 +45,7 @@
   {
     "display_order": 2,    
     "id": 1,
-    "content_size": 982,
+    "content_size": 11034,
     "content_type": "IMAGE",
     "width": 120,
     "height": 116,    
@@ -88,7 +88,7 @@
   {
     "display_order": 3,
     "id": 2,
-    "content_size": 9,
+    "content_size": 16,
     "content_type": "TEXT",
     "width": 930,
     "height": 99,
@@ -139,7 +139,7 @@
   {
     "display_order": 4,
     "id": 3,    
-    "content_size": 14,
+    "content_size": 22,
     "content_type": "TEXT",
     "width": 456,
     "height": 99,    
@@ -190,7 +190,7 @@
   {
     "display_order": 5,
     "id": 4,    
-    "content_size": 14,
+    "content_size": 49,
     "content_type": "TEXT",
     "width": 295,
     "height": 125,    
@@ -241,7 +241,7 @@
   {
     "display_order": 6,
     "id": 5,    
-    "content_size": 14,
+    "content_size": 12,
     "content_type": "TEXT",
     "width": 240,
     "height":36,    
@@ -292,7 +292,7 @@
     {
     "display_order": 7,
     "id": 6,    
-    "content_size": 14,
+    "content_size": 38,
     "content_type": "TEXT",
     "width": 295,
     "height":79,    

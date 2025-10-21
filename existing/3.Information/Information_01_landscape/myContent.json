@@ -2,7 +2,7 @@
   {
     "display_order": 1,
     "id": 0,
-    "content_size": 11191,
+    "content_size": 48210,
     "content_type": "IMAGE",
     "width": 1920,
     "height": 1080,
@@ -45,7 +45,7 @@
   {
     "display_order": 2,    
     "id": 1,
-    "content_size": 982,
+    "content_size": 6055542,
     "content_type": "IMAGE",
     "width": 600,
     "height": 621,    
@@ -88,7 +88,7 @@
   {
     "display_order": 3,    
     "id": 2,    
-    "content_size": 1012,
+    "content_size": 2789857,
     "content_type": "IMAGE",
     "width": 720,
     "height": 377,    
@@ -131,7 +131,7 @@
   {
     "display_order": 4,
     "id": 3,    
-    "content_size": 1028,
+    "content_size": 12051041,
     "content_type": "IMAGE",
     "width": 600,    
     "height": 621,    
@@ -174,7 +174,7 @@
   {
     "display_order": 5,
     "id": 4,
-    "content_size": 9,
+    "content_size": 27,
     "content_type": "TEXT",
     "width": 483,
     "height": 277,
@@ -224,7 +224,7 @@
   {
     "display_order": 6,
     "id": 5,    
-    "content_size": 14,
+    "content_size": 192,
     "content_type": "TEXT",
     "width": 483,
     "height": 277,    
@@ -274,7 +274,7 @@
   {
     "display_order": 7,
     "id": 6,
-    "content_size": 7,
+    "content_size": 27,
     "content_type": "TEXT",
     "width": 268,
     "height": 32,   
@@ -325,7 +325,7 @@
   {
     "display_order": 8,
     "id": 7,
-    "content_size": 7,
+    "content_size": 27,
     "content_type": "TEXT",
     "width": 483,
     "height": 277,   
@@ -376,7 +376,7 @@
   {
     "display_order": 9,
     "id": 8,
-    "content_size": 7,
+    "content_size": 192,
     "content_type": "TEXT",
     "width": 483,
     "height": 277,   
@@ -426,7 +426,7 @@
   {
     "display_order": 10,
     "id": 9,
-    "content_size": 7,
+    "content_size": 27,
     "content_type": "TEXT",
     "width": 268,
     "height": 32,   
@@ -476,7 +476,7 @@
   {
     "display_order": 11,
     "id": 10,
-    "content_size": 7,
+    "content_size": 27,
     "content_type": "TEXT",
     "width": 605,
     "height": 73,   
@@ -527,7 +527,7 @@
   {
     "display_order": 12,
     "id": 11,
-    "content_size": 7,
+    "content_size": 3,
     "content_type": "TEXT",
     "width": 620,
     "height": 38,   
@@ -578,7 +578,7 @@
   {
     "display_order": 13,
     "id": 12,
-    "content_size": 7,
+    "content_size": 40,
     "content_type": "TEXT",
     "width": 620,
     "height": 38,   
@@ -628,7 +628,7 @@
   {
     "display_order": 14,
     "id": 13,
-    "content_size": 7,
+    "content_size": 3,
     "content_type": "TEXT",
     "width": 620,
     "height": 38,   
@@ -679,7 +679,7 @@
   {
     "display_order": 15,
     "id": 14,
-    "content_size": 7,
+    "content_size": 40,
     "content_type": "TEXT",
     "width": 620,
     "height": 38,   
@@ -729,7 +729,7 @@
   {
     "display_order": 16,
     "id": 15,
-    "content_size": 7,
+    "content_size": 3,
     "content_type": "TEXT",
     "width": 620,
     "height": 38,   
@@ -780,7 +780,7 @@
   {
     "display_order": 17,
     "id": 16,
-    "content_size": 7,
+    "content_size": 40,
     "content_type": "TEXT",
     "width": 620,
     "height": 38,   
@@ -830,7 +830,7 @@
   {
     "display_order": 18,
     "id": 17,
-    "content_size": 7,
+    "content_size": 3,
     "content_type": "TEXT",
     "width": 620,
     "height": 38,   
@@ -881,7 +881,7 @@
   {
     "display_order": 19,
     "id": 18,
-    "content_size": 7,
+    "content_size": 40,
     "content_type": "TEXT",
     "width": 620,
     "height": 38,   
@@ -931,7 +931,7 @@
   {
     "display_order": 20,
     "id": 19,
-    "content_size": 7,
+    "content_size": 3,
     "content_type": "TEXT",
     "width": 620,
     "height": 38,   
@@ -982,7 +982,7 @@
   {
     "display_order": 21,
     "id": 20,
-    "content_size": 7,
+    "content_size": 40,
     "content_type": "TEXT",
     "width": 620,
     "height": 38,   

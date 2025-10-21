@@ -2,7 +2,7 @@
   {
     "display_order": 1,
     "id": 0,
-    "content_size": 11191,
+    "content_size": 5422408,
     "content_type": "IMAGE",
     "width": 1920,
     "height": 1080,
@@ -45,7 +45,7 @@
   {
     "display_order": 2,    
     "id": 1,
-    "content_size": 982,
+    "content_size": 584365,
     "content_type": "IMAGE",
     "width": 1021,
     "height": 389,    
@@ -88,7 +88,7 @@
   {
     "display_order": 3,    
     "id": 2,    
-    "content_size": 1012,
+    "content_size": 4036638,
     "content_type": "IMAGE",
     "width": 257,
     "height": 171,    
@@ -131,7 +131,7 @@
   {
     "display_order": 4,
     "id": 3,    
-    "content_size": 1028,
+    "content_size": 4126006,
     "content_type": "IMAGE",
     "width": 257,    
     "height": 171,    
@@ -174,7 +174,7 @@
   {
     "display_order": 5,    
     "id": 4,    
-    "content_size": 929,
+    "content_size": 8515545,
     "content_type": "IMAGE",
     "width": 257,    
     "height": 171,    
@@ -369,7 +369,7 @@
   {
     "display_order": 9,
     "id": 8,
-    "content_size": 117,
+    "content_size": 124,
     "content_type": "TEXT",
     "width": 520,
     "height": 200,
