@@ -1,0 +1,247 @@
+[
+  {
+    "display_order": 1,
+    "id": 0,
+    "content_size": 2596724,
+    "content_type": "IMAGE",
+    "width": 1920,
+    "height": 1080,
+    "top": 0,
+    "left": 0,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/3.Information/Information_02_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/3.Information/Information_02_landscape/background.jpg",
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 2,
+    "id": 1,
+    "content_size": 92,
+    "content_type": "TEXT",
+    "width": 1920,
+    "height": 40,
+    "top": 0,
+    "left": 0,  
+    "angle": 0,
+    "text_value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut",
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_size": "18",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "41,0,154",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "display_order": 3,
+    "id": 2,    
+    "content_size": 15,
+    "content_type": "TEXT",
+    "width": 1820,
+    "height": 44,    
+    "top": 100,
+    "left": 50,
+    "angle": 0,    
+    "text_value": "Congratulations",    
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Parisienne",
+      "editor_option_text_font_size": "20",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255,255,255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Parisienne.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "display_order": 4,
+    "id": 3,
+    "content_size": 35,
+    "content_type": "TEXT",
+    "width": 900,
+    "height": 72,   
+    "top": 255,
+    "left": 510,
+    "angle": 0,
+    "text_value": "Congratulations On Your Graduation.",  
+    "font_weight": "900",  
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Rokkitt",
+      "editor_option_text_font_size": "80",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255,255,255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Rokkitt-Regular.otf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "display_order": 5,
+    "id": 4,
+    "content_size": 231,
+    "content_type": "TEXT",
+    "width": 900,
+    "height": 72,   
+    "top": 255,
+    "left": 510,
+    "angle": 0,
+    "text_value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",  
+    "font_weight": "500",  
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_size": "20",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255,255,255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1.4",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  }
+]
