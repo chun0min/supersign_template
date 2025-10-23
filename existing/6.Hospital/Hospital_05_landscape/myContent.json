@@ -1,0 +1,334 @@
+[
+  {
+    "display_order": 1,
+    "id": 0,
+    "content_size": 3139743,
+    "content_type": "IMAGE",
+    "width": 1920,
+    "height": 1080,
+    "top": 0,
+    "left": 0,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_05_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_05_landscape/background.svg",
+    "scene_no": 1,
+    "media_name": "background.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 2,    
+    "id": 1,
+    "content_size": 3154378,
+    "content_type": "IMAGE",
+    "width": 1017,
+    "height": 954,    
+    "top": 0,
+    "left": 903,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_05_landscape/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_05_landscape/img_01.svg",
+    "scene_no": 1,
+    "media_name": "img_01.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 3,    
+    "id": 2,    
+    "content_size": 8442,
+    "content_type": "IMAGE",
+    "width": 116,
+    "height": 116,    
+    "top": 884,
+    "left": 98,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_05_landscape/img_02.svg",
+    "media_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_05_landscape/img_02.svg",
+    "scene_no": 1,
+    "media_name": "img_02.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 4,
+    "id": 3,
+    "content_size": 9,
+    "content_type": "TEXT",
+    "width": 727,
+    "height": 59,
+    "top": 86,
+    "left": 96,  
+    "angle": 0,
+    "text_value": "Your Logo",
+    "scene_no": 1,
+    "font-weight": "Bold",
+    "option_text": {
+      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_size": "42",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 255, 255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -1,
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "display_order": 5,
+    "id": 4,
+    "content_size": 25,
+    "content_type": "TEXT",
+    "width": 727,
+    "height": 240,
+    "top": 181,
+    "left": 97,  
+    "angle": 0,
+    "text_value": "Health and\nWellness Tips",
+    "scene_no": 1,
+    "font-weight": "Bold",
+    "option_text": {
+      "editor_option_text_font_name": "EB Garamond",
+      "editor_option_text_font_size": "108",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255,255,255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.2",
+      "editor_option_text_spacing": -1,
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "display_order": 6,
+    "id": 5,
+    "content_size": 316,
+    "content_type": "TEXT",
+    "width": 546,
+    "height": 261,
+    "top": 462,
+    "left": 97,  
+    "angle": 0,
+    "text_value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor risus id arcu lobortis, sed ac- cumsan ex bibendum. Maecenas sed bibendum nisl, sit amet blandit nibh. Etiam fringilla dui risus, nec tempor sem auctor vel. Vivamus id ligula orci. Aenean nibh Massa, Molestie a bibendum vitae, vulputate eget.",
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_size": "23",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255,255,255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.6",
+      "editor_option_text_spacing": -1,
+      "editor_option_text_font_file": "Inter.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "display_order": 7,
+    "id": 6,
+    "content_size": 37,
+    "content_type": "TEXT",
+    "width": 250,
+    "height": 67,
+    "top": 940,
+    "left": 236,  
+    "angle": 0,
+    "text_value": "Hospital Briefing\n2025 Health Report",
+    "scene_no": 1,
+    "font-weight": "Bold",
+    "option_text": {
+      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_size": "26",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 255, 255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.2",
+      "editor_option_text_spacing": -1,
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  }
+]

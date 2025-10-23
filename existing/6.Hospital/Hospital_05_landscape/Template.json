@@ -1,0 +1,11 @@
+{
+    "type": "template",
+    "name": "Hospital_5",
+    "group": "Hospital",
+    "screen": {
+        "width": "1920",
+        "height": "1080"
+    },
+    "version": "1.00",
+    "folderName": "Hospital_05_landscape"
+}
