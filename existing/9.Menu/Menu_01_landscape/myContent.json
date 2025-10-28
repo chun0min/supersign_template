@@ -147,23 +147,15 @@
   {
     "id": 3,
     "display_order": 4,
-    "content_type": "T_MENU-NEW",
+    "content_type": "T_MENU",
     "width": 909,
     "height": 800,
     "top": 240,
     "left": 40,
     "angle": 0,
     "scene_no": 1,
-    "option_menu_table": {
-      "layout_type": "V",
-      "img_w": 0,
-      "name_w": 70,
-      "price_w": 30,
-      "dash": {
-        "position": "",
-        "style": ""
-      }
-    },
+    "option_menu_version": "v2",
+    "widget_class": "r5_cocktails",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -324,23 +316,15 @@
   {
     "id": 4,
     "display_order": 5,
-    "content_type": "T_MENU-NEW",
+    "content_type": "T_MENU",
     "width": 909,
     "height": 800,
     "top": 240,
     "right": 40,
     "angle": 0,
     "scene_no": 1,
-    "option_menu_table": {
-      "layout_type": "V",
-      "img_w": 0,
-      "name_w": 70,
-      "price_w": 30,
-      "dash": {
-        "position": "",
-        "style": ""
-      }
-    },
+    "option_menu_version": "v2",
+    "widget_class": "r5_cocktails",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
