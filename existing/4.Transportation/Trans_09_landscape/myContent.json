@@ -1,0 +1,334 @@
+[
+  {
+    "display_order": 1,
+    "id": 0,
+    "content_size": 365,
+    "content_type": "IMAGE",
+    "width": 1920,
+    "height": 1080,
+    "top": 0,
+    "left": 0,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/4.Transportation/Trans_09_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/4.Transportation/Trans_09_landscape/background.svg",
+    "scene_no": 1,
+    "media_name": "background.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 2,    
+    "id": 1,
+    "content_size": 692,
+    "content_type": "IMAGE",
+    "width": 132,
+    "height": 132,    
+    "top": 61,
+    "left": 232,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/4.Transportation/Trans_09_landscape/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/4.Transportation/Trans_09_landscape/img_01.svg",
+    "scene_no": 1,
+    "media_name": "img_01.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 3,    
+    "id": 2,
+    "content_size": 155,
+    "content_type": "IMAGE",
+    "width": 374,
+    "height": 434,    
+    "top": 443,
+    "left": 1338,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/4.Transportation/Trans_09_landscape/img_02.svg",
+    "media_url": "SUPERSIGN/Template/existing/4.Transportation/Trans_09_landscape/img_02.svg",
+    "scene_no": 1,
+    "media_name": "img_02.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 4,
+    "id": 3,
+    "content_size": 14,
+    "content_type": "TEXT",
+    "width": 1258,
+    "height": 105,   
+    "top": 75,
+    "left": 415,
+    "angle": 0,
+    "text_value": "SERVICE UPDATE",   
+    "scene_no": 1,
+    "font-weight": "bold",
+    "option_text": {
+      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_size": "144",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "43, 50, 69",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Inter-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "display_order": 5,
+    "id": 4,
+    "content_size": 25,
+    "content_type": "TEXT",
+    "width": 1030,
+    "height": 216,   
+    "top": 368,
+    "left": 106,
+    "angle": 0,
+    "text_value": "temporary\nBus Disruption",   
+    "scene_no": 1,
+    "font-weight": "bold",
+    "option_text": {
+      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_size": "120",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 199, 56",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.2",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Inter-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "display_order": 6,
+    "id": 5,
+    "content_size": 82,
+    "content_type": "TEXT",
+    "width": 886,
+    "height": 163,   
+    "top": 649,
+    "left": 106,
+    "angle": 0,
+    "text_value": "Due to repairs, all bus transit will be paused from September 29th to November 1st",   
+    "scene_no": 1,
+    "font-weight": "bold",
+    "option_text": {
+      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_size": "51",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 255, 255",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.2",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Inter-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "display_order": 7,
+    "id": 6,
+    "content_size": 47,
+    "content_type": "TEXT",
+    "width": 723,
+    "height": 100,   
+    "top": 875,
+    "left": 106,
+    "angle": 0,
+    "text_value": "Check for updates at our site:\nwww.website.com",   
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_size": "52",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 255, 255",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.4",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Inter-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  }
+]
