@@ -188,7 +188,7 @@
       "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "38",
       "editor_option_text_style_bold": true,
-      "editor_option_text_style_italic": true,
+      "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "53, 53, 53",
