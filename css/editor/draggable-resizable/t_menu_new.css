@@ -88,8 +88,9 @@
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 2fr;
 }
-.menuTypeGroup .type-03 .itemGrid-A {
+.menuTypeGroup .type-03 .itemGrid-C {
   grid-column: 1 / span 2;
+	grid-row: 2 / span 2; 
 }
 
 /* 이미지 강조 TYPE-04 */
@@ -97,9 +98,8 @@
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 2fr;
 }
-.menuTypeGroup .type-04 .itemGrid-C {
+.menuTypeGroup .type-04 .itemGrid-A {
   grid-column: 1 / span 2;
-	grid-row: 2 / span 2; 
 }
 
 /* 이미지 강조 TYPE-05 */
