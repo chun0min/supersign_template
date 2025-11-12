@@ -1,0 +1,86 @@
+﻿<div id="editor" class="col-xs-12 canvas-background" style="background-image: url('background.svg');width:720px;height:1280px;background-size:720px 1280px;">
+<!-- pic area -->
+	<div class="ui-widget-content ui-draggable ui-draggable-handle" id="canvas-item-01" style="width:588px; height:764px; left:69px; top:236px;">
+		<img id="component_content" src="img_01.svg">
+	</div>
+	<div class="ui-widget-content ui-draggable ui-draggable-handle" id="canvas-item-02" style="width:410px; height:76px; left:158px; top:845px;">
+		<img id="component_content" src="img_02.svg">
+	</div>
+<!-- text area -->
+	<div class="ui-widget-content ui-draggable ui-draggable-handle ui-widget-text-content" id="canvas-item-03" style="width:449px; height:242px; left:139px; top:316px;">
+		<div id="component_content" style="width:449px; height:242px;">
+          <p style="text-align:center;">
+              <span style="font-family: 'Lobster';
+              font-size: 152px;
+			  font-weight: 400;
+              color: rgba(255, 255, 255, 1);
+			  line-height: 1;
+			  letter-spacing: 1px;
+              text-transform:capitalize;">Sweet<br />Bakery</span></p>
+		</div>
+	</div>
+	<div class="ui-widget-content ui-draggable ui-draggable-handle ui-widget-text-content" id="canvas-item-04" style="width:450px; height:175px; left:138px; top:617px;">
+		<div id="component_content" style="width:450px; height:175px;">
+          <p style="text-align:center;">
+              <span style="font-family: 'Poppins';
+              font-size: 20px;
+			  font-weight: 400;
+              color: rgba(255, 255, 255, 1);
+			  line-height: 1.6;
+			  letter-spacing: 1px;
+              text-transform:none;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</span></p>
+		</div>
+	</div>
+	<div class="ui-widget-content ui-draggable ui-draggable-handle ui-widget-text-content" id="canvas-item-05" style="width:247px; height:35px; left:240px; top:866px;">
+		<div id="component_content" style="width:247px; height:35px;">
+          <p style="text-align:center;">
+              <span style="font-family: 'Poppins';
+              font-size: 28px;
+			  font-weight: 600;
+              color: rgba(0, 0, 0, 1);
+			  line-height: 1.4;
+			  letter-spacing: 1px;
+              text-transform:none;">www.bakery.com</span></p>
+		</div>
+	</div>
+</div>
+<!-- 셋트에 내장된 CSS 정의 -->
+<style type="text/css">
+
+	div {	
+	position: relative;
+	}
+	
+	p {margin:0; padding:0;}
+	
+	.ui-widget-content {
+	position:absolute;
+	cursor:-webkit-grab;
+	width: 200px;
+	height: 120px;
+	padding: 0px;
+	vertical-align: middle;
+	}
+
+	.ui-widget-content:active{
+	cursor:move;
+	}
+
+	.ui-widget-text-content {
+	cursor:-webkit-grab;
+	width: 330px;
+	height: 300px;
+	padding: 1px;
+	vertical-align: middle;
+	}
+
+	.ui-widget-text-content:active{
+	cursor:move;
+	}
+	
+	* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+	}
+</style>
