@@ -1,0 +1,11 @@
+{
+    "type": "template",
+    "name": "Promotion_2",
+    "group": "Promotion",
+    "screen": {
+        "width": "720",
+        "height": "1280"
+    },
+    "version": "1.00",
+    "folderName": "Promotion_02_portrait"
+}
