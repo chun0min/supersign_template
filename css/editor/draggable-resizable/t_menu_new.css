@@ -14,7 +14,7 @@
   width: 100%;
 }
 .menuTypeGroup .image-cell img {
-  width: 100%; 
+  width: 100%;
   /* height: 100%;  */
   object-fit: cover;
 }
@@ -28,11 +28,11 @@
 }
 .menuTypeGroup .kcal_option.kcal_right {
   flex-direction: row;
-  align-items: flex-end
+  align-items: flex-end;
 }
 .menuTypeGroup .kcal_option.kcal_down {
   flex-direction: column;
-  align-items: flex-start
+  align-items: flex-start;
 }
 .menuTypeGroup .size_option.size_up {
   flex-direction: column;
@@ -61,7 +61,6 @@
   justify-content: flex-end;
 }
 
-
 /* 이미지 강조 TYPE-01 */
 .menuTypeGroup .type-01 {
   grid-template-columns: 1fr 1fr;
@@ -69,7 +68,7 @@
   --col2: 50;
 }
 .menuTypeGroup .type-01 .itemGrid-A {
-	grid-row: span 2;
+  grid-row: span 2;
 }
 
 /* 이미지 강조 TYPE-02 */
@@ -80,7 +79,7 @@
   --col2: 50;
 }
 .menuTypeGroup .type-02 .itemGrid-B {
-	grid-row: span 2;
+  grid-row: span 2;
 }
 
 /* 이미지 강조 TYPE-03 */
@@ -90,7 +89,7 @@
 }
 .menuTypeGroup .type-03 .itemGrid-C {
   grid-column: 1 / span 2;
-	grid-row: 2 / span 2; 
+  grid-row: 2 / span 2;
 }
 
 /* 이미지 강조 TYPE-04 */
@@ -105,4 +104,15 @@
 /* 이미지 강조 TYPE-05 */
 .menuTypeGroup .type-05 {
   grid-template-columns: none !important;
+}
+
+/*텍스트 가운데 정렬*/
+.menuTypeGroup .menuTitle.text_center,
+.menuTypeGroup .menuExplain.text_center,
+.menuTypeGroup .menuAllegy.text_center {
+  text-align: center !important;
+}
+
+.menuTypeGroup .menuOption.text_center {
+  justify-content: center;
 }
