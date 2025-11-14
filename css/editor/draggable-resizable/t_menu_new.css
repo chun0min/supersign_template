@@ -116,3 +116,11 @@
 .menuTypeGroup .menuOption.text_center {
   justify-content: center;
 }
+
+.menuTypeGroup .menuOption.text_center .kcal_option {
+  align-items: center;
+}
+
+.menuTypeGroup .menuOption.text_center .kcal_option .kcal-right {
+  margin-left: 0 !important;
+}
