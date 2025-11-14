@@ -1,0 +1,940 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1080,
+    "height": 1920,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/background.jpg",
+    "content_size": 459079,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 81.5,
+    "left": 233.5,
+    "width": 613,
+    "height": 136,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_01.svg",
+    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_01.svg",
+    "content_size": 5602,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_01.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "IMAGE",
+    "top": 245.5,
+    "left": 365.5,
+    "width": 11.36,
+    "height": 11.36,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "content_size": 204,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "IMAGE",
+    "top": 245.5,
+    "left": 456.46,
+    "width": 11.36,
+    "height": 11.36,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "content_size": 204,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "IMAGE",
+    "top": 245.5,
+    "left": 568.46,
+    "width": 11.36,
+    "height": 11.36,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "content_size": 204,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "IMAGE",
+    "top": 245.5,
+    "left": 695.46,
+    "width": 11.36,
+    "height": 11.36,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "content_size": 204,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "TEXT",
+    "top": 316.5,
+    "left": 106.5,
+    "width": 465,
+    "height": 96,
+    "angle": 0,
+    "content_size": 12,
+    "text_value": "Dessert Menu",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "PirataOne-Regular",
+      "editor_option_text_font_size": "96",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "34,48,123",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "PirataOne-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "TEXT",
+    "top": 100.5,
+    "left": 316.5,
+    "width": 465,
+    "height": 96,
+    "angle": 0,
+    "content_size": 12,
+    "text_value": "Dessert Menu",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "PirataOne-Regular",
+      "editor_option_text_font_size": "96",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255,255,255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "PirataOne-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 8,
+    "display_order": 9,
+    "content_type": "TEXT",
+    "top": 218.5,
+    "left": 278.5,
+    "width": 120,
+    "height": 68,
+    "angle": 0,
+    "content_size": 6,
+    "text_value": "COFFEE",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Helvetica Neue",
+      "editor_option_text_font_size": "26",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "79,95,168",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Helvetica neue.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 9,
+    "display_order": 10,
+    "content_type": "TEXT",
+    "top": 218.5,
+    "left": 392.5,
+    "width": 120,
+    "height": 68,
+    "angle": 0,
+    "content_size": 4,
+    "text_value": "CAKE",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Helvetica Neue",
+      "editor_option_text_font_size": "26",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "79,95,168",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Helvetica Neue.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 10,
+    "display_order": 11,
+    "content_type": "TEXT",
+    "top": 218.5,
+    "left": 484,
+    "width": 120,
+    "height": 68,
+    "angle": 0,
+    "content_size": 6,
+    "text_value": "BISTRO",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Helvetica Neue",
+      "editor_option_text_font_size": "26",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "79,95,168",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Helvetica Neue.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 11,
+    "display_order": 12,
+    "content_type": "TEXT",
+    "top": 218.5,
+    "left": 596,
+    "width": 120,
+    "height": 68,
+    "angle": 0,
+    "content_size": 7,
+    "text_value": "GELLATO",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Helvetica Neue",
+      "editor_option_text_font_size": "26",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "79,95,168",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Helvetica Neue.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 12,
+    "display_order": 13,
+    "content_type": "TEXT",
+    "top": 218.5,
+    "left": 723,
+    "width": 120,
+    "height": 68,
+    "angle": 0,
+    "content_size": 6,
+    "text_value": "BRUNCH",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Helvetica Neue",
+      "editor_option_text_font_size": "26",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "79,95,168",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Helvetica Neue.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 13,
+    "display_order": 14,
+    "content_type": "TEXT",
+    "top": 423,
+    "left": 451,
+    "width": 156,
+    "height": 71,
+    "angle": 0,
+    "content_size": 4,
+    "text_value": "Cake",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Playball",
+      "editor_option_text_font_size": "68",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "237,26,33",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Playball.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 14,
+    "display_order": 15,
+    "content_type": "T_MENU",
+    "width": 360,
+    "height": 1300,
+    "top": 573.02,
+    "left": 164.41,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_Menu_04_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "2",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Strawberry Shortcake",
+            "description": "Strawberry, Milk, \nEggs, Gourmet butter",
+            "price": [
+              "7,0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "Chocolate Gateau",
+            "description": "Strawberry, Milk, \nEggs, Gourmet butter",
+            "price": [
+              "8,5"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2
+          }
+        ],
+        "image": [
+          {
+            "content_name" : "img_03.svg",
+            "id" : "3",
+            "img_url" : "img_03.svg",
+            "menu_id" : "3",
+            "size" : 19336,
+            "type" : "Image"
+          },
+          {
+            "content_name" : "img_05.svg",
+            "id" : "5",
+            "img_url" : "img_05.svg",
+            "menu_id" : "5",
+            "size" : 21606,
+            "type" : "Image"
+          }
+        ]
+      },
+      "menu_option": [
+        {
+          "text_type": "Menu Name",
+          "font": "Bodoni 72",
+          "text_size": "40",
+          "style_bold": true,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "237,26,33",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "center"
+        },
+        {
+          "text_type": "Description",
+          "font": "Bodoni 72",
+          "text_size": "28",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "77,77,77",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "center"
+        },
+        {
+          "text_type": "Price",
+          "font": "Bodoni 72",
+          "text_size": "28",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "77,77,77",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "center"
+        },
+        {
+          "text_type": "Calories",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "100,100,100",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "center"
+        },
+        {
+          "text_type": "Allergies",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "100,100,100",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "center"
+        }
+      ],
+      "column": "1"
+    }
+  },
+  {
+    "id": 15,
+    "display_order": 16,
+    "content_type": "T_MENU",
+    "width": 360,
+    "height": 1300,
+    "top": 573.02,
+    "left": 555.58,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_Menu_04_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "2",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Tiramisu Cake",
+            "description": "Strawberry, Milk, \nEggs, Gourmet butter",
+            "price": [
+              "8,0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "Chocolate Gateau",
+            "description": "Strawberry, Milk, \nEggs, Gourmet butter",
+            "price": [
+              "8,5"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2
+          }
+        ],
+        "image": [
+          {
+            "content_name" : "img_04.svg",
+            "id" : "4",
+            "img_url" : "img_04.svg",
+            "menu_id" : "4",
+            "size" : 23726,
+            "type" : "Image"
+          },
+          {
+            "content_name" : "img_06.svg",
+            "id" : "6",
+            "img_url" : "img_06.svg",
+            "menu_id" : "6",
+            "size" : 19446,
+            "type" : "Image"
+          }
+        ]
+      },
+      "menu_option": [
+        {
+          "text_type": "Menu Name",
+          "font": "Bodoni 72",
+          "text_size": "40",
+          "style_bold": true,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "237,26,33",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "center"
+        },
+        {
+          "text_type": "Description",
+          "font": "Bodoni 72",
+          "text_size": "28",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "77,77,77",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "center"
+        },
+        {
+          "text_type": "Price",
+          "font": "Bodoni 72",
+          "text_size": "28",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "77,77,77",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "center"
+        },
+        {
+          "text_type": "Calories",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "100,100,100",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "center"
+        },
+        {
+          "text_type": "Allergies",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "100,100,100",
+          "back_color": "255,255,255",
+          "opacity": 0,
+          "align": "center"
+        }
+      ],
+      "column": "1"
+    }
+  }
+]

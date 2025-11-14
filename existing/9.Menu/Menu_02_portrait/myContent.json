@@ -1,0 +1,401 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1080,
+    "height": 1920,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_02_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_02_portrait/background.jpg",
+    "content_size": 227430,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_02_portrait/background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "TEXT",
+    "top": 61,
+    "left": 86,
+    "width": 468,
+    "height": 108,
+    "angle": 0,
+    "content_size": 9,
+    "text_value": "COCKTAILS",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Belleza-Regular",
+      "editor_option_text_font_size": "94",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "63, 85, 44",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -0.5,
+      "editor_option_text_font_file": "Belleza-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "TEXT",
+    "top": 93,
+    "left": 607,
+    "width": 450,
+    "height": 43,
+    "angle": 0,
+    "content_size": 23,
+    "text_value": "· The Great Cocktails ·",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Belleza-Regular",
+      "editor_option_text_font_size": "42",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "63, 85, 44",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -0.5,
+      "editor_option_text_font_file": "Belleza-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "T_MENU",
+    "width": 909,
+    "height": 1600,
+    "top": 180,
+    "left": 85.35,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_02_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "8",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "PORT COBBLER",
+            "description": "VODKA, ORANGE JUICE",
+            "price": [
+              "11,000"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "VODKA MARTINI",
+            "description": "VODKA, ORANGE JUICE",
+            "price": [
+              "11,000"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2
+          },
+          {
+            "menu_name": "TEQUILA SUNRISE",
+            "description": "VODKA, ORANGE JUICE",
+            "price": [
+              "11,000"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3
+          },
+          {
+            "menu_name": "GODFATHER",
+            "description": "VODKA, ORANGE JUICE",
+            "price": [
+              "11,000"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4
+          },
+          {
+            "menu_name": "PORT COBBLER",
+            "description": "VODKA, ORANGE JUICE",
+            "price": [
+              "11,000"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 5
+          },
+          {
+            "menu_name": "VODKA MARTINI",
+            "description": "VODKA, ORANGE JUICE",
+            "price": [
+              "11,000"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 6
+          },
+          {
+            "menu_name": "TEQUILA SUNRISE",
+            "description": "VODKA, ORANGE JUICE",
+            "price": [
+              "11,000"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 7
+          },
+          {
+            "menu_name": "GODFATHER",
+            "description": "VODKA, ORANGE JUICE",
+            "price": [
+              "11,000"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 8
+          }
+        ],
+        "image": [
+          {
+            "content_name" : "img_01.svg",
+            "id" : "1",
+            "img_url" : "img_01.svg",
+            "menu_id" : "1",
+            "size" : 5444,
+            "type" : "Image"
+          },
+          {
+            "content_name" : "img_02.svg",
+            "id" : "2",
+            "img_url" : "img_02.svg",
+            "menu_id" : "2",
+            "size" : 8059,
+            "type" : "Image"
+          },
+          {
+            "content_name" : "img_03.svg",
+            "id" : "3",
+            "img_url" : "img_03.svg",
+            "menu_id" : "3",
+            "size" : 8213,
+            "type" : "Image"
+          },
+          {
+            "content_name" : "img_04.svg",
+            "id" : "4",
+            "img_url" : "img_04.svg",
+            "menu_id" : "4",
+            "size" : 7735,
+            "type" : "Image"
+          },
+          {
+            "content_name" : "img_05.svg",
+            "id" : "5",
+            "img_url" : "img_05.svg",
+            "menu_id" : "5",
+            "size" : 11616,
+            "type" : "Image"
+          },
+          {
+            "content_name" : "img_06.svg",
+            "id" : "6",
+            "img_url" : "img_06.svg",
+            "menu_id" : "6",
+            "size" : 4961,
+            "type" : "Image"
+          },
+          {
+            "content_name" : "img_07.svg",
+            "id" : "7",
+            "img_url" : "img_07.svg",
+            "menu_id" : "7",
+            "size" : 7750,
+            "type" : "Image"
+          },
+          {
+            "content_name" : "img_08.svg",
+            "id" : "8",
+            "img_url" : "img_08.svg",
+            "menu_id" : "8",
+            "size" : 6149,
+            "type" : "Image"
+          }
+        ]
+      },
+      "menu_option": [
+        {
+          "text_type": "Menu Name",
+          "font": "Belleza",
+          "text_size": "43",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "63, 85, 44",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Description",
+          "font": "Helvetica Neue",
+          "text_size": "22",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "63, 85, 44",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Price",
+          "font": "Helvetica Neue",
+          "text_size": "22",
+          "style_bold": true,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "63, 85, 44",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Calories",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": true,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "100, 100, 100",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Allergies",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": true,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "100, 100, 100",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        }
+      ],
+      "column": "1"
+    }
+  }
+]

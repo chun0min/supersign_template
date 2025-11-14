@@ -84,3 +84,35 @@
   width: 150px;
   height: 150px;
 }
+
+.r5_menu_01_portrait .itemGrid-B .menuTypeGroup .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_01_portrait .itemGrid-C .menuInfo .menuExplain {
+  margin-top: 5px;
+}
+
+.r5_menu_01_portrait .itemGrid-C .menuInfo .menuAllegy {
+  margin-top: 5px;
+}
+
+.r5_menu_01_portrait .itemGrid-B .menuTypeGroup .menuOption .kcal_option {
+  align-items: flex-end;
+}
+
+.r5_menu_03_portrait .itemGrid-B .menuTypeGroup .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_03_portrait .itemGrid-B .menuTypeGroup .menuOption .kcal_option {
+  align-items: flex-end;
+}
+
+.r5_menu_03_portrait .itemGrid-C .menuTypeGroup .menuOption {
+  justify-content: center;
+}
+
+.r5_menu_03_portrait .itemGrid-C .menuTypeGroup .kcal_option {
+  align-items: center;
+}
