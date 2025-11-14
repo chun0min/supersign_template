@@ -1,0 +1,11 @@
+{
+    "type": "template",
+    "name": "Information_2",
+    "group": "Information",
+    "screen": {
+        "width": "720",
+        "height": "1280"
+    },
+    "version": "1.00",
+    "folderName": "Information_02_portrait"
+}

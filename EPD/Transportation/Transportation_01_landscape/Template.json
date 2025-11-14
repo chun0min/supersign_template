@@ -1,0 +1,11 @@
+{
+    "type": "template",
+    "name": "Transportation_1",
+    "group": "Transportation",
+    "screen": {
+        "width": "1280",
+        "height": "720"
+    },
+    "version": "1.00",
+    "folderName": "Transportation_01_landscape"
+}

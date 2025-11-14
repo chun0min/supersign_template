@@ -1,0 +1,11 @@
+{
+    "type": "template",
+    "name": "Transportation_2",
+    "group": "Transportation",
+    "screen": {
+        "width": "720",
+        "height": "1280"
+    },
+    "version": "1.00",
+    "folderName": "Transportation_02_portrait"
+}
