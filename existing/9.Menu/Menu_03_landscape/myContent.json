@@ -47,7 +47,7 @@
     "display_order": 2,
     "content_type": "T_MENU",
     "width": 1618,
-    "height": 380,
+    "height": 162,
     "top": 307,
     "left": 152,
     "angle": 0,
@@ -91,7 +91,97 @@
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1
-          },
+          }
+        ]
+      },
+      "menu_option": [
+        {
+          "text_type": "Menu Name",
+          "font": "Helvetica Neue",
+          "text_size": "30",
+          "style_bold": 700,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "56, 56, 56",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Description",
+          "font": "Helvetica Neue",
+          "text_size": "22",
+          "style_bold": 500,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "56, 56, 56",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Price",
+          "font": "Helvetica Neue",
+          "text_size": "30",
+          "style_bold": 700,
+          "style_italic": true,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "77, 77, 77",
+          "back_color": "",
+          "opacity": 0,
+          "align": "right"
+        },
+        {
+          "text_type": "Calories",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "100, 100, 100",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Allergies",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "100, 100, 100",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        }
+      ],
+      "column": "1"
+    }
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "T_MENU",
+    "width": 1618,
+    "height": 380,
+    "top": 513,
+    "left": 152,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r1_menu_03_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
           {
             "menu_name": "MENU TITLE",
             "description": "Mixed greens, tomatoes,goat cheese, mushrooms",
