@@ -112,16 +112,16 @@
   margin-bottom: 21px;
 }
 
-.r5_menu_01_portrait .menuTypeGroup .menuItem.type-03 {
+.r5_menu_01_portrait .menu .menuItem.type-03 {
   grid-template-columns: 1fr 120px;
   margin-top: 9.45px;
 }
 
-.r5_menu_01_portrait .menuTypeGroup .menuItem.type-03:first-child {
+.r5_menu_01_portrait .menu .menuItem.type-03:first-child {
   margin-top: 0;
 }
 
-.r5_menu_01_portrait .menuTypeGroup .menuItem.type-05 + .menuItem {
+.r5_menu_01_portrait .menu .menuItem.type-05 + .menuItem {
   margin-top: 0;
 }
 
@@ -133,11 +133,11 @@
   align-items: flex-end;
 }
 
-.r5_menu_01_portrait .itemGrid-C .menuInfo .menuExplain {
+.r5_menu_01_portrait .itemGrid-C .description .menuExplain {
   margin-top: 5px;
 }
 
-.r5_menu_01_portrait .itemGrid-C .menuInfo .menuAllegy {
+.r5_menu_01_portrait .itemGrid-C .description .allergy {
   margin-top: 5px;
 }
 
@@ -145,7 +145,7 @@
   margin-top: 15.14px;
 }
 
-.r5_menu_02_portrait .itemGrid-B .menuInfo {
+.r5_menu_02_portrait .itemGrid-B .description {
   margin-top: 8px;
 }
 
@@ -153,7 +153,7 @@
   margin-left: 8px;
 }
 
-.r5_menu_03_portrait .menuTypeGroup .menuItem.type-03 {
+.r5_menu_03_portrait .menu .menuItem.type-03 {
   grid-template-columns: 1fr 120px;
 }
 
@@ -181,11 +181,11 @@
   margin-top: 5.69px;
 }
 
-.r5_menu_03_portrait .itemGrid-C .menuAllegy {
+.r5_menu_03_portrait .itemGrid-C .allergy {
   margin-top: 7.56px;
 }
 
-.r5_menu_04_portrait .itemGrid-B .menuTitle {
+.r5_menu_04_portrait .itemGrid-B .item-name {
   margin-top: 26px;
 }
 
@@ -193,7 +193,7 @@
   margin-top: 21px;
 }
 
-.r5_menu_04_portrait .itemGrid-B .menuAllegy {
+.r5_menu_04_portrait .itemGrid-B .allergy {
   margin-top: 4.51px;
 }
 
@@ -213,16 +213,16 @@
   align-items: center;
 }
 
-.r5_menu_05_portrait .menuTypeGroup .itemGrid.type-03 {
+.r5_menu_05_portrait .menu .itemGrid.type-03 {
   grid-template-columns: 1fr 100px;
   margin-top: 7.5px;
 }
 
-.r5_menu_05_portrait .menuTypeGroup .itemGrid.type-03:first-child {
+.r5_menu_05_portrait .menu .itemGrid.type-03:first-child {
   margin-top: 0;
 }
 
-.r5_menu_05_portrait .itemGrid-C .menuAllegy {
+.r5_menu_05_portrait .itemGrid-C .allergy {
   margin-top: 7px;
 }
 
@@ -234,16 +234,16 @@
   align-items: flex-end;
 }
 
-.r5_menu_06_portrait .menuTypeGroup .menuItem.type-03 {
+.r5_menu_06_portrait .menu .menuItem.type-03 {
   grid-template-columns: 1fr 150px;
   margin-top: 7.33px;
 }
 
-.r5_menu_06_portrait .menuTypeGroup .menuItem.type-03:first-child {
+.r5_menu_06_portrait .menu .menuItem.type-03:first-child {
   margin-top: 0;
 }
 
-.r5_menu_06_portrait .itemGrid-C .menuAllegy {
+.r5_menu_06_portrait .itemGrid-C .allergy {
   margin-top: 4px;
 }
 
@@ -259,13 +259,13 @@
   margin: 9.2px 0 0 10px;
 }
 
-.r5_menu_07_portrait .menuTypeGroup .menuItem.type-03 {
+.r5_menu_07_portrait .menu .menuItem.type-03 {
   grid-template-columns: 1fr 100px;
   margin-top: 29.29px;
   padding-top: 14px;
 }
 
-.r5_menu_07_portrait .menuTypeGroup .menuItem.type-03:first-child {
+.r5_menu_07_portrait .menu .menuItem.type-03:first-child {
   margin-top: 0;
 }
 
@@ -281,17 +281,17 @@
   margin-top: 9px;
 }
 
-.r5_menu_07_portrait .itemGrid-C .menuAllegy {
+.r5_menu_07_portrait .itemGrid-C .allergy {
   margin-top: 4px;
 }
 
-.r5_menu_08_portrait .menuTypeGroup .menuItem.type-03 {
+.r5_menu_08_portrait .menu .menuItem.type-03 {
   grid-template-columns: 1fr 150px;
   margin-top: 20px;
   padding-top: 14px;
 }
 
-.r5_menu_08_portrait .menuTypeGroup .menuItem.type-03:first-child {
+.r5_menu_08_portrait .menu .menuItem.type-03:first-child {
   margin-top: 0;
 }
 
@@ -303,16 +303,16 @@
   align-items: flex-end;
 }
 
-.r5_menu_41_landscape .type-05 .image-cell {
+.r5_menu_41_landscape .type-05 .item-image {
   margin: 22px auto 0 auto;
 }
 
-.r5_menu_41_landscape .type-05 .menuTitle {
+.r5_menu_41_landscape .type-05 .item-name {
   margin-bottom: 12px;
   margin-top: -28px;
 }
 
-.r5_menu_41_landscape .menuTypeGroup {
+.r5_menu_41_landscape .menu {
   display: flex;
   gap: 18px;
 }
@@ -321,7 +321,7 @@
   border: 1px solid #000;
 }
 
-.r5_menu_41_landscape #editorItem6 .menuTypeGroup {
+.r5_menu_41_landscape #editorItem6 .menu {
   width: 100%;
   height: 100%;
   display: block;
@@ -333,7 +333,7 @@
   align-items: center;
 }
 
-.r5_menu_41_landscape #editorItem6 .menuInfo {
+.r5_menu_41_landscape #editorItem6 .description {
   width: 91px;
 }
 
@@ -345,7 +345,7 @@
   margin-top: 118px;
 }
 
-.r5_menu_41_landscape #editorItem6 .type-01 .menuTitle{
+.r5_menu_41_landscape #editorItem6 .type-01 .item-name{
   margin-top: 15px;
 }
 
