@@ -85,15 +85,30 @@
   height: 150px;
 }
 
-.r5_menu_02_landscape .type-05 .image-cell {
+.r5_menu_02_landscape.container {
+  display: flex; 
+  flex-direction: row;
+  gap: 58px !important;
+}
+
+/* image-cell */
+.r5_menu_02_landscape .menu .item-image {
   margin: 0 auto;
 }
 
-.r5_menu_02_landscape .type-05 .menuTitle {
+/* menuTitle */
+.r5_menu_02_landscape .menu .item-name {
   margin-bottom: 21px;
+  letter-spacing: -1px;
 }
 
-.r5_menu_02_landscape .type-05 .menuAllegy {
+/* menuAllegy */
+.r5_menu_02_landscape .menu .description {
+  /* margin-bottom: 20px; */
+}
+
+/* menuAllegy */
+.r5_menu_02_landscape .menu .allergy {
   margin-bottom: 21px;
 }
 
