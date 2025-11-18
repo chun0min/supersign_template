@@ -7,13 +7,13 @@
   transition: 0.5s;
 }
 
-.menuTypeGroup .menuTitle {
+.menuTypeGroup .item-name {
   width: 100%;
 }
-.menuTypeGroup .image-cell {
+.menuTypeGroup .item-image {
   width: 100%;
 }
-.menuTypeGroup .image-cell img {
+.menuTypeGroup .item-image img {
   width: 100%;
   /* height: 100%;  */
   object-fit: cover;
@@ -111,9 +111,9 @@
 }
 
 /*텍스트 가운데 정렬*/
-.menuTypeGroup .menuTitle.text_center,
+.menuTypeGroup .item-name.text_center,
 .menuTypeGroup .menuExplain.text_center,
-.menuTypeGroup .menuAllegy.text_center {
+.menuTypeGroup .allergy.text_center {
   text-align: center !important;
 }
 
