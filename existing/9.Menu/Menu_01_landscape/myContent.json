@@ -320,8 +320,7 @@
         ]
       }
     },
-    "name": "",
-    "left": 962
+    "name": ""
   },
   {
     "id": 4,
@@ -330,7 +329,7 @@
     "width": 909,
     "height": 800,
     "top": 240,
-    "right": 40,
+    "left": 966,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
