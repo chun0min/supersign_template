@@ -8,9 +8,9 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "Menu_08_portrait/thumbnail.jpg",
-    "media_url": "Menu_08_portrait/background.jpg",
-    "content_size": 2458766,
+    "thumbnail_url": "Menu_09_portrait/thumbnail.jpg",
+    "media_url": "Menu_09_portrait/background.jpg",
+    "content_size": 408181,
     "scene_no": 1,
     "media_name": "background.jpg",
     "option_line": {
@@ -45,27 +45,44 @@
   {
     "id": 1,
     "display_order": 2,
-    "content_type": "IMAGE",
-    "top": 245,
-    "left": 325,
-    "width": 430,
-    "height": 197,
+    "content_type": "TEXT",
+    "top": 155,
+    "left": 60,
+    "width": 965,
+    "height": 52,
     "angle": 0,
-    "thumbnail_url": "Menu_08_portrait/img_01.svg",
-    "media_url": "Menu_08_portrait/img_01.svg",
-    "content_size": 21046,
+    "content_size": 15,
+    "text_value": "Restaurant Menu",
+    "line_height": 1,
     "scene_no": 1,
-    "media_name": "img_01.svg",
-    "option_line": {
-      "editor_option_line_color": "0,0,0",
-      "editor_option_line_opacity": 1,
-      "editor_option_line_style": "none",
-      "editor_option_line_border": 1,
-      "editor_option_line_radius": 0,
-      "editor_option_line_radius_tl": 0,
-      "editor_option_line_radius_tr": 0,
-      "editor_option_line_radius_bl": 0,
-      "editor_option_line_radius_br": 0
+    "option_text": {
+      "editor_option_text_font_name": "Chelsea Market",
+      "editor_option_text_font_size": "102",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "222,76,66",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Chelsea Market.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
     },
     "option_shadow": {
       "editor_option_shadow_show": false,
@@ -75,43 +92,35 @@
       "editor_option_shadow_distance": 10,
       "editor_option_shadow_size": 10,
       "editor_option_shadow_opacity": 1
-    },
-    "option_crop": {
-      "editor_option_crop_iscut": false,
-      "editor_option_crop_height": 0,
-      "editor_option_crop_width": 0,
-      "editor_option_crop_positionx": 0,
-      "editor_option_crop_positiony": 0
-    },
-    "is_crop": false
+    }
   },
   {
     "id": 2,
     "display_order": 3,
     "content_type": "TEXT",
-    "top": 287.28,
-    "left": 447,
-    "width": 186,
-    "height": 108,
+    "top": 330,
+    "left": 111.09,
+    "width": 857.9,
+    "height": 52,
     "angle": 0,
-    "content_size": 4,
-    "text_value": "MENU",
+    "content_size": 13,
+    "text_value": "Seasonal Dish",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Wire One",
-      "editor_option_text_font_size": "155",
-      "editor_option_text_style_bold": true,
+      "editor_option_text_font_name": "Chelsea Market",
+      "editor_option_text_font_size": "42",
+      "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "3,19,138",
+      "editor_option_text_font_color": "222,76,66",
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Wire One.ttf",
+      "editor_option_text_font_file": "Chelsea Market.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -141,29 +150,29 @@
     "id": 3,
     "display_order": 4,
     "content_type": "TEXT",
-    "top": 524,
-    "left": 151,
-    "width": 778,
-    "height": 61,
+    "top": 850,
+    "left": 111.09,
+    "width": 857.9,
+    "height": 52,
     "angle": 0,
-    "content_size": 13,
-    "text_value": "French Course",
+    "content_size": 9,
+    "text_value": "Side Dish",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Wire One",
-      "editor_option_text_font_size": "58",
+      "editor_option_text_font_name": "Chelsea Market",
+      "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "3,19,138",
-      "editor_option_text_back_color": "3,19,138",
-      "editor_option_text_back_opacity": 1,
-      "editor_option_text_align": "center",
+      "editor_option_text_font_color": "222,76,66",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Wire One.ttf",
+      "editor_option_text_font_file": "Chelsea Market.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -193,29 +202,29 @@
     "id": 4,
     "display_order": 5,
     "content_type": "TEXT",
-    "top": 1022,
-    "left": 151,
-    "width": 778,
-    "height": 61,
+    "top": 1235,
+    "left": 111.09,
+    "width": 857.9,
+    "height": 52,
     "angle": 0,
-    "content_size": 19,
-    "text_value": "Italian Fine Course",
+    "content_size": 6,
+    "text_value": "Drinks",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Wire One",
-      "editor_option_text_font_size": "58",
+      "editor_option_text_font_name": "Chelsea Market",
+      "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "3,19,138",
-      "editor_option_text_back_color": "3,19,138",
-      "editor_option_text_back_opacity": 1,
-      "editor_option_text_align": "center",
+      "editor_option_text_font_color": "222,76,66",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Wire One.ttf",
+      "editor_option_text_font_file": "Chelsea Market.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -245,30 +254,30 @@
     "id": 5,
     "display_order": 6,
     "content_type": "T_MENU",
-    "width": 778,
-    "height": 400,
-    "top": 605,
-    "left": 151,
+    "width": 858,
+    "height": 360,
+    "top": 410,
+    "left": 111,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_08_portrait",
+    "widget_class": "r5_Menu_09_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "3",
+        "price_type": "4",
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "Appetizer",
-            "description": "Goose liver with French accompaniment",
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
             "price": [
-              "28.0"
+              "95.0"
             ],
             "calory": [
               "99"
             ],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allergy : milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
             "enable": true,
             "image": {
@@ -279,15 +288,15 @@
             }
           },
           {
-            "menu_name": "Main",
-            "description": "Lamb rack with sauce containing truffle oil",
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
             "price": [
-              "42.0"
+              "95.0"
             ],
             "calory": [
               "99"
             ],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allergy : milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
             "enable": true,
             "image": {
@@ -298,16 +307,35 @@
             }
           },
           {
-            "menu_name": "Dessert",
-            "description": "Crepe Sujet paired with milk chocolate ice cream",
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
             "price": [
-              "8.0"
+              "95.0"
             ],
             "calory": [
               "99"
             ],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allergy : milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": [
+              "95.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Allergy : milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
             "enable": true,
             "image": {
               "item_name": "",
@@ -319,10 +347,10 @@
         ]
       },
       "name": {
-        "font_name": "Libre Bodoni",
-        "font_file": "Libre Bodoni.ttf",
-        "font_size": 26,
-        "color": "rgba(3,19,138,1)",
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -330,10 +358,10 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Libre Bodoni",
-        "font_file": "Libre Bodoni.ttf",
-        "font_size": 26,
-        "color": "rgba(3,19,138,1)",
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -341,10 +369,10 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Libre Bodoni",
-        "font_file": "Libre Bodoni.ttf",
-        "font_size": 26,
-        "color": "rgba(3,19,138,1)",
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -355,8 +383,8 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
-        "color": "rgba(100,100,100,1)",
-        "style_bold": false,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -367,7 +395,7 @@
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
-        "style_bold": false,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -377,8 +405,8 @@
         "font_name": "Noto Sans",
         "font_file": "Noto Sans-Regular.ttf",
         "font_size": 18,
-        "color": "rgba(3,19,138,1)",
-        "style_bold": false,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -417,14 +445,14 @@
     "id": 6,
     "display_order": 7,
     "content_type": "T_MENU",
-    "width": 778,
-    "height": 400,
-    "top": 1103,
-    "left": 151,
+    "width": 858,
+    "height": 280,
+    "top": 929,
+    "left": 111,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_08_portrait",
+    "widget_class": "r5_Menu_09_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -432,15 +460,15 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "Appetizer",
-            "description": "Goose liver with French accompaniment",
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
             "price": [
-              "28.0"
+              "95.0"
             ],
             "calory": [
               "99"
             ],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allergy : milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
             "enable": true,
             "image": {
@@ -451,15 +479,15 @@
             }
           },
           {
-            "menu_name": "Main",
-            "description": "Lamb rack with sauce containing truffle oil",
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
             "price": [
-              "42.0"
+              "95.0"
             ],
             "calory": [
               "99"
             ],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allergy : milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
             "enable": true,
             "image": {
@@ -470,15 +498,15 @@
             }
           },
           {
-            "menu_name": "Dessert",
-            "description": "Crepe Sujet paired with milk chocolate ice cream",
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
             "price": [
-              "8.0"
+              "95.0"
             ],
             "calory": [
               "99"
             ],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allergy : milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
             "enable": true,
             "image": {
@@ -491,10 +519,10 @@
         ]
       },
       "name": {
-        "font_name": "Libre Bodoni",
-        "font_file": "Libre Bodoni.ttf",
-        "font_size": 26,
-        "color": "rgba(3,19,138,1)",
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -502,10 +530,10 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Libre Bodoni",
-        "font_file": "Libre Bodoni.ttf",
-        "font_size": 26,
-        "color": "rgba(3,19,138,1)",
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -513,10 +541,10 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Libre Bodoni",
-        "font_file": "Libre Bodoni.ttf",
-        "font_size": 26,
-        "color": "rgba(3,19,138,1)",
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -527,8 +555,8 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
-        "color": "rgba(100,100,100,1)",
-        "style_bold": false,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -539,7 +567,7 @@
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
-        "style_bold": false,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -549,8 +577,180 @@
         "font_name": "Noto Sans",
         "font_file": "Noto Sans-Regular.ttf",
         "font_size": 18,
-        "color": "rgba(3,19,138,1)",
-        "style_bold": false,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "T_MENU",
+    "width": 858,
+    "height": 280,
+    "top": 1321,
+    "left": 111,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_Menu_09_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "3",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": [
+              "95.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Allergy : milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": [
+              "95.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Allergy : milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": [
+              "95.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Allergy : milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(100,100,100,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
