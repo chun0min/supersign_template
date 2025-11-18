@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_01_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_01_landscape/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/background.jpg",
     "content_size": 6000475,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -56,13 +56,14 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Belleza",
+      "editor_option_text_font_name": "Belleza-Regular",
       "editor_option_text_font_size": "110",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "63, 85, 44",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
@@ -98,22 +99,23 @@
     "display_order": 3,
     "content_type": "TEXT",
     "top": 130,
-    "left": 70,
+    "left": 1460,
     "width": 430,
     "height": 43,
     "angle": 0,
-    "content_size": 24,
+    "content_size": 23,
     "text_value": "· The Great Cocktails ·",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Belleza",
-      "editor_option_text_font_size": "24",
+      "editor_option_text_font_name": "Belleza-Regular",
+      "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "63, 85, 44",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
@@ -159,159 +161,165 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "4",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "PORT COBBLER",
             "description": "VODKA, ORANGE JUICE",
-            "price": [
-              "11,000"
-            ],
-            "calory": [
-              "90"
-            ],
+            "price": ["11,000"],
+            "calory": ["90"],
             "allergy": "milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_02.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_02.svg"
+            }
           },
           {
             "menu_name": "VODKA MARTINI",
             "description": "VODKA, ORANGE JUICE",
-            "price": [
-              "11,000"
-            ],
-            "calory": [
-              "90"
-            ],
+            "price": ["11,000"],
+            "calory": ["90"],
             "allergy": "milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_04.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_04.svg"
+            }
           },
           {
             "menu_name": "TEQUILA SUNRISE",
             "description": "VODKA, ORANGE JUICE",
-            "price": [
-              "11,000"
-            ],
-            "calory": [
-              "90"
-            ],
+            "price": ["11,000"],
+            "calory": ["90"],
             "allergy": "milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_06.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_06.svg"
+            }
           },
           {
             "menu_name": "GODFATHER",
             "description": "VODKA, ORANGE JUICE",
-            "price": [
-              "11,000"
-            ],
-            "calory": [
-              "90"
-            ],
+            "price": ["11,000"],
+            "calory": ["90"],
             "allergy": "milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
-          }
-        ],
-        "image": [
-          {
-            "content_name" : "img_01.png",
-            "id" : "1",
-            "img_url" : "img_01.png",
-            "menu_id" : "1",
-            "size" : 339956,
-            "type" : "Image"
-          },
-          {
-            "content_name" : "img_02.png",
-            "id" : "2",
-            "img_url" : "img_02.png",
-            "menu_id" : "2",
-            "type" : "Image"
-          },
-          {
-            "content_name" : "img_03.png",
-            "id" : "3",
-            "img_url" : "img_03.png",
-            "menu_id" : "3",
-            "type" : "Image"
-          },
-          {
-            "content_name" : "img_04.png",
-            "id" : "4",
-            "img_url" : "img_04.png",
-            "menu_id" : "4",
-            "type" : "Image"
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_08.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_08.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_08.svg"
+            }
           }
         ]
       },
-      "menu_option": [
-        {
-          "text_type": "Menu Name",
-          "font": "Belleza",
-          "text_size": "43",
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 40,
+        "color": "rgba(63,85,44,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
           "style_bold": false,
           "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "63, 85, 44",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(63,85,44,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
         },
-        {
-          "text_type": "Description",
-          "font": "Helvetica Neue",
-          "text_size": "22",
+      "calories": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(63,85,44,1)",
           "style_bold": false,
           "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "63, 85, 44",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(63,85,44,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
         },
-        {
-          "text_type": "Price",
-          "font": "Helvetica Neue",
-          "text_size": "22",
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(63,85,44,1)",
           "style_bold": true,
           "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "63, 85, 44",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
         },
         {
-          "text_type": "Calories",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "63, 85, 44",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Allergies",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "63, 85, 44",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        }
-      ],
-      "column": "1"
-    }
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
   },
   {
     "id": 4,
@@ -320,7 +328,7 @@
     "width": 909,
     "height": 800,
     "top": 240,
-    "right": 40,
+    "left": 966,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -334,152 +342,158 @@
           {
             "menu_name": "PORT COBBLER",
             "description": "VODKA, ORANGE JUICE",
-            "price": [
-              "11,000"
-            ],
-            "calory": [
-              "90"
-            ],
+            "price": ["11,000"],
+            "calory": ["90"],
             "allergy": "milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_01.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_01.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_01.svg"
+            }
           },
           {
             "menu_name": "VODKA MARTINI",
             "description": "VODKA, ORANGE JUICE",
-            "price": [
-              "11,000"
-            ],
-            "calory": [
-              "90"
-            ],
+            "price": ["11,000"],
+            "calory": ["90"],
             "allergy": "milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_03.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_03.svg"
+            }
           },
           {
             "menu_name": "TEQUILA SUNRISE",
             "description": "VODKA, ORANGE JUICE",
-            "price": [
-              "11,000"
-            ],
-            "calory": [
-              "90"
-            ],
+            "price": ["11,000"],
+            "calory": ["90"],
             "allergy": "milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_05.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_05.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_05.svg"
+            }
           },
           {
             "menu_name": "GODFATHER",
             "description": "VODKA, ORANGE JUICE",
-            "price": [
-              "11,000"
-            ],
-            "calory": [
-              "90"
-            ],
+            "price": ["11,000"],
+            "calory": ["90"],
             "allergy": "milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
-          }
-        ],
-        "image": [
-          {
-            "content_name" : "img_05.png",
-            "id" : "5",
-            "img_url" : "img_05.png",
-            "menu_id" : "5",
-            "size" : 339956,
-            "type" : "Image"
-          },
-          {
-            "content_name" : "img_06.png",
-            "id" : "6",
-            "img_url" : "img_06.png",
-            "menu_id" : "6",
-            "type" : "Image"
-          },
-          {
-            "content_name" : "img_07.png",
-            "id" : "7",
-            "img_url" : "img_07.png",
-            "menu_id" : "7",
-            "type" : "Image"
-          },
-          {
-            "content_name" : "img_08.png",
-            "id" : "8",
-            "img_url" : "img_08.png",
-            "menu_id" : "8",
-            "type" : "Image"
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_07.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_07.svg"
+            }
           }
         ]
       },
-      "menu_option": [
-        {
-          "text_type": "Menu Name",
-          "font": "Belleza",
-          "text_size": "43",
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 40,
+        "color": "rgba(63,85,44,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
           "style_bold": false,
           "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "63, 85, 44",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(63,85,44,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
         },
-        {
-          "text_type": "Description",
-          "font": "Helvetica Neue",
-          "text_size": "22",
+      "calories": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(63,85,44,1)",
           "style_bold": false,
           "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "63, 85, 44",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(63,85,44,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
         },
-        {
-          "text_type": "Price",
-          "font": "Helvetica Neue",
-          "text_size": "22",
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(63,85,44,1)",
           "style_bold": true,
           "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "63, 85, 44",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
         },
         {
-          "text_type": "Calories",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "63, 85, 44",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Allergies",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "63, 85, 44",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
         }
-      ],
-      "column": "1"
+        ]
     }
+    },
+    "name": ""
   }
 ]

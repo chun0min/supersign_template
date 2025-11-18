@@ -132,3 +132,7 @@
 .r1_menu_04_landscape .menuTypeGroup .menuOption {
   justify-content: flex-end;
 }
+
+.r1_menu_07_landscape .menuTypeGroup .kcal_option{
+  align-items: center;
+}
