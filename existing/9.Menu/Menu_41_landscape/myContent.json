@@ -1,0 +1,738 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1920,
+    "height": 1080,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_41_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_41_landscape/background.jpg",
+    "content_size": 6000475,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "TEXT",
+    "top": 51,
+    "left": 867,
+    "width": 132,
+    "height": 22,
+    "angle": 0,
+    "content_size": 9,
+    "text_value": "CLASSIC",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Satoshi",
+      "editor_option_text_font_size": "16",
+      "editor_option_text_style_bold": 700,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -0.5,
+      "editor_option_text_font_file": "Satoshi.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "TEXT",
+    "top": 95,
+    "left": 876,
+    "width": 509,
+    "height": 80,
+    "angle": 0,
+    "content_size": 67,
+    "text_value": "C O C K T A I L S",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Academy Engraved LET",
+      "editor_option_text_font_size": "67",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "7, 7, 7",
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -0.5,
+      "editor_option_text_font_file": "Academy-Engraved-LET.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "TEXT",
+    "top": 107,
+    "left": 822,
+    "width": 230,
+    "height": 129,
+    "angle": 0,
+    "content_size": 103,
+    "text_value": "Menu",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Alex Brush",
+      "editor_option_text_font_size": "103",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "7, 7, 7",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -0.5,
+      "editor_option_text_font_file": "Alex-Brush.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "TEXT",
+    "top": 635,
+    "left": 1443,
+    "width": 144,
+    "height": 87,
+    "angle": 0,
+    "content_size": 68,
+    "text_value": "Beers",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Alex Brush",
+      "editor_option_text_font_size": "68",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "163, 118, 51",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -0.5,
+      "editor_option_text_font_file": "Alex-Brush.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "T_MENU",
+    "width": 1684,
+    "height": 371,
+    "top": 230,
+    "left": 118,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_41_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "5",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "ZOMBIE",
+            "description": "Briefly describe the ingredient.",
+            "price": ["11,00"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "MAI TAI",
+            "description": "Briefly describe the ingredient.",
+            "price": ["11,00"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "APEROL SPRITZ",
+            "description": "Briefly describe the ingredient.",
+            "price": ["11,00"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "PINA COLADA",
+            "description": "Briefly describe the ingredient.",
+            "price": ["11,00"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "MOJITO",
+            "description": "Briefly describe the ingredient.",
+            "price": ["11,00"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "TIKI PUNCH",
+            "description": "Briefly describe the ingredient.",
+            "price": ["11,00"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          }
+        ],
+        "image": [
+          {
+            "content_name": "img_01.png",
+            "id": "1",
+            "img_url": "img_01.png",
+            "menu_id": "1",
+            "type": "Image"
+          },
+          {
+            "content_name": "img_02.png",
+            "id": "2",
+            "img_url": "img_02.png",
+            "menu_id": "2",
+            "type": "Image"
+          },
+          {
+            "content_name": "img_03.png",
+            "id": "3",
+            "img_url": "img_03.png",
+            "menu_id": "3",
+            "type": "Image"
+          },
+          {
+            "content_name": "img_04.png",
+            "id": "4",
+            "img_url": "img_04.png",
+            "menu_id": "4",
+            "type": "Image"
+          },
+          {
+            "content_name": "img_05.png",
+            "id": "5",
+            "img_url": "img_05.png",
+            "menu_id": "5",
+            "type": "Image"
+          },
+          {
+            "content_name": "img_06.png",
+            "id": "6",
+            "img_url": "img_06.png",
+            "menu_id": "6",
+            "type": "Image"
+          }
+        ]
+      },
+      "menu_option": [
+        {
+          "text_type": "Menu Name",
+          "font": "EB Garamond",
+          "text_size": "24",
+          "style_bold": 800,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "153, 97, 20",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Description",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "45, 45, 45",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Price",
+          "font": "Libre Bodoni",
+          "text_size": "20",
+          "style_bold": 700,
+          "style_italic": true,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "153, 97, 20",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Calories",
+          "font": "Pretendard",
+          "text_size": "13",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "153, 97, 20",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Allergies",
+          "font": "Pretendard",
+          "text_size": "13",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "153, 97, 20",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        }
+      ],
+      "column": "1"
+    }
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 1117,
+    "height": 371,
+    "top": 620,
+    "left": 118,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_41_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "5",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "PINA COLADA",
+            "description": "Briefly describe the ingredient.",
+            "price": ["11,00"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "OLD FASHIONED",
+            "description": "Briefly describe the ingredient.",
+            "price": ["11,00"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "WHISKY SOUR",
+            "description": "Briefly describe the ingredient.",
+            "price": ["11,00"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          },
+          {
+            "menu_name": "WHISKY SOUR",
+            "description": "Briefly describe the ingredient.",
+            "price": ["11,00"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1
+          }
+        ],
+        "image": [
+          {
+            "content_name": "img_07.png",
+            "id": "7",
+            "img_url": "img_07.png",
+            "menu_id": "7",
+            "type": "Image"
+          },
+          {
+            "content_name": "img_08.png",
+            "id": "8",
+            "img_url": "img_08.png",
+            "menu_id": "8",
+            "type": "Image"
+          },
+          {
+            "content_name": "img_09.png",
+            "id": "9",
+            "img_url": "img_09.png",
+            "menu_id": "9",
+            "type": "Image"
+          },
+          {
+            "content_name": "img_10.png",
+            "id": "10",
+            "img_url": "img_10.png",
+            "menu_id": "10",
+            "type": "Image"
+          }
+        ]
+      },
+      "menu_option": [
+        {
+          "text_type": "Menu Name",
+          "font": "EB Garamond",
+          "text_size": "24",
+          "style_bold": 800,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "153, 97, 20",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Description",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "45, 45, 45",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Price",
+          "font": "Libre Bodoni",
+          "text_size": "20",
+          "style_bold": 700,
+          "style_italic": true,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "153, 97, 20",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Calories",
+          "font": "Pretendard",
+          "text_size": "13",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "153, 97, 20",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Allergies",
+          "font": "Pretendard",
+          "text_size": "13",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "153, 97, 20",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        }
+      ],
+      "column": "1"
+    }
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "T_MENU",
+    "width": 547,
+    "height": 369,
+    "top": 619,
+    "left": 1252,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_41_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": ["250ml", "500ml", "Bottle"],
+        "menu_list": [
+          {
+            "menu_name": "PALE ALE",
+            "description": "",
+            "price": ["5.00", "7.00", "10.00"],
+            "calory": ["99"],
+            "allergy": "",
+            "ordr": 1
+          },
+          {
+            "menu_name": "LAGER",
+            "description": "",
+            "price": ["5.00", "7.00", "10.00"],
+            "calory": ["99"],
+            "allergy": "",
+            "ordr": 1
+          },
+          {
+            "menu_name": "PILSNER",
+            "description": "",
+            "price": ["5.00", "7.00", "10.00"],
+            "calory": ["99"],
+            "allergy": "",
+            "ordr": 1
+          },
+          {
+            "menu_name": "IPA",
+            "description": "",
+            "price": ["5.00", "7.00", "10.00"],
+            "calory": ["99"],
+            "allergy": "",
+            "ordr": 1
+          }
+        ],
+        "image": [
+          {
+            "content_name": "",
+            "id": "",
+            "img_url": "",
+            "menu_id": "",
+            "type": ""
+          },
+          {
+            "content_name": "",
+            "id": "",
+            "img_url": "",
+            "menu_id": "",
+            "type": ""
+          },
+          {
+            "content_name": "",
+            "id": "",
+            "img_url": "",
+            "menu_id": "",
+            "type": ""
+          },
+          {
+            "content_name": "",
+            "id": "",
+            "img_url": "",
+            "menu_id": "",
+            "type": ""
+          }
+        ]
+      },
+      "menu_option": [
+        {
+          "text_type": "Menu Name",
+          "font": "EB Garamond",
+          "text_size": "21",
+          "style_bold": 600,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "7, 7, 7",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Description",
+          "font": "Pretendard",
+          "text_size": "14",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "45, 45, 45",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Price",
+          "font": "EB Garamond",
+          "text_size": "18",
+          "style_bold": 600,
+          "style_italic": true,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "7, 7, 7",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Calories",
+          "font": "Pretendard",
+          "text_size": "13",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "153, 97, 20",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        },
+        {
+          "text_type": "Allergies",
+          "font": "Pretendard",
+          "text_size": "11",
+          "style_bold": false,
+          "style_italic": false,
+          "style_under": false,
+          "style_cancel": false,
+          "text_color": "153, 97, 20",
+          "back_color": "",
+          "opacity": 0,
+          "align": "left"
+        }
+      ],
+      "column": "1"
+    }
+  }
+]

@@ -89,11 +89,11 @@
   margin: 0 auto;
 }
 
-.r5_menu_02_landscape .type-05 .menuTitle{
+.r5_menu_02_landscape .type-05 .menuTitle {
   margin-bottom: 21px;
 }
 
-.r5_menu_02_landscape .type-05 .menuAllegy{
+.r5_menu_02_landscape .type-05 .menuAllegy {
   margin-bottom: 21px;
 }
 
@@ -198,48 +198,52 @@
   align-items: center;
 }
 
-.r5_menu_05_portrait .menuTypeGroup .itemGrid.type-03 {
-  grid-template-columns: 1fr 100px;
-  margin-top: 7.5px;
+.r5_menu_41_landscape .type-05 .image-cell {
+  margin: 22px auto 0 auto;
 }
 
-.r5_menu_05_portrait .menuTypeGroup .itemGrid.type-03:first-child {
-  margin-top: 0;
+.r5_menu_41_landscape .type-05 .menuTitle {
+  margin-bottom: 12px;
+  margin-top: -28px;
 }
 
-.r5_menu_05_portrait .itemGrid-C .menuAllegy {
-  margin-top: 7px;
+.r5_menu_41_landscape .menuTypeGroup {
+  display: flex;
+  gap: 18px;
 }
 
-.r5_menu_05_portrait .itemGrid-B .menuOption {
-  justify-content: flex-end;
+.r5_menu_41_landscape #editorItem6 {
+  border: 1px solid #000;
 }
 
-.r5_menu_05_portrait .itemGrid-B .menuOption .kcal_option {
-  align-items: flex-end;
+.r5_menu_41_landscape #editorItem6 .menuTypeGroup {
+  width: 100%;
+  height: 100%;
+  display: block;
 }
 
-.r5_menu_06_portrait .menuTypeGroup .menuItem.type-03 {
-  grid-template-columns: 1fr 150px;
-  margin-top: 7.33px;
+.r5_menu_41_landscape #editorItem6 .itemGrid-B {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.r5_menu_06_portrait .menuTypeGroup .menuItem.type-03:first-child {
-  margin-top: 0;
+.r5_menu_41_landscape #editorItem6 .menuInfo {
+  width: 91px;
 }
 
-.r5_menu_06_portrait .itemGrid-C .menuAllegy {
-  margin-top: 4px;
+.r5_menu_41_landscape #editorItem6 .type-01 {
+  margin-left: 51px;
 }
 
-.r5_menu_06_portrait .itemGrid-B .menuOption {
-  justify-content: flex-end;
+.r5_menu_41_landscape #editorItem6 .type-01:nth-child(1) {
+  margin-top: 118px;
 }
 
-.r5_menu_06_portrait .itemGrid-B .menuOption .kcal_option {
-  align-items: flex-end;
+.r5_menu_41_landscape #editorItem6 .type-01 .menuTitle{
+  margin-top: 15px;
 }
 
-.r5_menu_06_portrait .itemGrid-B .menuOption .kcal-right {
-  margin: 9.2px 0 0 10px;
+.r5_menu_41_landscape #editorItem6 .type-01 .kcal_option{
+  align-items: center;
 }

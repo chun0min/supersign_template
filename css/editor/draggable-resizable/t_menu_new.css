@@ -41,6 +41,10 @@
   margin-right: 0.5rem;
   flex-direction: row;
 }
+.menuTypeGroup .size_option.size_right {
+  width: 100%; 
+  justify-content: flex-end;
+}
 .menuTypeGroup .price_option {
   display: flex;
   flex-direction: row;
@@ -123,4 +127,8 @@
 
 .menuTypeGroup .menuOption.text_center .kcal_option .kcal-right {
   margin-left: 0 !important;
+}
+
+.r1_menu_04_landscape .menuTypeGroup .menuOption {
+  justify-content: flex-end;
 }
