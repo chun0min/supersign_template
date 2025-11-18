@@ -10,7 +10,7 @@
     "angle": 0,
     "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_02_landscape/thumbnail.jpg",
     "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_02_landscape/background.jpg",
-    "content_size": 6000475,
+    "content_size": 939674,
     "scene_no": 1,
     "media_name": "background.jpg",
     "option_line": {
@@ -51,7 +51,7 @@
     "width": 358,
     "height": 71,
     "angle": 0,
-    "content_size": 9,
+    "content_size": 17,
     "text_value": "Good Taste Bakery",
     "line_height": 1,
     "scene_no": 1,
@@ -63,12 +63,13 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79, 95, 168",
-      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Playball.ttf"
+      "editor_option_text_spacing": -0.2,
+      "editor_option_text_font_file": "Playball"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -102,7 +103,7 @@
     "width": 465,
     "height": 96,
     "angle": 0,
-    "content_size": 24,
+    "content_size": 12,
     "text_value": "Dessert Menu",
     "line_height": 1,
     "scene_no": 1,
@@ -114,6 +115,7 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
@@ -142,7 +144,8 @@
       "editor_option_shadow_distance": 10,
       "editor_option_shadow_size": 10,
       "editor_option_shadow_opacity": 1
-    }
+    },
+    "name": ""
   },
   {
     "id": 3,
@@ -153,7 +156,7 @@
     "width": 358,
     "height": 71,
     "angle": 0,
-    "content_size": 24,
+    "content_size": 17,
     "text_value": "Good Taste Bakery",
     "line_height": 1,
     "scene_no": 1,
@@ -165,11 +168,12 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79, 95, 168",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
+      "editor_option_text_spacing": -0.2,
       "editor_option_text_font_file": "Playball.ttf"
     },
     "option_text_outline": {
@@ -187,8 +191,8 @@
     },
     "option_shadow": {
       "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "34,48,123",
-      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
       "editor_option_shadow_angle": 10,
       "editor_option_shadow_distance": 10,
       "editor_option_shadow_size": 10,
@@ -201,10 +205,10 @@
     "content_type": "TEXT",
     "top": 186,
     "left": 676,
-    "width": 358,
-    "height": 71,
+    "width": 92,
+    "height": 34,
     "angle": 0,
-    "content_size": 26,
+    "content_size": 6,
     "text_value": "COFFEE",
     "line_height": 1,
     "scene_no": 1,
@@ -216,11 +220,12 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79, 95, 168",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
+      "editor_option_text_spacing": -0.1,
       "editor_option_text_font_file": "Helvetica-Neue.ttf"
     },
     "option_text_outline": {
@@ -238,8 +243,8 @@
     },
     "option_shadow": {
       "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "34,48,123",
-      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
       "editor_option_shadow_angle": 10,
       "editor_option_shadow_distance": 10,
       "editor_option_shadow_size": 10,
@@ -251,11 +256,11 @@
     "display_order": 6,
     "content_type": "TEXT",
     "top": 186,
-    "left": 797,
-    "width": 358,
-    "height": 71,
+    "left": 676,
+    "width": 92,
+    "height": 34,
     "angle": 0,
-    "content_size": 26,
+    "content_size": 4,
     "text_value": "CAKE",
     "line_height": 1,
     "scene_no": 1,
@@ -267,11 +272,12 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79, 95, 168",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
+      "editor_option_text_spacing": -0.1,
       "editor_option_text_font_file": "Helvetica-Neue.ttf"
     },
     "option_text_outline": {
@@ -289,8 +295,8 @@
     },
     "option_shadow": {
       "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "34,48,123",
-      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
       "editor_option_shadow_angle": 10,
       "editor_option_shadow_distance": 10,
       "editor_option_shadow_size": 10,
@@ -302,11 +308,11 @@
     "display_order": 7,
     "content_type": "TEXT",
     "top": 186,
-    "left": 885,
-    "width": 358,
-    "height": 71,
+    "left": 676,
+    "width": 92,
+    "height": 34,
     "angle": 0,
-    "content_size": 26,
+    "content_size": 6,
     "text_value": "BISTRO",
     "line_height": 1,
     "scene_no": 1,
@@ -318,11 +324,12 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79, 95, 168",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
+      "editor_option_text_spacing": -0.1,
       "editor_option_text_font_file": "Helvetica-Neue.ttf"
     },
     "option_text_outline": {
@@ -340,8 +347,8 @@
     },
     "option_shadow": {
       "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "34,48,123",
-      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
       "editor_option_shadow_angle": 10,
       "editor_option_shadow_distance": 10,
       "editor_option_shadow_size": 10,
@@ -353,11 +360,11 @@
     "display_order": 8,
     "content_type": "TEXT",
     "top": 186,
-    "left": 996,
-    "width": 358,
-    "height": 71,
+    "left": 676,
+    "width": 92,
+    "height": 34,
     "angle": 0,
-    "content_size": 26,
+    "content_size": 7,
     "text_value": "GELLATO",
     "line_height": 1,
     "scene_no": 1,
@@ -369,11 +376,12 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79, 95, 168",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
+      "editor_option_text_spacing": -0.1,
       "editor_option_text_font_file": "Helvetica-Neue.ttf"
     },
     "option_text_outline": {
@@ -391,8 +399,8 @@
     },
     "option_shadow": {
       "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "34,48,123",
-      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
       "editor_option_shadow_angle": 10,
       "editor_option_shadow_distance": 10,
       "editor_option_shadow_size": 10,
@@ -404,11 +412,11 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 186,
-    "left": 1130,
-    "width": 358,
-    "height": 71,
+    "left": 676,
+    "width": 92,
+    "height": 34,
     "angle": 0,
-    "content_size": 26,
+    "content_size": 6,
     "text_value": "BRUNCH",
     "line_height": 1,
     "scene_no": 1,
@@ -420,11 +428,12 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79, 95, 168",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
+      "editor_option_text_spacing": -0.1,
       "editor_option_text_font_file": "Helvetica-Neue.ttf"
     },
     "option_text_outline": {
@@ -442,8 +451,8 @@
     },
     "option_shadow": {
       "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "34,48,123",
-      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
       "editor_option_shadow_angle": 10,
       "editor_option_shadow_distance": 10,
       "editor_option_shadow_size": 10,
@@ -454,7 +463,7 @@
     "id": 9,
     "display_order": 10,
     "content_type": "T_MENU",
-    "width": 1618,
+    "width": 1617,
     "height": 530,
     "top": 407,
     "left": 152,
@@ -474,7 +483,14 @@
             "price": ["7,0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_01.svg",
+              "item_url": "http://localhost:3000/template/Menu_02_landscape/img_01.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_landscape/img_01.svg"
+            }
           },
           {
             "menu_name": "Tiramisu Cake",
@@ -482,7 +498,14 @@
             "price": ["8,0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.svg",
+              "item_url": "http://localhost:3000/template/Menu_02_landscape/img_02.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_landscape/img_02.svg"
+            }
           },
           {
             "menu_name": "Chocolate Gateau",
@@ -490,7 +513,14 @@
             "price": ["8,5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.svg",
+              "item_url": "http://localhost:3000/template/Menu_02_landscape/img_03.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_landscape/img_03.svg"
+            }
           },
           {
             "menu_name": "Chocolate Gateau",
@@ -498,109 +528,111 @@
             "price": ["8,5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
-          }
-        ],
-        "image": [
-          {
-            "content_name": "img_01.png",
-            "id": "1",
-            "img_url": "img_01.png",
-            "menu_id": "1",
-            "size": 339956,
-            "type": "Image"
-          },
-          {
-            "content_name": "img_02.png",
-            "id": "2",
-            "img_url": "img_02.png",
-            "menu_id": "2",
-            "type": "Image"
-          },
-          {
-            "content_name": "img_03.png",
-            "id": "3",
-            "img_url": "img_03.png",
-            "menu_id": "3",
-            "type": "Image"
-          },
-          {
-            "content_name": "img_04.png",
-            "id": "4",
-            "img_url": "img_04.png",
-            "menu_id": "4",
-            "type": "Image"
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.svg",
+              "item_url": "http://localhost:3000/template/Menu_02_landscape/img_04.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_landscape/img_04.svg"
+            }
           }
         ]
       },
-      "menu_option": [
-        {
-          "text_type": "Menu Name",
-          "font": "Bodoni 72",
-          "text_size": "40",
-          "style_bold": 700,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "237, 26, 33",
-          "back_color": "",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Description",
-          "font": "Bodoni 72",
-          "text_size": "28",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "77, 77, 77",
-          "back_color": "",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Price",
-          "font": "Bodoni 72",
-          "text_size": "28",
-          "style_bold": false,
-          "style_italic": true,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "77, 77, 77",
-          "back_color": "",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Calories",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Allergies",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "center"
-        }
-      ],
-      "column": "1"
-    }
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 40,
+        "color": "rgba(63,85,44,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Helvetica Neue",
+        "font_file": "Helvetica Neue.ttf",
+        "font_size": 22,
+        "color": "rgba(63,85,44,1)",
+        "style_bold": 500,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 14,
+        "color": "rgba(63,85,44,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 14,
+        "color": "rgba(100,100,100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Bodoni 72",
+        "font_file": "Bodoni 72.ttf",
+        "font_size": 28,
+        "color": "rgba(77,77,77,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": "",
+    "left": 962
   }
 ]
