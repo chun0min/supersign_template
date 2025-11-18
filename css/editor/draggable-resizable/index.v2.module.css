@@ -198,6 +198,96 @@
   align-items: center;
 }
 
+.r5_menu_05_portrait .menuTypeGroup .itemGrid.type-03 {
+  grid-template-columns: 1fr 100px;
+  margin-top: 7.5px;
+}
+
+.r5_menu_05_portrait .menuTypeGroup .itemGrid.type-03:first-child {
+  margin-top: 0;
+}
+
+.r5_menu_05_portrait .itemGrid-C .menuAllegy {
+  margin-top: 7px;
+}
+
+.r5_menu_05_portrait .itemGrid-B .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_05_portrait .itemGrid-B .menuOption .kcal_option {
+  align-items: flex-end;
+}
+
+.r5_menu_06_portrait .menuTypeGroup .menuItem.type-03 {
+  grid-template-columns: 1fr 150px;
+  margin-top: 7.33px;
+}
+
+.r5_menu_06_portrait .menuTypeGroup .menuItem.type-03:first-child {
+  margin-top: 0;
+}
+
+.r5_menu_06_portrait .itemGrid-C .menuAllegy {
+  margin-top: 4px;
+}
+
+.r5_menu_06_portrait .itemGrid-B .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_06_portrait .itemGrid-B .menuOption .kcal_option {
+  align-items: flex-end;
+}
+
+.r5_menu_06_portrait .itemGrid-B .menuOption .kcal-right {
+  margin: 9.2px 0 0 10px;
+}
+
+.r5_menu_07_portrait .menuTypeGroup .menuItem.type-03 {
+  grid-template-columns: 1fr 100px;
+  margin-top: 29.29px;
+  padding-top: 14px;
+}
+
+.r5_menu_07_portrait .menuTypeGroup .menuItem.type-03:first-child {
+  margin-top: 0;
+}
+
+.r5_menu_07_portrait .itemGrid-B .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_07_portrait .itemGrid-B .menuOption .kcal_option {
+  align-items: flex-end;
+}
+
+.r5_menu_07_portrait .itemGrid-C .menuExplain {
+  margin-top: 9px;
+}
+
+.r5_menu_07_portrait .itemGrid-C .menuAllegy {
+  margin-top: 4px;
+}
+
+.r5_menu_08_portrait .menuTypeGroup .menuItem.type-03 {
+  grid-template-columns: 1fr 150px;
+  margin-top: 20px;
+  padding-top: 14px;
+}
+
+.r5_menu_08_portrait .menuTypeGroup .menuItem.type-03:first-child {
+  margin-top: 0;
+}
+
+.r5_menu_08_portrait .itemGrid-B .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_08_portrait .itemGrid-B .menuOption .kcal_option {
+  align-items: flex-end;
+}
+
 .r5_menu_41_landscape .type-05 .image-cell {
   margin: 22px auto 0 auto;
 }

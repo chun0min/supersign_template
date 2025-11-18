@@ -8,11 +8,11 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/background.jpg",
+    "thumbnail_url": "Menu_04_portrait/thumbnail.jpg",
+    "media_url": "Menu_04_portrait/background.jpg",
     "content_size": 459079,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/background.jpg",
+    "media_name": "background.jpg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -51,11 +51,11 @@
     "width": 613,
     "height": 136,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_01.svg",
-    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_01.svg",
+    "thumbnail_url": "Menu_04_portrait/img_01.svg",
+    "media_url": "Menu_04_portrait/img_01.svg",
     "content_size": 5602,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_01.svg",
+    "media_name": "img_01.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -94,11 +94,11 @@
     "width": 11.36,
     "height": 11.36,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
-    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "thumbnail_url": "Menu_04_portrait/img_02.svg",
+    "media_url": "Menu_04_portrait/img_02.svg",
     "content_size": 204,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "media_name": "Menu_04_portrait/img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -137,11 +137,11 @@
     "width": 11.36,
     "height": 11.36,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
-    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "thumbnail_url": "Menu_04_portrait/img_02.svg",
+    "media_url": "Menu_04_portrait/img_02.svg",
     "content_size": 204,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "media_name": "Menu_04_portrait/img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -180,11 +180,11 @@
     "width": 11.36,
     "height": 11.36,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
-    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "thumbnail_url": "Menu_04_portrait/img_02.svg",
+    "media_url": "Menu_04_portrait/img_02.svg",
     "content_size": 204,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "media_name": "Menu_04_portrait/img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -223,11 +223,11 @@
     "width": 11.36,
     "height": 11.36,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
-    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "thumbnail_url": "Menu_04_portrait/img_02.svg",
+    "media_url": "Menu_04_portrait/img_02.svg",
     "content_size": 204,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_portrait/img_02.svg",
+    "media_name": "Menu_04_portrait/img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -278,13 +278,13 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "34,48,123",
-      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "PirataOne-Regular.ttf"
+      "editor_option_text_font_file": "PirataOne-Regular.ttf",
+      "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -330,13 +330,13 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "255,255,255",
-      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "PirataOne-Regular.ttf"
+      "editor_option_text_font_file": "PirataOne-Regular.ttf",
+      "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -382,13 +382,13 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79,95,168",
-      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Helvetica neue.ttf"
+      "editor_option_text_font_file": "Helvetica neue.ttf",
+      "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -434,13 +434,13 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79,95,168",
-      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Helvetica Neue.ttf"
+      "editor_option_text_font_file": "Helvetica Neue.ttf",
+      "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -486,13 +486,13 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79,95,168",
-      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Helvetica Neue.ttf"
+      "editor_option_text_font_file": "Helvetica Neue.ttf",
+      "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -538,13 +538,13 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79,95,168",
-      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Helvetica Neue.ttf"
+      "editor_option_text_font_file": "Helvetica Neue.ttf",
+      "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -590,13 +590,13 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "79,95,168",
-      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Helvetica Neue.ttf"
+      "editor_option_text_font_file": "Helvetica Neue.ttf",
+      "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -642,13 +642,13 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "237,26,33",
-      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Playball.ttf"
+      "editor_option_text_font_file": "Playball.ttf",
+      "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -701,7 +701,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.svg",
+              "item_url": "http://localhost:3000/template/Menu_04_portrait/img_03.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "http://localhost:3000/template/Menu_04_portrait/img_03.svg"
+            }
           },
           {
             "menu_name": "Chocolate Gateau",
@@ -713,97 +720,111 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
-          }
-        ],
-        "image": [
-          {
-            "content_name" : "img_03.svg",
-            "id" : "3",
-            "img_url" : "img_03.svg",
-            "menu_id" : "3",
-            "size" : 19336,
-            "type" : "Image"
-          },
-          {
-            "content_name" : "img_05.svg",
-            "id" : "5",
-            "img_url" : "img_05.svg",
-            "menu_id" : "5",
-            "size" : 21606,
-            "type" : "Image"
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_05.svg",
+              "item_url": "http://localhost:3000/template/Menu_04_portrait/img_05.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "http://localhost:3000/template/Menu_04_portrait/img_05.svg"
+            }
           }
         ]
       },
-      "menu_option": [
-        {
-          "text_type": "Menu Name",
-          "font": "Bodoni 72",
-          "text_size": "40",
-          "style_bold": true,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "237,26,33",
-          "back_color": "255,255,255",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Description",
-          "font": "Bodoni 72",
-          "text_size": "28",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "77,77,77",
-          "back_color": "255,255,255",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Price",
-          "font": "Bodoni 72",
-          "text_size": "28",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "77,77,77",
-          "back_color": "255,255,255",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Calories",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100,100,100",
-          "back_color": "255,255,255",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Allergies",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100,100,100",
-          "back_color": "255,255,255",
-          "opacity": 0,
-          "align": "center"
-        }
-      ],
-      "column": "1"
-    }
+      "name": {
+        "font_name": "Bodoni 72",
+        "font_file": "Bodoni 72.ttf",
+        "font_size": 40,
+        "color": "rgba(237,26,33,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Bodoni 72",
+        "font_file": "Bodoni 72.ttf",
+        "font_size": 28,
+        "color": "rgba(77,77,77,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Bodoni 72",
+        "font_file": "Bodoni 72.ttf",
+        "font_size": 28,
+        "color": "rgba(77,77,77,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(100,100,100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.otf",
+        "font_size": 14,
+        "color": "rgba(100,100,100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Bodoni 72",
+        "font_file": "Bodoni 72.ttf",
+        "font_size": 28,
+        "color": "rgba(77,77,77,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
   },
   {
     "id": 15,
@@ -833,7 +854,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.svg",
+              "item_url": "http://localhost:3000/template/Menu_04_portrait/img_04.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "http://localhost:3000/template/Menu_04_portrait/img_04.svg"
+            }
           },
           {
             "menu_name": "Chocolate Gateau",
@@ -845,96 +873,110 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
-          }
-        ],
-        "image": [
-          {
-            "content_name" : "img_04.svg",
-            "id" : "4",
-            "img_url" : "img_04.svg",
-            "menu_id" : "4",
-            "size" : 23726,
-            "type" : "Image"
-          },
-          {
-            "content_name" : "img_06.svg",
-            "id" : "6",
-            "img_url" : "img_06.svg",
-            "menu_id" : "6",
-            "size" : 19446,
-            "type" : "Image"
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.svg",
+              "item_url": "http://localhost:3000/template/Menu_04_portrait/img_06.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "http://localhost:3000/template/Menu_04_portrait/img_06.svg"
+            }
           }
         ]
       },
-      "menu_option": [
-        {
-          "text_type": "Menu Name",
-          "font": "Bodoni 72",
-          "text_size": "40",
-          "style_bold": true,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "237,26,33",
-          "back_color": "255,255,255",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Description",
-          "font": "Bodoni 72",
-          "text_size": "28",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "77,77,77",
-          "back_color": "255,255,255",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Price",
-          "font": "Bodoni 72",
-          "text_size": "28",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "77,77,77",
-          "back_color": "255,255,255",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Calories",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100,100,100",
-          "back_color": "255,255,255",
-          "opacity": 0,
-          "align": "center"
-        },
-        {
-          "text_type": "Allergies",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100,100,100",
-          "back_color": "255,255,255",
-          "opacity": 0,
-          "align": "center"
-        }
-      ],
-      "column": "1"
-    }
+      "name": {
+        "font_name": "Bodoni 72",
+        "font_file": "Bodoni 72.ttf",
+        "font_size": 40,
+        "color": "rgba(237,26,33,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Bodoni 72",
+        "font_file": "Bodoni 72.ttf",
+        "font_size": 28,
+        "color": "rgba(77,77,77,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Bodoni 72",
+        "font_file": "Bodoni 72.ttf",
+        "font_size": 28,
+        "color": "rgba(77,77,77,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(100,100,100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.otf",
+        "font_size": 14,
+        "color": "rgba(100,100,100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Bodoni 72",
+        "font_file": "Bodoni 72.ttf",
+        "font_size": 28,
+        "color": "rgba(77,77,77,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
   }
 ]

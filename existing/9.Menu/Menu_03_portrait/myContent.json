@@ -8,11 +8,11 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_03_portrait/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_03_portrait/background.jpg",
+    "thumbnail_url": "Menu_03_portrait/thumbnail.jpg",
+    "media_url": "Menu_03_portrait/background.jpg",
     "content_size": 812194,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template_New/existing/9.Menu/Menu_03_portrait/background.jpg",
+    "media_name": "background.jpg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -63,13 +63,13 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "240, 24, 35",
-      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255, 255, 255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Roasted Chicken.ttf"
+      "editor_option_text_font_file": "Roasted Chicken.ttf",
+      "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -122,7 +122,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "MENU TITLE",
@@ -134,7 +141,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "MENU TITLE",
@@ -146,7 +160,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "MENU TITLE",
@@ -158,7 +179,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "MENU TITLE",
@@ -170,7 +198,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5
+            "ordr": 5,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "MENU TITLE",
@@ -182,79 +217,111 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 6
+            "ordr": 6,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
-      "menu_option": [
-        {
-          "text_type": "Menu Name",
-          "font": "Helvetica Neue",
-          "text_size": "30",
-          "style_bold": true,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "56, 56, 56",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Description",
-          "font": "Helvetica Neue",
-          "text_size": "22",
-          "style_bold": true,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "56, 56, 56",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Price",
-          "font": "Helvetica Neue",
-          "text_size": "30",
-          "style_bold": true,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "56, 56, 56",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Calories",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Allergies",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        }
-      ],
-      "column": "1"
-    }
+      "name": {
+        "font_name": "Helvetica Neue",
+        "font_file": "Helvetica Neue.ttf",
+        "font_size": 30,
+        "color": "rgba(56,56,56,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Helvetica Neue",
+        "font_file": "Helvetica Neue.ttf",
+        "font_size": 30,
+        "color": "rgba(56,56,56,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Helvetica Neue",
+        "font_file": "Helvetica Neue.ttf",
+        "font_size": 30,
+        "color": "rgba(56,56,56,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(100,100,100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(100,100,100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Helvetica Neue",
+        "font_file": "Helvetica Neue.ttf",
+        "font_size": 22,
+        "color": "rgba(56,56,56,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
   },
   {
     "id": 3,
@@ -284,7 +351,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "MENU TITLE",
@@ -296,7 +370,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "MENU TITLE",
@@ -308,7 +389,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "MENU TITLE",
@@ -320,7 +408,14 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "MENU TITLE",
@@ -332,78 +427,110 @@
               "99"
             ],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5
+            "ordr": 5,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
-      "menu_option": [
-        {
-          "text_type": "Menu Name",
-          "font": "Helvetica Neue",
-          "text_size": "30",
-          "style_bold": true,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "56, 56, 56",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Description",
-          "font": "Helvetica Neue",
-          "text_size": "22",
-          "style_bold": true,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "56, 56, 56",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Price",
-          "font": "Helvetica Neue",
-          "text_size": "30",
-          "style_bold": true,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "56, 56, 56",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Calories",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Allergies",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        }
-      ],
-      "column": "1"
-    }
+      "name": {
+        "font_name": "Helvetica Neue",
+        "font_file": "Helvetica Neue.ttf",
+        "font_size": 30,
+        "color": "rgba(56,56,56,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Helvetica Neue",
+        "font_file": "Helvetica Neue.ttf",
+        "font_size": 30,
+        "color": "rgba(56,56,56,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Helvetica Neue",
+        "font_file": "Helvetica Neue.ttf",
+        "font_size": 30,
+        "color": "rgba(56,56,56,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(100,100,100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(100,100,100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Helvetica Neue",
+        "font_file": "Helvetica Neue.ttf",
+        "font_size": 22,
+        "color": "rgba(56,56,56,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
   }
 ]
