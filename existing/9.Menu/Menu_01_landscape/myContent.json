@@ -175,9 +175,9 @@
             "enable": true,
             "image": {
               "item_name": "img_02.svg",
-              "item_url": "http://localhost:3000/template/09_cocktail_menu/img_02.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_02.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/09_cocktail_menu/img_02.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_02.svg"
             }
           },
           {
@@ -190,9 +190,9 @@
             "enable": true,
             "image": {
               "item_name": "img_04.svg",
-              "item_url": "http://localhost:3000/template/09_cocktail_menu/img_04.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_04.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/09_cocktail_menu/img_04.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_04.svg"
             }
           },
           {
@@ -205,9 +205,9 @@
             "enable": true,
             "image": {
               "item_name": "img_06.svg",
-              "item_url": "http://localhost:3000/template/09_cocktail_menu/img_06.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_06.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/09_cocktail_menu/img_06.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_06.svg"
             }
           },
           {
@@ -220,9 +220,9 @@
             "enable": true,
             "image": {
               "item_name": "img_08.svg",
-              "item_url": "http://localhost:3000/template/09_cocktail_menu/img_08.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_08.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/09_cocktail_menu/img_08.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_08.svg"
             }
           }
         ]
@@ -350,9 +350,9 @@
             "enable": true,
             "image": {
               "item_name": "img_01.svg",
-              "item_url": "http://localhost:3000/template/09_cocktail_menu/img_01.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_01.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/09_cocktail_menu/img_01.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_01.svg"
             }
           },
           {
@@ -365,9 +365,9 @@
             "enable": true,
             "image": {
               "item_name": "img_03.svg",
-              "item_url": "http://localhost:3000/template/09_cocktail_menu/img_03.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_03.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/09_cocktail_menu/img_03.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_03.svg"
             }
           },
           {
@@ -380,9 +380,9 @@
             "enable": true,
             "image": {
               "item_name": "img_05.svg",
-              "item_url": "http://localhost:3000/template/09_cocktail_menu/img_05.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_05.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/09_cocktail_menu/img_05.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_05.svg"
             }
           },
           {
@@ -395,9 +395,9 @@
             "enable": true,
             "image": {
               "item_name": "img_07.svg",
-              "item_url": "http://localhost:3000/template/09_cocktail_menu/img_07.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_07.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/09_cocktail_menu/img_07.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_landscape/img_07.svg"
             }
           }
         ]
