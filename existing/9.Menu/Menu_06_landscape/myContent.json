@@ -329,7 +329,7 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 2
           },
           {
             "menu_name": "Menu title",
@@ -337,7 +337,7 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 3
           },
           {
             "menu_name": "Menu title",
@@ -345,7 +345,7 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 4
           },
           {
             "menu_name": "Menu title",
@@ -353,78 +353,102 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 5
           }
         ]
       },
-      "menu_option": [
-        {
-          "text_type": "Menu Name",
-          "font": "Noto Sans",
-          "text_size": "30",
-          "style_bold": 600,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "0, 0, 0",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 30,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 30,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
         },
         {
-          "text_type": "Description",
-          "font": "Noto Sans",
-          "text_size": "18",
-          "style_bold": 500,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "0, 0, 0",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Price",
-          "font": "Noto Sans",
-          "text_size": "30",
-          "style_bold": 600,
-          "style_italic": true,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "0, 0, 0",
-          "back_color": "",
-          "opacity": 0,
-          "align": "right"
-        },
-        {
-          "text_type": "Calories",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "right"
-        },
-        {
-          "text_type": "Allergies",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        }
-      ],
-      "column": "1"
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
     }
   },
   {
@@ -459,7 +483,7 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 2
           },
           {
             "menu_name": "Menu title",
@@ -467,78 +491,102 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 3
           }
         ]
       },
-      "menu_option": [
-        {
-          "text_type": "Menu Name",
-          "font": "Noto Sans",
-          "text_size": "30",
-          "style_bold": 600,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "0, 0, 0",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 30,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 30,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
         },
         {
-          "text_type": "Description",
-          "font": "Noto Sans",
-          "text_size": "18",
-          "style_bold": 500,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "0, 0, 0",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Price",
-          "font": "Noto Sans",
-          "text_size": "30",
-          "style_bold": 600,
-          "style_italic": true,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "0, 0, 0",
-          "back_color": "",
-          "opacity": 0,
-          "align": "right"
-        },
-        {
-          "text_type": "Calories",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "right"
-        },
-        {
-          "text_type": "Allergies",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        }
-      ],
-      "column": "1"
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
     }
   },
   {
@@ -573,78 +621,102 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 2
           }
         ]
       },
-      "menu_option": [
-        {
-          "text_type": "Menu Name",
-          "font": "Noto Sans",
-          "text_size": "30",
-          "style_bold": 600,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "0, 0, 0",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 30,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 30,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
         },
         {
-          "text_type": "Description",
-          "font": "Noto Sans",
-          "text_size": "18",
-          "style_bold": 500,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "0, 0, 0",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        },
-        {
-          "text_type": "Price",
-          "font": "Noto Sans",
-          "text_size": "30",
-          "style_bold": 600,
-          "style_italic": true,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "0, 0, 0",
-          "back_color": "",
-          "opacity": 0,
-          "align": "right"
-        },
-        {
-          "text_type": "Calories",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "right"
-        },
-        {
-          "text_type": "Allergies",
-          "font": "Pretendard",
-          "text_size": "14",
-          "style_bold": false,
-          "style_italic": false,
-          "style_under": false,
-          "style_cancel": false,
-          "text_color": "100, 100, 100",
-          "back_color": "",
-          "opacity": 0,
-          "align": "left"
-        }
-      ],
-      "column": "1"
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
     }
   }
 ]
