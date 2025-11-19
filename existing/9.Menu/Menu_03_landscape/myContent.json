@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_03_landscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_03_landscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_03_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_03_landscape/background.svg",
     "content_size": 124748,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -63,6 +63,7 @@
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "240, 24, 35",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255, 255, 255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
@@ -98,13 +99,13 @@
     "display_order": 3,
     "content_type": "T_MENU",
     "width": 1618,
-    "height": 162,
-    "top": 307,
-    "left": 152,
+    "height": 200,
+    "top": 280,
+    "left": 100,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r1_menu_03_landscape",
+    "widget_class": "r5_menu_03_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -117,7 +118,8 @@
             "price": ["19,0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "MENU TITLE",
@@ -125,7 +127,8 @@
             "price": ["19,0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "MENU TITLE",
@@ -133,7 +136,8 @@
             "price": ["19,0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           },
           {
             "menu_name": "MENU TITLE",
@@ -141,13 +145,14 @@
             "price": ["19,0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Helvetica Neue",
-        "font_file": "Helvetica Neue.ttf",
+        "font_name": "HelveticaNeueMedium",
+        "font_file": "HelveticaNeueMedium.otf",
         "font_size": 30,
         "color": "rgba(56, 56, 56,1)",
         "style_bold": true,
@@ -157,8 +162,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Helvetica Neue",
-        "font_file": "Helvetica Neue.ttf",
+        "font_name": "HelveticaNeueMedium",
+        "font_file": "HelveticaNeueMedium.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -168,8 +173,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Helvetica Neue",
-        "font_file": "Helvetica Neue-Regular.ttf",
+        "font_name": "HelveticaNeueMedium",
+        "font_file": "HelveticaNeueMedium.otf",
         "font_size": 30,
         "color": "rgba(63,85,44,1)",
         "style_bold": true,
@@ -187,7 +192,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -201,8 +206,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Helvetica Neue",
-        "font_file": "Helvetica Neue-Regular.ttf",
+        "font_name": "HelveticaNeueMedium",
+        "font_file": "HelveticaNeueMedium.otf",
         "font_size": 22,
         "color": "rgba(56, 56, 56,1)",
         "style_bold": true,
@@ -213,11 +218,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
@@ -228,12 +233,12 @@
         {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": ["name", "price"]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": ["description"]
           }
         ]
       }
@@ -244,13 +249,13 @@
     "display_order": 4,
     "content_type": "T_MENU",
     "width": 1618,
-    "height": 380,
+    "height": 200,
     "top": 513,
-    "left": 152,
+    "left": 100,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r1_menu_03_landscape",
+    "widget_class": "r5_menu_03_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -263,7 +268,8 @@
             "price": ["19,0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "MENU TITLE",
@@ -271,7 +277,8 @@
             "price": ["19,0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "MENU TITLE",
@@ -279,7 +286,8 @@
             "price": ["19,0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           },
           {
             "menu_name": "MENU TITLE",
@@ -287,13 +295,14 @@
             "price": ["19,0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Helvetica Neue",
-        "font_file": "Helvetica Neue.ttf",
+        "font_name": "HelveticaNeueMedium",
+        "font_file": "HelveticaNeueMedium.otf",
         "font_size": 30,
         "color": "rgba(56, 56, 56,1)",
         "style_bold": true,
@@ -303,8 +312,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Helvetica Neue",
-        "font_file": "Helvetica Neue.ttf",
+        "font_name": "HelveticaNeueMedium",
+        "font_file": "HelveticaNeueMedium.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -314,8 +323,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Helvetica Neue",
-        "font_file": "Helvetica Neue-Regular.ttf",
+        "font_name": "HelveticaNeueMedium",
+        "font_file": "HelveticaNeueMedium.otf",
         "font_size": 30,
         "color": "rgba(63,85,44,1)",
         "style_bold": true,
@@ -333,7 +342,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -347,8 +356,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Helvetica Neue",
-        "font_file": "Helvetica Neue-Regular.ttf",
+        "font_name": "HelveticaNeueMedium",
+        "font_file": "HelveticaNeueMedium.otf",
         "font_size": 22,
         "color": "rgba(56, 56, 56,1)",
         "style_bold": true,
@@ -359,11 +368,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
@@ -374,15 +383,16 @@
         {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": ["name", "price"]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": ["description"]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]
