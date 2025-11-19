@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_landscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template_New/existing/9.Menu/Menu_04_landscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_04_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_04_landscape/background.svg",
     "content_size": 132478,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -64,6 +64,7 @@
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "9, 81, 158",
       "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
@@ -115,6 +116,7 @@
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "244, 243, 238",
       "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
@@ -166,6 +168,7 @@
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "244, 243, 238",
       "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
@@ -217,6 +220,7 @@
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "244, 243, 238",
       "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
@@ -257,7 +261,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r1_menu_03_landscape",
+    "widget_class": "r5_menu_03_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -395,7 +399,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r1_menu_03_landscape",
+    "widget_class": "r5_menu_03_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -533,7 +537,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r1_menu_03_landscape",
+    "widget_class": "r5_menu_03_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
