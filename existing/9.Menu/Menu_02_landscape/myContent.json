@@ -256,7 +256,7 @@
     "display_order": 6,
     "content_type": "TEXT",
     "top": 186,
-    "left": 797,
+    "left": 792,
     "width": 92,
     "height": 34,
     "angle": 0,
@@ -277,7 +277,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.1,
+      "editor_option_text_spacing": -1,
       "editor_option_text_font_file": "Helvetica-Neue.ttf"
     },
     "option_text_outline": {
@@ -308,8 +308,8 @@
     "display_order": 7,
     "content_type": "TEXT",
     "top": 186,
-    "left": 885,
-    "width": 92,
+    "left": 880,
+    "width": 100,
     "height": 34,
     "angle": 0,
     "content_size": 6,
@@ -329,7 +329,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.1,
+      "editor_option_text_spacing": -1,
       "editor_option_text_font_file": "Helvetica-Neue.ttf"
     },
     "option_text_outline": {
@@ -360,8 +360,8 @@
     "display_order": 8,
     "content_type": "TEXT",
     "top": 186,
-    "left": 996,
-    "width": 92,
+    "left": 993,
+    "width": 115,
     "height": 34,
     "angle": 0,
     "content_size": 7,
@@ -381,7 +381,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.1,
+      "editor_option_text_spacing": -1,
       "editor_option_text_font_file": "Helvetica-Neue.ttf"
     },
     "option_text_outline": {
@@ -412,8 +412,8 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 186,
-    "left": 1130,
-    "width": 92,
+    "left": 1120,
+    "width": 110,
     "height": 34,
     "angle": 0,
     "content_size": 6,
@@ -433,7 +433,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.1,
+      "editor_option_text_spacing": -1,
       "editor_option_text_font_file": "Helvetica-Neue.ttf"
     },
     "option_text_outline": {
@@ -562,12 +562,12 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Helvetica Neue",
-        "font_file": "Helvetica Neue.ttf",
+        "font_name": "BodoniModa_72pt-Regular",
+        "font_file": "BodoniModa_72pt-Regular.ttf",
         "font_size": 22,
         "color": "rgba(63,85,44,1)",
-        "style_bold": 500,
-        "style_italic": false,
+        "style_bold": true,
+        "style_italic": true,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -595,11 +595,11 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Bodoni 72",
-        "font_file": "Bodoni 72.ttf",
+        "font_name": "BodoniModa_72pt-Regular",
+        "font_file": "BodoniModa_72pt-Regular.ttf",
         "font_size": 28,
         "color": "rgba(77,77,77,1)",
-        "style_bold": false,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
