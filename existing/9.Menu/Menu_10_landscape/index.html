@@ -31,151 +31,878 @@
   <div id="editor" class="backgroundSize" style="background-image: url('background.svg')">
     <!-- image -->
     <div>
-      <img id="editorItem1" class="widgetCon" style="top: 194px; left: 1041px; width: 35px; height: 38px;" src="img_01.svg" />
+      <img id="editorItem1" class="widgetCon" style="top: 334px; left: 72px; width: 528px; height: 5px;" src="img_01.svg" />
     </div>
     <div>
-      <img id="editorItem2" class="widgetCon" style="top: 343px; left: 70px; width: 532px; height: 2px;" src="img_02.svg" />
+      <img id="editorItem2" class="widgetCon" style="top: 334px; left: 707px; width: 528px; height: 5px;" src="img_01.svg" />
     </div>
     <div>
-      <img id="editorItem3" class="widgetCon" style="top: 393px; left: 698px; width: 532px; height: 2px;" src="img_02.svg" />
-    </div>
-    <div>
-      <img id="editorItem4" class="widgetCon" style="top: 343px; left: 1319px; width: 532px; height: 2px;" src="img_02.svg" />
-    </div>
-    <div>
-      <img id="editorItem5" class="widgetCon" style="top: 679px; left: 1319px; width: 532px; height: 2px;" src="img_02.svg" />
+      <img id="editorItem3" class="widgetCon" style="top: 334px; left: 1342px; width: 528px; height: 5px;" src="img_01.svg" />
     </div>
    
     <!-- text -->
     <div
+      id="editorItem4"
+      class="widgetCon"
+      style="
+        top: 146px;
+        left: 72px;
+        width: 965px;
+        height: 52px;
+        text-align: left;
+        color: rgba(222, 76, 66, 1);
+        font-size: 102px;
+        font-weight: 400;
+        letter-spacing: -0.5px;
+        font-family: Chelsea Market;
+      "
+    >
+    Restaurant Menu
+    </div>
+  
+    <div
+      id="editorItem5"
+      class="widgetCon"
+      style="
+        top: 289px;
+        left: 72px;
+        width: 397px;
+        height: 52px;
+        text-align: left;
+        color: rgba(222, 76, 66, 1);
+        font-size: 42px;
+        font-weight: 400;
+        letter-spacing: -0.5px;
+        font-family: Chelsea Market;
+      "
+    >
+    Seasonal Dish
+    </div>
+
+    <div
       id="editorItem6"
       class="widgetCon"
       style="
-        top: 92px;
-        left: 803px;
-        width: 81px;
-        height: 29px;
-        text-align: center;
-        color: rgba(49, 87, 69, 1);
-        font-size: 101px;
-        font-weight: 700;
+        top: 289px;
+        left: 707px;
+        width: 397px;
+        height: 52px;
+        text-align: left;
+        color: rgba(222, 76, 66, 1);
+        font-size: 42px;
+        font-weight: 400;
         letter-spacing: -0.5px;
-        font-family: Marion;
+        font-family: Chelsea Market;
       "
     >
-    MENU
+    Side Dish
     </div>
-  
+
     <div
       id="editorItem7"
       class="widgetCon"
       style="
-        top: 193px;
-        left: 796px;
-        width: 304px;
-        height: 37px;
-        text-align: center;
-        color: rgba(49, 87, 69, 1);
-        font-size: 28px;
-        font-weight: 700;
-        letter-spacing: -0.5px;
-        font-family: Helvetica Neue;
-      "
-    >
-    Organic Food
-    </div>
-
-    <div
-      id="editorItem8"
-      class="widgetCon"
-      style="
-        top: 310px;
-        left: 70px;
-        width: 532px;
-        height: 36px;
-        text-align: center;
-        color: rgba(49, 87, 69, 1);
-        font-size: 30px;
+        top: 289px;
+        left: 1342px;
+        width: 397px;
+        height: 52px;
+        text-align: left;
+        color: rgba(222, 76, 66, 1);
+        font-size: 42px;
         font-weight: 400;
         letter-spacing: -0.5px;
-        font-family: Marion;
+        font-family: Chelsea Market;
       "
     >
-    SEASONAL DISH
+    Drinks
+    </div>
+
+    <!-- 여기부터 웹화면 -->
+    <div
+      id="editorItem8"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 8, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 535px; height: 430px; top: 374px; left: 74px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu" style="display: flex; gap: 22px; flex-direction: column;">
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+                --col1: 80;
+                --col2: 20;
+                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
+            >
+              <!-- Grid-A -->
+              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
+              </div> -->
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Noto Sans';
+                    font-size: 27px;
+                    font-weight: 600;
+                    font-style: normal;
+                    color: rgba(222, 76, 66, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    letter-spacing: -0.5px;
+                  "
+                >
+                Main Title 
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Noto Sans';
+                      font-size: 18px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(222, 76, 66, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      letter-spacing: -0.5px;
+                      text-align: left;
+                    "
+                  >
+                  A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(100, 100, 100, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox flex-right" draggable="true">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option">
+                      <div class="price_option">
+                        <span
+                          style="
+                            font-family: 'Noto Sans';
+                            font-size: 20px;
+                            font-weight: 700;
+                            width: 100%;
+                            font-style: normal;
+                            color: rgba(222, 76, 66, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: right;
+                            margin-left: 0rem;
+                          "
+                        >
+                        95.00
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 12px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(222, 76, 66, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: right;
+                        margin-left: 10px;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+                --col1: 80;
+                --col2: 20;
+                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
+            >
+              <!-- Grid-A -->
+              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
+              </div> -->
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Noto Sans';
+                    font-size: 27px;
+                    font-weight: 600;
+                    font-style: normal;
+                    color: rgba(222, 76, 66, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    letter-spacing: -0.5px;
+                  "
+                >
+                Main Title 
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Noto Sans';
+                      font-size: 18px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(222, 76, 66, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      letter-spacing: -0.5px;
+                      text-align: left;
+                    "
+                  >
+                  A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(100, 100, 100, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox flex-right" draggable="true">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option">
+                      <div class="price_option">
+                        <span
+                          style="
+                            font-family: 'Noto Sans';
+                            font-size: 20px;
+                            font-weight: 700;
+                            width: 100%;
+                            font-style: normal;
+                            color: rgba(222, 76, 66, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: right;
+                            margin-left: 0rem;
+                          "
+                        >
+                        95.00
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 12px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(222, 76, 66, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: right;
+                        margin-left: 10px;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+                --col1: 80;
+                --col2: 20;
+                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
+            >
+              <!-- Grid-A -->
+              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
+              </div> -->
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Noto Sans';
+                    font-size: 27px;
+                    font-weight: 600;
+                    font-style: normal;
+                    color: rgba(222, 76, 66, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    letter-spacing: -0.5px;
+                  "
+                >
+                Main Title 
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Noto Sans';
+                      font-size: 18px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(222, 76, 66, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      letter-spacing: -0.5px;
+                      text-align: left;
+                    "
+                  >
+                  A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(100, 100, 100, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox flex-right" draggable="true">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option">
+                      <div class="price_option">
+                        <span
+                          style="
+                            font-family: 'Noto Sans';
+                            font-size: 20px;
+                            font-weight: 700;
+                            width: 100%;
+                            font-style: normal;
+                            color: rgba(222, 76, 66, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: right;
+                            margin-left: 0rem;
+                          "
+                        >
+                        95.00
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 12px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(222, 76, 66, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: right;
+                        margin-left: 10px;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+                --col1: 80;
+                --col2: 20;
+                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
+            >
+              <!-- Grid-A -->
+              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
+              </div> -->
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Noto Sans';
+                    font-size: 27px;
+                    font-weight: 600;
+                    font-style: normal;
+                    color: rgba(222, 76, 66, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    letter-spacing: -0.5px;
+                  "
+                >
+                Main Title 
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Noto Sans';
+                      font-size: 18px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(222, 76, 66, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      letter-spacing: -0.5px;
+                      text-align: left;
+                    "
+                  >
+                  A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(100, 100, 100, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox flex-right" draggable="true">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option">
+                      <div class="price_option">
+                        <span
+                          style="
+                            font-family: 'Noto Sans';
+                            font-size: 20px;
+                            font-weight: 700;
+                            width: 100%;
+                            font-style: normal;
+                            color: rgba(222, 76, 66, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: right;
+                            margin-left: 0rem;
+                          "
+                        >
+                        95.00
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 12px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(222, 76, 66, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: right;
+                        margin-left: 10px;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <div
       id="editorItem9"
-      class="widgetCon"
-      style="
-        top: 359px;
-        left: 700px;
-        width: 528px;
-        height: 36px;
-        text-align: center;
-        color: rgba(49, 87, 69, 1);
-        font-size: 30px;
-        font-weight: 400;
-        letter-spacing: -0.5px;
-        font-family: Marion;
-      "
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 :9, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 535px; height: 480px; top: 374px; left: 707px; transform: rotate(0deg)"
     >
-    SIDE DISH
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu" style="display: flex; gap: 22px; flex-direction: column;">
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+                --col1: 80;
+                --col2: 20;
+                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
+            >
+              <!-- Grid-A -->
+              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
+              </div> -->
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Noto Sans';
+                    font-size: 27px;
+                    font-weight: 600;
+                    font-style: normal;
+                    color: rgba(222, 76, 66, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    letter-spacing: -0.5px;
+                  "
+                >
+                Main Title 
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Noto Sans';
+                      font-size: 18px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(222, 76, 66, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      letter-spacing: -0.5px;
+                      text-align: left;
+                    "
+                  >
+                  A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(100, 100, 100, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox flex-right" draggable="true">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option">
+                      <div class="price_option">
+                        <span
+                          style="
+                            font-family: 'Noto Sans';
+                            font-size: 20px;
+                            font-weight: 700;
+                            width: 100%;
+                            font-style: normal;
+                            color: rgba(222, 76, 66, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: right;
+                            margin-left: 0rem;
+                          "
+                        >
+                        95.00
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 12px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(222, 76, 66, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: right;
+                        margin-left: 10px;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+                --col1: 80;
+                --col2: 20;
+                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
+            >
+              <!-- Grid-A -->
+              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
+              </div> -->
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Noto Sans';
+                    font-size: 27px;
+                    font-weight: 600;
+                    font-style: normal;
+                    color: rgba(222, 76, 66, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    letter-spacing: -0.5px;
+                  "
+                >
+                Main Title 
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Noto Sans';
+                      font-size: 18px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(222, 76, 66, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      letter-spacing: -0.5px;
+                      text-align: left;
+                    "
+                  >
+                  A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(100, 100, 100, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox flex-right" draggable="true">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option">
+                      <div class="price_option">
+                        <span
+                          style="
+                            font-family: 'Noto Sans';
+                            font-size: 20px;
+                            font-weight: 700;
+                            width: 100%;
+                            font-style: normal;
+                            color: rgba(222, 76, 66, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: right;
+                            margin-left: 0rem;
+                          "
+                        >
+                        95.00
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 12px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(222, 76, 66, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: right;
+                        margin-left: 10px;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+                --col1: 80;
+                --col2: 20;
+                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
+            >
+              <!-- Grid-A -->
+              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
+              </div> -->
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Noto Sans';
+                    font-size: 27px;
+                    font-weight: 600;
+                    font-style: normal;
+                    color: rgba(222, 76, 66, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    letter-spacing: -0.5px;
+                  "
+                >
+                Main Title 
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Noto Sans';
+                      font-size: 18px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(222, 76, 66, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      letter-spacing: -0.5px;
+                      text-align: left;
+                    "
+                  >
+                  A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(100, 100, 100, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox flex-right" draggable="true">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option">
+                      <div class="price_option">
+                        <span
+                          style="
+                            font-family: 'Noto Sans';
+                            font-size: 20px;
+                            font-weight: 700;
+                            width: 100%;
+                            font-style: normal;
+                            color: rgba(222, 76, 66, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: right;
+                            margin-left: 0rem;
+                          "
+                        >
+                        95.00
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 12px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(222, 76, 66, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: right;
+                        margin-left: 10px;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <div
       id="editorItem10"
-      class="widgetCon"
-      style="
-        top: 310px;
-        left: 1326px;
-        width: 525px;
-        height: 36px;
-        text-align: center;
-        color: rgba(49, 87, 69, 1);
-        font-size: 30px;
-        font-weight: 400;
-        letter-spacing: -0.5px;
-        font-family: Marion;
-      "
-    >
-    VEGAN WINE
-    </div>
-
-    <div
-      id="editorItem11"
-      class="widgetCon"
-      style="
-        top: 644px;
-        left: 1326px;
-        width: 525px;
-        height: 36px;
-        text-align: center;
-        color: rgba(49, 87, 69, 1);
-        font-size: 30px;
-        font-weight: 400;
-        letter-spacing: -0.5px;
-        font-family: Marion;
-      "
-    >
-    DESSERTS
-  </div>
-
-    <!-- 여기부터 웹화면 -->
-    <div
-      id="editorItem12"
       class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
       role="application"
       tabindex="0"
-      aria-label=", 콘텐츠 순서 : 12, 콘텐츠 타입 : t_menu"
+      aria-label=", 콘텐츠 순서 : 10, 콘텐츠 타입 : t_menu"
       aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
       aria-haspopup="true"
       aria-expanded="false"
-      style="width: 539px; height: 480px; top: 387px; left: 68px; transform: rotate(0deg)"
+      style="width: 535px; height: 480px; top: 374px; left: 1340px; transform: rotate(0deg)"
     >
       <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
         <div class="menuTypeArea" style="width: 100%; height: 100%">
-          <div class="menuTypeGroup menu" style="display: flex; gap: 33px; flex-direction: column;">
+          <div class="menuTypeGroup menu" style="display: flex; gap: 22px; flex-direction: column;">
             <div
               class="menuItem itemGrid type-01"
               style="
@@ -194,34 +921,32 @@
                   draggable="true"
                   style="
                     font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
+                    font-size: 27px;
+                    font-weight: 600;
                     font-style: normal;
-                    color: rgba(49, 87, 69, 1);
+                    color: rgba(222, 76, 66, 1);
                     background-color: rgba(255, 255, 255, 0);
                     text-align: left;
                     letter-spacing: -0.5px;
-                    margin-bottom: 9px;
                   "
                 >
-                Green Pea & Asparagus curry with potato gnocch + Thai chill
+                Main Title 
                 </div>
                 <div class="description dragBox" draggable="true">
                   <div
                     class="menuExplain"
                     style="
                       font-family: 'Noto Sans';
-                      font-size: 17px;
+                      font-size: 18px;
                       font-weight: 500;
                       font-style: normal;
-                      color: rgba(120, 120, 120, 1);
+                      color: rgba(222, 76, 66, 1);
                       background-color: rgba(255, 255, 255, 0);
                       letter-spacing: -0.5px;
                       text-align: left;
-                      margin-bottom: 7px;
                     "
                   >
-                  Green curry made with asparagus and peas Roasted meatballs, the characteristic of Tha chilli peppers with spicy balls
+                  A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.
                   </div>
                   <div
                     class="allergy"
@@ -230,7 +955,7 @@
                       font-size: 14px;
                       font-weight: 400;
                       font-style: normal;
-                      color: rgba(49, 87, 69, 1);
+                      color: rgba(100, 100, 100, 1);
                       background-color: rgba(255, 255, 255, 0);
                       text-align: left;
                     "
@@ -243,7 +968,7 @@
               <!-- Grid-C -->
               <div class="itemGrid-C dragContainer">
                 <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
+                  <div class="kcal_option kcal_right">
                     <div class="size_option">
                       <div class="price_option">
                         <span
@@ -253,13 +978,13 @@
                             font-weight: 700;
                             width: 100%;
                             font-style: normal;
-                            color: rgba(49, 87, 69, 1);
+                            color: rgba(222, 76, 66, 1);
                             background-color: rgba(255, 255, 255, 0);
                             text-align: right;
                             margin-left: 0rem;
                           "
                         >
-                        200.0
+                        95.00
                         </span>
                       </div>
                     </div>
@@ -270,12 +995,118 @@
                         font-size: 12px;
                         font-weight: normal;
                         font-style: normal;
-                        color:rgba(49, 87, 69, 1);
+                        color:rgba(222, 76, 66, 1);
                         background-color: rgba(255, 255, 255, 0);
                         text-align: right;
+                        margin-left: 10px;
                       "
                     >
-                      2000 kcal
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+                --col1: 80;
+                --col2: 20;
+                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
+            >
+              <!-- Grid-A -->
+              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
+              </div> -->
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Noto Sans';
+                    font-size: 27px;
+                    font-weight: 600;
+                    font-style: normal;
+                    color: rgba(222, 76, 66, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    letter-spacing: -0.5px;
+                  "
+                >
+                Main Title 
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Noto Sans';
+                      font-size: 18px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(222, 76, 66, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      letter-spacing: -0.5px;
+                      text-align: left;
+                    "
+                  >
+                  A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(100, 100, 100, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox flex-right" draggable="true">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option">
+                      <div class="price_option">
+                        <span
+                          style="
+                            font-family: 'Noto Sans';
+                            font-size: 20px;
+                            font-weight: 700;
+                            width: 100%;
+                            font-style: normal;
+                            color: rgba(222, 76, 66, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: right;
+                            margin-left: 0rem;
+                          "
+                        >
+                        95.00
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 12px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(222, 76, 66, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: right;
+                        margin-left: 10px;
+                      "
+                    >
+                      99 kcal
                     </span>
                   </div>
                 </div>
@@ -300,34 +1131,32 @@
                   draggable="true"
                   style="
                     font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
+                    font-size: 27px;
+                    font-weight: 600;
                     font-style: normal;
-                    color: rgba(49, 87, 69, 1);
+                    color: rgba(222, 76, 66, 1);
                     background-color: rgba(255, 255, 255, 0);
                     text-align: left;
                     letter-spacing: -0.5px;
-                    margin-bottom: 9px;
                   "
                 >
-                Cham-namul & Lemon Pesto pasta
+                Main Title 
                 </div>
                 <div class="description dragBox" draggable="true">
                   <div
                     class="menuExplain"
                     style="
                       font-family: 'Noto Sans';
-                      font-size: 17px;
+                      font-size: 18px;
                       font-weight: 500;
                       font-style: normal;
-                      color: rgba(120, 120, 120, 1);
+                      color: rgba(222, 76, 66, 1);
                       background-color: rgba(255, 255, 255, 0);
                       letter-spacing: -0.5px;
                       text-align: left;
-                      margin-bottom: 7px;
                     "
                   >
-                  Italian Pasta mixed with oak juice and lemon juice
+                  A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.
                   </div>
                   <div
                     class="allergy"
@@ -336,7 +1165,7 @@
                       font-size: 14px;
                       font-weight: 400;
                       font-style: normal;
-                      color: rgba(49, 87, 69, 1);
+                      color: rgba(100, 100, 100, 1);
                       background-color: rgba(255, 255, 255, 0);
                       text-align: left;
                     "
@@ -349,7 +1178,7 @@
               <!-- Grid-C -->
               <div class="itemGrid-C dragContainer">
                 <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
+                  <div class="kcal_option kcal_right">
                     <div class="size_option">
                       <div class="price_option">
                         <span
@@ -359,13 +1188,13 @@
                             font-weight: 700;
                             width: 100%;
                             font-style: normal;
-                            color: rgba(49, 87, 69, 1);
+                            color: rgba(222, 76, 66, 1);
                             background-color: rgba(255, 255, 255, 0);
                             text-align: right;
                             margin-left: 0rem;
                           "
                         >
-                        17.0
+                        95.00
                         </span>
                       </div>
                     </div>
@@ -376,1020 +1205,13 @@
                         font-size: 12px;
                         font-weight: normal;
                         font-style: normal;
-                        color:rgba(49, 87, 69, 1);
+                        color:rgba(222, 76, 66, 1);
                         background-color: rgba(255, 255, 255, 0);
                         text-align: right;
+                        margin-left: 10px;
                       "
                     >
-                      2000 kcal
-                    </span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div
-              class="menuItem itemGrid type-01"
-              style="
-                --col1: 80;
-                --col2: 20;
-                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
-            >
-              <!-- Grid-A -->
-              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
-              </div> -->
-
-              <!-- Grid-B -->
-              <div class="itemGrid-B dragContainer">
-                <div
-                  class="item-name dragBox"
-                  draggable="true"
-                  style="
-                    font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
-                    font-style: normal;
-                    color: rgba(49, 87, 69, 1);
-                    background-color: rgba(255, 255, 255, 0);
-                    text-align: left;
-                    letter-spacing: -0.5px;
-                    margin-bottom: 9px;
-                  "
-                >
-                Hummus salad with cherry tomatoes
-                </div>
-                <div class="description dragBox" draggable="true">
-                  <div
-                    class="menuExplain"
-                    style="
-                      font-family: 'Noto Sans';
-                      font-size: 17px;
-                      font-weight: 500;
-                      font-style: normal;
-                      color: rgba(120, 120, 120, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      letter-spacing: -0.5px;
-                      text-align: left;
-                      margin-bottom: 7px;
-                    "
-                  >
-                  Hums Salad with Lemon Sauce and Vegetables
-                  </div>
-                  <div
-                    class="allergy"
-                    style="
-                      font-family: 'Pretendard';
-                      font-size: 14px;
-                      font-weight: 400;
-                      font-style: normal;
-                      color: rgba(49, 87, 69, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      text-align: left;
-                    "
-                  >
-                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
-                  </div>
-                </div>
-              </div>
-
-              <!-- Grid-C -->
-              <div class="itemGrid-C dragContainer">
-                <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
-                    <div class="size_option">
-                      <div class="price_option">
-                        <span
-                          style="
-                            font-family: 'Noto Sans';
-                            font-size: 20px;
-                            font-weight: 700;
-                            width: 100%;
-                            font-style: normal;
-                            color: rgba(49, 87, 69, 1);
-                            background-color: rgba(255, 255, 255, 0);
-                            text-align: right;
-                            margin-left: 0rem;
-                          "
-                        >
-                        16.0
-                        </span>
-                      </div>
-                    </div>
-                    <span
-                      class="kcal-right"
-                      style="
-                        font-family: 'Pretendard';
-                        font-size: 12px;
-                        font-weight: normal;
-                        font-style: normal;
-                        color:rgba(49, 87, 69, 1);
-                        background-color: rgba(255, 255, 255, 0);
-                        text-align: right;
-                      "
-                    >
-                      2000 kcal
-                    </span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div
-              class="menuItem itemGrid type-01"
-              style="
-                --col1: 80;
-                --col2: 20;
-                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
-            >
-              <!-- Grid-A -->
-              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
-              </div> -->
-
-              <!-- Grid-B -->
-              <div class="itemGrid-B dragContainer">
-                <div
-                  class="item-name dragBox"
-                  draggable="true"
-                  style="
-                    font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
-                    font-style: normal;
-                    color: rgba(49, 87, 69, 1);
-                    background-color: rgba(255, 255, 255, 0);
-                    text-align: left;
-                    letter-spacing: -0.5px;
-                    margin-bottom: 9px;
-                  "
-                >
-                Mushroom Basil Pasta
-                </div>
-                <div class="description dragBox" draggable="true">
-                  <div
-                    class="menuExplain"
-                    style="
-                      font-family: 'Noto Sans';
-                      font-size: 17px;
-                      font-weight: 500;
-                      font-style: normal;
-                      color: rgba(120, 120, 120, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      letter-spacing: -0.5px;
-                      text-align: left;
-                      margin-bottom: 7px;
-                    "
-                  >
-                  Mushroom basil pasta
-                  </div>
-                  <div
-                    class="allergy"
-                    style="
-                      font-family: 'Pretendard';
-                      font-size: 14px;
-                      font-weight: 400;
-                      font-style: normal;
-                      color: rgba(49, 87, 69, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      text-align: left;
-                    "
-                  >
-                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
-                  </div>
-                </div>
-              </div>
-
-              <!-- Grid-C -->
-              <div class="itemGrid-C dragContainer">
-                <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
-                    <div class="size_option">
-                      <div class="price_option">
-                        <span
-                          style="
-                            font-family: 'Noto Sans';
-                            font-size: 20px;
-                            font-weight: 700;
-                            width: 100%;
-                            font-style: normal;
-                            color: rgba(49, 87, 69, 1);
-                            background-color: rgba(255, 255, 255, 0);
-                            text-align: right;
-                            margin-left: 0rem;
-                          "
-                        >
-                        22.0
-                        </span>
-                      </div>
-                    </div>
-                    <span
-                      class="kcal-right"
-                      style="
-                        font-family: 'Pretendard';
-                        font-size: 12px;
-                        font-weight: normal;
-                        font-style: normal;
-                        color:rgba(49, 87, 69, 1);
-                        background-color: rgba(255, 255, 255, 0);
-                        text-align: right;
-                      "
-                    >
-                      2000 kcal
-                    </span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div
-      id="editorItem13"
-      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
-      role="application"
-      tabindex="0"
-      aria-label=", 콘텐츠 순서 : 13, 콘텐츠 타입 : t_menu"
-      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
-      aria-haspopup="true"
-      aria-expanded="false"
-      style="width: 539px; height: 353px; top: 430px; left: 689px; transform: rotate(0deg)"
-    >
-      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
-        <div class="menuTypeArea" style="width: 100%; height: 100%">
-          <div class="menuTypeGroup menu" style="display: flex; gap: 33px; flex-direction: column;">
-            <div
-              class="menuItem itemGrid type-01"
-              style="
-                --col1: 80;
-                --col2: 20;
-                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
-            >
-              <!-- Grid-A -->
-              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
-              </div> -->
-
-              <!-- Grid-B -->
-              <div class="itemGrid-B dragContainer">
-                <div
-                  class="item-name dragBox"
-                  draggable="true"
-                  style="
-                    font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
-                    font-style: normal;
-                    color: rgba(49, 87, 69, 1);
-                    background-color: rgba(255, 255, 255, 0);
-                    text-align: left;
-                    letter-spacing: -0.5px;
-                    margin-bottom: 9px;
-                  "
-                >
-                Pinch’s Vegan yogurt bowl with house granola and fruits
-                </div>
-                <div class="description dragBox" draggable="true">
-                  <div
-                    class="menuExplain"
-                    style="
-                      font-family: 'Noto Sans';
-                      font-size: 17px;
-                      font-weight: 500;
-                      font-style: normal;
-                      color: rgba(120, 120, 120, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      letter-spacing: -0.5px;
-                      text-align: left;
-                      margin-bottom: 7px;
-                    "
-                  >
-                  Finch yogurt made from soybean milk, Yogurt fruit bowl with added Agabe syrup
-                  </div>
-                  <div
-                    class="allergy"
-                    style="
-                      font-family: 'Pretendard';
-                      font-size: 14px;
-                      font-weight: 400;
-                      font-style: normal;
-                      color: rgba(49, 87, 69, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      text-align: left;
-                    "
-                  >
-                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
-                  </div>
-                </div>
-              </div>
-
-              <!-- Grid-C -->
-              <div class="itemGrid-C dragContainer">
-                <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
-                    <div class="size_option">
-                      <div class="price_option">
-                        <span
-                          style="
-                            font-family: 'Noto Sans';
-                            font-size: 20px;
-                            font-weight: 700;
-                            width: 100%;
-                            font-style: normal;
-                            color: rgba(49, 87, 69, 1);
-                            background-color: rgba(255, 255, 255, 0);
-                            text-align: right;
-                            margin-left: 0rem;
-                          "
-                        >
-                        0.9
-                        </span>
-                      </div>
-                    </div>
-                    <span
-                      class="kcal-right"
-                      style="
-                        font-family: 'Pretendard';
-                        font-size: 12px;
-                        font-weight: normal;
-                        font-style: normal;
-                        color:rgba(49, 87, 69, 1);
-                        background-color: rgba(255, 255, 255, 0);
-                        text-align: right;
-                      "
-                    >
-                      2000 kcal
-                    </span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div
-              class="menuItem itemGrid type-01"
-              style="
-                --col1: 80;
-                --col2: 20;
-                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
-            >
-              <!-- Grid-A -->
-              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
-              </div> -->
-
-              <!-- Grid-B -->
-              <div class="itemGrid-B dragContainer">
-                <div
-                  class="item-name dragBox"
-                  draggable="true"
-                  style="
-                    font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
-                    font-style: normal;
-                    color: rgba(49, 87, 69, 1);
-                    background-color: rgba(255, 255, 255, 0);
-                    text-align: left;
-                    letter-spacing: -0.5px;
-                    margin-bottom: 9px;
-                  "
-                >
-                Samashed & Basil sour cream
-                </div>
-                <div class="description dragBox" draggable="true">
-                  <div
-                    class="menuExplain"
-                    style="
-                      font-family: 'Noto Sans';
-                      font-size: 17px;
-                      font-weight: 500;
-                      font-style: normal;
-                      color: rgba(120, 120, 120, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      letter-spacing: -0.5px;
-                      text-align: left;
-                      margin-bottom: 7px;
-                    "
-                  >
-                  Crispy potatoes and basil began sour cream
-                  </div>
-                  <div
-                    class="allergy"
-                    style="
-                      font-family: 'Pretendard';
-                      font-size: 14px;
-                      font-weight: 400;
-                      font-style: normal;
-                      color: rgba(49, 87, 69, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      text-align: left;
-                    "
-                  >
-                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
-                  </div>
-                </div>
-              </div>
-
-              <!-- Grid-C -->
-              <div class="itemGrid-C dragContainer">
-                <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
-                    <div class="size_option">
-                      <div class="price_option">
-                        <span
-                          style="
-                            font-family: 'Noto Sans';
-                            font-size: 20px;
-                            font-weight: 700;
-                            width: 100%;
-                            font-style: normal;
-                            color: rgba(49, 87, 69, 1);
-                            background-color: rgba(255, 255, 255, 0);
-                            text-align: right;
-                            margin-left: 0rem;
-                          "
-                        >
-                        0.8
-                        </span>
-                      </div>
-                    </div>
-                    <span
-                      class="kcal-right"
-                      style="
-                        font-family: 'Pretendard';
-                        font-size: 12px;
-                        font-weight: normal;
-                        font-style: normal;
-                        color:rgba(49, 87, 69, 1);
-                        background-color: rgba(255, 255, 255, 0);
-                        text-align: right;
-                      "
-                    >
-                      2000 kcal
-                    </span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div
-              class="menuItem itemGrid type-01"
-              style="
-                --col1: 80;
-                --col2: 20;
-                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
-            >
-              <!-- Grid-A -->
-              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
-              </div> -->
-
-              <!-- Grid-B -->
-              <div class="itemGrid-B dragContainer">
-                <div
-                  class="item-name dragBox"
-                  draggable="true"
-                  style="
-                    font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
-                    font-style: normal;
-                    color: rgba(49, 87, 69, 1);
-                    background-color: rgba(255, 255, 255, 0);
-                    text-align: left;
-                    letter-spacing: -0.5px;
-                    margin-bottom: 9px;
-                  "
-                >
-                Fish & Chips
-                </div>
-                <div class="description dragBox" draggable="true">
-                  <div
-                    class="menuExplain"
-                    style="
-                      font-family: 'Noto Sans';
-                      font-size: 17px;
-                      font-weight: 500;
-                      font-style: normal;
-                      color: rgba(120, 120, 120, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      letter-spacing: -0.5px;
-                      text-align: left;
-                      margin-bottom: 7px;
-                    "
-                  >
-                  Fish & chips
-                  </div>
-                  <div
-                    class="allergy"
-                    style="
-                      font-family: 'Pretendard';
-                      font-size: 14px;
-                      font-weight: 400;
-                      font-style: normal;
-                      color: rgba(49, 87, 69, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      text-align: left;
-                    "
-                  >
-                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
-                  </div>
-                </div>
-              </div>
-
-              <!-- Grid-C -->
-              <div class="itemGrid-C dragContainer">
-                <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
-                    <div class="size_option">
-                      <div class="price_option">
-                        <span
-                          style="
-                            font-family: 'Noto Sans';
-                            font-size: 20px;
-                            font-weight: 700;
-                            width: 100%;
-                            font-style: normal;
-                            color: rgba(49, 87, 69, 1);
-                            background-color: rgba(255, 255, 255, 0);
-                            text-align: right;
-                            margin-left: 0rem;
-                          "
-                        >
-                        10.0
-                        </span>
-                      </div>
-                    </div>
-                    <span
-                      class="kcal-right"
-                      style="
-                        font-family: 'Pretendard';
-                        font-size: 12px;
-                        font-weight: normal;
-                        font-style: normal;
-                        color:rgba(49, 87, 69, 1);
-                        background-color: rgba(255, 255, 255, 0);
-                        text-align: right;
-                      "
-                    >
-                      2000 kcal
-                    </span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div
-      id="editorItem14"
-      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
-      role="application"
-      tabindex="0"
-      aria-label=", 콘텐츠 순서 : 14, 콘텐츠 타입 : t_menu"
-      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
-      aria-haspopup="true"
-      aria-expanded="false"
-      style="width: 539px; height: 213px; top: 372px; left: 1317px; transform: rotate(0deg)"
-    >
-      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
-        <div class="menuTypeArea" style="width: 100%; height: 100%">
-          <div class="menuTypeGroup menu" style="display: flex; gap: 33px; flex-direction: column;">
-            <div
-              class="menuItem itemGrid type-01"
-              style="
-                --col1: 80;
-                --col2: 20;
-                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
-            >
-              <!-- Grid-A -->
-              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
-              </div> -->
-
-              <!-- Grid-B -->
-              <div class="itemGrid-B dragContainer">
-                <div
-                  class="item-name dragBox"
-                  draggable="true"
-                  style="
-                    font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
-                    font-style: normal;
-                    color: rgba(49, 87, 69, 1);
-                    background-color: rgba(255, 255, 255, 0);
-                    text-align: left;
-                    letter-spacing: -0.5px;
-                    margin-bottom: 9px;
-                  "
-                >
-                Cattin Cremant d’Alsace Brut
-                </div>
-                <div class="description dragBox" draggable="true">
-                  <div
-                    class="menuExplain"
-                    style="
-                      font-family: 'Noto Sans';
-                      font-size: 17px;
-                      font-weight: 500;
-                      font-style: normal;
-                      color: rgba(120, 120, 120, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      letter-spacing: -0.5px;
-                      text-align: left;
-                      margin-bottom: 7px;
-                    "
-                  >
-                  Countiess golden bubbles, Elde flowers, Fresh floral and stone fruit flavors, Fruit flavor, toasted bread
-                  </div>
-                  <div
-                    class="allergy"
-                    style="
-                      font-family: 'Pretendard';
-                      font-size: 14px;
-                      font-weight: 400;
-                      font-style: normal;
-                      color: rgba(49, 87, 69, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      text-align: left;
-                    "
-                  >
-                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
-                  </div>
-                </div>
-              </div>
-
-              <!-- Grid-C -->
-              <div class="itemGrid-C dragContainer">
-                <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
-                    <div class="size_option">
-                      <div class="price_option">
-                        <span
-                          style="
-                            font-family: 'Noto Sans';
-                            font-size: 20px;
-                            font-weight: 700;
-                            width: 100%;
-                            font-style: normal;
-                            color: rgba(49, 87, 69, 1);
-                            background-color: rgba(255, 255, 255, 0);
-                            text-align: right;
-                            margin-left: 0rem;
-                          "
-                        >
-                        8.0
-                        </span>
-                      </div>
-                    </div>
-                    <span
-                      class="kcal-right"
-                      style="
-                        font-family: 'Pretendard';
-                        font-size: 12px;
-                        font-weight: normal;
-                        font-style: normal;
-                        color:rgba(49, 87, 69, 1);
-                        background-color: rgba(255, 255, 255, 0);
-                        text-align: right;
-                      "
-                    >
-                      2000 kcal
-                    </span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div
-              class="menuItem itemGrid type-01"
-              style="
-                --col1: 80;
-                --col2: 20;
-                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
-            >
-              <!-- Grid-A -->
-              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
-              </div> -->
-
-              <!-- Grid-B -->
-              <div class="itemGrid-B dragContainer">
-                <div
-                  class="item-name dragBox"
-                  draggable="true"
-                  style="
-                    font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
-                    font-style: normal;
-                    color: rgba(49, 87, 69, 1);
-                    background-color: rgba(255, 255, 255, 0);
-                    text-align: left;
-                    letter-spacing: -0.5px;
-                    margin-bottom: 9px;
-                  "
-                >
-                Moet & Chandon Imperial
-                </div>
-                <div class="description dragBox" draggable="true">
-                  <div
-                    class="menuExplain"
-                    style="
-                      font-family: 'Noto Sans';
-                      font-size: 17px;
-                      font-weight: 500;
-                      font-style: normal;
-                      color: rgba(120, 120, 120, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      letter-spacing: -0.5px;
-                      text-align: left;
-                      margin-bottom: 7px;
-                    "
-                  >
-                  Fresh apples, citrus, brioche, seeds, nuts
-                  </div>
-                  <div
-                    class="allergy"
-                    style="
-                      font-family: 'Pretendard';
-                      font-size: 14px;
-                      font-weight: 400;
-                      font-style: normal;
-                      color: rgba(49, 87, 69, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      text-align: left;
-                    "
-                  >
-                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
-                  </div>
-                </div>
-              </div>
-
-              <!-- Grid-C -->
-              <div class="itemGrid-C dragContainer">
-                <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
-                    <div class="size_option">
-                      <div class="price_option">
-                        <span
-                          style="
-                            font-family: 'Noto Sans';
-                            font-size: 20px;
-                            font-weight: 700;
-                            width: 100%;
-                            font-style: normal;
-                            color: rgba(49, 87, 69, 1);
-                            background-color: rgba(255, 255, 255, 0);
-                            text-align: right;
-                            margin-left: 0rem;
-                          "
-                        >
-                        0.8
-                        </span>
-                      </div>
-                    </div>
-                    <span
-                      class="kcal-right"
-                      style="
-                        font-family: 'Pretendard';
-                        font-size: 12px;
-                        font-weight: normal;
-                        font-style: normal;
-                        color:rgba(49, 87, 69, 1);
-                        background-color: rgba(255, 255, 255, 0);
-                        text-align: right;
-                      "
-                    >
-                      2000 kcal
-                    </span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div
-      id="editorItem15"
-      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
-      role="application"
-      tabindex="0"
-      aria-label=", 콘텐츠 순서 : 15, 콘텐츠 타입 : t_menu"
-      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
-      aria-haspopup="true"
-      aria-expanded="false"
-      style="width: 539px; height: 213px; top: 699px; left: 1317px; transform: rotate(0deg)"
-    >
-      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
-        <div class="menuTypeArea" style="width: 100%; height: 100%">
-          <div class="menuTypeGroup menu" style="display: flex; gap: 33px; flex-direction: column;">
-            <div
-              class="menuItem itemGrid type-01"
-              style="
-                --col1: 80;
-                --col2: 20;
-                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
-            >
-              <!-- Grid-A -->
-              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
-              </div> -->
-
-              <!-- Grid-B -->
-              <div class="itemGrid-B dragContainer">
-                <div
-                  class="item-name dragBox"
-                  draggable="true"
-                  style="
-                    font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
-                    font-style: normal;
-                    color: rgba(49, 87, 69, 1);
-                    background-color: rgba(255, 255, 255, 0);
-                    text-align: left;
-                    letter-spacing: -0.5px;
-                    margin-bottom: 9px;
-                  "
-                >
-                Brownies
-                </div>
-                <div class="description dragBox" draggable="true">
-                  <div
-                    class="menuExplain"
-                    style="
-                      font-family: 'Noto Sans';
-                      font-size: 17px;
-                      font-weight: 500;
-                      font-style: normal;
-                      color: rgba(120, 120, 120, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      letter-spacing: -0.5px;
-                      text-align: left;
-                      margin-bottom: 7px;
-                    "
-                  >
-                  Brownies
-                  </div>
-                  <div
-                    class="allergy"
-                    style="
-                      font-family: 'Pretendard';
-                      font-size: 14px;
-                      font-weight: 400;
-                      font-style: normal;
-                      color: rgba(49, 87, 69, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      text-align: left;
-                    "
-                  >
-                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
-                  </div>
-                </div>
-              </div>
-
-              <!-- Grid-C -->
-              <div class="itemGrid-C dragContainer">
-                <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
-                    <div class="size_option">
-                      <div class="price_option">
-                        <span
-                          style="
-                            font-family: 'Noto Sans';
-                            font-size: 20px;
-                            font-weight: 700;
-                            width: 100%;
-                            font-style: normal;
-                            color: rgba(49, 87, 69, 1);
-                            background-color: rgba(255, 255, 255, 0);
-                            text-align: right;
-                            margin-left: 0rem;
-                          "
-                        >
-                        8.0
-                        </span>
-                      </div>
-                    </div>
-                    <span
-                      class="kcal-right"
-                      style="
-                        font-family: 'Pretendard';
-                        font-size: 12px;
-                        font-weight: normal;
-                        font-style: normal;
-                        color:rgba(49, 87, 69, 1);
-                        background-color: rgba(255, 255, 255, 0);
-                        text-align: right;
-                      "
-                    >
-                      2000 kcal
-                    </span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div
-              class="menuItem itemGrid type-01"
-              style="
-                --col1: 80;
-                --col2: 20;
-                grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%)"
-            >
-              <!-- Grid-A -->
-              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
-              </div> -->
-
-              <!-- Grid-B -->
-              <div class="itemGrid-B dragContainer">
-                <div
-                  class="item-name dragBox"
-                  draggable="true"
-                  style="
-                    font-family: 'Noto Sans';
-                    font-size: 22px;
-                    font-weight: 700;
-                    font-style: normal;
-                    color: rgba(49, 87, 69, 1);
-                    background-color: rgba(255, 255, 255, 0);
-                    text-align: left;
-                    letter-spacing: -0.5px;
-                    margin-bottom: 9px;
-                  "
-                >
-                Hazelnut Cheesecake
-                </div>
-                <div class="description dragBox" draggable="true">
-                  <div
-                    class="menuExplain"
-                    style="
-                      font-family: 'Noto Sans';
-                      font-size: 17px;
-                      font-weight: 500;
-                      font-style: normal;
-                      color: rgba(120, 120, 120, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      letter-spacing: -0.5px;
-                      text-align: left;
-                      margin-bottom: 7px;
-                    "
-                  >
-                  Brownies
-                  </div>
-                  <div
-                    class="allergy"
-                    style="
-                      font-family: 'Pretendard';
-                      font-size: 14px;
-                      font-weight: 400;
-                      font-style: normal;
-                      color: rgba(49, 87, 69, 1);
-                      background-color: rgba(255, 255, 255, 0);
-                      text-align: left;
-                    "
-                  >
-                  Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
-                  </div>
-                </div>
-              </div>
-
-              <!-- Grid-C -->
-              <div class="itemGrid-C dragContainer">
-                <div class="menuOption dragBox flex-right" draggable="true">
-                  <div class="kcal_option kcal_down">
-                    <div class="size_option">
-                      <div class="price_option">
-                        <span
-                          style="
-                            font-family: 'Noto Sans';
-                            font-size: 20px;
-                            font-weight: 700;
-                            width: 100%;
-                            font-style: normal;
-                            color: rgba(49, 87, 69, 1);
-                            background-color: rgba(255, 255, 255, 0);
-                            text-align: right;
-                            margin-left: 0rem;
-                          "
-                        >
-                        0.8
-                        </span>
-                      </div>
-                    </div>
-                    <span
-                      class="kcal-right"
-                      style="
-                        font-family: 'Pretendard';
-                        font-size: 12px;
-                        font-weight: normal;
-                        font-style: normal;
-                        color:rgba(49, 87, 69, 1);
-                        background-color: rgba(255, 255, 255, 0);
-                        text-align: right;
-                      "
-                    >
-                      2000 kcal
+                      99 kcal
                     </span>
                   </div>
                 </div>
