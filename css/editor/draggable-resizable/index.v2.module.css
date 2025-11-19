@@ -375,3 +375,10 @@
 .r5_menu_41_landscape #editorItem6 .type-01 .kcal_option{
   align-items: center;
 }
+
+.r5_menu_42_landscape{
+  box-sizing: border-box;
+  padding:52px 19px 0;
+  border: 1px solid #000;
+  border-top: 0;
+}
