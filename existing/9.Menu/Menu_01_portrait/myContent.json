@@ -1084,9 +1084,9 @@
             "enable": true,
             "image": {
               "item_name": "img_05.svg",
-              "item_url": "http://localhost:3000/template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_05.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_05.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_05.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_05.svg"
             }
           },
           {
@@ -1103,9 +1103,9 @@
             "enable": true,
             "image": {
               "item_name": "img_01.svg",
-              "item_url": "http://localhost:3000/template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_06.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_06.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_06.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_06.svg"
             }
           },
           {
@@ -1122,9 +1122,9 @@
             "enable": true,
             "image": {
               "item_name": "img_01.svg",
-              "item_url": "http://localhost:3000/template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_07.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_07.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_07.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_01_portrait/img_07.svg"
             }
           }
         ]
