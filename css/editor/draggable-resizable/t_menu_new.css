@@ -140,3 +140,7 @@
 .r1_menu_08_landscape .menuTypeGroup .kcal_option{
   align-items: flex-end;
 }
+
+.menuTypeGroup .menuOption.flex-right {
+  justify-content: flex-end;
+}
