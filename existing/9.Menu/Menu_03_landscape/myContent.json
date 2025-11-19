@@ -383,7 +383,7 @@
         },
         {
             "id": "orange",
-            "direction": "horizontal",
+            "direction": "vertical",
             "list": ["name", "price"]
           },
           {
