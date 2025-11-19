@@ -306,6 +306,25 @@
   align-items: flex-end;
 }
 
+.r5_menu_09_portrait .menu .menuItem.type-03 {
+  grid-template-columns: 1fr 160px;
+  margin-top: 9px;
+  padding-top: 5px;
+}
+
+.r5_menu_09_portrait .menu .menuItem.type-03:first-child {
+  margin-top: 0;
+}
+
+.r5_menu_09_portrait .itemGrid-B .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_09_portrait .itemGrid-B .menuOption .kcal_option {
+  align-items: flex-end;
+  gap: 15px;
+}
+
 .r5_menu_41_landscape .type-05 .item-image {
   margin: 22px auto 0 auto;
 }
