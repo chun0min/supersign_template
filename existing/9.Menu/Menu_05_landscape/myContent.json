@@ -105,7 +105,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r1_menu_05_landscape",
+    "widget_class": "r5_menu_05_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -243,7 +243,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r1_menu_05_landscape",
+    "widget_class": "r5_menu_05_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -381,7 +381,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r1_menu_05_landscape",
+    "widget_class": "r5_menu_05_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",

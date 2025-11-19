@@ -129,15 +129,15 @@
   margin-left: 0 !important;
 }
 
-.r1_menu_04_landscape .menuTypeGroup .menuOption {
+.r5_menu_04_landscape .menuTypeGroup .menuOption {
   justify-content: flex-end;
 }
 
-.r1_menu_07_landscape .menuTypeGroup .kcal_option{
+.r5_menu_07_landscape .menuTypeGroup .kcal_option{
   align-items: center;
 }
 
-.r1_menu_08_landscape .menuTypeGroup .kcal_option{
+.r5_menu_08_landscape .menuTypeGroup .kcal_option{
   align-items: flex-end;
 }
 
