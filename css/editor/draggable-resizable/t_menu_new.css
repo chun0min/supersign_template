@@ -138,9 +138,31 @@
 }
 
 .r5_menu_08_landscape .menuTypeGroup .kcal_option{
-  align-items: flex-end;
+  align-items: baseline;
 }
 
 .menuTypeGroup .menuOption.flex-right {
   justify-content: flex-end;
+}
+
+.r5_menu_14_landscape .menuTypeGroup .kcal_option{
+  align-items: baseline;
+}
+
+.list-dot{
+  position: relative !important;
+  padding-left: 12px
+}
+
+.list-dot::before{
+  content: '';
+  display: block;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: rgba(136, 136, 136, 1);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
 }
