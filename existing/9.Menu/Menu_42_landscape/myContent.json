@@ -191,7 +191,7 @@
     "is_crop": false
   },
 
-{
+  {
     "id": 4,
     "display_order": 5,
     "content_type": "IMAGE",
@@ -550,7 +550,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "1",
+        "price_type": "4",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -616,8 +616,8 @@
         "font_file": "Noto Sans-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -632,14 +632,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "calories": {
         "font_name": "Inter",
         "font_file": "Inter",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -654,14 +654,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "description": {
         "font_name": "Inter",
         "font_file": "Inter.ttf",
         "font_size": 16,
         "color": "rgba(83,54,32,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -679,8 +679,8 @@
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
             "list": ["name", "description"]
@@ -710,7 +710,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "1",
+        "price_type": "4",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -776,8 +776,8 @@
         "font_file": "Noto Sans-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -792,14 +792,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "calories": {
         "font_name": "Inter",
         "font_file": "Inter",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -814,14 +814,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "description": {
         "font_name": "Inter",
         "font_file": "Inter.ttf",
         "font_size": 16,
         "color": "rgba(83,54,32,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -839,8 +839,8 @@
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
             "list": ["name", "description"]
@@ -870,7 +870,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "1",
+        "price_type": "4",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -936,8 +936,8 @@
         "font_file": "Noto Sans-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -952,14 +952,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "calories": {
         "font_name": "Inter",
         "font_file": "Inter",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -974,14 +974,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "description": {
         "font_name": "Inter",
         "font_file": "Inter.ttf",
         "font_size": 16,
         "color": "rgba(83,54,32,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -999,8 +999,8 @@
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
             "list": ["name", "description"]
@@ -1030,7 +1030,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "1",
+        "price_type": "4",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -1096,8 +1096,8 @@
         "font_file": "Noto Sans-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -1112,14 +1112,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "calories": {
         "font_name": "Inter",
         "font_file": "Inter",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -1134,14 +1134,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "description": {
         "font_name": "Inter",
         "font_file": "Inter.ttf",
         "font_size": 16,
         "color": "rgba(83,54,32,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -1159,8 +1159,8 @@
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
             "list": ["name", "description"]
