@@ -655,7 +655,7 @@
         },
         {
             "id": "orange",
-            "direction": "horizontal",
+            "direction": "vertical",
             "list": ["name", "description"]
           },
           {
@@ -793,7 +793,7 @@
         },
         {
             "id": "orange",
-            "direction": "horizontal",
+            "direction": "vertical",
             "list": ["name", "description"]
           },
           {
