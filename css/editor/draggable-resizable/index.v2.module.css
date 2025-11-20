@@ -90,7 +90,7 @@
 
 /* menuTypeArea */
 .r5_menu_02_landscape.container {
-  display: flex; 
+  display: flex;
   flex-direction: row;
   gap: 58px !important;
 }
@@ -369,22 +369,30 @@
   margin-top: 118px;
 }
 
-.r5_menu_41_landscape_1 .type-01 .item-name{
+.r5_menu_41_landscape_1 .type-01 .item-name {
   margin-top: 15px;
 }
 
-.r5_menu_41_landscape_1 .type-01 .kcal_option{
+.r5_menu_41_landscape_1 .type-01 .kcal_option {
   align-items: center;
 }
 
-.r5_menu_42_landscape{
+.r5_menu_42_landscape {
   box-sizing: border-box;
-  padding:52px 19px 0;
+  padding: 52px 19px 0;
   border: 1px solid #000;
   border-top: 0;
 }
 
-.r5_menu_43_landscape{
+.r5_menu_43_landscape {
   display: flex;
   gap: 116px;
+}
+
+.r5_menu_44_landscape .menu {
+  margin-bottom: 37px;
+}
+
+.r5_menu_44_landscape .menu .kcal_option.kcal_down {
+  align-items: flex-end;
 }
