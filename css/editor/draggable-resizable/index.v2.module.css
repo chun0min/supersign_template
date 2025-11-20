@@ -396,3 +396,11 @@
 .r5_menu_44_landscape .menu .kcal_option.kcal_down {
   align-items: flex-end;
 }
+
+.r5_menu_45_landscape .menu .kcal_option.kcal_down {
+  align-items: flex-end;
+}
+
+.r5_menu_45_landscape .menu{
+  margin-bottom: 40px;
+}
