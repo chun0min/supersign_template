@@ -174,10 +174,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_01.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_01.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_01.svg"
             }
           },
           {
@@ -189,12 +189,13 @@
             "ordr": 2,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_02.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_02.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_02.svg"
             }
-          },{
+          },
+          {
             "menu_name": "MAIN TITLE",
             "description": "DESCRIPTION OF INGREDIENTS AND FLAVOR PROFILE GOES HERE.",
             "price": ["11.00"],
@@ -203,10 +204,10 @@
             "ordr": 3,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_03.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_03.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_03.svg"
             }
           }
         ]
@@ -227,8 +228,8 @@
         "font_file": "Noto Sans-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -243,14 +244,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "calories": {
         "font_name": "Inter",
         "font_file": "Inter.ttf",
         "font_size": 13,
         "color": "rgba(242,99,70,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -265,14 +266,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "description": {
         "font_name": "Inter",
         "font_file": "Inter.ttf",
         "font_size": 19,
         "color": "rgba(15,18,11,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -290,8 +291,8 @@
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
             "list": ["name", "description"]
@@ -333,10 +334,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_04.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_04.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_04.svg"
             }
           },
           {
@@ -348,12 +349,13 @@
             "ordr": 2,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_05.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_05.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_05.svg"
             }
-          },{
+          },
+          {
             "menu_name": "MAIN TITLE",
             "description": "DESCRIPTION OF INGREDIENTS AND FLAVOR PROFILE GOES HERE.",
             "price": ["11.00"],
@@ -362,10 +364,10 @@
             "ordr": 3,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_06.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_06.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_06.svg"
             }
           }
         ]
@@ -386,8 +388,8 @@
         "font_file": "Noto Sans-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -402,14 +404,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "calories": {
         "font_name": "Inter",
         "font_file": "Inter.ttf",
         "font_size": 13,
         "color": "rgba(242,99,70,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -424,14 +426,14 @@
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
-        },
+      },
       "description": {
         "font_name": "Inter",
         "font_file": "Inter.ttf",
         "font_size": 19,
         "color": "rgba(15,18,11,1)",
-          "style_bold": false,
-          "style_italic": false,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -449,8 +451,8 @@
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
             "list": ["name", "description"]
