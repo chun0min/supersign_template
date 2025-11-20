@@ -383,3 +383,8 @@
   border: 1px solid #000;
   border-top: 0;
 }
+
+.r5_menu_43_landscape{
+  display: flex;
+  gap: 116px;
+}
