@@ -8,9 +8,9 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/background.jpg",
-    "content_size": 1397708,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_44_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_44_landscape/background.jpg",
+    "content_size": 1047645,
     "scene_no": 1,
     "media_name": "background.jpg",
     "option_line": {
@@ -46,82 +46,30 @@
     "id": 1,
     "display_order": 2,
     "content_type": "TEXT",
-    "top": 205,
-    "left": -105,
-    "width": 444,
-    "height": 97,
-    "angle": -90,
-    "content_size": 12,
-    "text_value": "CHINESE FOOD",
-    "line_height": 1,
-    "scene_no": 1,
-    "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
-      "editor_option_text_font_size": "89",
-      "editor_option_text_style_bold": false,
-      "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": false,
-      "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "243, 216, 171",
-      "editor_option_text_font_opacity": 1,
-      "editor_option_text_back_color": "63, 85, 44",
-      "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
-    },
-    "option_text_outline": {
-      "editor_option_text_outline_color": "0,0,0",
-      "editor_option_text_outline_width": 0
-    },
-    "option_text_box": {
-      "editor_option_text_box_color": "0,0,0",
-      "editor_option_text_box_border": 0,
-      "editor_option_text_box_radius": 0,
-      "editor_option_text_box_radius_tl": 0,
-      "editor_option_text_box_radius_tr": 0,
-      "editor_option_text_box_radius_bl": 0,
-      "editor_option_text_box_radius_br": 0
-    },
-    "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "0,0,0",
-      "editor_option_shadow_blur": 10,
-      "editor_option_shadow_angle": 10,
-      "editor_option_shadow_distance": 10,
-      "editor_option_shadow_size": 10,
-      "editor_option_shadow_opacity": 1
-    }
-  },
-  {
-    "id": 2,
-    "display_order": 3,
-    "content_type": "TEXT",
-    "top": 205,
-    "left": 55,
-    "width": 459,
-    "height": 253,
-    "angle": -90,
+    "top": 24,
+    "left": 711,
+    "width": 499,
+    "height": 263,
+    "angle": 0,
     "content_size": 4,
-    "text_value": "MENU",
+    "text_value": "menu",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
-      "editor_option_text_font_size": "233",
+      "editor_option_text_font_name": "Bely Display",
+      "editor_option_text_font_size": "182",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "243, 216, 171",
+      "editor_option_text_font_color": "105, 67, 54",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 18,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
+      "editor_option_text_spacing": -0.7,
+      "editor_option_text_font_file": "Bely Display.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -148,66 +96,256 @@
   },
 
   {
-    "id": 3,
-    "display_order": 4,
+    "id": 2,
+    "display_order": 3,
     "content_type": "T_MENU",
-    "width": 1025,
-    "height": 482,
-    "top": 71,
-    "left": 674,
+    "width": 351,
+    "height": 604,
+    "top": 329,
+    "left": 281,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_43_landscape",
+    "widget_class": "r5_menu_44_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "5",
+        "price_type": "4",
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "MAIN TITLE",
-            "description": "DESCRIPTION OF INGREDIENTS AND FLAVOR PROFILE GOES HERE.",
-            "price": ["11.00"],
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_01.svg",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_01.svg",
-              "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_01.svg"
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
             }
           },
           {
-            "menu_name": "MAIN TITLE",
-            "description": "DESCRIPTION OF INGREDIENTS AND FLAVOR PROFILE GOES HERE.",
-            "price": ["11.00"],
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
             "enable": true,
             "image": {
-              "item_name": "img_02.svg",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_02.svg",
-              "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_02.svg"
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
             }
           },
           {
-            "menu_name": "MAIN TITLE",
-            "description": "DESCRIPTION OF INGREDIENTS AND FLAVOR PROFILE GOES HERE.",
-            "price": ["11.00"],
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
             "enable": true,
             "image": {
-              "item_name": "img_03.svg",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_03.svg",
-              "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_03.svg"
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Bebas Neue",
+        "font_file": "Bebas Neue.ttf",
+        "font_size": 29,
+        "color": "rgba(15,18,11,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 38,
+        "color": "rgba(15,18,11,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 13,
+        "color": "rgba(242,99,70,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 12,
+        "color": "rgba(242,99,70,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 19,
+        "color": "rgba(15,18,11,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "T_MENU",
+    "width": 351,
+    "height": 604,
+    "top": 329,
+    "left": 733,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_44_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "4",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
             }
           }
         ]
@@ -311,63 +449,78 @@
     "id": 4,
     "display_order": 5,
     "content_type": "T_MENU",
-    "width": 1025,
-    "height": 482,
-    "top": 553,
-    "left": 674,
+    "width": 351,
+    "height": 604,
+    "top": 329,
+    "left": 1185,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_43_landscape",
+    "widget_class": "r5_menu_44_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "5",
+        "price_type": "4",
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "MAIN TITLE",
-            "description": "DESCRIPTION OF INGREDIENTS AND FLAVOR PROFILE GOES HERE.",
-            "price": ["11.00"],
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_04.svg",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_04.svg",
-              "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_04.svg"
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
             }
           },
           {
-            "menu_name": "MAIN TITLE",
-            "description": "DESCRIPTION OF INGREDIENTS AND FLAVOR PROFILE GOES HERE.",
-            "price": ["11.00"],
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
             "enable": true,
             "image": {
-              "item_name": "img_05.svg",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_05.svg",
-              "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_05.svg"
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
             }
           },
           {
-            "menu_name": "MAIN TITLE",
-            "description": "DESCRIPTION OF INGREDIENTS AND FLAVOR PROFILE GOES HERE.",
-            "price": ["11.00"],
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
             "enable": true,
             "image": {
-              "item_name": "img_06.svg",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_06.svg",
-              "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_43_landscape/img_06.svg"
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients and their characteristics.",
+            "price": ["5.0"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
             }
           }
         ]
