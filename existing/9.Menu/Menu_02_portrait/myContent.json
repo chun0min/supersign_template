@@ -8,9 +8,9 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "Menu_02_portrait/thumbnail.jpg",
-    "media_url": "Menu_02_portrait/background.jpg",
-    "content_size": 227430,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/background.jpg",
+    "content_size": 908300,
     "scene_no": 1,
     "media_name": "background.jpg",
     "option_line": {
@@ -151,8 +151,8 @@
     "display_order": 4,
     "content_type": "T_MENU",
     "width": 909,
-    "height": 1600,
-    "top": 180,
+    "height": 1635,
+    "top": 225,
     "left": 85.35,
     "angle": 0,
     "scene_no": 1,
@@ -178,9 +178,9 @@
             "enable": true,
             "image": {
               "item_name": "img_01.svg",
-              "item_url": "http://localhost:3000/template/Menu_02_portrait/img_01.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_01.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_portrait/img_01.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_01.svg"
             }
           },
           {
@@ -197,9 +197,9 @@
             "enable": true,
             "image": {
               "item_name": "img_02.svg",
-              "item_url": "http://localhost:3000/template/Menu_02_portrait/img_02.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_02.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_portrait/img_02.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_02.svg"
             }
           },
           {
@@ -216,9 +216,9 @@
             "enable": true,
             "image": {
               "item_name": "img_03.svg",
-              "item_url": "http://localhost:3000/template/Menu_02_portrait/img_03.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_03.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_portrait/img_03.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_03.svg"
             }
           },
           {
@@ -235,9 +235,9 @@
             "enable": true,
             "image": {
               "item_name": "img_04.svg",
-              "item_url": "http://localhost:3000/template/Menu_02_portrait/img_04.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_04.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_portrait/img_04.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_04.svg"
             }
           },
           {
@@ -254,9 +254,9 @@
             "enable": true,
             "image": {
               "item_name": "img_05.svg",
-              "item_url": "http://localhost:3000/template/Menu_02_portrait/img_05.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_05.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_portrait/img_05.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_05.svg"
             }
           },
           {
@@ -273,9 +273,9 @@
             "enable": true,
             "image": {
               "item_name": "img_06.svg",
-              "item_url": "http://localhost:3000/template/Menu_02_portrait/img_06.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_06.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_portrait/img_06.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_06.svg"
             }
           },
           {
@@ -292,9 +292,9 @@
             "enable": true,
             "image": {
               "item_name": "img_07.svg",
-              "item_url": "http://localhost:3000/template/Menu_02_portrait/img_07.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_07.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_portrait/img_07.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_07.svg"
             }
           },
           {
@@ -311,15 +311,15 @@
             "enable": true,
             "image": {
               "item_name": "img_08.svg",
-              "item_url": "http://localhost:3000/template/Menu_02_portrait/img_08.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_08.svg",
               "item_type": "image",
-              "item_thumbnail_url": "http://localhost:3000/template/Menu_02_portrait/img_08.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_02_portrait/img_08.svg"
             }
           }
         ]
       },
       "name": {
-        "font_name": "Belleza",
+        "font_name": "Belleza-Regular",
         "font_file": "Belleza-Regular.ttf",
         "font_size": 43,
         "color": "rgba(63,85,44,1)",
