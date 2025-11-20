@@ -641,18 +641,18 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_41_landscape",
+    "widget_class": "r5_menu_41_landscape_1",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
         "price_type": "1",
-        "price_type_text": ["250ml","500ml","Bottle"],
+        "price_type_text": ["250ml", "500ml", "Bottle"],
         "menu_list": [
           {
             "menu_name": "PALE ALE",
             "description": "",
-            "price": ["5.00","7.00","10.00"],
-            "calory": ["99","99","99"],
+            "price": ["5.00", "7.00", "10.00"],
+            "calory": ["99", "99", "99"],
             "allergy": "",
             "ordr": 1,
             "enable": true,
@@ -666,8 +666,8 @@
           {
             "menu_name": "LAGER",
             "description": "",
-            "price": ["5.00","7.00","10.00"],
-            "calory": ["99","99","99"],
+            "price": ["5.00", "7.00", "10.00"],
+            "calory": ["99", "99", "99"],
             "allergy": "",
             "ordr": 2,
             "enable": true,
@@ -681,8 +681,8 @@
           {
             "menu_name": "PILSNER",
             "description": "",
-            "price": ["5.00","7.00","10.00"],
-            "calory": ["99","99","99"],
+            "price": ["5.00", "7.00", "10.00"],
+            "calory": ["99", "99", "99"],
             "allergy": "",
             "ordr": 3,
             "enable": true,
@@ -696,8 +696,8 @@
           {
             "menu_name": "IPA",
             "description": "",
-            "price": ["5.00","7.00","10.00"],
-            "calory": ["99","99","99"],
+            "price": ["5.00", "7.00", "10.00"],
+            "calory": ["99", "99", "99"],
             "allergy": "",
             "ordr": 4,
             "enable": true,
