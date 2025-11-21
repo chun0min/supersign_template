@@ -412,3 +412,8 @@
 .r5_menu_46_landscape .menu .item-image {
   margin: 0 auto;
 }
+
+.r5_menu_47_landscape{
+  display: flex;
+  gap: 32px;
+}
