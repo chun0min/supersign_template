@@ -166,3 +166,15 @@
   left: 0;
   transform: translateY(-50%);
 }
+
+.r5_menu_16_landscape .menuTypeArea .itemGrid{
+  align-items: center;
+}
+
+.r5_menu_16_landscape .menuTypeGroup .kcal_option {
+  align-items: end;
+}
+
+.menuTypeGroup .kcal_option.align-center {
+  align-items: center;
+}
