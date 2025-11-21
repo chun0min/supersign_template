@@ -401,6 +401,14 @@
   align-items: flex-end;
 }
 
-.r5_menu_45_landscape .menu{
+.r5_menu_45_landscape .menu {
   margin-bottom: 40px;
+}
+
+.r5_menu_46_landscape .menu{
+  margin-bottom: 35px;
+}
+
+.r5_menu_46_landscape .menu .item-image {
+  margin: 0 auto;
 }
