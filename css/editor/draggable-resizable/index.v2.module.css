@@ -417,3 +417,16 @@
   display: flex;
   gap: 32px;
 }
+
+.r5_menu_48_landscape{
+  display: flex;
+  justify-content: space-between;
+}
+
+.r5_menu_48_landscape .menu .kcal_option{
+  align-items: center;
+}
+
+.r5_menu_48_landscape_1 .menu{
+  margin-bottom: 51px;
+}
