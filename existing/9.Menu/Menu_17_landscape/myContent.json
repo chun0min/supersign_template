@@ -336,7 +336,7 @@
             "price": ["12.0"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1,
+            "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "img_06.svg",
@@ -351,7 +351,7 @@
             "price": ["12.0"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1,
+            "ordr": 3,
             "enable": true,
             "image": {
               "item_name": "img_07.svg",
@@ -366,7 +366,7 @@
             "price": ["12.0"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1,
+            "ordr": 4,
             "enable": true,
             "image": {
               "item_name": "img_08.svg",
@@ -381,7 +381,7 @@
             "price": ["12.0"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1,
+            "ordr": 5,
             "enable": true,
             "image": {
               "item_name": "img_05.svg",
@@ -540,7 +540,7 @@
             "price": ["12.0"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 2,
+            "ordr": 3,
             "enable": true,
             "image": {
               "item_name": "img_06.svg",
