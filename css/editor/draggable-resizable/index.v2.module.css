@@ -430,3 +430,8 @@
 .r5_menu_48_landscape_1 .menu{
   margin-bottom: 51px;
 }
+
+.r5_menu_49_landscape{
+  display: flex;
+  gap: 78px;
+}
