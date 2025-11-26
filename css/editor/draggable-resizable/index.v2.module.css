@@ -435,3 +435,25 @@
   display: flex;
   gap: 78px;
 }
+
+.r5_menu_50_landscape .kcal_option.kcal_right{
+  align-items: center;
+}
+
+.r5_menu_50_landscape .item-image img{
+  width:220px;
+  max-width: 220px;
+}
+
+.r5_menu_50_landscape .menu{
+  display: block;
+}
+
+.r5_menu_50_landscape_1 .menu{
+  display: block;
+  margin-bottom: 24px;
+}
+
+.r5_menu_50_landscape_1 .menuOption{
+  justify-content: flex-end;
+}
