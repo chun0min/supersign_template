@@ -1,0 +1,201 @@
+[
+  {
+    "display_order": 1,
+    "id": 0,
+    "content_size": 284729,
+    "content_type": "IMAGE",
+    "width": 1920,
+    "height": 1080,
+    "top": 0,
+    "left": 0,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/3.Information/Information_08_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/3.Information/Information_08_landscape/background.svg",
+    "scene_no": 1,
+    "media_name": "background.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 2,
+    "id": 1,
+    "content_size": 15,
+    "content_type": "TEXT",
+    "width": 1153,
+    "height": 115,   
+    "left": 384,
+    "top": 106,
+    "angle": 0,
+    "text_value": "IN CASE OF FIRE",  
+    "font_weight": "900",  
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Inter-Bold",
+      "editor_option_text_font_size": "144",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "6, 131, 75",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "0.7",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Inter-Bold.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "display_order": 3,
+    "id": 2,
+    "content_size": 20,
+    "content_type": "TEXT",
+    "width": 1153,
+    "height": 75,   
+    "left": 388,
+    "top": 265,
+    "angle": 0,
+    "text_value": "USE THE NEAREST EXIT",
+    "font-weight": "700",  
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Inter-Bold",
+      "editor_option_text_font_size": "98",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "6, 131, 75",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "0.7",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Inter-Bold.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 4,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 0.7
+    }
+  },
+  {
+    "display_order": 4,
+    "id": 3,
+    "content_size": 19,
+    "content_type": "TEXT",
+    "width": 450,
+    "height": 35,   
+    "left": 740,
+    "top": 365,
+    "angle": 0,
+    "text_value": "DO NOT USE ELEVATOR",  
+    "scene_no": 1,
+    "font-weight": "700",
+    "option_text": {
+      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_size": "37",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "161, 161, 161",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "0.7",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Inter-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 4,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 0.7
+    }
+  }
+]
