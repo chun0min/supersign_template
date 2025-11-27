@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Notable",
+      "editor_option_text_font_name": "Notable-Regular",
       "editor_option_text_font_size": "198",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Notable.ttf"
+      "editor_option_text_font_file": "Notable-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Notable",
+      "editor_option_text_font_name": "Notable-Regular",
       "editor_option_text_font_size": "44",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -119,9 +119,9 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "1.8",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Notable.ttf"
+      "editor_option_text_font_file": "Notable-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -160,7 +160,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Notable",
+      "editor_option_text_font_name": "Notable-Regular",
       "editor_option_text_font_size": "44",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -171,9 +171,9 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "1.8",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Notable.ttf"
+      "editor_option_text_font_file": "Notable-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -212,7 +212,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Notable",
+      "editor_option_text_font_name": "Notable-Regular",
       "editor_option_text_font_size": "44",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -223,9 +223,9 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "1.8",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Notable.ttf"
+      "editor_option_text_font_file": "Notable-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -255,13 +255,13 @@
     "display_order": 6,
     "content_type": "T_MENU",
     "width": 487,
-    "height": 440,
-    "top": 512,
+    "height": 480,
+    "top": 490,
     "left": 116,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_03_landscape",
+    "widget_class": "r5_menu_04_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -274,7 +274,8 @@
             "price": ["8"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "CHEESE BURGER",
@@ -282,7 +283,8 @@
             "price": ["8.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "HAWAIAN BURGER",
@@ -290,13 +292,14 @@
             "price": ["8"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Notable",
-        "font_file": "Notable.ttf",
+        "font_name": "Notable-Regular",
+        "font_file": "Notable-Regular.ttf",
         "font_size": 34,
         "color": "rgba(9, 81, 158,1)",
         "style_bold": false,
@@ -306,8 +309,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Notable",
-        "font_file": "Notable.ttf",
+        "font_name": "Notable-Regular",
+        "font_file": "Notable-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -317,7 +320,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Notable",
+        "font_name": "Notable-Regular",
         "font_file": "Notable-Regular.ttf",
         "font_size": 34,
         "color": "rgba(9, 81, 158,1)",
@@ -361,31 +364,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -393,13 +402,13 @@
     "display_order": 7,
     "content_type": "T_MENU",
     "width": 487,
-    "height": 440,
-    "top": 512,
+    "height": 480,
+    "top": 490,
     "left": 718,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_03_landscape",
+    "widget_class": "r5_menu_04_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -412,7 +421,8 @@
             "price": ["2.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "CHEESE FRIES",
@@ -420,7 +430,8 @@
             "price": ["4"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "CHILLI HOTDOG",
@@ -428,13 +439,14 @@
             "price": ["6"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Notable",
-        "font_file": "Notable.ttf",
+        "font_name": "Notable-Regular",
+        "font_file": "Notable-Regular.ttf",
         "font_size": 34,
         "color": "rgba(9, 81, 158,1)",
         "style_bold": false,
@@ -444,8 +456,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Notable",
-        "font_file": "Notable.ttf",
+        "font_name": "Notable-Regular",
+        "font_file": "Notable-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -455,7 +467,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Notable",
+        "font_name": "Notable-Regular",
         "font_file": "Notable-Regular.ttf",
         "font_size": 34,
         "color": "rgba(9, 81, 158,1)",
@@ -499,31 +511,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -531,13 +549,13 @@
     "display_order": 8,
     "content_type": "T_MENU",
     "width": 487,
-    "height": 440,
-    "top": 512,
+    "height": 480,
+    "top": 490,
     "left": 1317,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_03_landscape",
+    "widget_class": "r5_menu_04_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -550,7 +568,8 @@
             "price": ["8"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "LEMONADE",
@@ -558,7 +577,8 @@
             "price": ["8.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "ICED TEA",
@@ -566,13 +586,14 @@
             "price": ["8"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Notable",
-        "font_file": "Notable.ttf",
+        "font_name": "Notable-Regular",
+        "font_file": "Notable-Regular.ttf",
         "font_size": 34,
         "color": "rgba(9, 81, 158,1)",
         "style_bold": false,
@@ -582,8 +603,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Notable",
-        "font_file": "Notable.ttf",
+        "font_name": "Notable-Regular",
+        "font_file": "Notable-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -593,7 +614,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Notable",
+        "font_name": "Notable-Regular",
         "font_file": "Notable-Regular.ttf",
         "font_size": 34,
         "color": "rgba(9, 81, 158,1)",
@@ -637,31 +658,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]

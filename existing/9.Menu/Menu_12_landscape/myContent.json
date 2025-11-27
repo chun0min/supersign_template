@@ -51,11 +51,11 @@
     "width": 314,
     "height": 333,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_01.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_01.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_landscape/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_landscape/img_01.svg",
     "content_size": 468,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_01.svg",
+    "media_name": "img_01.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -94,11 +94,11 @@
     "width": 1230,
     "height": 6,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_02.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_02.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_landscape/img_02.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_landscape/img_02.svg",
     "content_size": 160,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_02.svg",
+    "media_name": "img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -137,11 +137,11 @@
     "width": 808,
     "height": 6,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_03.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_03.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_landscape/img_03.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_landscape/img_03.svg",
     "content_size": 149,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_03.svg",
+    "media_name": "img_03.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -180,11 +180,11 @@
     "width": 389,
     "height": 6,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_04.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_04.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_landscape/img_04.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_landscape/img_04.svg",
     "content_size": 149,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_12_randscape/img_04.svg",
+    "media_name": "img_04.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -229,7 +229,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "LondrinaSolid-Regular.ttf",
+      "editor_option_text_font_name": "LondrinaSolid-Regular",
       "editor_option_text_font_size": "98",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -240,7 +240,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.6",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "LondrinaSolid-Regular.ttf"
     },
@@ -274,7 +274,7 @@
     "top": 354,
     "left": 1653,
     "width": 93,
-    "height": 56,
+    "height": 60,
     "angle": 0,
     "content_size": 4,
     "text_value": "FOOD",
@@ -282,7 +282,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "LondrinaSolid-Regular.ttf",
+      "editor_option_text_font_name": "LondrinaSolid-Regular",
       "editor_option_text_font_size": "47",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -293,7 +293,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.6",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "LondrinaSolid-Regular.ttf"
     },
@@ -327,7 +327,7 @@
     "top": 396,
     "left": 1633,
     "width": 131,
-    "height": 57,
+    "height": 60,
     "angle": 0,
     "content_size": 6,
     "text_value": "TASTES",
@@ -335,7 +335,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "LondrinaSolid-Regular.ttf",
+      "editor_option_text_font_name": "LondrinaSolid-Regular",
       "editor_option_text_font_size": "47",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -346,7 +346,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.6",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "LondrinaSolid-Regular.ttf"
     },
@@ -380,7 +380,7 @@
     "top": 434,
     "left": 1637,
     "width": 131,
-    "height": 57,
+    "height": 60,
     "angle": 0,
     "content_size": 5,
     "text_value": "GOOO!",
@@ -388,7 +388,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "LondrinaSolid-Regular.ttf",
+      "editor_option_text_font_name": "LondrinaSolid-Regular",
       "editor_option_text_font_size": "58",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -399,7 +399,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.6",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "LondrinaSolid-Regular.ttf"
     },
@@ -433,7 +433,7 @@
     "top": 277,
     "left": 113,
     "width": 499,
-    "height": 40,
+    "height": 45,
     "angle": 0,
     "content_size": 20,
     "text_value": "BURGERS & SANDWICHES",
@@ -441,7 +441,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "LondrinaSolid-Regular.ttf",
+      "editor_option_text_font_name": "LondrinaSolid-Regular",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -452,7 +452,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.6",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "LondrinaSolid-Regular.ttf"
     },
@@ -486,7 +486,7 @@
     "top": 662,
     "left": 113,
     "width": 255,
-    "height": 40,
+    "height": 45,
     "angle": 0,
     "content_size": 11,
     "text_value": "SIDE DISHES",
@@ -494,7 +494,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "LondrinaSolid-Regular.ttf",
+      "editor_option_text_font_name": "LondrinaSolid-Regular",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -505,7 +505,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.6",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "LondrinaSolid-Regular.ttf"
     },
@@ -539,7 +539,7 @@
     "top": 662,
     "left": 954,
     "width": 255,
-    "height": 40,
+    "height": 45,
     "angle": 0,
     "content_size": 5,
     "text_value": "DRINK",
@@ -547,7 +547,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "LondrinaSolid-Regular.ttf",
+      "editor_option_text_font_name": "LondrinaSolid-Regular",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -558,7 +558,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.6",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "LondrinaSolid-Regular.ttf"
     },
@@ -586,11 +586,11 @@
     }
   },
   {
-    "id": 12,
-    "display_order": 13,
+    "id": 18,
+    "display_order": 19,
     "content_type": "T_MENU",
-    "width": 1228,
-    "height": 256,
+    "width": 388,
+    "height": 290,
     "top": 361,
     "left": 118,
     "angle": 0,
@@ -609,7 +609,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -617,39 +618,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
-          },
-          {
-            "menu_name": "Menu title",
-            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
-            "price": ["10.0"],
-            "calory": ["99"],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
-          },
-          {
-            "menu_name": "Menu title",
-            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
-            "price": ["10.0"],
-            "calory": ["99"],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
-          },
-          {
-            "menu_name": "Menu title",
-            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
-            "price": ["10.0"],
-            "calory": ["99"],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5
-          },
-          {
-            "menu_name": "Menu title",
-            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
-            "price": ["10.0"],
-            "calory": ["99"],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 6
+            "ordr": 2,
+            "enable": true
           }
         ]
       },
@@ -700,7 +670,7 @@
       "allergies": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.ttf",
-        "font_size": 14,
+        "font_size": 12,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": false,
         "style_italic": false,
@@ -720,39 +690,321 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
     "id": 13,
     "display_order": 14,
     "content_type": "T_MENU",
-    "width": 806,
-    "height": 256,
+    "width": 388,
+    "height": 290,
+    "top": 361,
+    "left": 536,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_12_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
+            "price": ["10.0"],
+            "calory": ["99"],
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
+            "price": ["10.0"],
+            "calory": ["99"],
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 34,
+        "color": "rgba(56, 68, 10,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(56, 68, 10, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 22,
+        "color": "rgba(56, 68, 10,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(56, 68, 10,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  },
+  {
+    "id": 14,
+    "display_order": 15,
+    "content_type": "T_MENU",
+    "width": 388,
+    "height": 290,
+    "top": 361,
+    "left": 954,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_12_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
+            "price": ["10.0"],
+            "calory": ["99"],
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
+            "price": ["10.0"],
+            "calory": ["99"],
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 34,
+        "color": "rgba(56, 68, 10,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(56, 68, 10, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 22,
+        "color": "rgba(56, 68, 10,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(56, 68, 10,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  },
+  {
+    "id": 15,
+    "display_order": 16,
+    "content_type": "T_MENU",
+    "width": 388,
+    "height": 290,
     "top": 743,
     "left": 118,
     "angle": 0,
@@ -771,7 +1023,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -779,23 +1032,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
-          },
-          {
-            "menu_name": "Menu title",
-            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
-            "price": ["10.0"],
-            "calory": ["99"],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
-          },
-          {
-            "menu_name": "Menu title",
-            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
-            "price": ["10.0"],
-            "calory": ["99"],
-            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 2,
+            "enable": true
           }
         ]
       },
@@ -846,7 +1084,7 @@
       "allergies": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.ttf",
-        "font_size": 14,
+        "font_size": 12,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": false,
         "style_italic": false,
@@ -866,39 +1104,183 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
-    "id": 14,
-    "display_order": 15,
+    "id": 16,
+    "display_order": 17,
     "content_type": "T_MENU",
     "width": 388,
-    "height": 256,
+    "height": 290,
+    "top": 743,
+    "left": 536,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_12_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
+            "price": ["10.0"],
+            "calory": ["99"],
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "Menu title",
+            "description": "A classic burger featuring a 100% pure beepatty topped with fresh lettuce and tomato.",
+            "price": ["10.0"],
+            "calory": ["99"],
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 34,
+        "color": "rgba(56, 68, 10,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(56, 68, 10, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 22,
+        "color": "rgba(56, 68, 10,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(56, 68, 10,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  },
+  {
+    "id": 17,
+    "display_order": 18,
+    "content_type": "T_MENU",
+    "width": 388,
+    "height": 290,
     "top": 743,
     "left": 954,
     "angle": 0,
@@ -917,7 +1299,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -925,7 +1308,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           }
         ]
       },
@@ -976,7 +1360,7 @@
       "allergies": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.ttf",
-        "font_size": 14,
+        "font_size": 12,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": false,
         "style_italic": false,
@@ -996,31 +1380,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]

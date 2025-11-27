@@ -51,11 +51,11 @@
     "width": 598,
     "height": 61,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_11_randscape/img_01.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_11_randscape/img_01.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_11_landscape/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_11_landscape/img_01.svg",
     "content_size": 152,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_11_randscape/img_01.svg",
+    "media_name": "img_01.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -94,11 +94,11 @@
     "width": 598,
     "height": 61,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_11_randscape/img_01.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_11_randscape/img_01.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_11_landscape/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_11_landscape/img_01.svg",
     "content_size": 160,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_11_randscape/img_01.svg",
+    "media_name": "img_01.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -135,7 +135,7 @@
     "top": 192,
     "left": 864,
     "width": 186,
-    "height": 108,
+    "height": 115,
     "angle": 0,
     "content_size": 4,
     "text_value": "MENU",
@@ -143,7 +143,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Wire One.otf",
+      "editor_option_text_font_name": "WireOne",
       "editor_option_text_font_size": "155",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -154,9 +154,9 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.7",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Wire One.otf"
+      "editor_option_text_font_file": "WireOne.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -185,10 +185,10 @@
     "id": 4,
     "display_order": 5,
     "content_type": "TEXT",
-    "top": 403,
-    "left": 518,
-    "width": 184,
-    "height": 32,
+    "top": 390,
+    "left": 500,
+    "width": 234,
+    "height": 60,
     "angle": 0,
     "content_size": 13,
     "text_value": "French Course",
@@ -196,8 +196,8 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Wire One.otf",
-      "editor_option_text_font_size": "42",
+      "editor_option_text_font_name": "WireOne",
+      "editor_option_text_font_size": "58",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -206,10 +206,10 @@
       "editor_option_text_back_color": "255, 255, 255",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
+      "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Wire One.otf"
+      "editor_option_text_font_file": "WireOne.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -238,10 +238,10 @@
     "id": 5,
     "display_order": 6,
     "content_type": "TEXT",
-    "top": 403,
+    "top": 390,
     "left": 1192,
     "width": 234,
-    "height": 32,
+    "height": 60,
     "angle": 0,
     "content_size": 19,
     "text_value": "Italian Fine Course",
@@ -249,8 +249,8 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Wire One.otf",
-      "editor_option_text_font_size": "42",
+      "editor_option_text_font_name": "WireOne",
+      "editor_option_text_font_size": "58",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -259,10 +259,10 @@
       "editor_option_text_back_color": "255, 255, 255",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
+      "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Wire One.otf"
+      "editor_option_text_font_file": "WireOne.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -292,7 +292,7 @@
     "display_order": 7,
     "content_type": "T_MENU",
     "width": 597,
-    "height": 271,
+    "height": 300,
     "top": 487,
     "left": 311,
     "angle": 0,
@@ -311,7 +311,8 @@
             "price": ["28.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Main",
@@ -319,7 +320,8 @@
             "price": ["28.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Dessert",
@@ -327,13 +329,14 @@
             "price": ["28.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Libre Bodoni",
-        "font_file": "Libre Bodoni-Regular.ttf",
+        "font_name": "LibreBodoni-Regular",
+        "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 26,
         "color": "rgba(3, 19, 138,1)",
         "style_bold": true,
@@ -398,31 +401,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -430,7 +439,7 @@
     "display_order": 8,
     "content_type": "T_MENU",
     "width": 597,
-    "height": 271,
+    "height": 300,
     "top": 487,
     "left": 1010,
     "angle": 0,
@@ -449,7 +458,8 @@
             "price": ["28.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Main",
@@ -457,7 +467,8 @@
             "price": ["28.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Dessert",
@@ -465,13 +476,14 @@
             "price": ["28.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Libre Bodoni",
-        "font_file": "Libre Bodoni-Regular.ttf",
+        "font_name": "LibreBodoni-Regular",
+        "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 26,
         "color": "rgba(3, 19, 138,1)",
         "style_bold": true,
@@ -536,31 +548,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]

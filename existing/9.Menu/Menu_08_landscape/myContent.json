@@ -51,11 +51,11 @@
     "width": 138,
     "height": 123,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_01.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_01.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_01.svg",
     "content_size": 26388,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_01.svg",
+    "media_name": "img_01.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -94,11 +94,11 @@
     "width": 323,
     "height": 87,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_02.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_02.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_02.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_02.svg",
     "content_size": 27053,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Templatesting/9.Menu/Menu_08_randscape/img_02.svg",
+    "media_name": "SUPERSIGN/Templatesting/9.Menu/Menu_08_landscape/img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -133,15 +133,15 @@
     "display_order": 4,
     "content_type": "IMAGE",
     "top": 428,
-    "left": 93,
+    "left": 125,
     "width": 514,
-    "height": 3.5,
+    "height": 15,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_03.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_03.svg",
     "content_size": 181,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
+    "media_name": "img_03.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -176,15 +176,15 @@
     "display_order": 5,
     "content_type": "IMAGE",
     "top": 428,
-    "left": 677,
+    "left": 710,
     "width": 514,
-    "height": 3.5,
+    "height": 15,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_03.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_03.svg",
     "content_size": 181,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
+    "media_name": "img_03.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -219,15 +219,15 @@
     "display_order": 6,
     "content_type": "IMAGE",
     "top": 428,
-    "left": 1262,
+    "left": 1290,
     "width": 514,
-    "height": 3.5,
+    "height": 15,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_03.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_03.svg",
     "content_size": 181,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
+    "media_name": "img_03.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -261,16 +261,16 @@
     "id": 6,
     "display_order": 7,
     "content_type": "IMAGE",
-    "top": 843,
-    "left": 1262,
+    "top": 844,
+    "left": 1290,
     "width": 514,
-    "height": 3.5,
+    "height": 15,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_03.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_landscape/img_03.svg",
     "content_size": 181,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_08_randscape/img_03.svg",
+    "media_name": "img_03.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -315,7 +315,7 @@
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "Helvetica Neue-Regular.otf",
+      "editor_option_text_font_name": "Helvetica Neue-Regular",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -368,7 +368,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Marker Felt.otf",
+      "editor_option_text_font_name": "Marker Felt",
       "editor_option_text_font_size": "50",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -421,7 +421,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Marker Felt.otf",
+      "editor_option_text_font_name": "Marker Felt",
       "editor_option_text_font_size": "50",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -474,7 +474,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Marker Felt.otf",
+      "editor_option_text_font_name": "Marker Felt",
       "editor_option_text_font_size": "50",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -527,7 +527,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Marker Felt.otf",
+      "editor_option_text_font_name": "Marker Felt",
       "editor_option_text_font_size": "50",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -589,7 +589,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Cheese Burger",
@@ -597,7 +598,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Bulgogi Burger",
@@ -605,7 +607,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           },
           {
             "menu_name": "Mushroom Swiss Burger",
@@ -613,7 +616,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true
           }
         ]
       },
@@ -684,31 +688,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -735,7 +745,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "BLT Sandwich",
@@ -743,7 +754,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Turkey Club Sandwich",
@@ -751,7 +763,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           },
           {
             "menu_name": "Tuna Salad Sandwich",
@@ -759,7 +772,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true
           }
         ]
       },
@@ -830,31 +844,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -881,7 +901,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Onion Rings",
@@ -889,7 +910,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },          
           {
             "menu_name": "Mozzarella Sticks (6pcs)",
@@ -897,7 +919,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           }
         ]
       },
@@ -968,31 +991,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -1019,7 +1048,8 @@
             "price": ["8.0"],
             "calory": ["300"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           }
         ]
       },
@@ -1090,31 +1120,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]

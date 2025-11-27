@@ -98,11 +98,11 @@
     "id": 2,
     "display_order": 3,
     "content_type": "TEXT",
-    "top": 306,
+    "top": 315,
     "left": 80,
     "width": 487,
     "height": 72,
-    "angle": 0,
+    "angle": 357,
     "content_size": 19,
     "text_value": "FASTFOOD RESTAURANT",
     "line_height": 1,
@@ -119,7 +119,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "1.5",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "Hey August.otf"
     },
@@ -306,9 +306,9 @@
     "id": 6,
     "display_order": 7,
     "content_type": "T_MENU",
-    "width": 436,
-    "height": 740,
-    "top": 225,
+    "width": 516,
+    "height": 850,
+    "top": 200,
     "left": 710,
     "angle": 0,
     "scene_no": 1,
@@ -326,7 +326,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -334,7 +335,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -342,7 +344,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -350,7 +353,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -358,7 +362,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5
+            "ordr": 5,
+            "enable": true
           }
         ]
       },
@@ -429,40 +434,46 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
     "id": 7,
     "display_order": 8,
     "content_type": "T_MENU",
-    "width": 436,
-    "height": 380,
-    "top": 225,
+    "width": 516,
+    "height": 400,
+    "top": 200,
     "left": 1335,
     "angle": 0,
     "scene_no": 1,
@@ -480,7 +491,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -488,7 +500,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -496,7 +509,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
@@ -567,39 +581,45 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
     "id": 8,
     "display_order": 9,
     "content_type": "T_MENU",
-    "width": 436,
-    "height": 260,
+    "width": 516,
+    "height": 280,
     "top": 762,
     "left": 1335,
     "angle": 0,
@@ -618,7 +638,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -626,7 +647,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           }
         ]
       },
@@ -697,31 +719,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
             "list": ["image"]
-        },
-        {
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]
