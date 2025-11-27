@@ -405,7 +405,7 @@
   margin-bottom: 40px;
 }
 
-.r5_menu_46_landscape .menu{
+.r5_menu_46_landscape .menu {
   margin-bottom: 35px;
 }
 
@@ -413,47 +413,56 @@
   margin: 0 auto;
 }
 
-.r5_menu_47_landscape{
+.r5_menu_47_landscape {
   display: flex;
   gap: 32px;
 }
 
-.r5_menu_48_landscape{
+.r5_menu_48_landscape {
   display: flex;
   justify-content: space-between;
 }
 
-.r5_menu_48_landscape .menu .kcal_option{
+.r5_menu_48_landscape .menu .kcal_option {
   align-items: center;
 }
 
-.r5_menu_48_landscape_1 .menu{
+.r5_menu_48_landscape_1 .menu {
   margin-bottom: 51px;
 }
 
-.r5_menu_49_landscape{
+.r5_menu_49_landscape {
   display: flex;
   gap: 78px;
 }
 
-.r5_menu_50_landscape .kcal_option.kcal_right{
+.r5_menu_50_landscape .kcal_option.kcal_right {
   align-items: center;
 }
 
-.r5_menu_50_landscape .item-image img{
-  width:220px;
+.r5_menu_50_landscape .item-image img {
+  width: 220px;
   max-width: 220px;
 }
 
-.r5_menu_50_landscape .menu{
+.r5_menu_50_landscape .menu {
   display: block;
 }
 
-.r5_menu_50_landscape_1 .menu{
+.r5_menu_50_landscape_1 .menu {
   display: block;
   margin-bottom: 24px;
 }
 
-.r5_menu_50_landscape_1 .menuOption{
+.r5_menu_50_landscape_1 .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_51_landscape .menu {
+  display: block;
+  margin-bottom: 30px;
+}
+
+.r5_menu_51_landscape .menu .menuOption{
   justify-content: flex-end;
 }
