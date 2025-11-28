@@ -26,6 +26,10 @@
 .menuTypeGroup .size_option {
   display: flex;
 }
+.menuTypeGroup .kcal_option.kcal_left {
+  flex-direction: row-reverse;
+  align-items: center;
+}
 .menuTypeGroup .kcal_option.kcal_right {
   flex-direction: row;
   align-items: flex-end;
