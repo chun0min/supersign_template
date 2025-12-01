@@ -466,3 +466,12 @@
 .r5_menu_51_landscape .menu .menuOption{
   justify-content: flex-end;
 }
+
+.r5_menu_52_landscape .menu {
+  display: block;
+  margin-bottom: 30px;
+}
+
+.r5_menu_52_landscape .menu .menuOption{
+  justify-content: flex-end;
+}
