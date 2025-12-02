@@ -483,3 +483,11 @@
 .r5_menu_53_landscape .menu .kcal_option.kcal_down{
   align-items: flex-end;
 }
+
+.r5_menu_54_landscape .menu .item-image{
+  justify-content: flex-end;
+}
+
+.r5_menu_54_landscape .menu .item-image img{
+  max-width:205px;
+}
