@@ -357,7 +357,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Qwigley-Regular.ttf",
+      "editor_option_text_font_name": "Qwigley-Regular",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -409,7 +409,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Qwigley-Regular.ttf",
+      "editor_option_text_font_name": "Qwigley-Regular",
       "editor_option_text_font_size": "150",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -425,8 +425,8 @@
       "editor_option_text_font_file": "Qwigley-Regular.ttf"
     },
     "option_text_outline": {
-      "editor_option_text_outline_color": "0, 0, 0",
-      "editor_option_text_outline_width": 0
+      "editor_option_text_outline_color": "255,255,255,1",
+      "editor_option_text_outline_width": 15
     },
     "option_text_box": {
       "editor_option_text_box_color": "0,0,0",
@@ -452,7 +452,7 @@
     "id": 10,
     "content_size": 11,
     "content_type": "TEXT",
-    "width": 160,
+    "width": 180,
     "height": 33,
     "top": 346,
     "left": 493,  
@@ -461,8 +461,8 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "RacingSansOne-Regular.ttf",
-      "editor_option_text_font_size": "26",
+      "editor_option_text_font_name": "RacingSansOne-Regular",
+      "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -473,7 +473,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -1,
+      "editor_option_text_spacing": 0,
       "editor_option_text_font_file": "RacingSansOne-Regular.ttf"
     },
     "option_text_outline": {
@@ -513,7 +513,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "RacingSansOne-Regular.ttf",
+      "editor_option_text_font_name": "RacingSansOne-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -556,7 +556,7 @@
     "id": 12,
     "content_size": 4,
     "content_type": "TEXT",
-    "width": 102,
+    "width": 130,
     "height": 74,
     "top": 382,
     "left": 523,  
@@ -565,7 +565,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "RacingSansOne-Regular.ttf",
+      "editor_option_text_font_name": "RacingSansOne-Regular",
       "editor_option_text_font_size": "62",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -608,7 +608,7 @@
     "id": 13,
     "content_size": 11,
     "content_type": "TEXT",
-    "width": 125,
+    "width": 140,
     "height": 26,
     "top": 531,
     "left": 39,  
@@ -617,7 +617,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "RacingSansOne-Regular.ttf",
+      "editor_option_text_font_name": "RacingSansOne-Regular",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -629,7 +629,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -1,
+      "editor_option_text_spacing": 0,
       "editor_option_text_font_file": "RacingSansOne-Regular.ttf"
     },
     "option_text_outline": {
@@ -660,7 +660,7 @@
     "id": 14,
     "content_size": 1,
     "content_type": "TEXT",
-    "width": 18,
+    "width": 25,
     "height": 37,
     "top": 567,
     "left": 36,  
@@ -669,7 +669,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ProtestGuerrilla-Regular.ttf",
+      "editor_option_text_font_name": "RacingSansOne-Regular",
       "editor_option_text_font_size": "29",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -682,7 +682,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "ProtestGuerrilla-Regular.ttf"
+      "editor_option_text_font_file": "RacingSansOne-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0, 0, 0",
@@ -712,7 +712,7 @@
     "id": 15,
     "content_size": 4,
     "content_type": "TEXT",
-    "width": 102,
+    "width": 130,
     "height": 74,
     "top": 557,
     "left": 70,  
@@ -721,7 +721,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ProtestGuerrilla-Regular.ttf",
+      "editor_option_text_font_name": "RacingSansOne-Regular",
       "editor_option_text_font_size": "45",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -734,7 +734,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "ProtestGuerrilla-Regular.ttf"
+      "editor_option_text_font_file": "RacingSansOne-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0, 0, 0",
@@ -764,17 +764,17 @@
     "id": 16,
     "content_size": 11,
     "content_type": "TEXT",
-    "width": 160,
+    "width": 200,
     "height": 33,
     "top": 823,
-    "left": 481,  
+    "left": 440,  
     "angle": 0,
     "text_value": "BURGER NAME",
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "RacingSansOne-Regular.ttf",
-      "editor_option_text_font_size": "26",
+      "editor_option_text_font_name": "RacingSansOne-Regular",
+      "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -785,7 +785,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -1,
+      "editor_option_text_spacing": 0,
       "editor_option_text_font_file": "RacingSansOne-Regular.ttf"
     },
     "option_text_outline": {
@@ -816,16 +816,16 @@
     "id": 17,
     "content_size": 1,
     "content_type": "TEXT",
-    "width": 24,
+    "width": 30,
     "height": 50,
     "top": 885,
-    "left": 464,  
+    "left": 440,  
     "angle": 0,
     "text_value": "$",
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ProtestGuerrilla-Regular.ttf",
+      "editor_option_text_font_name": "RacingSansOne-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -838,7 +838,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "ProtestGuerrilla-Regular.ttf"
+      "editor_option_text_font_file": "RacingSansOne-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0, 0, 0",
@@ -868,16 +868,16 @@
     "id": 18,
     "content_size": 4,
     "content_type": "TEXT",
-    "width": 132,
+    "width": 160,
     "height": 96,
     "top": 856,
-    "left": 499,  
+    "left": 470,  
     "angle": 0,
     "text_value": "19.9",
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ProtestGuerrilla-Regular.ttf",
+      "editor_option_text_font_name": "RacingSansOne-Regular",
       "editor_option_text_font_size": "80",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -890,7 +890,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "ProtestGuerrilla-Regular.ttf"
+      "editor_option_text_font_file": "RacingSansOne-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0, 0, 0",
@@ -929,7 +929,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular.ttf",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -974,14 +974,14 @@
     "content_type": "TEXT",
     "width": 212,
     "height": 21,
-    "top": 1210,
+    "top": 1206,
     "left": 253,  
     "angle": 0,
-    "text_value": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.",
+    "text_value": "(+82) 0000-0000-0000",
     "font-weight": "700",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular.ttf",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -992,7 +992,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.7",
       "editor_option_text_spacing": 0,
       "editor_option_text_font_file": "Pretendard-Regular.ttf"
     },

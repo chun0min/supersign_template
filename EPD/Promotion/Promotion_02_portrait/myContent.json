@@ -176,7 +176,7 @@
     "id": 4,
     "content_size": 11,
     "content_type": "TEXT",
-    "width": 132,
+    "width": 135,
     "height": 24,
     "top": 57,
     "left": 294,  
@@ -185,7 +185,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular.ttf",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -237,7 +237,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ConcertOne-Regular.ttf",
+      "editor_option_text_font_name": "ConcertOne-Regular",
       "editor_option_text_font_size": "90",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -248,7 +248,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1.4",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
       "editor_option_text_font_file": "ConcertOne-Regular.ttf"
     },
@@ -289,7 +289,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ConcertOne-Regular.ttf",
+      "editor_option_text_font_name": "ConcertOne-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -300,7 +300,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1.4",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
       "editor_option_text_font_file": "ConcertOne-Regular.ttf"
     },
@@ -341,7 +341,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Rubik-Regular.ttf",
+      "editor_option_text_font_name": "Rubik-Regular",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -393,7 +393,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular.ttf",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -436,7 +436,7 @@
     "id": 9,
     "content_size": 3,
     "content_type": "TEXT",
-    "width": 168,
+    "width": 175,
     "height": 156,
     "top": 1000,
     "left": 299,  
@@ -445,7 +445,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ProtestGuerrilla-Regular.ttf",
+      "editor_option_text_font_name": "ProtestGuerrilla-Regular",
       "editor_option_text_font_size": "130",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -497,7 +497,7 @@
     "font-weight": "400",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular.ttf",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
