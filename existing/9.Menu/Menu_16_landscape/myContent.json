@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_16_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_16_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_16_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_16_landscape/background.svg",
     "content_size": 3952959,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -57,7 +57,7 @@
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular.otf",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -70,7 +70,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Pretendard-Regular.otf"
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -105,12 +105,12 @@
     "height": 90,
     "angle": 0,
     "content_size": 10,
-    "text_value": "Restaurant",
+    "text_value": "RESTAURANT",
     "line_height": 1,
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare-Regular.otf",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2.0",
       "editor_option_text_font_size": "77",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -123,7 +123,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Ohsquare-Regular.otf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.0.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -163,7 +163,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Shiningstar OTF-Regular.otf",
+      "editor_option_text_font_name": "Cafe24Shiningstar-v2-1",
       "editor_option_text_font_size": "66",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -176,7 +176,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Shiningstar OTF-Regular.otf"
+      "editor_option_text_font_file": "Cafe24Shiningstar-v2-1.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -216,7 +216,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Shiningstar OTF-Regular.otf",
+      "editor_option_text_font_name": "Cafe24Shiningstar-v2-1",
       "editor_option_text_font_size": "66",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -229,7 +229,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Shiningstar OTF-Regular.otf"
+      "editor_option_text_font_file": "Cafe24Shiningstar-v2-1.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -269,7 +269,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Shiningstar OTF-Regular.otf",
+      "editor_option_text_font_name": "Cafe24Shiningstar-v2-1",
       "editor_option_text_font_size": "66",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -282,7 +282,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Shiningstar OTF-Regular.otf"
+      "editor_option_text_font_file": "Cafe24Shiningstar-v2-1.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -318,10 +318,10 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_16_landscape",
+    "widget_class": "r5_menu_16_landscape-1",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -365,11 +365,11 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF-Regular.ttf",
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
-        "style_bold": false,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -412,9 +412,9 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 47,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
@@ -447,10 +447,10 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_16_landscape",
+    "widget_class": "r5_menu_16_landscape-1",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -494,11 +494,11 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF-Regular.ttf",
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
-        "style_bold": false,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -541,45 +541,53 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
-        "reverse": false,
+        "item_spacing": 0,
+        "horizontal_scale": 47,
+        "vertical_scale": 60,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "gallery-b"
     }
   },
   {
     "id": 8,
     "display_order": 9,
     "content_type": "T_MENU",
-    "width": 679,
-    "height": 252,
-    "top": 348,
-    "left": 130,
+    "width": 900,
+    "height": 456,
+    "top": 625,
+    "left": 0,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_16_landscape",
+    "widget_class": "r5_menu_16_landscape-2",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -623,11 +631,11 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF-Regular.ttf",
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
-        "style_bold": false,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -670,9 +678,9 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 47,
+        "vertical_scale": 25,
         "reverse": false,
         "section": [
           {
@@ -708,7 +716,7 @@
     "widget_class": "r5_menu_16_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -718,7 +726,8 @@
             "price": ["25"],
             "calory": ["380"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Vongole Pasta",
@@ -726,7 +735,8 @@
             "price": ["25"],
             "calory": ["380"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Pesto Genovese",
@@ -734,7 +744,8 @@
             "price": ["12"],
             "calory": ["380"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
@@ -761,11 +772,11 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF-Regular.ttf",
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
-        "style_bold": false,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -780,7 +791,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -806,27 +817,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 90,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "description"]
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
@@ -837,7 +853,7 @@
     "display_order": 11,
     "content_type": "T_MENU",
     "width": 715,
-    "height": 68,
+    "height": 80,
     "top": 662,
     "left": 960,
     "angle": 0,
@@ -846,7 +862,7 @@
     "widget_class": "r5_menu_16_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -856,7 +872,8 @@
             "price": ["30"],
             "calory": ["380"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           }
         ]
       },
@@ -883,15 +900,15 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF-Regular.ttf",
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
-        "style_bold": false,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -902,7 +919,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -928,27 +945,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 90,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "description"]
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
@@ -959,7 +981,7 @@
     "display_order": 12,
     "content_type": "T_MENU",
     "width": 715,
-    "height": 156,
+    "height": 160,
     "top": 854,
     "left": 960,
     "angle": 0,
@@ -968,7 +990,7 @@
     "widget_class": "r5_menu_16_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -978,7 +1000,8 @@
             "price": ["32"],
             "calory": ["380"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },          
           {
             "menu_name": "Truffle Mushroom Pizza",
@@ -986,7 +1009,8 @@
             "price": ["35"],
             "calory": ["380"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           }
         ]
       },
@@ -1013,15 +1037,15 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF-Regular.ttf",
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
-        "style_bold": false,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -1032,7 +1056,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -1058,27 +1082,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 90,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "description"]
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
