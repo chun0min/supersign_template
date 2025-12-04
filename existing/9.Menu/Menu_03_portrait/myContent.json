@@ -8,8 +8,8 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "Menu_03_portrait/thumbnail.jpg",
-    "media_url": "Menu_03_portrait/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_03_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_03_portrait/background.jpg",
     "content_size": 812194,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -65,9 +65,9 @@
       "editor_option_text_font_color": "240, 24, 35",
       "editor_option_text_back_color": "255, 255, 255",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1.4",
+      "editor_option_text_spacing": 0,
       "editor_option_text_font_file": "Roasted Chicken.ttf",
       "editor_option_text_font_opacity": 1
     },
@@ -99,7 +99,7 @@
     "display_order": 3,
     "content_type": "T_MENU",
     "width": 350,
-    "height": 1360,
+    "height": 1250,
     "top": 310,
     "left": 144,
     "angle": 0,
@@ -295,12 +295,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 25,
         "reverse": false,
         "section": [
           {
@@ -310,16 +310,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -328,7 +334,7 @@
     "display_order": 4,
     "content_type": "T_MENU",
     "width": 350,
-    "height": 1140,
+    "height": 1040,
     "top": 310,
     "left": 587,
     "angle": 0,
@@ -505,12 +511,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 25,
         "reverse": false,
         "section": [
           {
@@ -520,16 +526,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   }

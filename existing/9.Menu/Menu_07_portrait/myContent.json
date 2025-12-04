@@ -8,8 +8,8 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "Menu_07_portrait/thumbnail.jpg",
-    "media_url": "Menu_07_portrait/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_07_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_07_portrait/background.jpg",
     "content_size": 345872,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -47,9 +47,9 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 128.85,
-    "left": 339.5,
-    "width": 401,
-    "height": 71,
+    "left": 230,
+    "width": 600,
+    "height": 100,
     "angle": 0,
     "content_size": 9,
     "text_value": "FOOD MENU",
@@ -67,7 +67,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 1,
+      "editor_option_text_spacing": 0.7,
       "editor_option_text_font_file": "LondrinaSolid-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
@@ -255,13 +255,13 @@
     "display_order": 6,
     "content_type": "T_MENU",
     "width": 388.35,
-    "height": 500,
+    "height": 466,
     "top": 360.71,
     "left": 123.23,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_07_portrait",
+    "widget_class": "r5_menu_07_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -394,12 +394,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 25,
         "reverse": false,
         "section": [
           {
@@ -409,16 +409,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -479,13 +485,13 @@
     "display_order": 7,
     "content_type": "T_MENU",
     "width": 388.35,
-    "height": 500,
+    "height": 466,
     "top": 360.71,
     "left": 568.42,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_07_portrait",
+    "widget_class": "r5_menu_07_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -618,12 +624,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 25,
         "reverse": false,
         "section": [
           {
@@ -633,16 +639,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -657,7 +669,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_07_portrait",
+    "widget_class": "r5_menu_07_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -771,12 +783,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 25,
         "reverse": false,
         "section": [
           {
@@ -786,16 +798,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -810,7 +828,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_07_portrait",
+    "widget_class": "r5_menu_07_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -924,12 +942,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 25,
         "reverse": false,
         "section": [
           {
@@ -939,16 +957,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -963,7 +987,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_07_portrait",
+    "widget_class": "r5_menu_07_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -1077,12 +1101,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 25,
         "reverse": false,
         "section": [
           {
@@ -1092,17 +1116,152 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
+  },
+  {
+    "id": 10,
+    "display_order": 11,
+    "content_type": "IMAGE",
+    "top": 334,
+    "left": 123,
+    "width": 834,
+    "height": 15,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_07_portrait/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_07_portrait/img_01.svg",
+    "content_size": 202,
+    "scene_no": 1,
+    "media_name": "img_01.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 11,
+    "display_order": 12,
+    "content_type": "IMAGE",
+    "top": 883,
+    "left": 123,
+    "width": 834,
+    "height": 15,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_07_portrait/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_07_portrait/img_01.svg",
+    "content_size": 202,
+    "scene_no": 1,
+    "media_name": "img_01.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 12,
+    "display_order": 13,
+    "content_type": "IMAGE",
+    "top": 1294,
+    "left": 123,
+    "width": 834,
+    "height": 15,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_07_portrait/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_07_portrait/img_01.svg",
+    "content_size": 202,
+    "scene_no": 1,
+    "media_name": "img_01.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
   }
 ]

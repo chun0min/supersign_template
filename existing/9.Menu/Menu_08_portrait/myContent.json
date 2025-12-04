@@ -8,8 +8,8 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "Menu_08_portrait/thumbnail.jpg",
-    "media_url": "Menu_08_portrait/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_portrait/background.jpg",
     "content_size": 2458766,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -51,8 +51,8 @@
     "width": 430,
     "height": 197,
     "angle": 0,
-    "thumbnail_url": "Menu_08_portrait/img_01.svg",
-    "media_url": "Menu_08_portrait/img_01.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_portrait/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_08_portrait/img_01.svg",
     "content_size": 21046,
     "scene_no": 1,
     "media_name": "img_01.svg",
@@ -90,16 +90,16 @@
     "display_order": 3,
     "content_type": "TEXT",
     "top": 287.28,
-    "left": 447,
-    "width": 186,
-    "height": 108,
+    "left": 440,
+    "width": 190,
+    "height": 125,
     "angle": 0,
     "content_size": 4,
     "text_value": "MENU",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Wire One",
+      "editor_option_text_font_name": "WireOne",
       "editor_option_text_font_size": "155",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -109,9 +109,9 @@
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Wire One.ttf",
+      "editor_option_text_line_heig": "0.75",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "WireOne.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -151,19 +151,19 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Wire One",
+      "editor_option_text_font_name": "WireOne",
       "editor_option_text_font_size": "58",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "3,19,138",
+      "editor_option_text_font_color": "255,251,240",
       "editor_option_text_back_color": "3,19,138",
       "editor_option_text_back_opacity": 1,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Wire One.ttf",
+      "editor_option_text_font_file": "WireOne.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -203,19 +203,19 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Wire One",
+      "editor_option_text_font_name": "WireOne",
       "editor_option_text_font_size": "58",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "3,19,138",
+      "editor_option_text_font_color": "255,251,240",
       "editor_option_text_back_color": "3,19,138",
       "editor_option_text_back_opacity": 1,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Wire One.ttf",
+      "editor_option_text_font_file": "WireOne.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -252,7 +252,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_08_portrait",
+    "widget_class": "r5_menu_08_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -385,12 +385,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 32,
         "reverse": false,
         "section": [
           {
@@ -400,16 +400,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -424,7 +430,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_08_portrait",
+    "widget_class": "r5_menu_08_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -557,12 +563,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 32,
         "reverse": false,
         "section": [
           {
@@ -572,16 +578,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   }

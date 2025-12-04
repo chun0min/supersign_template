@@ -8,8 +8,8 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "Menu_09_portrait/thumbnail.jpg",
-    "media_url": "Menu_09_portrait/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_09_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_09_portrait/background.jpg",
     "content_size": 408181,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -49,14 +49,14 @@
     "top": 155,
     "left": 60,
     "width": 965,
-    "height": 52,
+    "height": 100,
     "angle": 0,
     "content_size": 15,
     "text_value": "Restaurant Menu",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Chelsea Market",
+      "editor_option_text_font_name": "ChelseaMarket-Regular",
       "editor_option_text_font_size": "102",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -67,8 +67,8 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Chelsea Market.ttf",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "ChelseaMarket-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Chelsea Market",
+      "editor_option_text_font_name": "ChelseaMarket-Regular",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -120,7 +120,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Chelsea Market.ttf",
+      "editor_option_text_font_file": "ChelseaMarket-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -160,7 +160,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Chelsea Market",
+      "editor_option_text_font_name": "ChelseaMarket-Regular",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -172,7 +172,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Chelsea Market.ttf",
+      "editor_option_text_font_file": "ChelseaMarket-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -212,7 +212,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Chelsea Market",
+      "editor_option_text_font_name": "ChelseaMarket-Regular",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -224,7 +224,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Chelsea Market.ttf",
+      "editor_option_text_font_file": "ChelseaMarket-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -255,13 +255,13 @@
     "display_order": 6,
     "content_type": "T_MENU",
     "width": 858,
-    "height": 360,
+    "height": 405,
     "top": 410,
     "left": 111,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_09_portrait",
+    "widget_class": "r5_menu_09_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -413,12 +413,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
         "reverse": false,
         "section": [
           {
@@ -428,16 +428,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -452,7 +458,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_09_portrait",
+    "widget_class": "r5_menu_09_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -585,12 +591,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
         "reverse": false,
         "section": [
           {
@@ -600,16 +606,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -624,7 +636,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_09_portrait",
+    "widget_class": "r5_menu_09_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -757,12 +769,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
         "reverse": false,
         "section": [
           {
@@ -772,17 +784,152 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
+  },
+  {
+    "id": 8,
+    "display_order": 9,
+    "content_type": "IMAGE",
+    "top": 375,
+    "left": 110,
+    "width": 860,
+    "height": 15,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_09_portrait/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_09_portrait/img_01.svg",
+    "content_size": 21046,
+    "scene_no": 1,
+    "media_name": "img_01.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 9,
+    "display_order": 10,
+    "content_type": "IMAGE",
+    "top": 895,
+    "left": 110,
+    "width": 860,
+    "height": 15,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_09_portrait/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_09_portrait/img_01.svg",
+    "content_size": 21046,
+    "scene_no": 1,
+    "media_name": "img_01.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 10,
+    "display_order": 11,
+    "content_type": "IMAGE",
+    "top": 1280,
+    "left": 110,
+    "width": 860,
+    "height": 15,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_09_portrait/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_09_portrait/img_01.svg",
+    "content_size": 21046,
+    "scene_no": 1,
+    "media_name": "img_01.svg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
   }
 ]
