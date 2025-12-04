@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/background.svg",
     "content_size": 80452,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -51,11 +51,11 @@
     "width": 482,
     "height": 447,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_01.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_01.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_01.svg",
     "content_size": 86152,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_01.svg",
+    "media_name": "img_01.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -94,11 +94,11 @@
     "width": 484,
     "height": 65,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_02.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_02.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_02.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_02.svg",
     "content_size": 9075,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_02.svg",
+    "media_name": "img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -137,11 +137,11 @@
     "width": 484,
     "height": 65,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_02.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_02.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_02.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_02.svg",
     "content_size": 9075,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_02.svg",
+    "media_name": "img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -180,11 +180,11 @@
     "width": 484,
     "height": 65,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_02.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_02.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_02.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_02.svg",
     "content_size": 9075,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_02.svg",
+    "media_name": "img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -218,10 +218,10 @@
     "id": 5,
     "display_order": 6,
     "content_type": "TEXT",
-    "top": 282,
-    "left": 762,
-    "width": 384,
-    "height": 58,
+    "top": 260,
+    "left": 760,
+    "width": 390,
+    "height": 80,
     "angle": 0,
     "content_size": 4,
     "text_value": "MENU",
@@ -229,7 +229,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "SigmarOne.ttf",
+      "editor_option_text_font_name": "SigmarOne",
       "editor_option_text_font_size": "112",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -240,8 +240,8 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
+      "editor_option_text_line_heig": "0.7",
+      "editor_option_text_spacing": -1,
       "editor_option_text_font_file": "SigmarOne.ttf"
     },
     "option_text_outline": {
@@ -282,7 +282,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "SigmarOne.ttf",
+      "editor_option_text_font_name": "SigmarOne",
       "editor_option_text_font_size": "47",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -293,7 +293,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.7",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "SigmarOne.ttf"
     },
@@ -335,7 +335,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "SigmarOne.ttf",
+      "editor_option_text_font_name": "SigmarOne",
       "editor_option_text_font_size": "47",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -346,7 +346,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.7",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "SigmarOne.ttf"
     },
@@ -388,7 +388,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "SigmarOne.ttf",
+      "editor_option_text_font_name": "SigmarOne",
       "editor_option_text_font_size": "47",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -399,7 +399,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.7",
       "editor_option_text_spacing": -0.5,
       "editor_option_text_font_file": "SigmarOne.ttf"
     },
@@ -441,7 +441,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "SigmarOne.ttf",
+      "editor_option_text_font_name": "SigmarOne",
       "editor_option_text_font_size": "36",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -484,7 +484,7 @@
     "display_order": 11,
     "content_type": "T_MENU",
     "width": 457,
-    "height": 549,
+    "height": 530,
     "top": 196,
     "left": 152,
     "angle": 0,
@@ -503,7 +503,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -511,7 +512,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -519,7 +521,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -527,7 +530,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           }
         ]
       },
@@ -598,31 +602,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -630,7 +642,7 @@
     "display_order": 12,
     "content_type": "T_MENU",
     "width": 457,
-    "height": 469,
+    "height": 430,
     "top": 196,
     "left": 1333,
     "angle": 0,
@@ -649,7 +661,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -657,7 +670,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -665,7 +679,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -673,7 +688,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           }
         ]
       },
@@ -744,31 +760,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -795,7 +819,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Menu title",
@@ -803,7 +828,8 @@
             "price": ["10.0"],
             "calory": ["99"],
             "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           }
         ]
       },
@@ -874,45 +900,53 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
     "id": 13,
     "display_order": 14,
     "content_type": "T_MENU",
-    "width": 367,
-    "height": 118,
+    "width": 415,
+    "height": 140,
     "top": 785,
     "left": 175,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_13_randscape_2",
+    "widget_class": "r5_menu_13_landscape_2",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -933,9 +967,9 @@
             "enable": true,
             "image": {
               "item_name": "img_05.svg",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_03.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_03.svg",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_03.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_03.svg"
             }
           },
           {
@@ -952,9 +986,9 @@
             "enable": true,
             "image": {
               "item_name": "img_01.svg",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_04.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_04.svg",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_04.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_04.svg"
             }
           },
           {
@@ -971,9 +1005,9 @@
             "enable": true,
             "image": {
               "item_name": "img_01.svg",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_05.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_05.svg",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_randscape/img_05.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_13_landscape/img_05.svg"
             }
           }
         ]
@@ -1050,7 +1084,7 @@
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 48,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
