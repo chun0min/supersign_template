@@ -511,3 +511,11 @@
 .r5_menu_58_landscape .menu .item-name{
   margin-bottom: 12px;
 }
+
+.r5_menu_59_landscape .menu .item-image img{
+  max-width:160px;
+}
+
+.r5_menu_59_landscape .menu {
+  margin-bottom: 27px;
+}
