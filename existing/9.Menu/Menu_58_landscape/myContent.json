@@ -770,7 +770,7 @@
             "price": ["9.40"],
             "calory": ["99"],
             "allergy": "Milk, tree nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame seeds",
-            "ordr": 1,
+            "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "",
@@ -785,7 +785,7 @@
             "price": ["9.40"],
             "calory": ["99"],
             "allergy": "Milk, tree nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame seeds",
-            "ordr": 1,
+            "ordr": 3,
             "enable": true,
             "image": {
               "item_name": "",
@@ -931,7 +931,7 @@
             "price": ["9.40"],
             "calory": ["99"],
             "allergy": "Milk, tree nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame seeds",
-            "ordr": 1,
+            "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "",
@@ -946,7 +946,7 @@
             "price": ["9.40"],
             "calory": ["99"],
             "allergy": "Milk, tree nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame seeds",
-            "ordr": 1,
+            "ordr": 3,
             "enable": true,
             "image": {
               "item_name": "",
@@ -1092,7 +1092,7 @@
             "price": ["9.40"],
             "calory": ["99"],
             "allergy": "Milk, tree nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame seeds",
-            "ordr": 1,
+            "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "",
@@ -1238,7 +1238,7 @@
             "price": ["9.40"],
             "calory": ["99"],
             "allergy": "Milk, tree nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame seeds",
-            "ordr": 1,
+            "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "",
