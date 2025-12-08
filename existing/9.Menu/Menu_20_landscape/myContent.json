@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_20_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_20_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_20_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_20_landscape/background.svg",
     "content_size": 177869,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -48,7 +48,7 @@
     "content_type": "TEXT",
     "top": 116,
     "left": 180,
-    "width": 282,
+    "width": 300,
     "height": 161,
     "angle": 0,
     "content_size": 4,
@@ -57,7 +57,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Komika Title - Paint.otf",
+      "editor_option_text_font_name": "KOMTITP_",
       "editor_option_text_font_size": "97",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -70,7 +70,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Komika Title - Paint.otf"
+      "editor_option_text_font_file": "KOMTITP_.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -101,7 +101,7 @@
     "content_type": "TEXT",
     "top": 292,
     "left": 183,
-    "width": 247,
+    "width": 265,
     "height": 45,
     "angle": 0,
     "content_size": 15,
@@ -110,7 +110,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Komika Title - Paint.otf",
+      "editor_option_text_font_name": "KOMTITP_",
       "editor_option_text_font_size": "27",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -123,7 +123,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0.5,
-      "editor_option_text_font_file": "Komika Title - Paint.otf"
+      "editor_option_text_font_file": "KOMTITP_.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -154,7 +154,7 @@
     "content_type": "TEXT",
     "top": 292,
     "left": 1289,
-    "width": 98,
+    "width": 115,
     "height": 45,
     "angle": 0,
     "content_size": 6,
@@ -163,7 +163,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Komika Title - Paint.otf",
+      "editor_option_text_font_name": "KOMTITP_",
       "editor_option_text_font_size": "27",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -176,7 +176,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0.5,
-      "editor_option_text_font_file": "Komika Title - Paint.otf"
+      "editor_option_text_font_file": "KOMTITP_.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -207,7 +207,7 @@
     "content_type": "TEXT",
     "top": 690,
     "left": 1289,
-    "width": 225,
+    "width": 245,
     "height": 45,
     "angle": 0,
     "content_size": 14,
@@ -216,7 +216,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Komika Title - Paint.otf",
+      "editor_option_text_font_name": "KOMTITP_",
       "editor_option_text_font_size": "27",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -229,7 +229,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0.5,
-      "editor_option_text_font_file": "Komika Title - Paint.otf"
+      "editor_option_text_font_file": "KOMTITP_.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -278,7 +278,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat,\nshellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -286,7 +287,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat,\nshellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -294,7 +296,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat,\nshellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -302,7 +305,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat,\nshellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true
           }
         ]
       },
@@ -337,7 +341,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -348,7 +352,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -373,31 +377,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -424,7 +436,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat,\nshellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -432,7 +445,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat,\nshellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -440,7 +454,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat,\nshellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -448,7 +463,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat,\nshellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true
           }
         ]
       },
@@ -483,7 +499,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -494,7 +510,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -519,31 +535,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -551,7 +575,7 @@
     "display_order": 8,
     "content_type": "T_MENU",
     "width": 423,
-    "height": 227,
+    "height": 260,
     "top": 371,
     "left": 1288,
     "angle": 0,
@@ -570,7 +594,8 @@
             "price": ["5"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -578,7 +603,8 @@
             "price": ["5"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -586,7 +612,8 @@
             "price": ["5"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
@@ -657,31 +684,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -689,7 +724,7 @@
     "display_order": 9,
     "content_type": "T_MENU",
     "width": 423,
-    "height": 147,
+    "height": 160,
     "top": 756,
     "left": 1288,
     "angle": 0,
@@ -708,7 +743,8 @@
             "price": ["5"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -716,7 +752,8 @@
             "price": ["5"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           }
         ]
       },
@@ -787,31 +824,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]

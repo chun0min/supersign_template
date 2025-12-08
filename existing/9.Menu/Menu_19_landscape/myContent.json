@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_19_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_19_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_19_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_19_landscape/background.svg",
     "content_size": 20427760,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -152,8 +152,8 @@
     "id": 3,
     "display_order": 4,
     "content_type": "T_MENU",
-    "width": 520,
-    "height": 833,
+    "width": 1720,
+    "height": 834,
     "top": 179,
     "left": 100,
     "angle": 0,
@@ -180,121 +180,7 @@
               "item_type": "image",
               "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_19_landscape/img_01.svg"
             }
-          }
-        ]
-      },
-      "name": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
-        "font_size": 24,
-        "color": "rgba(235, 56, 56, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 20,
-        "color": "rgba(0, 0, 0, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "price": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
-        "font_size": 24,
-        "color": "rgba(0, 0, 0,1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 20,
-        "color": "rgba(255, 114, 114,1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 14,
-        "color": "rgba(199, 115, 115,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 20,
-        "color": "rgba(0, 0, 0,1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "custom": {
-        "price_type": "left",
-        "calories": "right",
-        "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
-        "reverse": false,
-        "section": [
-          {
-            "id": "blue",
-            "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
-            "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
           },
-          {
-            "id": "purple",
-            "direction": "horizontal",
-            "list": ["price"]
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": 4,
-    "display_order": 5,
-    "content_type": "T_MENU",
-    "width": 520,
-    "height": 833,
-    "top": 179,
-    "left": 700,
-    "angle": 0,
-    "scene_no": 1,
-    "option_menu_version": "v2",
-    "widget_class": "r5_menu_19_landscape",
-    "option_menu": {
-      "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
-        "price_type_text": [""],
-        "menu_list": [
           {
             "menu_name": "Signature Fresh Fruit Cake",
             "description": "Light and creamy sponge cake topped with juicy seasonal fruits",
@@ -309,121 +195,7 @@
               "item_type": "image",
               "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_19_landscape/img_02.svg"
             }
-          }
-        ]
-      },
-      "name": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
-        "font_size": 24,
-        "color": "rgba(235, 56, 56, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 20,
-        "color": "rgba(0, 0, 0, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "price": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
-        "font_size": 24,
-        "color": "rgba(0, 0, 0,1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 20,
-        "color": "rgba(255, 114, 114,1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 14,
-        "color": "rgba(199, 115, 115,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 20,
-        "color": "rgba(0, 0, 0,1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "custom": {
-        "price_type": "left",
-        "calories": "right",
-        "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
-        "reverse": false,
-        "section": [
-          {
-            "id": "blue",
-            "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
-            "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
           },
-          {
-            "id": "purple",
-            "direction": "horizontal",
-            "list": ["price"]
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": 5,
-    "display_order": 6,
-    "content_type": "T_MENU",
-    "width": 520,
-    "height": 833,
-    "top": 179,
-    "left": 700,
-    "angle": 0,
-    "scene_no": 1,
-    "option_menu_version": "v2",
-    "widget_class": "r5_menu_19_landscape",
-    "option_menu": {
-      "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
-        "price_type_text": [""],
-        "menu_list": [
           {
             "menu_name": "blueberry cupcake",
             "description": "Moist vanilla cake with sweet blueberry",
@@ -508,31 +280,38 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 85,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": []
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     }
   }
 ]

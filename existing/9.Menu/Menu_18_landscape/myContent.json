@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_landscape/background.svg",
     "content_size": 150117,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -51,11 +51,11 @@
     "width": 138,
     "height": 348,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_01.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_01.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_landscape/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_landscape/img_01.svg",
     "content_size": 2292962,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_01.svg",
+    "media_name": "img_01.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -94,11 +94,11 @@
     "width": 301,
     "height": 333,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_02.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_02.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_landscape/img_02.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_landscape/img_02.svg",
     "content_size": 1130732,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_02.svg",
+    "media_name": "img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -137,11 +137,11 @@
     "width": 463,
     "height": 463,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_03.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_03.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_landscape/img_03.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_landscape/img_03.svg",
     "content_size": 1877162,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_03.svg",
+    "media_name": "img_03.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -180,11 +180,11 @@
     "width": 166,
     "height": 271,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_04.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_04.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_landscape/img_04.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_18_landscape/img_04.svg",
     "content_size": 2292935,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_18_randscape/img_04.svg",
+    "media_name": "img_04.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -220,7 +220,7 @@
     "content_type": "TEXT",
     "top": 84,
     "left": 963,
-    "width": 160,
+    "width": 170,
     "height": 66,
     "angle": 0,
     "content_size": 4,
@@ -229,7 +229,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare.otf",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -242,7 +242,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Ohsquare.otf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -277,12 +277,12 @@
     "height": 28,
     "angle": 0,
     "content_size": 11,
-    "text_value": "Loaf Breads",
+    "text_value": "LOAF BREADS",
     "line_height": 1,
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare.otf",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -295,7 +295,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Ohsquare.otf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -330,12 +330,12 @@
     "height": 28,
     "angle": 0,
     "content_size": 10,
-    "text_value": "Croissants",
+    "text_value": "CROISSANTS",
     "line_height": 1,
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare.otf",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -348,7 +348,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Ohsquare.otf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -383,12 +383,12 @@
     "height": 28,
     "angle": 0,
     "content_size": 14,
-    "text_value": "Healthy Breads",
+    "text_value": "HEALTHY BREADS",
     "line_height": 1,
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare.otf",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -401,7 +401,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Ohsquare.otf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -436,12 +436,12 @@
     "height": 28,
     "angle": 0,
     "content_size": 6,
-    "text_value": "Brunch",
+    "text_value": "BRUNCH",
     "line_height": 1,
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare.otf",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -454,7 +454,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Ohsquare.otf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -486,7 +486,7 @@
     "top": 1012,
     "left": 1734,
     "width": 136,
-    "height": 19,
+    "height": 23,
     "angle": 0,
     "content_size": 13,
     "text_value": "000-0000-0000",
@@ -494,7 +494,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare.otf",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -507,7 +507,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Ohsquare.otf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -556,7 +556,8 @@
             "price": ["32"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Milk Loaf",
@@ -564,7 +565,8 @@
             "price": ["30"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Whole Wheat Loaf",
@@ -572,13 +574,14 @@
             "price": ["29"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 28,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -599,15 +602,15 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 22,
         "color": "rgba(131, 99, 61,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -618,7 +621,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -644,27 +647,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 80,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "description"]
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
@@ -694,7 +702,8 @@
             "price": ["22"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Chocolate Croissant",
@@ -702,7 +711,8 @@
             "price": ["20"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Almond Croissant",
@@ -710,13 +720,14 @@
             "price": ["15"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 28,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -737,8 +748,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 22,
         "color": "rgba(131, 99, 61,1)",
         "style_bold": false,
@@ -782,27 +793,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 80,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "description"]
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
@@ -814,8 +830,8 @@
     "content_type": "T_MENU",
     "width": 419,
     "height": 300,
-    "top": 228,
-    "left": 1421,
+    "top": 670,
+    "left": 963,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -832,7 +848,8 @@
             "price": ["29"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Baguette",
@@ -840,7 +857,8 @@
             "price": ["24"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Rye Bread",
@@ -848,13 +866,14 @@
             "price": ["22"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 28,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -875,8 +894,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 22,
         "color": "rgba(131, 99, 61,1)",
         "style_bold": false,
@@ -920,27 +939,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 80,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "description"]
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
@@ -970,7 +994,8 @@
             "price": ["29"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Morning Rolls",
@@ -978,7 +1003,8 @@
             "price": ["29"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Ham & Cheese Toast",
@@ -986,13 +1012,14 @@
             "price": ["29"],
             "calory": ["110"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 28,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -1013,8 +1040,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 22,
         "color": "rgba(131, 99, 61,1)",
         "style_bold": false,
@@ -1058,27 +1085,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 80,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "description"]
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }

@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_landscape/background.svg",
     "content_size": 2661883,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -51,11 +51,11 @@
     "width": 814,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_randscape/img_01.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_randscape/img_01.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_landscape/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_landscape/img_01.svg",
     "content_size": 1694554,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_randscape/img_01.svg",
+    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_landscape/img_01.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -100,7 +100,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 ClassicType OTF.otf",
+      "editor_option_text_font_name": "Cafe24Classictype",
       "editor_option_text_font_size": "100",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -113,7 +113,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 ClassicType OTF.otf"
+      "editor_option_text_font_file": "Cafe24Classictype.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -144,7 +144,7 @@
     "content_type": "TEXT",
     "top": 192,
     "left": 70,
-    "width": 410,
+    "width": 450,
     "height": 122,
     "angle": 0,
     "content_size": 10,
@@ -153,7 +153,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 ClassicType OTF.otf",
+      "editor_option_text_font_name": "Cafe24Classictype",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -166,7 +166,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 ClassicType OTF.otf"
+      "editor_option_text_font_file": "Cafe24Classictype.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -206,7 +206,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 ClassicType OTF.otf",
+      "editor_option_text_font_name": "Cafe24Classictype",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -219,7 +219,7 @@
       "editor_option_text_align": "right",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 ClassicType OTF.otf"
+      "editor_option_text_font_file": "Cafe24Classictype.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -259,7 +259,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 ClassicType OTF.otf",
+      "editor_option_text_font_name": "Cafe24Classictype",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -272,7 +272,7 @@
       "editor_option_text_align": "right",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 ClassicType OTF.otf"
+      "editor_option_text_font_file": "Cafe24Classictype.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -316,7 +316,7 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "red snapper",
+            "menu_name": "RED SNAPPER",
             "description": "Classic spaghetti with a slow-cooked tomato",
             "price": ["12.0"],
             "calory": ["110"],
@@ -331,7 +331,7 @@
             }
           },
           {
-            "menu_name": "Eel sushi",
+            "menu_name": "EEL SUSHI",
             "description": "Classic spaghetti with a slow-cooked tomato",
             "price": ["12.0"],
             "calory": ["110"],
@@ -346,7 +346,7 @@
             }
           },
           {
-            "menu_name": "sweet shrimp",
+            "menu_name": "SWEET SHRIMP",
             "description": "Classic spaghetti with a slow-cooked tomato",
             "price": ["12.0"],
             "calory": ["110"],
@@ -361,7 +361,7 @@
             }
           },
           {
-            "menu_name": "squid",
+            "menu_name": "SQUID",
             "description": "Classic spaghetti with a slow-cooked tomato",
             "price": ["12.0"],
             "calory": ["110"],
@@ -376,7 +376,7 @@
             }
           },
           {
-            "menu_name": "Eel sushi",
+            "menu_name": "EEL SUSHI",
             "description": "Classic spaghetti with a slow-cooked tomato",
             "price": ["12.0"],
             "calory": ["110"],
@@ -415,8 +415,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 24,
         "color": "rgba(255, 158, 47,1)",
         "style_bold": false,
@@ -440,7 +440,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
-        "color": "rgba(88, 88, 88,1)",
+        "color": "rgba(179, 179, 179,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -450,8 +450,8 @@
       "description": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.ttf",
-        "font_size": 18,
-        "color": "rgba(0, 0, 0,1)",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -459,12 +459,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
         "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "horizontal_scale": 38,
+        "vertical_scale": 75,
         "reverse": false,
         "section": [
           {
@@ -491,8 +491,8 @@
     "display_order": 8,
     "content_type": "T_MENU",
     "width": 300,
-    "height": 836,
-    "top": 115,
+    "height": 1000,
+    "top": 50,
     "left": 968,
     "angle": 0,
     "scene_no": 1,
@@ -505,7 +505,7 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "direct grilling Sushi",
+            "menu_name": "DIRECT GRILLING SUSHI",
             "description": "Classic spaghetti with a slow-cooked tomato",
             "price": ["12.0"],
             "calory": ["110"],
@@ -520,7 +520,7 @@
             }
           },
           {
-            "menu_name": "direct grilling Sushi",
+            "menu_name": "DIRECT GRILLING SUSHI",
             "description": "Classic spaghetti with a slow-cooked tomato",
             "price": ["12.0"],
             "calory": ["110"],
@@ -535,7 +535,7 @@
             }
           },
           {
-            "menu_name": "direct grilling Sushi",
+            "menu_name": "DIRECT GRILLING SUSHI",
             "description": "Classic spaghetti with a slow-cooked tomato",
             "price": ["12.0"],
             "calory": ["110"],
@@ -543,10 +543,10 @@
             "ordr": 3,
             "enable": true,
             "image": {
-              "item_name": "img_06.svg",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_17_landscape/img_06.svg",
+              "item_name": "img_04.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_17_landscape/img_04.svg",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_17_landscape/img_06.svg"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_17_landscape/img_04.svg"
             }
           }
         ]
@@ -574,8 +574,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 24,
         "color": "rgba(255, 158, 47,1)",
         "style_bold": false,
@@ -599,7 +599,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
-        "color": "rgba(88, 88, 88,1)",
+        "color": "rgba(179, 179, 179,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -609,8 +609,8 @@
       "description": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.ttf",
-        "font_size": 18,
-        "color": "rgba(0, 0, 0,1)",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -618,31 +618,38 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": []
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     }
   }
 ]
