@@ -495,3 +495,11 @@
 .r5_menu_55_landscape .menu {
   margin-bottom: 30px;
 }
+
+.r5_menu_57_landscape .menu {
+  margin-bottom: 17px;
+}
+
+.r5_menu_57_landscape .menu .item-name{
+  margin-bottom: 17px;
+}
