@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChang Peace",
+      "editor_option_text_font_name": "PyeongChangPeace-Bold",
       "editor_option_text_font_size": "48",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "PyeongChang Peace.ttf"
+      "editor_option_text_font_file": "PyeongChangPeace-Bold.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChang Peace",
+      "editor_option_text_font_name": "PyeongChangPeace-Bold",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "PyeongChang Peace.ttf"
+      "editor_option_text_font_file": "PyeongChangPeace-Bold.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -162,7 +162,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChang Peace",
+      "editor_option_text_font_name": "PyeongChangPeace-Bold",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "PyeongChang Peace.ttf"
+      "editor_option_text_font_file": "PyeongChangPeace-Bold.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -215,7 +215,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChang Peace",
+      "editor_option_text_font_name": "PyeongChangPeace-Bold",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -228,7 +228,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "PyeongChang Peace.ttf"
+      "editor_option_text_font_file": "PyeongChangPeace-Bold.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -268,7 +268,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChang Peace",
+      "editor_option_text_font_name": "PyeongChangPeace-Bold",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -281,7 +281,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "PyeongChang Peace.ttf"
+      "editor_option_text_font_file": "PyeongChangPeace-Bold.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -321,7 +321,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChang Peace",
+      "editor_option_text_font_name": "PyeongChangPeace-Bold",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -334,7 +334,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "PyeongChang Peace.ttf"
+      "editor_option_text_font_file": "PyeongChangPeace-Bold.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -587,8 +587,8 @@
         ]
       },
       "name": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 20,
         "color": "rgba(240,84,36,1)",
         "style_bold": 700,
@@ -599,7 +599,7 @@
       },
       "priceType": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -609,8 +609,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 28,
         "color": "rgba(240,84,36,1)",
         "style_bold": 700,
@@ -620,8 +620,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 18,
         "color": "rgba(240,84,36,1)",
         "style_bold": 500,
@@ -631,8 +631,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(105,66,48,1)",
         "style_bold": false,
@@ -642,8 +642,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(240,84,36,1)",
         "style_bold": 500,
@@ -656,28 +656,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     },
     "name": ""
   },
@@ -733,8 +740,8 @@
         ]
       },
       "name": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 20,
         "color": "rgba(240,84,36,1)",
         "style_bold": 700,
@@ -745,7 +752,7 @@
       },
       "priceType": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -755,8 +762,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 28,
         "color": "rgba(240,84,36,1)",
         "style_bold": 700,
@@ -766,8 +773,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 18,
         "color": "rgba(240,84,36,1)",
         "style_bold": 500,
@@ -777,8 +784,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(105,66,48,1)",
         "style_bold": false,
@@ -788,8 +795,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(240,84,36,1)",
         "style_bold": 500,
@@ -802,28 +809,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     },
     "name": ""
   },
@@ -879,8 +893,8 @@
         ]
       },
       "name": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 20,
         "color": "rgba(240,84,36,1)",
         "style_bold": 700,
@@ -891,7 +905,7 @@
       },
       "priceType": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -901,8 +915,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 28,
         "color": "rgba(240,84,36,1)",
         "style_bold": 700,
@@ -912,8 +926,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 18,
         "color": "rgba(240,84,36,1)",
         "style_bold": 500,
@@ -923,8 +937,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(105,66,48,1)",
         "style_bold": false,
@@ -934,8 +948,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(240,84,36,1)",
         "style_bold": 500,
@@ -948,28 +962,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     },
     "name": ""
   },
@@ -981,7 +1002,7 @@
     "width": 560,
     "height": 373,
     "top": 681,
-    "left": 80,
+    "left": 1291,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -1025,8 +1046,8 @@
         ]
       },
       "name": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 20,
         "color": "rgba(240,84,36,1)",
         "style_bold": 700,
@@ -1037,7 +1058,7 @@
       },
       "priceType": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -1047,8 +1068,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 28,
         "color": "rgba(240,84,36,1)",
         "style_bold": 700,
@@ -1058,8 +1079,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 18,
         "color": "rgba(240,84,36,1)",
         "style_bold": 500,
@@ -1069,8 +1090,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(105,66,48,1)",
         "style_bold": false,
@@ -1080,8 +1101,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(240,84,36,1)",
         "style_bold": 500,
@@ -1094,28 +1115,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     },
     "name": ""
   },
@@ -1156,8 +1184,8 @@
         ]
       },
       "name": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 32,
         "color": "rgba(240,84,36,1)",
         "style_bold": 700,
@@ -1168,7 +1196,7 @@
       },
       "priceType": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -1178,8 +1206,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 50,
         "color": "rgba(240,84,36,1)",
         "style_bold": 700,
@@ -1189,8 +1217,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 30,
         "color": "rgba(240,84,36,1)",
         "style_bold": 500,
@@ -1200,8 +1228,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(105,66,48,1)",
         "style_bold": false,
@@ -1211,8 +1239,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 24,
         "color": "rgba(240,84,36,1)",
         "style_bold": 500,
@@ -1225,28 +1253,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 75,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     },
     "name": ""
   }

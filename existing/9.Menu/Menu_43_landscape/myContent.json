@@ -46,8 +46,8 @@
     "id": 1,
     "display_order": 2,
     "content_type": "TEXT",
-    "top": 205,
-    "left": -105,
+    "top": 285,
+    "left": -80,
     "width": 444,
     "height": 97,
     "angle": -90,
@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "89",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -68,8 +68,8 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
+      "editor_option_text_spacing": 5,
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "233",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -120,8 +120,8 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 18,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
+      "editor_option_text_spacing": 15,
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -153,7 +153,7 @@
     "content_type": "T_MENU",
     "width": 1025,
     "height": 482,
-    "top": 71,
+    "top": 50,
     "left": 674,
     "angle": 0,
     "scene_no": 1,
@@ -213,8 +213,8 @@
         ]
       },
       "name": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 29,
         "color": "rgba(15,18,11,1)",
         "style_bold": false,
@@ -232,7 +232,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
         "font_name": "Inter",
@@ -243,7 +243,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
         "font_name": "Inter",
@@ -254,7 +254,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
         "font_name": "Inter",
@@ -265,7 +265,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "description": {
         "font_name": "Inter",
@@ -276,34 +276,41 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "custom": {
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     },
     "name": ""
   },
@@ -313,7 +320,7 @@
     "content_type": "T_MENU",
     "width": 1025,
     "height": 482,
-    "top": 553,
+    "top": 530,
     "left": 674,
     "angle": 0,
     "scene_no": 1,
@@ -373,8 +380,8 @@
         ]
       },
       "name": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 29,
         "color": "rgba(15,18,11,1)",
         "style_bold": false,
@@ -442,28 +449,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     },
     "name": ""
   }

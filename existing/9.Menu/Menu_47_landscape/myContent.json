@@ -52,14 +52,14 @@
     "height": 195,
     "angle": 0,
     "content_size": 11,
-    "text_value": "Burger MENU",
+    "text_value": "BURGER MENU",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barlow Condensed",
+      "editor_option_text_font_name": "BarlowCondensed-Regular",
       "editor_option_text_font_size": "162",
-      "editor_option_text_style_bold": false,
-      "editor_option_text_style_italic": true,
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "244, 207, 162",
@@ -69,7 +69,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 6,
-      "editor_option_text_font_file": "Barlow Condensed.ttf"
+      "editor_option_text_font_file": "BarlowCondensed-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -319,18 +319,18 @@
     "id": 7,
     "display_order": 8,
     "content_type": "T_MENU",
-    "width": 1817,
-    "height": 321,
+    "width": 1920,
+    "height": 350,
     "top": 262,
-    "left": 31,
+    "left": 0,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
     "widget_class": "r5_menu_47_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "5",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S", "M", "L"],
         "menu_list": [
           {
@@ -411,8 +411,8 @@
         ]
       },
       "name": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 92,
         "color": "rgba(225,54,14,1)",
         "style_bold": false,
@@ -422,8 +422,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -433,8 +433,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(45,21,13,1)",
         "style_bold": 700,
@@ -444,8 +444,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(45,21,13,1)",
         "style_bold": false,
@@ -455,8 +455,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(45,21,13,1)",
         "style_bold": false,
@@ -466,8 +466,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Barlow Condensed",
-        "font_file": "Barlow Condensed.ttf",
+        "font_name": "BarlowCondensed-Regular",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(225,54,14,1)",
         "style_bold": 700,
@@ -478,17 +478,17 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 10,
+        "vertical_scale": 75,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",

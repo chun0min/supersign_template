@@ -46,9 +46,9 @@
     "id": 1,
     "display_order": 2,
     "content_type": "TEXT",
-    "top": 2242,
-    "left": 453,
-    "width": 156,
+    "top": 242,
+    "left": 445,
+    "width": 175,
     "height": 32,
     "angle": 0,
     "content_size": 9,
@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Moyamoya",
+      "editor_option_text_font_name": "Cafe24Moyamoya-Face-v1",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Cafe24 Moyamoya.ttf"
+      "editor_option_text_font_file": "Cafe24Moyamoya-Face-v1.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Moyamoya",
+      "editor_option_text_font_name": "Cafe24Moyamoya-Face-v1",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Cafe24 Moyamoya.ttf"
+      "editor_option_text_font_file": "Cafe24Moyamoya-Face-v1.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -162,7 +162,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Moyamoya",
+      "editor_option_text_font_name": "Cafe24Moyamoya-Face-v1",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Cafe24 Moyamoya.ttf"
+      "editor_option_text_font_file": "Cafe24Moyamoya-Face-v1.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -514,7 +514,7 @@
     "display_order": 12,
     "content_type": "T_MENU",
     "width": 692,
-    "height": 315,
+    "height": 600,
     "top": 315,
     "left": 185,
     "angle": 0,
@@ -575,8 +575,8 @@
         ]
       },
       "name": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 18,
         "color": "rgba(21,19,3,1)",
         "style_bold": 900,
@@ -586,8 +586,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(103, 103, 103, 1)",
         "style_bold": 600,
@@ -597,8 +597,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 24,
         "color": "rgba(17,17,17,1)",
         "style_bold": false,
@@ -608,8 +608,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(33,33,33,1)",
         "style_bold": 600,
@@ -619,8 +619,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(45,45,45,1)",
         "style_bold": false,
@@ -630,8 +630,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(103,103,103,1)",
         "style_bold": 600,
@@ -644,9 +644,9 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 33,
+        "vertical_scale": 55,
         "reverse": false,
         "section": [
           {
@@ -677,6 +677,186 @@
     "width": 604,
     "height": 365,
     "top": 309,
+    "left": 1088,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_50_landscape_1",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "4",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "SOONDAE GUKBAP",
+            "description": "IT'S CHEWY AND FILLING WITH GLUTINOUS RICE",
+            "price": ["$11.0"],
+            "calory": ["120"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "BOILED PORK AND RICE SOUP",
+            "description": "SOFT BOILED PORK AND LIGHT BOILED PORK AND RICE SOUP",
+            "price": ["$12.0"],
+            "calory": ["120"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "USAGOL BOILED PORK AND RICE SOUP",
+            "description": "USAGOL RICE SOUP WITH FINE BEEF BONE FOR A LONG TIME",
+            "price": ["$18.0"],
+            "calory": ["120"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "HAMBAK STEAK SET",
+            "description": "HAMBAK STEAK SET WITH JUICY PORK",
+            "price": ["$12.0"],
+            "calory": ["120"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "PyeongChang Peace",
+        "font_file": "PyeongChang Peace.ttf",
+        "font_size": 18,
+        "color": "rgba(32,19,3,1)",
+        "style_bold": 900,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 20,
+        "color": "rgba(225, 54, 14, 1)",
+        "style_bold": 800,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 24,
+        "color": "rgba(17,17,17,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(33,3,33,1)",
+        "style_bold": 600,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 10,
+        "color": "rgba(45,45,45,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(103,103,103,1)",
+        "style_bold": 600,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 80,
+        "vertical_scale": 100,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [ ]
+          }
+        ]
+      }
+    },
+    "name": ""
+  },
+  {
+    "id": 13,
+    "display_order": 14,
+    "content_type": "T_MENU",
+    "width": 604,
+    "height": 200,
+    "top": 768,
     "left": 1088,
     "angle": 0,
     "scene_no": 1,
@@ -758,30 +938,30 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 24,
         "color": "rgba(17,17,17,1)",
         "style_bold": 700,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(33,3,33,1)",
         "style_bold": 600,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(45,45,45,1)",
         "style_bold": false,
@@ -791,8 +971,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(103,103,103,1)",
         "style_bold": 600,
@@ -803,27 +983,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 80,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }

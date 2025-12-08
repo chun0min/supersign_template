@@ -47,18 +47,18 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 235,
-    "left": -126,
-    "width": 460,
-    "height": 60,
+    "left": -135,
+    "width": 490,
+    "height": 80,
     "angle": 90,
     "content_size": 10,
     "text_value": "RESTAURANT",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Paperlogy",
+      "editor_option_text_font_name": "Paperlogy-4Regular",
       "editor_option_text_font_size": "70",
-      "editor_option_text_style_bold": 800,
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Paperlogy.ttf"
+      "editor_option_text_font_file": "Paperlogy-4Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,8 +109,8 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Paperlogy",
-      "editor_option_text_font_size": "70",
+      "editor_option_text_font_name": "Paperlogy-4Regular",
+      "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": 600,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Paperlogy.ttf"
+      "editor_option_text_font_file": "Paperlogy-4Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -390,8 +390,8 @@
         ]
       },
       "name": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 30,
         "color": "rgba(225,255,255,1)",
         "style_bold": 600,
@@ -401,8 +401,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -412,8 +412,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 46,
         "color": "rgba(255,255,255,1)",
         "style_bold": 900,
@@ -423,8 +423,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 24,
         "color": "rgba(255,255,255,1)",
         "style_bold": 300,
@@ -445,8 +445,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
         "style_bold": 600,
@@ -459,15 +459,15 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 1,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
@@ -489,7 +489,7 @@
     "id": 8,
     "display_order": 9,
     "content_type": "T_MENU",
-    "width": 424,
+    "width": 410,
     "height": 445,
     "top": 578,
     "left": 510,
@@ -566,8 +566,8 @@
         ]
       },
       "name": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 16,
         "color": "rgba(32,19,3,1)",
         "style_bold": 900,
@@ -577,8 +577,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -588,26 +588,26 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 24,
         "color": "rgba(177,0,0,1)",
         "style_bold": 900,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 14,
         "color": "rgba(87,57,44,1)",
         "style_bold": 300,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -621,8 +621,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 12,
         "color": "rgba(101,33,0,1)",
         "style_bold": 600,
@@ -633,27 +633,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 70,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
@@ -664,7 +669,7 @@
     "id": 9,
     "display_order": 10,
     "content_type": "T_MENU",
-    "width": 424,
+    "width": 410,
     "height": 445,
     "top": 578,
     "left": 984,
@@ -741,8 +746,8 @@
         ]
       },
       "name": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 16,
         "color": "rgba(32,19,3,1)",
         "style_bold": 900,
@@ -752,8 +757,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -763,26 +768,26 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 24,
         "color": "rgba(177,0,0,1)",
         "style_bold": 900,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 14,
         "color": "rgba(87,57,44,1)",
         "style_bold": 300,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -796,8 +801,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 12,
         "color": "rgba(101,33,0,1)",
         "style_bold": 600,
@@ -808,27 +813,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 70,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
@@ -839,7 +849,7 @@
     "id": 10,
     "display_order": 11,
     "content_type": "T_MENU",
-    "width": 424,
+    "width": 410,
     "height": 445,
     "top": 578,
     "left": 1485,
@@ -916,8 +926,8 @@
         ]
       },
       "name": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 16,
         "color": "rgba(32,19,3,1)",
         "style_bold": 900,
@@ -927,8 +937,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -938,26 +948,26 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 24,
         "color": "rgba(177,0,0,1)",
         "style_bold": 900,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 14,
         "color": "rgba(87,57,44,1)",
         "style_bold": 300,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -971,8 +981,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Paperlogy",
-        "font_file": "Paperlogy.ttf",
+        "font_name": "Paperlogy-4Regular",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 12,
         "color": "rgba(101,33,0,1)",
         "style_bold": 600,
@@ -983,27 +993,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 70,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
