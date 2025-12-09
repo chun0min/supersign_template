@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare OTF",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "right",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Cafe24 Ohsquare OTF.ttf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare OTF",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "right",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Cafe24 Ohsquare OTF.ttf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -155,14 +155,14 @@
     "top": 40,
     "left": 1002,
     "width": 244,
-    "height": 20,
+    "height": 30,
     "angle": 0,
     "content_size": 8,
     "text_value": "SMOOTHIE",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare OTF",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Cafe24 Ohsquare OTF.ttf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -215,7 +215,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare OTF",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -228,7 +228,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Cafe24 Ohsquare OTF.ttf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -268,7 +268,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare OTF",
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -281,7 +281,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Cafe24 Ohsquare OTF.ttf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -520,8 +520,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 19,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -531,8 +531,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(131, 99, 61, 1)",
         "style_bold": 700,
@@ -542,8 +542,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(131,99,61,1)",
         "style_bold": false,
@@ -553,8 +553,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(142,142,142,1)",
         "style_bold": false,
@@ -564,8 +564,8 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 9,
         "color": "rgba(174,138,82,1)",
         "style_bold": false,
@@ -575,8 +575,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -587,27 +587,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 60,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
@@ -696,8 +701,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 19,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -707,8 +712,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(131, 99, 61, 1)",
         "style_bold": 700,
@@ -718,8 +723,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(131,99,61,1)",
         "style_bold": false,
@@ -729,8 +734,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(142,142,142,1)",
         "style_bold": false,
@@ -740,8 +745,8 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 9,
         "color": "rgba(174,138,82,1)",
         "style_bold": false,
@@ -751,8 +756,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -763,27 +768,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 60,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
@@ -807,7 +817,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "Cheese Basque Cake",
@@ -872,8 +882,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24 ClassicType OTF",
-        "font_file": "Cafe24 ClassicType OTF.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 19,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -883,8 +893,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(131, 99, 61, 1)",
         "style_bold": 700,
@@ -894,19 +904,19 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(131,99,61,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(142,142,142,1)",
         "style_bold": false,
@@ -916,8 +926,8 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 9,
         "color": "rgba(174,138,82,1)",
         "style_bold": false,
@@ -927,8 +937,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -938,33 +948,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 89,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [ ]
           }
         ]
       }
     },
     "name": ""
-  },
-
+  }
 ]

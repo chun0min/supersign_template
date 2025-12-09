@@ -48,7 +48,7 @@
     "content_type": "TEXT",
     "top": 40,
     "left": 94,
-    "width": 637,
+    "width": 700,
     "height": 181,
     "angle": 0,
     "content_size": 9,
@@ -56,8 +56,8 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Komika Title",
-      "editor_option_text_font_size": "170",
+      "editor_option_text_font_name": "KOMTITP_",
+      "editor_option_text_font_size": "130",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -66,10 +66,10 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Komika Title.ttf"
+      "editor_option_text_spacing": -10,
+      "editor_option_text_font_file": "KOMTITP_.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,9 +109,9 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "96",
-      "editor_option_text_style_bold": 800,
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Inter.ttf"
+      "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -154,7 +154,7 @@
     "content_type": "TEXT",
     "top": 895,
     "left": 196,
-    "width": 345,
+    "width": 400,
     "height": 47,
     "angle": 0,
     "content_size": 15,
@@ -162,7 +162,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "38",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Inter.ttf"
+      "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -207,7 +207,7 @@
     "content_type": "TEXT",
     "top": 942,
     "left": 118,
-    "width": 555,
+    "width": 570,
     "height": 47,
     "angle": 0,
     "content_size": 32,
@@ -215,7 +215,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Komika Title - Axis",
+      "editor_option_text_font_name": "KOMTITP_",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -228,7 +228,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Komika Title - Axis.ttf"
+      "editor_option_text_font_file": "KOMTITP_.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -268,7 +268,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Komika Title - Axis",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -281,7 +281,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Komika Title - Axis.ttf"
+      "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -311,7 +311,7 @@
     "id": 6,
     "display_order": 7,
     "content_type": "TEXT",
-    "top": 102,
+    "top": 720,
     "left": 826,
     "width": 341,
     "height": 50,
@@ -321,7 +321,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Komika Title - Axis",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -334,7 +334,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Komika Title - Axis.ttf"
+      "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -540,8 +540,8 @@
     "id": 11,
     "display_order": 12,
     "content_type": "T_MENU",
-    "width": 286,
-    "height": 300,
+    "width": 300,
+    "height": 330,
     "top": 360,
     "left": 826,
     "angle": 0,
@@ -551,8 +551,8 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "4",
-        "price_type_text": [],
+        "price_type": "1",
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -598,12 +598,12 @@
               "item_type": "",
               "item_thumbnail_url": ""
             }
-          },
+          }
         ]
       },
       "name": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(116,85,85,1)",
         "style_bold": 800,
@@ -613,8 +613,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -624,30 +624,30 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(116,85,85,1)",
         "style_bold": 800,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(87,57,44,1)",
         "style_bold": 300,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": 300,
@@ -657,8 +657,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 15,
         "color": "rgba(116,85,85,1)",
         "style_bold": 500,
@@ -668,12 +668,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
@@ -683,26 +683,31 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
-    },
-    "name": ""
+      },
+      "type": "balance"
+    }
   },
 
   {
     "id": 12,
     "display_order": 13,
     "content_type": "T_MENU",
-    "width": 286,
-    "height": 300,
+    "width": 300,
+    "height": 330,
     "top": 360,
     "left": 1178,
     "angle": 0,
@@ -713,7 +718,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -759,12 +764,12 @@
               "item_type": "",
               "item_thumbnail_url": ""
             }
-          },
+          }
         ]
       },
       "name": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(116,85,85,1)",
         "style_bold": 800,
@@ -774,8 +779,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -785,30 +790,30 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(116,85,85,1)",
         "style_bold": 800,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(87,57,44,1)",
         "style_bold": 300,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": 300,
@@ -818,8 +823,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 15,
         "color": "rgba(116,85,85,1)",
         "style_bold": 500,
@@ -829,12 +834,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
@@ -844,16 +849,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -862,8 +873,8 @@
     "id": 13,
     "display_order": 14,
     "content_type": "T_MENU",
-    "width": 286,
-    "height": 300,
+    "width": 300,
+    "height": 330,
     "top": 360,
     "left": 1532,
     "angle": 0,
@@ -874,7 +885,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -920,12 +931,12 @@
               "item_type": "",
               "item_thumbnail_url": ""
             }
-          },
+          }
         ]
       },
       "name": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(116,85,85,1)",
         "style_bold": 800,
@@ -935,8 +946,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -946,8 +957,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(116,85,85,1)",
         "style_bold": 800,
@@ -957,8 +968,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(87,57,44,1)",
         "style_bold": 300,
@@ -968,8 +979,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": 300,
@@ -979,8 +990,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 15,
         "color": "rgba(116,85,85,1)",
         "style_bold": 500,
@@ -990,12 +1001,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
@@ -1005,16 +1016,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -1023,8 +1040,8 @@
     "id": 14,
     "display_order": 15,
     "content_type": "T_MENU",
-    "width": 458,
-    "height": 66,
+    "width": 470,
+    "height": 130,
     "top": 940,
     "left": 825,
     "angle": 0,
@@ -1035,7 +1052,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -1055,8 +1072,8 @@
         ]
       },
       "name": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(116,85,85,1)",
         "style_bold": 800,
@@ -1066,8 +1083,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -1077,8 +1094,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(116,85,85,1)",
         "style_bold": 800,
@@ -1088,8 +1105,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(87,57,44,1)",
         "style_bold": 300,
@@ -1099,8 +1116,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": 300,
@@ -1110,8 +1127,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 15,
         "color": "rgba(116,85,85,1)",
         "style_bold": 500,
@@ -1121,12 +1138,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
@@ -1136,16 +1153,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -1154,7 +1177,7 @@
     "id": 15,
     "display_order": 16,
     "content_type": "T_MENU",
-    "width": 458,
+    "width": 470,
     "height": 300,
     "top": 766,
     "left": 1363,
@@ -1166,7 +1189,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -1212,12 +1235,12 @@
               "item_type": "",
               "item_thumbnail_url": ""
             }
-          },
+          }
         ]
       },
       "name": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(116,85,85,1)",
         "style_bold": 800,
@@ -1227,8 +1250,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -1238,8 +1261,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(116,85,85,1)",
         "style_bold": 800,
@@ -1249,8 +1272,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(87,57,44,1)",
         "style_bold": 300,
@@ -1260,8 +1283,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": 300,
@@ -1271,8 +1294,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 15,
         "color": "rgba(116,85,85,1)",
         "style_bold": 500,
@@ -1282,12 +1305,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 55,
         "reverse": false,
         "section": [
           {
@@ -1297,16 +1320,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   }

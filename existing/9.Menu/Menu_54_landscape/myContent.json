@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "48",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Inter.ttf"
+      "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -102,14 +102,14 @@
     "top": 106,
     "left": 659,
     "width": 568,
-    "height": 140,
+    "height": 150,
     "angle": 0,
     "content_size": 15,
     "text_value": "RESTAURANT MENU",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "ChangwonDangamAsac-Bold_0712",
       "editor_option_text_font_size": "74",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -120,9 +120,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "70",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Inter.ttf"
+      "editor_option_text_font_file": "ChangwonDangamAsac-Bold_0712.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -162,7 +162,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Inter.ttf"
+      "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -215,7 +215,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -228,7 +228,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Inter.ttf"
+      "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -268,7 +268,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -281,7 +281,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Inter.ttf"
+      "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -321,7 +321,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -334,7 +334,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Inter.ttf"
+      "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -374,7 +374,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "36",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -387,7 +387,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Inter.ttf"
+      "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -420,14 +420,14 @@
     "top": 784,
     "left": 1362,
     "width": 264,
-    "height": 14,
+    "height": 24,
     "angle": 0,
     "content_size": 4,
     "text_value": "MILD",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi",
+      "editor_option_text_font_name": "Satoshi-Variable",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -440,7 +440,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Satoshi.ttf"
+      "editor_option_text_font_file": "Satoshi-Variable.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -473,16 +473,16 @@
     "top": 842,
     "left": 1362,
     "width": 264,
-    "height": 14,
+    "height": 24,
     "angle": 0,
     "content_size": 6,
     "text_value": "MEDIUM",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi",
+      "editor_option_text_font_name": "Satoshi-Variable",
       "editor_option_text_font_size": "18",
-      "editor_option_text_style_bold": 900,
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
@@ -493,7 +493,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Satoshi.ttf"
+      "editor_option_text_font_file": "Satoshi-Variable.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -526,14 +526,14 @@
     "top": 900,
     "left": 1362,
     "width": 264,
-    "height": 14,
+    "height": 24,
     "angle": 0,
     "content_size": 3,
     "text_value": "HOT",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi",
+      "editor_option_text_font_name": "Satoshi-Variable",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -546,7 +546,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Satoshi.ttf"
+      "editor_option_text_font_file": "Satoshi-Variable.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -579,14 +579,14 @@
     "top": 808,
     "left": 1362,
     "width": 264,
-    "height": 14,
+    "height": 24,
     "angle": 0,
     "content_size": 23,
     "text_value": "Sweet soy & garlic base",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi",
+      "editor_option_text_font_name": "Satoshi-Variable",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -599,7 +599,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Satoshi.ttf"
+      "editor_option_text_font_file": "Satoshi-Variable.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -632,14 +632,14 @@
     "top": 866,
     "left": 1362,
     "width": 264,
-    "height": 14,
+    "height": 24,
     "angle": 0,
     "content_size": 23,
     "text_value": "Sweet soy & garlic base",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi",
+      "editor_option_text_font_name": "Satoshi-Variable",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -652,7 +652,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Satoshi.ttf"
+      "editor_option_text_font_file": "Satoshi-Variable.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -685,14 +685,14 @@
     "top": 924,
     "left": 1362,
     "width": 264,
-    "height": 14,
+    "height": 24,
     "angle": 0,
     "content_size": 23,
     "text_value": "Sweet soy & garlic base",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi",
+      "editor_option_text_font_name": "Satoshi-Variable",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -705,7 +705,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Satoshi.ttf"
+      "editor_option_text_font_file": "Satoshi-Variable.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -868,7 +868,7 @@
     "display_order": 18,
     "content_type": "T_MENU",
     "width": 391,
-    "height": 270,
+    "height": 240,
     "top": 335,
     "left": 230,
     "angle": 0,
@@ -879,7 +879,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -914,8 +914,8 @@
         ]
       },
       "name": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 24,
         "color": "rgba(75,71,69,1)",
         "style_bold": 900,
@@ -936,15 +936,15 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 22,
         "color": "rgba(75,71,69,1)",
         "style_bold": 800,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -955,7 +955,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -969,8 +969,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(75,71,69,1)",
         "style_bold": 500,
@@ -980,12 +980,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
@@ -995,16 +995,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -1014,7 +1020,7 @@
     "display_order": 19,
     "content_type": "T_MENU",
     "width": 391,
-    "height": 270,
+    "height": 240,
     "top": 335,
     "left": 704,
     "angle": 0,
@@ -1025,7 +1031,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -1060,8 +1066,8 @@
         ]
       },
       "name": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 24,
         "color": "rgba(75,71,69,1)",
         "style_bold": 900,
@@ -1082,15 +1088,15 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 22,
         "color": "rgba(75,71,69,1)",
         "style_bold": 800,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -1101,7 +1107,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -1115,8 +1121,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(75,71,69,1)",
         "style_bold": 500,
@@ -1126,12 +1132,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
@@ -1141,16 +1147,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -1160,7 +1172,7 @@
     "display_order": 20,
     "content_type": "T_MENU",
     "width": 391,
-    "height": 270,
+    "height": 290,
     "top": 659,
     "left": 230,
     "angle": 0,
@@ -1171,7 +1183,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -1202,12 +1214,27 @@
               "item_type": "",
               "item_thumbnail_url": ""
             }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["00.00"],
+            "calory": ["999"],
+            "allergy": "Milk, tree nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame seeds",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 24,
         "color": "rgba(75,71,69,1)",
         "style_bold": 900,
@@ -1228,15 +1255,15 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 22,
         "color": "rgba(75,71,69,1)",
         "style_bold": 800,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -1247,7 +1274,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -1261,8 +1288,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(75,71,69,1)",
         "style_bold": 500,
@@ -1272,12 +1299,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
@@ -1287,16 +1314,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -1306,7 +1339,7 @@
     "display_order": 21,
     "content_type": "T_MENU",
     "width": 391,
-    "height": 270,
+    "height": 290,
     "top": 659,
     "left": 704,
     "angle": 0,
@@ -1317,7 +1350,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -1348,12 +1381,27 @@
               "item_type": "",
               "item_thumbnail_url": ""
             }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["00.00"],
+            "calory": ["999"],
+            "allergy": "Milk, tree nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame seeds",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 24,
         "color": "rgba(75,71,69,1)",
         "style_bold": 900,
@@ -1374,15 +1422,15 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 22,
         "color": "rgba(75,71,69,1)",
         "style_bold": 800,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -1393,7 +1441,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -1407,8 +1455,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi",
-        "font_file": "Satoshi.ttf",
+        "font_name": "Satoshi-Variable",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(75,71,69,1)",
         "style_bold": 500,
@@ -1418,12 +1466,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
@@ -1433,16 +1481,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -1458,7 +1512,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_54_landscape",
+    "widget_class": "r5_menu_54_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -1494,12 +1548,12 @@
               "item_type": "image",
               "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_54_landscape/img_02.svg"
             }
-          },
+          }
         ]
       },
       "name": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(75,71,69,1)",
         "style_bold": 800,
@@ -1509,8 +1563,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(75, 71, 69, 1)",
         "style_bold": 700,
@@ -1520,15 +1574,15 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 25,
         "color": "rgba(255,78,37,1)",
         "style_bold": 700,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -1539,7 +1593,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -1553,8 +1607,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(75,71,69,1)",
         "style_bold": 500,
@@ -1564,31 +1618,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
-        "reverse": false,
+        "horizontal_scale": 40,
+        "vertical_scale": 60,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "gallery-b"
     },
     "name": ""
   }
