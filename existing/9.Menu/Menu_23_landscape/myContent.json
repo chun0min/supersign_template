@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_23_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_23_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_23_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_23_landscape/background.svg",
     "content_size": 341779,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -57,7 +57,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "43",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -101,8 +101,8 @@
     "content_type": "TEXT",
     "top": 128,
     "left": 713,
-    "width": 195,
-    "height": 58,
+    "width": 510,
+    "height": 200,
     "angle": 0,
     "content_size": 4,
     "text_value": "Menu",
@@ -110,7 +110,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Alex Brush",
+      "editor_option_text_font_name": "AlexBrush-Regular",
       "editor_option_text_font_size": "217",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -120,10 +120,10 @@
       "editor_option_text_back_color": "255, 255, 255",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Alex Brush-Regular.ttf"
+      "editor_option_text_font_file": "AlexBrush-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -154,7 +154,7 @@
     "content_type": "TEXT",
     "top": 333,
     "left": 777,
-    "width": 366,
+    "width": 400,
     "height": 50,
     "angle": 0,
     "content_size": 14,
@@ -163,7 +163,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "43",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -206,7 +206,7 @@
     "display_order": 5,
     "content_type": "T_MENU",
     "width": 356,
-    "height": 454,
+    "height": 460,
     "top": 437,
     "left": 151,
     "angle": 0,
@@ -225,7 +225,8 @@
             "price": ["9.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Salmon Avocado Plate",
@@ -233,7 +234,8 @@
             "price": ["19.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Mushroom Omelette",
@@ -241,13 +243,14 @@
             "price": ["19.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
         "font_name": "Blenda Script",
-        "font_file": "Blenda Script-Regular.ttf",
+        "font_file": "Blenda Script.otf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -258,7 +261,7 @@
       },
       "priceType": {
         "font_name": "Blenda Script",
-        "font_file": "Blenda Script-Regular.ttf",
+        "font_file": "Blenda Script.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -276,10 +279,10 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -287,10 +290,10 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -312,31 +315,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -344,7 +355,7 @@
     "display_order": 6,
     "content_type": "T_MENU",
     "width": 356,
-    "height": 454,
+    "height": 460,
     "top": 437,
     "left": 575,
     "angle": 0,
@@ -363,7 +374,8 @@
             "price": ["19.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Bacon & Egg Plate",
@@ -371,7 +383,8 @@
             "price": ["19.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Veggie Bowl",
@@ -379,13 +392,14 @@
             "price": ["19.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
         "font_name": "Blenda Script",
-        "font_file": "Blenda Script-Regular.ttf",
+        "font_file": "Blenda Script.otf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -396,7 +410,7 @@
       },
       "priceType": {
         "font_name": "Blenda Script",
-        "font_file": "Blenda Script-Regular.ttf",
+        "font_file": "Blenda Script.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -414,10 +428,10 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -425,10 +439,10 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -450,31 +464,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -482,7 +504,7 @@
     "display_order": 7,
     "content_type": "T_MENU",
     "width": 356,
-    "height": 454,
+    "height": 300,
     "top": 437,
     "left": 999,
     "angle": 0,
@@ -501,7 +523,8 @@
             "price": ["19.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Cheese Sandwich",
@@ -509,13 +532,14 @@
             "price": ["19.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           }
         ]
       },
       "name": {
         "font_name": "Blenda Script",
-        "font_file": "Blenda Script-Regular.ttf",
+        "font_file": "Blenda Script.otf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -526,7 +550,7 @@
       },
       "priceType": {
         "font_name": "Blenda Script",
-        "font_file": "Blenda Script-Regular.ttf",
+        "font_file": "Blenda Script.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -544,10 +568,10 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -555,10 +579,10 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -580,31 +604,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -612,9 +644,9 @@
     "display_order": 8,
     "content_type": "T_MENU",
     "width": 356,
-    "height": 454,
+    "height": 145,
     "top": 437,
-    "left": 999,
+    "left": 1422,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -631,13 +663,14 @@
             "price": ["19.5"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           }
         ]
       },
       "name": {
         "font_name": "Blenda Script",
-        "font_file": "Blenda Script-Regular.ttf",
+        "font_file": "Blenda Script.otf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -648,7 +681,7 @@
       },
       "priceType": {
         "font_name": "Blenda Script",
-        "font_file": "Blenda Script-Regular.ttf",
+        "font_file": "Blenda Script.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -666,10 +699,10 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -677,10 +710,10 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -702,31 +735,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]
