@@ -519,3 +519,14 @@
 .r5_menu_59_landscape .menu {
   margin-bottom: 27px;
 }
+
+.r5_menu_60_landscape{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 32px;
+}
+
+.r5_menu_60_landscape .menu .item-image img{
+  max-width:230px;
+}
