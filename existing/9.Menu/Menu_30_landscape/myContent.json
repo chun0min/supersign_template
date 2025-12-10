@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_30_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_30_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_30_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_30_landscape/background.svg",
     "content_size": 384,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -433,7 +433,7 @@
     "id": 10,
     "display_order": 11,
     "content_type": "TEXT",
-    "top": 78,
+    "top": 65,
     "left": 70,
     "width": 330,
     "height": 580,
@@ -444,7 +444,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "175",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -455,9 +455,9 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.8",
       "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Bebas Neue-Regular.otf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -488,7 +488,7 @@
     "content_type": "TEXT",
     "top": 62,
     "left": 494,
-    "width": 233,
+    "width": 250,
     "height": 80,
     "angle": 0,
     "content_size": 8,
@@ -497,7 +497,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "74",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -510,7 +510,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Bebas Neue-Regular.otf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -541,7 +541,7 @@
     "content_type": "TEXT",
     "top": 720,
     "left": 494,
-    "width": 125,
+    "width": 250,
     "height": 80,
     "angle": 0,
     "content_size": 5,
@@ -550,7 +550,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "74",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -563,7 +563,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Bebas Neue-Regular.otf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -594,7 +594,7 @@
     "content_type": "TEXT",
     "top": 434,
     "left": 959,
-    "width": 129,
+    "width": 250,
     "height": 80,
     "angle": 0,
     "content_size": 7,
@@ -603,7 +603,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "74",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -616,7 +616,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Bebas Neue-Regular.otf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -656,7 +656,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "74",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -669,7 +669,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Bebas Neue-Regular.otf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -709,7 +709,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "74",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -722,7 +722,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Bebas Neue-Regular.otf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -757,12 +757,12 @@
     "height": 111,
     "angle": 0,
     "content_size": 27,
-    "text_value": "COFFEE THAT MOVES WITH YOU.",
+    "text_value": "COFFEE THAT \nMOVES \nWITH YOU.",
     "line_height": 1,
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -775,7 +775,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Bebas Neue-Regular.otf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -804,10 +804,10 @@
     "id": 17,
     "display_order": 18,
     "content_type": "TEXT",
-    "top": 720,
-    "left": 1423,
-    "width": 387,
-    "height": 80,
+    "top": 1007,
+    "left": 70,
+    "width": 165,
+    "height": 30,
     "angle": 0,
     "content_size": 16,
     "text_value": "www.Sandwich.com",
@@ -815,8 +815,8 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
-      "editor_option_text_font_size": "74",
+      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -827,8 +827,8 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Bebas Neue-Regular.otf"
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -858,7 +858,7 @@
     "display_order": 13,
     "content_type": "T_MENU",
     "width": 388,
-    "height": 378,
+    "height": 350,
     "top": 165,
     "left": 494,
     "angle": 0,
@@ -877,7 +877,8 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Food Name Here",
@@ -885,7 +886,8 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Food Name Here",
@@ -893,13 +895,14 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 30,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -909,8 +912,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 20,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -920,8 +923,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 25,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": true,
@@ -964,31 +967,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -1015,7 +1026,8 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Food Name Here",
@@ -1023,13 +1035,14 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 30,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1039,8 +1052,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 20,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1050,8 +1063,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 25,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": true,
@@ -1094,31 +1107,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -1145,7 +1166,8 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Food Name Here",
@@ -1153,13 +1175,14 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 30,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1169,8 +1192,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 20,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1180,8 +1203,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 25,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": true,
@@ -1224,31 +1247,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -1256,7 +1287,7 @@
     "display_order": 22,
     "content_type": "T_MENU",
     "width": 388,
-    "height": 378,
+    "height": 350,
     "top": 165,
     "left": 1424,
     "angle": 0,
@@ -1275,7 +1306,8 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Food Name Here",
@@ -1283,7 +1315,8 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Food Name Here",
@@ -1291,13 +1324,14 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 30,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1307,8 +1341,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 20,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1318,8 +1352,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 25,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": true,
@@ -1362,31 +1396,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -1413,7 +1455,8 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "Food Name Here",
@@ -1421,7 +1464,8 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "Food Name Here",
@@ -1429,13 +1473,14 @@
             "price": ["15.0"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 30,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1445,8 +1490,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 20,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1456,8 +1501,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue-Regular.ttf",
+        "font_name": "BebasNeue-Regular",
+        "font_file": "BebasNeue-Regular-Regular.ttf",
         "font_size": 25,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": true,
@@ -1500,31 +1545,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]

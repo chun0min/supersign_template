@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_28_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_28_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_28_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_28_landscape/background.svg",
     "content_size": 1133,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -95,12 +95,12 @@
     "height": 172,
     "angle": 0,
     "content_size": 19,
-    "text_value": "Golden Glaze Donuts",
+    "text_value": "GOLDEN GLAZE DONUTS",
     "line_height": 1,
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "72",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -113,7 +113,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Pretendard-Regular.otf"
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -148,12 +148,12 @@
     "height": 87,
     "angle": 0,
     "content_size": 76,
-    "text_value": "A cozy dessert café\n where you can enjoy a relaxing afternoon\n by the sunlit window.",
+    "text_value": "A COZY DESSERT CAFÉ\n WHERE YOU CAN ENJOY A RELAXING AFTERNOON\n BY THE SUNLIT WINDOW.",
     "line_height": 1,
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -164,9 +164,9 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "right",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Pretendard-Regular.otf"
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -206,7 +206,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -219,7 +219,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Pretendard-Regular.otf"
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -258,7 +258,7 @@
     "widget_class": "r5_menu_28_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -268,12 +268,19 @@
             "price": ["11"],
             "calory": ["235"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_01.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_28_landscape/img_01.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_28_landscape/img_01.svg"
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 32,
         "color": "rgba(0, 0, 0,1)",
@@ -284,7 +291,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -295,7 +302,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 32,
         "color": "rgba(51, 55, 241,1)",
@@ -306,7 +313,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0, 0, 0,1)",
@@ -317,7 +324,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(125, 125, 125,1)",
@@ -328,7 +335,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 22,
         "color": "rgba(0, 0, 0,1)",
@@ -342,28 +349,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 73,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": []
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     }
   },
   {
@@ -380,7 +394,7 @@
     "widget_class": "r5_menu_28_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -390,12 +404,19 @@
             "price": ["12"],
             "calory": ["235"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_28_landscape/img_02.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_28_landscape/img_02.svg"
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 32,
         "color": "rgba(0, 0, 0,1)",
@@ -406,7 +427,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -417,7 +438,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 32,
         "color": "rgba(51, 55, 241,1)",
@@ -428,7 +449,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0, 0, 0,1)",
@@ -439,7 +460,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(125, 125, 125,1)",
@@ -450,7 +471,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 22,
         "color": "rgba(0, 0, 0,1)",
@@ -464,28 +485,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 73,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": []
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     }
   },
   {
@@ -502,7 +530,7 @@
     "widget_class": "r5_menu_28_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -512,12 +540,19 @@
             "price": ["10"],
             "calory": ["235"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_28_landscape/img_03.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_28_landscape/img_03.svg"
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 32,
         "color": "rgba(0, 0, 0,1)",
@@ -528,7 +563,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -539,7 +574,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 32,
         "color": "rgba(51, 55, 241,1)",
@@ -550,7 +585,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0, 0, 0,1)",
@@ -561,7 +596,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(125, 125, 125,1)",
@@ -572,7 +607,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 22,
         "color": "rgba(0, 0, 0,1)",
@@ -586,28 +621,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 73,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": []
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     }
   },
   {
@@ -624,7 +666,7 @@
     "widget_class": "r5_menu_28_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -634,12 +676,19 @@
             "price": ["15"],
             "calory": ["235"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.svg",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_28_landscape/img_04.svg",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_28_landscape/img_04.svg"
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 32,
         "color": "rgba(0, 0, 0,1)",
@@ -650,7 +699,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -661,7 +710,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 32,
         "color": "rgba(51, 55, 241,1)",
@@ -672,7 +721,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0, 0, 0,1)",
@@ -683,7 +732,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(125, 125, 125,1)",
@@ -694,7 +743,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 22,
         "color": "rgba(0, 0, 0,1)",
@@ -708,28 +757,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 73,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": []
+          },
+          {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     }
   }
 ]

@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_29_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_29_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_29_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_29_landscape/background.svg",
     "content_size": 57299,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -272,7 +272,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Academy Engraved LET",
+      "editor_option_text_font_name": "AcademyEngravedLetPlain",
       "editor_option_text_font_size": "129",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -285,7 +285,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Academy Engraved LET-Regular.otf"
+      "editor_option_text_font_file": "AcademyEngravedLetPlain.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -325,7 +325,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway",
+      "editor_option_text_font_name": "Subway-Black",
       "editor_option_text_font_size": "37",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -338,7 +338,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Subway-Regular.otf"
+      "editor_option_text_font_file": "Subway-Black.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -378,7 +378,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway",
+      "editor_option_text_font_name": "Subway-Black",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -391,7 +391,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Subway-Regular.otf"
+      "editor_option_text_font_file": "Subway-Black.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -431,7 +431,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway",
+      "editor_option_text_font_name": "Subway-Black",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -444,7 +444,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Subway-Regular.otf"
+      "editor_option_text_font_file": "Subway-Black.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -484,7 +484,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway",
+      "editor_option_text_font_name": "Subway-Black",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -497,7 +497,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Subway-Regular.otf"
+      "editor_option_text_font_file": "Subway-Black.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -526,7 +526,7 @@
     "id": 11,
     "display_order": 12,
     "content_type": "TEXT",
-    "top": 693,
+    "top": 354,
     "left": 1311,
     "width": 305,
     "height": 37,
@@ -537,7 +537,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway",
+      "editor_option_text_font_name": "Subway-Black",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -550,7 +550,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Subway-Regular.otf"
+      "editor_option_text_font_file": "Subway-Black.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -599,7 +599,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -607,7 +608,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -615,7 +617,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -623,7 +626,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -631,7 +635,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5
+            "ordr": 5,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -639,7 +644,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 6
+            "ordr": 6,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -647,7 +653,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 7
+            "ordr": 7,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -655,13 +662,14 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 8
+            "ordr": 8,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -671,8 +679,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": false,
@@ -682,8 +690,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -693,7 +701,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -704,7 +712,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -715,7 +723,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 12,
         "color": "rgba(1, 113, 187,1)",
@@ -726,31 +734,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -777,7 +793,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -785,13 +802,14 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -801,8 +819,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": false,
@@ -812,8 +830,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -823,7 +841,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -834,7 +852,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -845,7 +863,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 12,
         "color": "rgba(1, 113, 187,1)",
@@ -856,31 +874,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -907,7 +933,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -915,7 +942,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -923,13 +951,14 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -939,8 +968,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": false,
@@ -950,8 +979,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -961,7 +990,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -972,7 +1001,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -983,7 +1012,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 12,
         "color": "rgba(1, 113, 187,1)",
@@ -994,31 +1023,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -1045,7 +1082,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -1053,7 +1091,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -1061,7 +1100,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -1069,7 +1109,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -1077,7 +1118,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5
+            "ordr": 5,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -1085,7 +1127,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 6
+            "ordr": 6,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -1093,7 +1136,8 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 7
+            "ordr": 7,
+            "enable": true
           },
           {
             "menu_name": "LOREM IPSUM",
@@ -1101,13 +1145,14 @@
             "price": ["10"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 8
+            "ordr": 8,
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -1117,8 +1162,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": false,
@@ -1128,8 +1173,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Subway",
-        "font_file": "Subway-Regular.ttf",
+        "font_name": "Subway-Black",
+        "font_file": "Subway-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -1139,7 +1184,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -1150,7 +1195,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -1161,7 +1206,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins",
+        "font_name": "Poppins-Regular",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 12,
         "color": "rgba(1, 113, 187,1)",
@@ -1172,31 +1217,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]

@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/background.svg",
     "content_size": 528,
     "scene_no": 1,
     "media_name": "background.svg",
@@ -51,11 +51,11 @@
     "width": 170,
     "height": 80,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_01.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_01.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/img_01.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/img_01.svg",
     "content_size": 23186,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_01.svg",
+    "media_name": "img_01.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -94,11 +94,11 @@
     "width": 118,
     "height": 80,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_02.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_02.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/img_02.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/img_02.svg",
     "content_size": 24080,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_02.svg",
+    "media_name": "img_02.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -137,11 +137,11 @@
     "width": 119,
     "height": 77,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_03.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_03.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/img_03.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/img_03.svg",
     "content_size": 21585,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_03.svg",
+    "media_name": "img_03.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -180,11 +180,11 @@
     "width": 122,
     "height": 85,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_04.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_04.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/img_04.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/img_04.svg",
     "content_size": 19693,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_04.svg",
+    "media_name": "img_04.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -223,11 +223,11 @@
     "width": 168,
     "height": 96,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_05.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_05.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/img_05.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_24_landscape/img_05.svg",
     "content_size": 14554,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_24_randscape/img_05.svg",
+    "media_name": "img_05.svg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -272,7 +272,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Black Han Sans",
+      "editor_option_text_font_name": "BlackHanSans-Regular",
       "editor_option_text_font_size": "116",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -283,9 +283,9 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "2",
+      "editor_option_text_line_heig": "1.6",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Black Han Sans-Regular.ttf"
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -325,7 +325,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Black Han Sans",
+      "editor_option_text_font_name": "BlackHanSans-Regular",
       "editor_option_text_font_size": "35",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -338,7 +338,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.4",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Black Han Sans-Regular.ttf"
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -378,7 +378,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Black Han Sans",
+      "editor_option_text_font_name": "BlackHanSans-Regular",
       "editor_option_text_font_size": "35",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -391,7 +391,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.4",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Black Han Sans-Regular.ttf"
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -431,7 +431,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Black Han Sans",
+      "editor_option_text_font_name": "BlackHanSans-Regular",
       "editor_option_text_font_size": "35",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -444,7 +444,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.4",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Black Han Sans-Regular.ttf"
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -484,7 +484,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Black Han Sans",
+      "editor_option_text_font_name": "BlackHanSans-Regular",
       "editor_option_text_font_size": "35",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -497,7 +497,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.4",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Black Han Sans-Regular.ttf"
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -537,7 +537,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Black Han Sans",
+      "editor_option_text_font_name": "BlackHanSans-Regular",
       "editor_option_text_font_size": "35",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -550,7 +550,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.4",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Black Han Sans-Regular.ttf"
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -599,7 +599,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "VEGETARIAN",
@@ -607,7 +608,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "SPICY TUNA",
@@ -615,7 +617,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           },
           {
             "menu_name": "VEGETARIAN",
@@ -623,7 +626,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4
+            "ordr": 4,
+            "enable": true
           },
           {
             "menu_name": "SPICY TUNA",
@@ -631,7 +635,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5
+            "ordr": 5,
+            "enable": true
           },
           {
             "menu_name": "S.K.I ROLL",
@@ -639,7 +644,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 6
+            "ordr": 6,
+            "enable": true
           },
           {
             "menu_name": "TUNA FUTOMAKI",
@@ -647,7 +653,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 7
+            "ordr": 7,
+            "enable": true
           },
           {
             "menu_name": "TUNA FUTOMAKI",
@@ -655,7 +662,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 8
+            "ordr": 8,
+            "enable": true
           }
         ]
       },
@@ -701,7 +709,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -726,31 +734,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -777,7 +793,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "VEGETARIAN",
@@ -785,7 +802,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "SPICY TUNA",
@@ -793,7 +811,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
@@ -839,7 +858,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -864,31 +883,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -915,7 +942,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "VEGETARIAN",
@@ -923,7 +951,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "SPICY TUNA",
@@ -931,7 +960,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
@@ -977,7 +1007,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -1002,31 +1032,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -1053,7 +1091,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "VEGETARIAN",
@@ -1061,7 +1100,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "SPICY TUNA",
@@ -1069,7 +1109,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
@@ -1115,7 +1156,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -1140,31 +1181,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   },
   {
@@ -1191,7 +1240,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1
+            "ordr": 1,
+            "enable": true
           },
           {
             "menu_name": "VEGETARIAN",
@@ -1199,7 +1249,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2
+            "ordr": 2,
+            "enable": true
           },
           {
             "menu_name": "SPICY TUNA",
@@ -1207,7 +1258,8 @@
             "price": ["19.0"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3
+            "ordr": 3,
+            "enable": true
           }
         ]
       },
@@ -1253,7 +1305,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -1278,31 +1330,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
-        },
-        {
+            "list": [
+              "image"
+            ]
+          },
+          {
             "id": "orange",
             "direction": "vertical",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     }
   }
 ]
