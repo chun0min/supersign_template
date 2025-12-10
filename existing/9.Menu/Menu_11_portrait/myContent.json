@@ -8,9 +8,9 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_10_portrait/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_10_portrait/background.svg",
-    "content_size": 237814,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_11_portrait/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_11_portrait/background.svg",
+    "content_size": 228473,
     "scene_no": 1,
     "media_name": "background.svg",
     "option_line": {
@@ -46,29 +46,29 @@
     "id": 1,
     "display_order": 2,
     "content_type": "TEXT",
-    "top": 69,
-    "left": 92,
+    "top": 110,
+    "left": 350,
     "width": 570,
     "height": 162,
     "angle": 0,
-    "content_size": 11,
-    "text_value": "Drink Lists",
+    "content_size": 7,
+    "text_value": "SEAFOOD",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barriecito",
-      "editor_option_text_font_size": "120",
+      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_size": "88",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_font_color": "252, 233, 208",
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Barriecito.ttf",
+      "editor_option_text_spacing": 4,
+      "editor_option_text_font_file": "Bebas Neue.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -98,29 +98,30 @@
     "id": 2,
     "display_order": 3,
     "content_type": "TEXT",
-    "top": 231,
-    "left": 134,
-    "width": 813,
-    "height": 37,
+    "top": 264,
+    "left": 153,
+    "width": 772,
+    "height": 54,
     "angle": 0,
-    "content_size": 6,
-    "text_value": "Coffee",
+    "content_size": 8,
+    "text_value": "CATEGORY",
     "line_height": 1,
+    "font-weight": "900",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barriecito",
-      "editor_option_text_font_size": "40",
-      "editor_option_text_style_bold": false,
+      "editor_option_text_font_name": "Subway",
+      "editor_option_text_font_size": "46",
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_font_color": "15, 68, 164",
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Barriecito.ttf",
+      "editor_option_text_font_file": "Subway.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -150,29 +151,30 @@
     "id": 3,
     "display_order": 4,
     "content_type": "TEXT",
-    "top": 762,
-    "left": 134,
-    "width": 813,
-    "height": 37,
+    "top": 789,
+    "left": 153,
+    "width": 772,
+    "height": 54,
     "angle": 0,
-    "content_size": 10,
-    "text_value": "Non Coffee",
+    "content_size": 8,
+    "text_value": "CATEGORY",
     "line_height": 1,
+    "font-weight": "900",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barriecito",
-      "editor_option_text_font_size": "40",
-      "editor_option_text_style_bold": false,
+      "editor_option_text_font_name": "Subway",
+      "editor_option_text_font_size": "46",
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_font_color": "15, 68, 164",
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Barriecito.ttf",
+      "editor_option_text_font_file": "Subway.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -202,29 +204,30 @@
     "id": 4,
     "display_order": 5,
     "content_type": "TEXT",
-    "top": 1378,
-    "left": 134,
-    "width": 479,
-    "height": 37,
+    "top": 1277,
+    "left": 153,
+    "width": 772,
+    "height": 54,
     "angle": 0,
     "content_size": 8,
-    "text_value": "Desserts",
+    "text_value": "CATEGORY",
     "line_height": 1,
+    "font-weight": "900",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barriecito",
-      "editor_option_text_font_size": "40",
-      "editor_option_text_style_bold": false,
+      "editor_option_text_font_name": "Subway",
+      "editor_option_text_font_size": "46",
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_font_color": "15, 68, 164",
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Barriecito.ttf",
+      "editor_option_text_font_file": "Subway.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -254,14 +257,14 @@
     "id": 5,
     "display_order": 6,
     "content_type": "T_MENU",
-    "width": 813,
-    "height": 397,
-    "top": 299,
-    "left": 134,
+    "width": 770,
+    "height": 368,
+    "top": 351,
+    "left": 156,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_10_portrait",
+    "widget_class": "r5_menu_11_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -470,14 +473,14 @@
     "id": 6,
     "display_order": 7,
     "content_type": "T_MENU",
-    "width": 813,
-    "height": 397,
-    "top": 299,
+    "width": 770,
+    "height": 368,
+    "top": 856,
     "left": 134,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_10_portrait",
+    "widget_class": "r5_menu_11_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -485,15 +488,15 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "Lemon Tea",
-            "description": "Lemon Tea",
+            "menu_name": "PASTA",
+            "description": "butter or red sauce",
             "price": [
-              "3.0"
+              "12"
             ],
             "calory": [
-              "99"
+              "999"
             ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
             "enable": true,
             "image": {
@@ -504,15 +507,15 @@
             }
           },
           {
-            "menu_name": "Jasmine",
-            "description": "Jasmine",
+            "menu_name": "CRISPY CHICKEN FINGERS",
+            "description": "butter or red sauce",
             "price": [
-              "9.0"
+              "150"
             ],
             "calory": [
-              "99"
+              "999"
             ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
             "enable": true,
             "image": {
@@ -523,15 +526,15 @@
             }
           },
           {
-            "menu_name": "Green Tea",
-            "description": "Green Tea",
+            "menu_name": "SIMPLY MACARONI & CHEESE",
+            "description": "butter or red sauce",
             "price": [
-              "10.0"
+              "12"
             ],
             "calory": [
-              "99"
+              "999"
             ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
             "enable": true,
             "image": {
@@ -542,15 +545,15 @@
             }
           },
           {
-            "menu_name": "Hot Chocolate",
-            "description": "Hot Chocolate",
+            "menu_name": "TENDER BEEF BITE",
+            "description": "butter or red sauce",
             "price": [
-              "9.0"
+              "25"
             ],
             "calory": [
-              "99"
+              "999"
             ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 4,
             "enable": true,
             "image": {
@@ -561,35 +564,16 @@
             }
           },
           {
-            "menu_name": "Milkshake",
-            "description": "Milkshake",
+            "menu_name": "KIDʼS MINI BURGERS",
+            "description": "butter or red sauce",
             "price": [
-              "5.0"
+              "9"
             ],
             "calory": [
-              "99"
+              "999"
             ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 5,
-            "enable": true,
-            "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "image",
-              "item_thumbnail_url": ""
-            }
-          },
-          {
-            "menu_name": "Smoothie",
-            "description": "Smoothie",
-            "price": [
-              "6.0"
-            ],
-            "calory": [
-              "99"
-            ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 6,
             "enable": true,
             "image": {
               "item_name": "",
@@ -601,10 +585,10 @@
         ]
       },
       "name": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
-        "font_size": 24,
-        "color": "rgba(0, 0, 0,1)",
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(233, 89, 70,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -612,8 +596,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -623,10 +607,10 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
-        "font_size": 24,
-        "color": "rgba(0, 0, 0,1)",
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(15, 68, 164,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -636,7 +620,7 @@
       "calories": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
-        "font_size": 14,
+        "font_size": 12,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": true,
         "style_italic": false,
@@ -656,10 +640,10 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
-        "font_size": 16,
-        "color": "rgba(100, 100, 100,1)",
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(15, 68, 164,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -705,14 +689,14 @@
     "id": 7,
     "display_order": 8,
     "content_type": "T_MENU",
-    "width": 479,
-    "height": 315,
-    "top": 1440,
-    "left": 134,
+    "width": 770,
+    "height": 368,
+    "top": 1360,
+    "left": 156,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_10_portrait",
+    "widget_class": "r5_menu_11_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -720,15 +704,15 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "Strawberry Waffle",
-            "description": "Lemon Tea",
+            "menu_name": "PASTA",
+            "description": "butter or red sauce",
             "price": [
-              "3.0"
+              "12"
             ],
             "calory": [
-              "99"
+              "999"
             ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
             "enable": true,
             "image": {
@@ -739,15 +723,15 @@
             }
           },
           {
-            "menu_name": "Cinnamon Roll",
-            "description": "Lemon Tea",
+            "menu_name": "CRISPY CHICKEN FINGERS",
+            "description": "butter or red sauce",
             "price": [
-              "3.0"
+              "150"
             ],
             "calory": [
-              "99"
+              "999"
             ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
             "enable": true,
             "image": {
@@ -758,15 +742,15 @@
             }
           },
           {
-            "menu_name": "Lemon Pie",
-            "description": "Lemon Tea",
+            "menu_name": "SIMPLY MACARONI & CHEESE",
+            "description": "butter or red sauce",
             "price": [
-              "3.0"
+              "12"
             ],
             "calory": [
-              "99"
+              "999"
             ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
             "enable": true,
             "image": {
@@ -777,16 +761,35 @@
             }
           },
           {
-            "menu_name": "Croissant",
-            "description": "Lemon Tea",
+            "menu_name": "TENDER BEEF BITE",
+            "description": "butter or red sauce",
             "price": [
-              "3.0"
+              "25"
             ],
             "calory": [
-              "99"
+              "999"
             ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "KIDʼS MINI BURGERS",
+            "description": "butter or red sauce",
+            "price": [
+              "9"
+            ],
+            "calory": [
+              "999"
+            ],
+            "allergy": "Allegy: milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 5,
             "enable": true,
             "image": {
               "item_name": "",
@@ -798,10 +801,10 @@
         ]
       },
       "name": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
-        "font_size": 24,
-        "color": "rgba(0, 0, 0,1)",
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(233, 89, 70,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -809,8 +812,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -820,10 +823,10 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
-        "font_size": 24,
-        "color": "rgba(0, 0, 0,1)",
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(15, 68, 164,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -833,7 +836,7 @@
       "calories": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
-        "font_size": 14,
+        "font_size": 12,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": true,
         "style_italic": false,
@@ -853,10 +856,10 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
-        "font_size": 16,
-        "color": "rgba(100, 100, 100,1)",
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(15, 68, 164,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
