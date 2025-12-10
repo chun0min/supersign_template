@@ -530,3 +530,19 @@
 .r5_menu_60_landscape .menu .item-image img{
   max-width:230px;
 }
+
+.r5_menu_62_landscape .menu {
+  margin-top: 20px;
+}
+
+.r5_menu_62_landscape_1 .menu .item-image img{
+  max-width: 260px;
+}
+
+.r5_menu_62_landscape_2 .menu{
+  display: block;
+}
+
+.r5_menu_62_landscape_2 .menu .menuOption{
+  justify-content: flex-end;
+}
