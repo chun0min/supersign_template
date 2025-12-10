@@ -565,3 +565,11 @@
   align-items: center;
   gap: 42px;
 }
+
+.r5_menu_64_landscape_1 .menu{
+  display: block;
+}
+
+.r5_menu_64_landscape_1 .menu .menuOption{
+  justify-content: flex-end;
+}
