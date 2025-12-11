@@ -585,3 +585,9 @@
 .r5_menu_65_landscape .menu{
   margin-bottom: 39px;
 }
+
+.r5_menu_66_landscape{
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
