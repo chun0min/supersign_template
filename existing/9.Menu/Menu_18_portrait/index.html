@@ -1,0 +1,877 @@
+<!-- /* 웹화면 누락(임의로 생성함) */ -->
+
+<head>
+  <meta charset="UTF-8">
+  <title>템플릿 세로 타입</title>
+  <style>
+    @import url("../../../css/editor/draggable-resizable/index.module.css");
+    @import url("../../../css/editor/draggable-resizable/moveable.css");
+    @import url("../../../css/editor/draggable-resizable/t_menu_new.css");
+
+    /*custom css*/
+    @import url('../../../css/editor/draggable-resizable/index.v2.module.css');
+  </style>
+</head>
+ 
+<body style="margin: 0;padding: 0;" class="r5_menu_18_portrait">
+  <!-- 여기부터 템플릿 화면 -->
+  <style>
+    .backgroundSize {
+      width: 1080px; 
+      height: 1920px;
+      background-size: 1080px 1920px;
+      position: relative;
+    }
+
+    .widgetCon {
+      position: absolute;
+    }
+  </style>
+
+  <div id="editor" class="backgroundSize" style="background-image: url('background.svg')">
+
+    <!-- image -->
+    <div>
+      <img id="editorItem1" class="widgetCon" style="top: 48px; left: 51px; width: 472px; height: 361px;" src="img_01.svg" />
+    </div>
+
+    <!-- text -->
+    <div id="editorItem2" class="widgetCon" style="
+      top: 48px;
+      left: 555px;
+      width: 428px; 
+      height: 94px; 
+      font-family: 'Bebas Neue';
+      font-size: 85px;
+      font-weight: 400;
+      font-style: normal;
+      letter-spacing: 1px;
+      line-height: 1;
+      color: rgba(243, 216, 171, 1);
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+    ">
+      CHINESE FOOD
+    </div>
+
+    <div id="editorItem3" class="widgetCon" style="
+      top: 104px;
+      left: 548px;
+      width: 443px; 
+      height: 244px; 
+      font-family: 'Bebas Neue';
+      font-size: 225px;
+      font-weight: 400;
+      font-style: normal;
+      letter-spacing: 1px;
+      line-height: 1;
+      color: rgba(243, 216, 171, 1);
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+    ">
+     MENU
+    </div>
+
+    <!-- 여기부터 메뉴구성 레이아웃 -->
+    <div id="editorItem4" class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined" role="application"
+      tabindex="0" aria-label=", 콘텐츠 순서 : 5, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다." aria-haspopup="true" aria-expanded="false"
+      style="
+      width: 867px;
+      height: 1453px;
+      top: 397px;
+      left: 95px;
+      transform: rotate(0deg);
+    ">
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea" style="width: 100%; height: 100%;">
+          <div class="menuTypeGroup menu portrait" style="gap:35px 42.5px; display: grid; grid-template-columns: repeat(3, 1fr);">
+            <div class="menuItem itemGrid type-05" style="justify-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_02.svg" alt="img_02.svg의 썸네일입니다.">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                  font-family: 'Bebas Neue';
+                  font-size: 29px;
+                  font-weight: 400;
+                  font-style: normal;
+                  color:rgba(15, 18, 11, 1);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: center;
+                  margin-bottom: 17px;
+                  margin-top: 22px;
+                ">
+                 MAIN TITLE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 19px;
+                      font-weight: 600;
+                      font-style: normal;
+                      color: rgba(15, 18, 11, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                    ">
+                    DESCRIPTION OF
+                    INGREDIENTS AND FLAVOR
+                    PROFILE GOES HERE.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Inter';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(242, 99, 70, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                      margin-bottom: 17px;
+                    ">
+                    Contains milk, nuts, eggs, peanuts,
+                    fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal-right" style="align-items: center;">
+                    <div class="size_option">
+                      <span style="
+                          font-family: 'Bebas Neue';
+                          font-size: 38px;
+                          font-weight: 400;
+                          font-style: normal;
+                          color: rgba(15, 18, 11, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                          margin-right: 14px;
+                        ">
+                        11.00
+                      </span>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12px;
+                        font-weight: 400;
+                        font-style: normal;
+                        color: rgba(242, 99, 70, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-05" style="justify-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_03.svg" alt="img_03.svg의 썸네일입니다.">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                  font-family: 'Bebas Neue';
+                  font-size: 29px;
+                  font-weight: 400;
+                  font-style: normal;
+                  color:rgba(15, 18, 11, 1);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: center;
+                  margin-bottom: 17px;
+                  margin-top: 22px;
+                ">
+                 MAIN TITLE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 19px;
+                      font-weight: 600;
+                      font-style: normal;
+                      color: rgba(15, 18, 11, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                    ">
+                    DESCRIPTION OF
+                    INGREDIENTS AND FLAVOR
+                    PROFILE GOES HERE.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Inter';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(242, 99, 70, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                      margin-bottom: 17px;
+                    ">
+                    Contains milk, nuts, eggs, peanuts,
+                    fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal-right" style="align-items: center;">
+                    <div class="size_option">
+                      <span style="
+                          font-family: 'Bebas Neue';
+                          font-size: 38px;
+                          font-weight: 400;
+                          font-style: normal;
+                          color: rgba(15, 18, 11, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                          margin-right: 14px;
+                        ">
+                        11.00
+                      </span>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12px;
+                        font-weight: 400;
+                        font-style: normal;
+                        color: rgba(242, 99, 70, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-05" style="justify-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_04.svg" alt="img_04.svg의 썸네일입니다.">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                  font-family: 'Bebas Neue';
+                  font-size: 29px;
+                  font-weight: 400;
+                  font-style: normal;
+                  color:rgba(15, 18, 11, 1);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: center;
+                  margin-bottom: 17px;
+                  margin-top: 22px;
+                ">
+                 MAIN TITLE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 19px;
+                      font-weight: 600;
+                      font-style: normal;
+                      color: rgba(15, 18, 11, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                    ">
+                    DESCRIPTION OF
+                    INGREDIENTS AND FLAVOR
+                    PROFILE GOES HERE.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Inter';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(242, 99, 70, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                      margin-bottom: 17px;
+                    ">
+                    Contains milk, nuts, eggs, peanuts,
+                    fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal-right" style="align-items: center;">
+                    <div class="size_option">
+                      <span style="
+                          font-family: 'Bebas Neue';
+                          font-size: 38px;
+                          font-weight: 400;
+                          font-style: normal;
+                          color: rgba(15, 18, 11, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                          margin-right: 14px;
+                        ">
+                        11.00
+                      </span>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12px;
+                        font-weight: 400;
+                        font-style: normal;
+                        color: rgba(242, 99, 70, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-05" style="justify-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_05.svg" alt="img_05.svg의 썸네일입니다.">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                  font-family: 'Bebas Neue';
+                  font-size: 29px;
+                  font-weight: 400;
+                  font-style: normal;
+                  color:rgba(15, 18, 11, 1);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: center;
+                  margin-bottom: 17px;
+                  margin-top: 22px;
+                ">
+                 MAIN TITLE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 19px;
+                      font-weight: 600;
+                      font-style: normal;
+                      color: rgba(15, 18, 11, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                    ">
+                    DESCRIPTION OF
+                    INGREDIENTS AND FLAVOR
+                    PROFILE GOES HERE.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Inter';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(242, 99, 70, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                      margin-bottom: 17px;
+                    ">
+                    Contains milk, nuts, eggs, peanuts,
+                    fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal-right" style="align-items: center;">
+                    <div class="size_option">
+                      <span style="
+                          font-family: 'Bebas Neue';
+                          font-size: 38px;
+                          font-weight: 400;
+                          font-style: normal;
+                          color: rgba(15, 18, 11, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                          margin-right: 14px;
+                        ">
+                        11.00
+                      </span>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12px;
+                        font-weight: 400;
+                        font-style: normal;
+                        color: rgba(242, 99, 70, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-05" style="justify-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_06.svg" alt="img_06.svg의 썸네일입니다.">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                  font-family: 'Bebas Neue';
+                  font-size: 29px;
+                  font-weight: 400;
+                  font-style: normal;
+                  color:rgba(15, 18, 11, 1);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: center;
+                  margin-bottom: 17px;
+                  margin-top: 22px;
+                ">
+                 MAIN TITLE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 19px;
+                      font-weight: 600;
+                      font-style: normal;
+                      color: rgba(15, 18, 11, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                    ">
+                    DESCRIPTION OF
+                    INGREDIENTS AND FLAVOR
+                    PROFILE GOES HERE.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Inter';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(242, 99, 70, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                      margin-bottom: 17px;
+                    ">
+                    Contains milk, nuts, eggs, peanuts,
+                    fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal-right" style="align-items: center;">
+                    <div class="size_option">
+                      <span style="
+                          font-family: 'Bebas Neue';
+                          font-size: 38px;
+                          font-weight: 400;
+                          font-style: normal;
+                          color: rgba(15, 18, 11, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                          margin-right: 14px;
+                        ">
+                        11.00
+                      </span>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12px;
+                        font-weight: 400;
+                        font-style: normal;
+                        color: rgba(242, 99, 70, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-05" style="justify-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_07.svg" alt="img_07.svg의 썸네일입니다.">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                  font-family: 'Bebas Neue';
+                  font-size: 29px;
+                  font-weight: 400;
+                  font-style: normal;
+                  color:rgba(15, 18, 11, 1);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: center;
+                  margin-bottom: 17px;
+                  margin-top: 22px;
+                ">
+                 MAIN TITLE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 19px;
+                      font-weight: 600;
+                      font-style: normal;
+                      color: rgba(15, 18, 11, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                    ">
+                    DESCRIPTION OF
+                    INGREDIENTS AND FLAVOR
+                    PROFILE GOES HERE.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Inter';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(242, 99, 70, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                      margin-bottom: 17px;
+                    ">
+                    Contains milk, nuts, eggs, peanuts,
+                    fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal-right" style="align-items: center;">
+                    <div class="size_option">
+                      <span style="
+                          font-family: 'Bebas Neue';
+                          font-size: 38px;
+                          font-weight: 400;
+                          font-style: normal;
+                          color: rgba(15, 18, 11, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                          margin-right: 14px;
+                        ">
+                        11.00
+                      </span>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12px;
+                        font-weight: 400;
+                        font-style: normal;
+                        color: rgba(242, 99, 70, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-05" style="justify-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_05.svg" alt="img_05.svg의 썸네일입니다.">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                  font-family: 'Bebas Neue';
+                  font-size: 29px;
+                  font-weight: 400;
+                  font-style: normal;
+                  color:rgba(15, 18, 11, 1);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: center;
+                  margin-bottom: 17px;
+                  margin-top: 22px;
+                ">
+                 MAIN TITLE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 19px;
+                      font-weight: 600;
+                      font-style: normal;
+                      color: rgba(15, 18, 11, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                    ">
+                    DESCRIPTION OF
+                    INGREDIENTS AND FLAVOR
+                    PROFILE GOES HERE.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Inter';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(242, 99, 70, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                      margin-bottom: 17px;
+                    ">
+                    Contains milk, nuts, eggs, peanuts,
+                    fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal-right" style="align-items: center;">
+                    <div class="size_option">
+                      <span style="
+                          font-family: 'Bebas Neue';
+                          font-size: 38px;
+                          font-weight: 400;
+                          font-style: normal;
+                          color: rgba(15, 18, 11, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                          margin-right: 14px;
+                        ">
+                        11.00
+                      </span>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12px;
+                        font-weight: 400;
+                        font-style: normal;
+                        color: rgba(242, 99, 70, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-05" style="justify-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_06.svg" alt="img_06.svg의 썸네일입니다.">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                  font-family: 'Bebas Neue';
+                  font-size: 29px;
+                  font-weight: 400;
+                  font-style: normal;
+                  color:rgba(15, 18, 11, 1);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: center;
+                  margin-bottom: 17px;
+                  margin-top: 22px;
+                ">
+                 MAIN TITLE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 19px;
+                      font-weight: 600;
+                      font-style: normal;
+                      color: rgba(15, 18, 11, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                    ">
+                    DESCRIPTION OF
+                    INGREDIENTS AND FLAVOR
+                    PROFILE GOES HERE.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Inter';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(242, 99, 70, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                      margin-bottom: 17px;
+                    ">
+                    Contains milk, nuts, eggs, peanuts,
+                    fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal-right" style="align-items: center;">
+                    <div class="size_option">
+                      <span style="
+                          font-family: 'Bebas Neue';
+                          font-size: 38px;
+                          font-weight: 400;
+                          font-style: normal;
+                          color: rgba(15, 18, 11, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                          margin-right: 14px;
+                        ">
+                        11.00
+                      </span>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12px;
+                        font-weight: 400;
+                        font-style: normal;
+                        color: rgba(242, 99, 70, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-05" style="justify-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_07.svg" alt="img_07.svg의 썸네일입니다.">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                  font-family: 'Bebas Neue';
+                  font-size: 29px;
+                  font-weight: 400;
+                  font-style: normal;
+                  color:rgba(15, 18, 11, 1);
+                  background-color: rgba(255, 255, 255, 0);
+                  text-align: center;
+                  margin-bottom: 17px;
+                  margin-top: 22px;
+                ">
+                 MAIN TITLE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 19px;
+                      font-weight: 600;
+                      font-style: normal;
+                      color: rgba(15, 18, 11, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                    ">
+                    DESCRIPTION OF
+                    INGREDIENTS AND FLAVOR
+                    PROFILE GOES HERE.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Inter';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(242, 99, 70, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: center;
+                      margin-bottom: 17px;
+                    ">
+                    Contains milk, nuts, eggs, peanuts,
+                    fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal-right" style="align-items: center;">
+                    <div class="size_option">
+                      <span style="
+                          font-family: 'Bebas Neue';
+                          font-size: 38px;
+                          font-weight: 400;
+                          font-style: normal;
+                          color: rgba(15, 18, 11, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                          margin-right: 14px;
+                        ">
+                        11.00
+                      </span>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12px;
+                        font-weight: 400;
+                        font-style: normal;
+                        color: rgba(242, 99, 70, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 여기까지 -->
+  </div>
+  <body>
