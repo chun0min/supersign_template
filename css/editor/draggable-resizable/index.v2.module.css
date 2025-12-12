@@ -601,3 +601,13 @@
 .r5_menu_68_landscape .menu .item-image img{
   max-width: 232px;
 }
+
+.r5_menu_70_landscape{
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.r5_menu_70_landscape .menu .item-image img{
+  max-width: 207px;
+}
