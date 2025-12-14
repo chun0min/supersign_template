@@ -464,8 +464,8 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "1",
-        "price_type_text": [""],
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
         "menu_list": [
           {
             "menu_name": "Signature Big Patty Burger",
@@ -597,8 +597,8 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "1",
-        "price_type_text": [""],
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
         "menu_list": [
           {
             "menu_name": "Chicken Burger",
