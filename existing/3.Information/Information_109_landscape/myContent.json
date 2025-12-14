@@ -9,10 +9,10 @@
     "top": 0,
     "left": 0,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/3.Information/Information_109_landscape/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/existing/3.Information/Information_109_landscape/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/3.Information/Information_109_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/3.Information/Information_109_landscape/background.jpg",
     "scene_no": 1,
-    "media_name": "background.svg",
+    "media_name": "background.jpg",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
