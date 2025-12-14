@@ -9,8 +9,8 @@
     "top": 0,
     "left": 0,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/EPD/Information/Information_02_portrait/thumbnail.svg",
-    "media_url": "SUPERSIGN/Template/EPD/Information/Information_02_portrait/background.svg",
+    "thumbnail_url": "SUPERSIGN/Template/EPD/Information/Information_101_portrait/thumbnail.svg",
+    "media_url": "SUPERSIGN/Template/EPD/Information/Information_101_portrait/background.svg",
     "scene_no": 1,
     "media_name": "background.svg",
     "option_line": {
@@ -52,8 +52,8 @@
     "top": 236,
     "left": 69,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/EPD/Information/Information_02_portrait/img_01.svg",
-    "media_url": "SUPERSIGN/Template/EPD/Information/Information_02_portrait/img_01.svg",
+    "thumbnail_url": "SUPERSIGN/Template/EPD/Information/Information_101_portrait/img_01.svg",
+    "media_url": "SUPERSIGN/Template/EPD/Information/Information_101_portrait/img_01.svg",
     "scene_no": 1,
     "media_name": "img_01.svg",
     "option_line": {
@@ -95,8 +95,8 @@
     "top": 845,
     "left": 158,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/EPD/Information/Information_02_portrait/img_02.svg",
-    "media_url": "SUPERSIGN/Template/EPD/Information/Information_02_portrait/img_02.svg",
+    "thumbnail_url": "SUPERSIGN/Template/EPD/Information/Information_101_portrait/img_02.svg",
+    "media_url": "SUPERSIGN/Template/EPD/Information/Information_101_portrait/img_02.svg",
     "scene_no": 1,
     "media_name": "img_02.svg",
     "option_line": {
