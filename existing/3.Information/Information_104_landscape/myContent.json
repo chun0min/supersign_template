@@ -314,10 +314,10 @@
     "font_weight": "900",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "snellroundhand",
-      "editor_option_text_font_size": "90",
+      "editor_option_text_font_name": "EBGaramond",
+      "editor_option_text_font_size": "94",
       "editor_option_text_style_bold": true,
-      "editor_option_text_style_italic": false,
+      "editor_option_text_style_italic": true,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "0, 0, 0",
@@ -326,8 +326,8 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 5,
-      "editor_option_text_font_file": "snellroundhand.ttf"
+      "editor_option_text_spacing": -2,
+      "editor_option_text_font_file": "EBGaramond-BoldItalic.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -366,7 +366,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Prociono-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -379,7 +379,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Prociono-Regular.otf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -418,7 +418,7 @@
     "font_weight": "300",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -431,7 +431,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Pretendard-Regular.ttf"
+      "editor_option_text_font_file": "Pretendard-Light.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -470,7 +470,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Prociono",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -483,7 +483,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Prociono-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -522,7 +522,7 @@
     "font_weight": "300",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -535,7 +535,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Pretendard-Regular.ttf"
+      "editor_option_text_font_file": "Pretendard-Light.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -574,7 +574,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Prociono",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -587,7 +587,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Prociono-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -626,7 +626,7 @@
     "font_weight": "300",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -639,7 +639,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Pretendard-Regular.ttf"
+      "editor_option_text_font_file": "Pretendard-Light.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -678,10 +678,10 @@
     "font_weight": "900",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "snellroundhand",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": true,
-      "editor_option_text_style_italic": false,
+      "editor_option_text_style_italic": true,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "0, 0, 0",
@@ -691,7 +691,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "0.8",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "snellroundhand.ttf"
+      "editor_option_text_font_file": "EBGaramond-ExtraBoldItalic.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",

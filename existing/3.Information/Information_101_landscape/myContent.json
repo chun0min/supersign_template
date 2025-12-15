@@ -56,20 +56,20 @@
     "font_weight": "100",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
-      "editor_option_text_font_size": "105",
+      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_size": "107",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": true,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "255,255,255",
+      "editor_option_text_font_color": "255,232,235",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.2,
-      "editor_option_text_font_file": "Inter-Regular.ttf"
+      "editor_option_text_font_file": "Pretendard.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -107,8 +107,8 @@
     "text_value": "Valentine’s",    
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Fair Prosper",
-      "editor_option_text_font_size": "220",
+      "editor_option_text_font_name": "Bhineka",
+      "editor_option_text_font_size": "242",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -120,7 +120,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.4",
       "editor_option_text_spacing": 8,
-      "editor_option_text_font_file": "Fair Prosper.ttf"
+      "editor_option_text_font_file": "Bhineka.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -172,7 +172,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "0.6",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Inter-Regular.otf"
+      "editor_option_text_font_file": "Inter-ExtraBoldItalic.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -211,7 +211,7 @@
     "font_weight": "700",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "36",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -224,7 +224,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Inter-Regular.ttf"
+      "editor_option_text_font_file": "Pretendard.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
