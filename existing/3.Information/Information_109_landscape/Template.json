@@ -1,11 +1,11 @@
 {
     "type": "template",
-    "name": "Information_11",
+    "name": "Information_109",
     "group": "Information",
     "screen": {
         "width": "1920",
         "height": "1080"
     },
     "version": "1.00",
-    "folderName": "Information_11_landscape"
+    "folderName": "Information_109_landscape"
 }
