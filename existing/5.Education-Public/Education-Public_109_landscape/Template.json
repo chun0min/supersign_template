@@ -1,11 +1,11 @@
 {
     "type": "template",
-    "name": "Education-Public_9",
+    "name": "Education-Public_109",
     "group": "Education-Public",
     "screen": {
         "width": "1920",
         "height": "1080"
     },
     "version": "1.00",
-    "folderName": "Education-Public_09_landscape"
+    "folderName": "Education-Public_109_landscape"
 }
