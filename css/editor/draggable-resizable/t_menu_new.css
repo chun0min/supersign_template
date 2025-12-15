@@ -182,3 +182,8 @@
 .menuTypeGroup .kcal_option.align-center {
   align-items: center;
 }
+
+.r5_menu_25_portrait .itemGrid{
+  width: 100%;
+  justify-content: space-between;
+}

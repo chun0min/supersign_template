@@ -1,0 +1,1421 @@
+<!-- /* 웹화면 누락(임의로 생성함) */ -->
+
+<head>
+  <meta charset="UTF-8">
+  <title>템플릿 세로 타입</title>
+  <style>
+    @import url("../../../css/editor/draggable-resizable/index.module.css");
+    @import url("../../../css/editor/draggable-resizable/moveable.css");
+    @import url("../../../css/editor/draggable-resizable/t_menu_new.css");
+
+    /*custom css*/
+    @import url('../../../css/editor/draggable-resizable/index.v2.module.css');
+  </style>
+</head>
+ 
+<body style="margin: 0;padding: 0;" class="r5_menu_25_portrait">
+  <!-- 여기부터 템플릿 화면 -->
+  <style>
+    .backgroundSize {
+      width: 1080px;  
+      height: 1920px;
+      background-size: 1080px 1920px;
+      position: relative;
+    }
+
+    .widgetCon {
+      position: absolute;
+    }
+  </style>
+
+  <div id="editor" class="backgroundSize" style="background-image: url('background.jpg')">
+
+    <!-- image -->
+    <div>
+      <img id="editorItem1" class="widgetCon" style="top: 16px; left: 506px; width: 68px; height: 40px;" src="img_05.png" />
+    </div>  
+    <div>
+      <img id="editorItem2" class="widgetCon" style="top: 200px; left: 380px; width: 320px; height: 380px;" src="img_01.png" />
+    </div> 
+    <div>
+      <img id="editorItem3" class="widgetCon" style="top: 512px; left: 635px; width: 110px; height: 113px;" src="img_02.png" />
+    </div>
+    <div>
+      <img id="editorItem4" class="widgetCon" style="top: 1078px; left: 380px; width: 320px; height: 380px" src="img_03.png" />
+    </div>
+    <div>
+      <img id="editorItem5" class="widgetCon" style="top: 1364px; left: 323px; width: 100px; height: 100px;" src="img_04.png" />
+    </div>
+
+    <!-- text -->
+    <div id="editorItem6" class="widgetCon" style="
+      top: 60px;
+      left: 390px;
+      width: 300px; 
+      height: 48px; 
+      font-family: 'Bevan';
+      font-size: 30px;
+      font-weight: 400;
+      font-style: normal;
+      line-height: 1;
+      color: rgba(255, 255, 255, 1);
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      text-transform: uppercase;
+    ">
+      COFFEE CAFE
+    </div>
+
+    <div id="editorItem7" class="widgetCon" style="
+      top: 1882px;
+      left: 638px;
+      width: 412px; 
+      height: 24px; 
+      font-family: 'Pretendard';
+      font-size: 20px;
+      font-weight: 400;
+      font-style: normal;
+      letter-spacing: 1px;
+      line-height: 1.6;
+      color: rgba(255, 255, 255, 1);
+      background-color: rgba(255, 255, 255, 0);
+      text-align: right;
+    ">
+     000-0000-0000
+    </div>
+
+    <div id="editorItem8" class="widgetCon" style="
+      top: 597px;
+      left: 110px;
+      width: 810px; 
+      height: 32px; 
+      font-family: 'Bevan';
+      font-size: 24px;
+      font-weight: 400;
+      font-style: normal;
+      line-height: 1;
+      color:rgba(33, 45, 93, 1);
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      padding-left: 6px;
+      text-transform: uppercase;
+      border-bottom: 2px solid rgba(135, 150, 211, 1);
+      padding: 8px 30px;
+    ">
+      SIGNATURE
+    </div>
+
+    <div id="editorItem9" class="widgetCon" style="
+      top: 1475px;
+      left: 110px;
+      width: 810px; 
+      height: 32px; 
+      font-family: 'Bevan';
+      font-size: 24px;
+      font-weight: 400;
+      font-style: normal;
+      line-height: 1;
+      color:rgba(255, 255, 255, 1);
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      padding-left: 6px;
+      text-transform: uppercase;
+      border-bottom: 2px solid rgba(135, 150, 211, 1);
+      padding: 8px 30px;
+    ">
+      SMOOTHIE
+    </div>
+
+    <!-- 여기부터 메뉴구성 레이아웃 -->
+    <div id="editorItem10" class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined" role="application" tabindex="0" aria-label=", 콘텐츠 순서 : 10, 콘텐츠 타입 : t_menu" aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다." aria-haspopup="true" aria-expanded="false" style="width: 781px; height: 271px; top: 674px; left: 153px; transform: rotate(0deg)">
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea" style="width: 100%; height: 100%; gap: 25px; display: flex; flex-direction: column;">
+          <div class="menuTypeGroup menu">
+            <div class="menuItem itemGrid type-04" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); align-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%)">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Charter';
+                    font-size: 24px;
+                    font-weight: normal;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    margin-bottom: 4px;
+                  ">
+                  Americano
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(94, 105, 148);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                      margin-bottom: 4px;
+                    ">
+                    Americano with a gentle, mild acidity that you roast yourself
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 9px;
+                      font-weight: 300;
+                      font-style: normal;
+                      color: rgb(113, 113, 113);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    ">
+                    WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 24px">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: ' ';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgb(33, 45, 93);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        S
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          12
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(142, 142, 142);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      100 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgb(33, 45, 93);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        M
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          14
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(142, 142, 142);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      180 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgb(33, 45, 93);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        L
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          18
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(142, 142, 142);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      240 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="menuTypeGroup menu">
+            <div class="menuItem itemGrid type-04" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); align-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%)">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Charter';
+                    font-size: 24px;
+                    font-weight: normal;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    margin-bottom: 4px;
+                  ">
+                  Hazelnut Latte
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(94, 105, 148);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                      margin-bottom: 4px;
+                    ">
+                    Sweet coffee with hazelnut flavor
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 9px;
+                      font-weight: 300;
+                      font-style: normal;
+                      color: rgb(113, 113, 113);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    ">
+                    WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 24px">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgb(33, 45, 93);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        S
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          10
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(142, 142, 142);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      100 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgb(33, 45, 93);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        M
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          12
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(142, 142, 142);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      160 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgb(33, 45, 93);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        L
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          14
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(142, 142, 142);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      220 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="menuTypeGroup menu">
+            <div class="menuItem itemGrid type-04" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); align-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%)">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Charter';
+                    font-size: 24px;
+                    font-weight: normal;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    margin-bottom: 4px;
+                  ">
+                  Cafe Latte
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(94, 105, 148);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                      margin-bottom: 4px;
+                    ">
+                    Sweet coffee with vanilla flavor
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 9px;
+                      font-weight: 300;
+                      font-style: normal;
+                      color: rgb(113, 113, 113);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    ">
+                    WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 24px">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgb(33, 45, 93);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        S
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          12
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(142, 142, 142);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      100 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgb(33, 45, 93);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        M
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          14
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(142, 142, 142);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      160 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgb(33, 45, 93);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        L
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgb(23, 23, 23);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          16
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(142, 142, 142);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      210 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="editorItem11" class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined" role="application" tabindex="0" aria-label=", 콘텐츠 순서 : 11, 콘텐츠 타입 : t_menu" aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다." aria-haspopup="true" aria-expanded="false" style="width: 781px; height: 271px; top: 1555px; left: 153px; transform: rotate(0deg)">
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea" style="width: 100%; height: 100%; display: flex; gap: 24px; flex-direction: column; justify-content: center;">
+          <div class="menuTypeGroup menu">
+            <div class="menuItem itemGrid type-04" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); align-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%)">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Charter';
+                    font-size: 24px;
+                    font-weight: normal;
+                    font-style: normal;
+                    color: rgba(255, 255, 255, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    margin-bottom: 4px;
+                  ">
+                  Mango Smoothie
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color:rgba(135, 150, 211, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                      margin-bottom: 4px;
+                    ">
+                    Smoothie with fresh mangoes,mild acidity that you roast yourself
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 9px;
+                      font-weight: 300;
+                      font-style: normal;
+                      color: rgba(209, 209, 209, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    ">
+                    WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 24px">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color:rgba(255, 255, 255, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        S
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          12
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(233, 233, 233, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      100 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgba(255, 255, 255, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        M
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          14
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(233, 233, 233, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      180 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgba(255, 255, 255, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        L
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          18
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(233, 233, 233, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      240 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="menuTypeGroup menu">
+            <div class="menuItem itemGrid type-04" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); align-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%)">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Charter';
+                    font-size: 24px;
+                    font-weight: normal;
+                    font-style: normal;
+                    color: rgba(255, 255, 255, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    margin-bottom: 4px;
+                  ">
+                  Apple smoothie
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(135, 150, 211, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                      margin-bottom: 4px;
+                    ">
+                    Sweet coffee with hazelnut flavor
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 9px;
+                      font-weight: 300;
+                      font-style: normal;
+                      color: rgba(209, 209, 209, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    ">
+                    WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 24px">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgba(255, 255, 255, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        S
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          10
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(233, 233, 233, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      100 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgba(255, 255, 255, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        M
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          12
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(233, 233, 233, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      160 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgba(255, 255, 255, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        L
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          14
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(233, 233, 233, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      220 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="menuTypeGroup menu">
+            <div class="menuItem itemGrid type-04" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); align-items: center;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%)">
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Charter';
+                    font-size: 24px;
+                    font-weight: normal;
+                    font-style: normal;
+                    color:rgba(255, 255, 255, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                    margin-bottom: 4px;
+                  ">
+                  Strawberry smoothie
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Pretendard';
+                      font-size: 14px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color:rgba(135, 150, 211, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                      margin-bottom: 4px;
+                    ">
+                    Sweet coffee with vanilla flavor
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 9px;
+                      font-weight: 300;
+                      font-style: normal;
+                      color: rgba(233, 233, 233, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    ">
+                    WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 24px">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgba(255, 255, 255, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        S
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          12
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(233, 233, 233, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      100 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgba(255, 255, 255, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        M
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          14
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(233, 233, 233, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      160 kcal
+                    </span>
+                  </div>
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option size_left">
+                      <span style="
+                          font-family: 'Pretendard';
+                          font-size: 10px;
+                          font-weight: 600;
+                          font-style: normal;
+                          color: rgba(255, 255, 255, 1);
+                          background-color: rgba(255, 255, 255, 0);
+                          text-align: center;
+                        ">
+                        L
+                      </span>
+                      <div class="price_option price_left">
+                        <span class="priceItem" style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          $
+                        </span>
+                        <span style="
+                            font-family: 'Cafe24 Ohsquare OTF';
+                            font-size: 22px;
+                            font-weight: normal;
+                            font-style: normal;
+                            color:rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                            margin-left: 0rem;
+                          ">
+                          16
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Pretendard';
+                        font-size: 10px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(233, 233, 233, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: center;
+                      ">
+                      210 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 여기까지 -->
+  </div>
+  <body>
