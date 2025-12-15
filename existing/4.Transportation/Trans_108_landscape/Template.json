@@ -1,11 +1,11 @@
 {
     "type": "template",
-    "name": "Trans_7",
+    "name": "Trans_108",
     "group": "Trans",
     "screen": {
         "width": "1920",
         "height": "1080"
     },
     "version": "1.00",
-    "folderName": "Trans_07_landscape"
+    "folderName": "Trans_108_landscape"
 }
