@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -66,10 +66,10 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
+      "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Pretendard.ttf"
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Sancreek",
+      "editor_option_text_font_name": "Sancreek-Regular",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Sancreek.ttf"
+      "editor_option_text_font_file": "Sancreek-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -162,7 +162,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Pretendard.ttf"
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -205,7 +205,7 @@
     "display_order": 5,
     "content_type": "T_MENU",
     "width": 752,
-    "height": 842,
+    "height": 270,
     "top": 190,
     "left": 150,
     "angle": 0,
@@ -228,11 +228,126 @@
             "enable": true,
             "image": {
               "item_name": "img_01.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_01.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_01.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_01.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_01.png"
             }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Sancreek-Regular",
+        "font_file": "Sancreek-Regular.ttf",
+        "font_size": 32,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 10,
+        "color": "rgba(33, 45, 93, 1)",
+        "style_bold": 600,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 40,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(255,204,116,1)",
+        "style_bold": 500,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 55,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
           },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "T_MENU",
+    "width": 752,
+    "height": 270,
+    "top": 476,
+    "left": 150,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_61_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
           {
             "menu_name": "Cheese Bburinkle chicken",
             "description": "Hot dog with spicy onion sauce and onion flakes",
@@ -243,11 +358,127 @@
             "enable": true,
             "image": {
               "item_name": "img_02.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_02.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_02.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_02.png"
             }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Sancreek-Regular",
+        "font_file": "Sancreek-Regular.ttf",
+        "font_size": 32,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 10,
+        "color": "rgba(33, 45, 93, 1)",
+        "style_bold": 600,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 40,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(255,204,116,1)",
+        "style_bold": 500,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 55,
+        "vertical_scale": 70,
+        "reverse": true,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
           },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      },
+      "type": "gallery-b"
+    },
+    "name": ""
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 752,
+    "height": 270,
+    "top": 762,
+    "left": 150,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_61_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
           {
             "menu_name": "seasoned spicy chicken",
             "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
@@ -266,8 +497,8 @@
         ]
       },
       "name": {
-        "font_name": "Sancreek",
-        "font_file": "Sancreek.ttf",
+        "font_name": "Sancreek-Regular",
+        "font_file": "Sancreek-Regular.ttf",
         "font_size": 32,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -277,8 +508,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -288,8 +519,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 40,
         "color": "rgba(255,255,255,1)",
         "style_bold": 700,
@@ -299,8 +530,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -310,8 +541,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -321,8 +552,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(255,204,116,1)",
         "style_bold": 500,
@@ -335,8 +566,8 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
+        "item_spacing": 0,
+        "horizontal_scale": 55,
         "vertical_scale": 70,
         "reverse": false,
         "section": [
@@ -360,10 +591,9 @@
     },
     "name": ""
   },
-
   {
-    "id": 5,
-    "display_order": 6,
+    "id": 7,
+    "display_order": 8,
     "content_type": "T_MENU",
     "width": 360,
     "height": 760,
@@ -372,7 +602,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_61_landscape",
+    "widget_class": "r5_menu_61_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -389,9 +619,9 @@
             "enable": true,
             "image": {
               "item_name": "img_04.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_04.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_04.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_04.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_04.png"
             }
           },
           {
@@ -404,16 +634,16 @@
             "enable": true,
             "image": {
               "item_name": "img_05.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_05.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_05.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_05.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_05.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "Sancreek",
-        "font_file": "Sancreek.ttf",
+        "font_name": "Sancreek-Regular",
+        "font_file": "Sancreek-Regular.ttf",
         "font_size": 32,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -423,8 +653,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -434,8 +664,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 40,
         "color": "rgba(255,255,255,1)",
         "style_bold": 700,
@@ -445,8 +675,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -456,8 +686,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -467,8 +697,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(255,204,116,1)",
         "style_bold": 500,
@@ -479,37 +709,44 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 60,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
-            "direction": "horizontal",
-            "list": ["price"]
+            "direction": "vertical",
+            "list": [
+              "image",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "text-a"
     },
     "name": ""
   },
 
   {
-    "id": 6,
-    "display_order": 7,
+    "id": 8,
+    "display_order": 9,
     "content_type": "T_MENU",
     "width": 360,
     "height": 760,
@@ -518,7 +755,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_61_landscape",
+    "widget_class": "r5_menu_61_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -535,9 +772,9 @@
             "enable": true,
             "image": {
               "item_name": "img_06.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_06.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_06.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_06.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_06.png"
             }
           },
           {
@@ -550,16 +787,16 @@
             "enable": true,
             "image": {
               "item_name": "img_07.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_07.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_07.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_07.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_07.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "Sancreek",
-        "font_file": "Sancreek.ttf",
+        "font_name": "Sancreek-Regular",
+        "font_file": "Sancreek-Regular.ttf",
         "font_size": 32,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -569,8 +806,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -580,8 +817,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 40,
         "color": "rgba(255,255,255,1)",
         "style_bold": 700,
@@ -591,8 +828,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -602,8 +839,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -613,8 +850,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(255,204,116,1)",
         "style_bold": 500,
@@ -625,30 +862,37 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 60,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
-            "direction": "horizontal",
-            "list": ["price"]
+            "direction": "vertical",
+            "list": [
+              "image",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "text-a"
     },
     "name": ""
   }
