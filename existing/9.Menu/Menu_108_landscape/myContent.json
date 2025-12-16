@@ -1,0 +1,1156 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1920,
+    "height": 1080,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/background.jpg",
+    "content_size": 54950,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 90,
+    "left": 890,
+    "width": 138,
+    "height": 123,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_01.png",
+    "content_size": 26388,
+    "scene_no": 1,
+    "media_name": "img_01.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "IMAGE",
+    "top": 184,
+    "left": 799,
+    "width": 323,
+    "height": 87,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_02.png",
+    "content_size": 27053,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Templatesting/9.Menu/Menu_108_landscape/img_02.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "IMAGE",
+    "top": 428,
+    "left": 125,
+    "width": 514,
+    "height": 15,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_03.png",
+    "content_size": 181,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "IMAGE",
+    "top": 428,
+    "left": 710,
+    "width": 514,
+    "height": 15,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_03.png",
+    "content_size": 181,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "IMAGE",
+    "top": 428,
+    "left": 1290,
+    "width": 514,
+    "height": 15,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_03.png",
+    "content_size": 181,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "IMAGE",
+    "top": 844,
+    "left": 1290,
+    "width": 514,
+    "height": 15,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_108_landscape/img_03.png",
+    "content_size": 181,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "TEXT",
+    "top": 233,
+    "left": 919,
+    "width": 81,
+    "height": 29,
+    "angle": 0,
+    "content_size": 4,
+    "text_value": "MENU",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "500",
+    "option_text": {
+      "editor_option_text_font_name": "Helvetica Neue-Regular",
+      "editor_option_text_font_size": "24",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "241, 235, 231",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 3,
+      "editor_option_text_font_file": "Helvetica Neue-Regular.otf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 8,
+    "display_order": 9,
+    "content_type": "TEXT",
+    "top": 376,
+    "left": 122,
+    "width": 228,
+    "height": 51,
+    "angle": 0,
+    "content_size": 7,
+    "text_value": "BURGERS",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "400",
+    "option_text": {
+      "editor_option_text_font_name": "Marker Felt",
+      "editor_option_text_font_size": "50",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "20, 46, 109",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -0.5,
+      "editor_option_text_font_file": "Marker Felt.otf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 9,
+    "display_order": 10,
+    "content_type": "TEXT",
+    "top": 376,
+    "left": 710,
+    "width": 228,
+    "height": 51,
+    "angle": 0,
+    "content_size": 10,
+    "text_value": "SANDWICHES",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "400",
+    "option_text": {
+      "editor_option_text_font_name": "Marker Felt",
+      "editor_option_text_font_size": "50",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "20, 46, 109",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -0.5,
+      "editor_option_text_font_file": "Marker Felt.otf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 10,
+    "display_order": 11,
+    "content_type": "TEXT",
+    "top": 376,
+    "left": 1292,
+    "width": 228,
+    "height": 51,
+    "angle": 0,
+    "content_size": 9,
+    "text_value": "SIDE MENU",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "400",
+    "option_text": {
+      "editor_option_text_font_name": "Marker Felt",
+      "editor_option_text_font_size": "50",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "20, 46, 109",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -0.5,
+      "editor_option_text_font_file": "Marker Felt.otf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 11,
+    "display_order": 12,
+    "content_type": "TEXT",
+    "top": 791,
+    "left": 1292,
+    "width": 228,
+    "height": 51,
+    "angle": 0,
+    "content_size": 5,
+    "text_value": "DRINK",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "400",
+    "option_text": {
+      "editor_option_text_font_name": "Marker Felt",
+      "editor_option_text_font_size": "50",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "20, 46, 109",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -0.5,
+      "editor_option_text_font_file": "Marker Felt.otf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 12,
+    "display_order": 13,
+    "content_type": "T_MENU",
+    "width": 516,
+    "height": 520,
+    "top": 458,
+    "left": 121,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_08_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Classic Burger",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "Cheese Burger",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true
+          },
+          {
+            "menu_name": "Bulgogi Burger",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true
+          },
+          {
+            "menu_name": "Mushroom Swiss Burger",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 26,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 20,
+        "color": "rgba(20, 46, 109, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 26,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 17,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  },
+  {
+    "id": 13,
+    "display_order": 14,
+    "content_type": "T_MENU",
+    "width": 516,
+    "height": 520,
+    "top": 458,
+    "left": 710,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_08_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Grilled Chicken Sandwich",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "BLT Sandwich",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true
+          },
+          {
+            "menu_name": "Turkey Club Sandwich",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true
+          },
+          {
+            "menu_name": "Tuna Salad Sandwich",
+            "description": "A classic burger featuring a 100% pure beef patty topped with fresh lettuce and tomato.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 26,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 20,
+        "color": "rgba(20, 46, 109, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 26,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 17,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  },
+  {
+    "id": 14,
+    "display_order": 15,
+    "content_type": "T_MENU",
+    "width": 516,
+    "height": 310,
+    "top": 458,
+    "left": 1292,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_08_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "French Fries",
+            "description": "Crispy fries made from high-quality potatoes.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "Onion Rings",
+            "description": "Crispy fries made from high-quality potatoes.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          },          
+          {
+            "menu_name": "Mozzarella Sticks (6pcs)",
+            "description": "Crispy fries made from high-quality potatoes.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 26,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 20,
+        "color": "rgba(20, 46, 109, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 26,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 17,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  },
+  {
+    "id": 15,
+    "display_order": 16,
+    "content_type": "T_MENU",
+    "width": 516,
+    "height": 100,
+    "top": 872,
+    "left": 1292,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_08_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Soft Drinks (Coke, Sprite)",
+            "description": "Crispy fries made from high-quality potatoes.",
+            "price": ["8.0"],
+            "calory": ["300"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 26,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans.ttf",
+        "font_size": 20,
+        "color": "rgba(20, 46, 109, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 26,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(100, 100, 100,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Noto Sans",
+        "font_file": "Noto Sans-Regular.ttf",
+        "font_size": 17,
+        "color": "rgba(20, 46, 109,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 45,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  }
+]

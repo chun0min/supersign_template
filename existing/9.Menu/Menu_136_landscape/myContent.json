@@ -1,0 +1,1584 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1920,
+    "height": 1080,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/background.jpg",
+    "content_size": 11092891,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 100,
+    "left": 599,
+    "width": 130,
+    "height": 82,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_01.png",
+    "content_size": 2110242,
+    "scene_no": 1,
+    "media_name": "img_01.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "IMAGE",
+    "top": 386,
+    "left": 114,
+    "width": 504,
+    "height": 340,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_02.png",
+    "content_size": 2372510,
+    "scene_no": 1,
+    "media_name": "img_02.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "IMAGE",
+    "top": 422,
+    "left": 682,
+    "width": 130,
+    "height": 112,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_03.png",
+    "content_size": 1929780,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "IMAGE",
+    "top": 500,
+    "left": 682,
+    "width": 130,
+    "height": 112,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_04.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_04.png",
+    "content_size": 1740214,
+    "scene_no": 1,
+    "media_name": "img_04.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "IMAGE",
+    "top": 578,
+    "left": 682,
+    "width": 130,
+    "height": 112,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_05.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_05.png",
+    "content_size": 659118,
+    "scene_no": 1,
+    "media_name": "img_05.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "IMAGE",
+    "top": 714,
+    "left": 110,
+    "width": 712,
+    "height": 276,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_15.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_15.png",
+    "content_size": 220,
+    "scene_no": 1,
+    "media_name": "img_15.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "IMAGE",
+    "top": 781,
+    "left": 448,
+    "width": 142,
+    "height": 142,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_06.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_06.png",
+    "content_size": 1003385,
+    "scene_no": 1,
+    "media_name": "img_06.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 8,
+    "display_order": 9,
+    "content_type": "IMAGE",
+    "top": 781,
+    "left": 640,
+    "width": 142,
+    "height": 142,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_07.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_07.png",
+    "content_size": 2052228,
+    "scene_no": 1,
+    "media_name": "img_07.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 9,
+    "display_order": 10,
+    "content_type": "IMAGE",
+    "top": 807,
+    "left": 1039,
+    "width": 280,
+    "height": 10,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_14.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_14.png",
+    "content_size": 171,
+    "scene_no": 1,
+    "media_name": "img_14.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 10,
+    "display_order": 11,
+    "content_type": "IMAGE",
+    "top": 807,
+    "left": 1535,
+    "width": 280,
+    "height": 10,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_14.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_14.png",
+    "content_size": 171,
+    "scene_no": 1,
+    "media_name": "img_14.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 11,
+    "display_order": 12,
+    "content_type": "TEXT",
+    "top": 113,
+    "left": 730,
+    "width": 570,
+    "height": 46,
+    "angle": 0,
+    "content_size": 17,
+    "text_value": "KOREAN RESTAURANT",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "700",
+    "option_text": {
+      "editor_option_text_font_name": "BookkMyungjo_Bold",
+      "editor_option_text_font_size": "46",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "94, 69, 43",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "BookkMyungjo_Bold.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 12,
+    "display_order": 13,
+    "content_type": "TEXT",
+    "top": 74,
+    "left": 1665,
+    "width": 181,
+    "height": 24,
+    "angle": 0,
+    "content_size": 13,
+    "text_value": "000-0000-0000",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "700",
+    "option_text": {
+      "editor_option_text_font_name": "BookkMyungjo_Bold",
+      "editor_option_text_font_size": "24",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "94, 69, 43",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "BookkMyungjo_Bold.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 13,
+    "display_order": 14,
+    "content_type": "TEXT",
+    "top": 799,
+    "left": 932,
+    "width": 127,
+    "height": 30,
+    "angle": 0,
+    "content_size": 7,
+    "text_value": "Noodles",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "700",
+    "option_text": {
+      "editor_option_text_font_name": "BookkMyungjo_Bold",
+      "editor_option_text_font_size": "24",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "94, 69, 43",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "BookkMyungjo_Bold.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 14,
+    "display_order": 15,
+    "content_type": "TEXT",
+    "top": 799,
+    "left": 1426,
+    "width": 86,
+    "height": 30,
+    "angle": 0,
+    "content_size": 5,
+    "text_value": "drink",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "700",
+    "option_text": {
+      "editor_option_text_font_name": "BookkMyungjo_Bold",
+      "editor_option_text_font_size": "24",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "94, 69, 43",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "BookkMyungjo_Bold.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 15,
+    "display_order": 16,
+    "content_type": "TEXT",
+    "top": 838,
+    "left": 604,
+    "width": 22,
+    "height": 23,
+    "angle": 0,
+    "content_size": 2,
+    "text_value": "or",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "300",
+    "option_text": {
+      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_size": "16",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Pretendard-Regular.otf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 16,
+    "display_order": 17,
+    "content_type": "T_MENU",
+    "width": 708,
+    "height": 143,
+    "top": 242,
+    "left": 114,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_36_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "SPICY STIR-FRIED PORK SET A",
+            "description": "STIR-FRIED SPICY PORK + STEW (CHOOSE 1 OUT OF 2 KIMCHI/SOYBEAN PASTE) + RICE",
+            "price": ["23.0"],
+            "calory": ["220"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 1,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 28,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 30,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(61, 61, 61,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(130, 130, 130,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(62, 62, 62,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+        },
+        {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 17,
+    "display_order": 18,
+    "content_type": "T_MENU",
+    "width": 280,
+    "height": 210,
+    "top": 747,
+    "left": 150,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_36_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "SPICY STIR-FRIED PORK SET B",
+            "description": "CHOOSE ONE OUT OF TWO COLD NOODLES (WATER/BIBIMBAP)",
+            "price": ["23.0"],
+            "calory": ["220"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 1,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 28,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 30,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(61, 61, 61,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(125, 103, 70,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(62, 62, 62,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 84,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+        },
+        {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 18,
+    "display_order": 19,
+    "content_type": "T_MENU",
+    "width": 394,
+    "height": 500,
+    "top": 242,
+    "left": 932,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_36_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "BULGOGI SET",
+            "description": "Bulgogi Made with Domestic Pork",
+            "price": ["20.0"],
+            "calory": ["220"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_08.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_08.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_08.png"
+            }
+          },
+          {
+            "menu_name": "BIBIMBAP",
+            "description": "Rice with 8 kinds of wild vegetables",
+            "price": ["18.0"],
+            "calory": ["220"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_09.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_09.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_09.png"
+            }
+          },
+          {
+            "menu_name": "RICE CAKE",
+            "description": "made of Icheon rice",
+            "price": ["11.0"],
+            "calory": ["220"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_10.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_10.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_10.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(61, 61, 61,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 10,
+        "color": "rgba(130, 130, 130,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(62, 62, 62,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 38,
+        "vertical_scale": 56,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+        },
+        {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 19,
+    "display_order": 20,
+    "content_type": "T_MENU",
+    "width": 394,
+    "height": 500,
+    "top": 242,
+    "left": 1426,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_36_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "SOFT TOFU STEW",
+            "description": "stew made with soft soft tofu stew made",
+            "price": ["20.0"],
+            "calory": ["220"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_11.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_11.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_11.png"
+            }
+          },
+          {
+            "menu_name": "STIR-FRIED FISH",
+            "description": "stir-fry made from natural octopus",
+            "price": ["20.0"],
+            "calory": ["220"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_12.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_12.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_12.png"
+            }
+          },
+          {
+            "menu_name": "KIMCHI FRIED RICE",
+            "description": "Kimchi made by the owner  owner",
+            "price": ["11.0"],
+            "calory": ["220"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_13.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_13.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_136_landscape/img_13.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(61, 61, 61,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 10,
+        "color": "rgba(130, 130, 130,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(62, 62, 62,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 38,
+        "vertical_scale": 56,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+        },
+        {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 20,
+    "display_order": 21,
+    "content_type": "T_MENU",
+    "width": 394,
+    "height": 160,
+    "top": 851,
+    "left": 932,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_36_landscape-1",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "RAMEN",
+            "description": "Rice with 8 kinds of wild vegetables",
+            "price": ["8.0"],
+            "calory": ["100"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "COLD NOODLES",
+            "description": "Rice with 8 kinds of wild vegetables",
+            "price": ["8.0"],
+            "calory": ["100"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork",
+            "ordr": 2,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(61, 61, 61,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 10,
+        "color": "rgba(130, 130, 130,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(62, 62, 62,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 5,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  },
+  {
+    "id": 21,
+    "display_order": 22,
+    "content_type": "T_MENU",
+    "width": 394,
+    "height": 160,
+    "top": 851,
+    "left": 1426,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_36_landscape-1",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "SODA",
+            "description": "Rice with 8 kinds of wild vegetables",
+            "price": ["8.0"],
+            "calory": ["100"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "ORANGE JUICE",
+            "description": "Rice with 8 kinds of wild vegetables",
+            "price": ["8.0"],
+            "calory": ["100"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork",
+            "ordr": 2,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "BookkMyungjo_Bold",
+        "font_file": "BookkMyungjo_Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(61, 61, 61,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 10,
+        "color": "rgba(130, 130, 130,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(62, 62, 62,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 5,
+        "horizontal_scale": 0,
+        "vertical_scale": 40,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  }
+]

@@ -1,0 +1,655 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1920,
+    "height": 1080,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/background.jpg",
+    "content_size": 1034368,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "TEXT",
+    "top": 43,
+    "left": 825,
+    "width": 270,
+    "height": 24,
+    "angle": 0,
+    "content_size": 23,
+    "text_value": "Western food Restaurant",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_size": "20",
+      "editor_option_text_style_bold": 700,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": false,
+      "editor_option_text_font_file": "Pretendard.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "TEXT",
+    "top": 81,
+    "left": 608,
+    "width": 705,
+    "height": 78,
+    "angle": 0,
+    "content_size": 23,
+    "text_value": "Western food Restaurant",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Sancreek",
+      "editor_option_text_font_size": "56",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "233, 0, 0",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": false,
+      "editor_option_text_font_file": "Sancreek.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "TEXT",
+    "top": 155,
+    "left": 870,
+    "width": 180,
+    "height": 19,
+    "angle": 0,
+    "content_size": 14,
+    "text_value": "0000-0000-0000",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_size": "16",
+      "editor_option_text_style_bold": 700,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "169, 146, 122",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": false,
+      "editor_option_text_font_file": "Pretendard.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "T_MENU",
+    "width": 752,
+    "height": 842,
+    "top": 190,
+    "left": 150,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_61_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [],
+        "menu_list": [
+          {
+            "menu_name": "Fried chicken",
+            "description": "Hot dog with spicy onion sauce and onion flakes",
+            "price": ["$19"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_01.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_01.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_01.png"
+            }
+          },
+          {
+            "menu_name": "Cheese Bburinkle chicken",
+            "description": "Hot dog with spicy onion sauce and onion flakes",
+            "price": ["$21"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_02.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_02.png"
+            }
+          },
+          {
+            "menu_name": "seasoned spicy chicken",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": ["$20.0"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_161_landscape/img_03.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Sancreek",
+        "font_file": "Sancreek.ttf",
+        "font_size": 32,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 10,
+        "color": "rgba(33, 45, 93, 1)",
+        "style_bold": 600,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 40,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 12,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255,204,116,1)",
+        "style_bold": 500,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
+  },
+
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "T_MENU",
+    "width": 360,
+    "height": 760,
+    "top": 236,
+    "left": 1010,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_61_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [],
+        "menu_list": [
+          {
+            "menu_name": "Buffalo Wing",
+            "description": "Hot dog with spicy onion sauce and onion flakes",
+            "price": ["$1"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_04.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_04.png"
+            }
+          },
+          {
+            "menu_name": "Buffalo Wing",
+            "description": "Hot dog with spicy onion sauce and onion flakes",
+            "price": ["$10"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_05.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_05.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_05.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Sancreek",
+        "font_file": "Sancreek.ttf",
+        "font_size": 32,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 10,
+        "color": "rgba(33, 45, 93, 1)",
+        "style_bold": 600,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 40,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 12,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255,204,116,1)",
+        "style_bold": 500,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
+  },
+
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 360,
+    "height": 760,
+    "top": 236,
+    "left": 1420,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_61_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [],
+        "menu_list": [
+          {
+            "menu_name": "Sotteok Sotteok",
+            "description": "Hot dog with spicy onion sauce and onion flakes",
+            "price": ["$8"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_06.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_06.png"
+            }
+          },
+          {
+            "menu_name": "Sotteok Sotteok",
+            "description": "Hot dog with spicy onion sauce and onion flakes",
+            "price": ["$10"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_07.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_61_landscape/img_07.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Sancreek",
+        "font_file": "Sancreek.ttf",
+        "font_size": 32,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 10,
+        "color": "rgba(33, 45, 93, 1)",
+        "style_bold": 600,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 40,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 12,
+        "color": "rgba(255,255,255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255,204,116,1)",
+        "style_bold": 500,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 20,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    },
+    "name": ""
+  }
+]
