@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Source Serif Pro",
+      "editor_option_text_font_name": "SourceSerifPro4-VariableFont_opsz,wght",
       "editor_option_text_font_size": "25",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "71",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Source Serif Pro.ttf"
+      "editor_option_text_font_file": "SourceSerifPro4-VariableFont_opsz,wght.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -161,7 +161,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Source Serif Pro",
+      "editor_option_text_font_name": "SourceSerifPro4-VariableFont_opsz,wght",
       "editor_option_text_font_size": "27",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -174,7 +174,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Source Serif Pro.ttf"
+      "editor_option_text_font_file": "SourceSerifPro4-VariableFont_opsz,wght.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -213,7 +213,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Source Serif Pro",
+      "editor_option_text_font_name": "SourceSerifPro4-VariableFont_opsz,wght",
       "editor_option_text_font_size": "17",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -226,7 +226,7 @@
       "editor_option_text_align": "right",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Source Serif Pro.ttf"
+      "editor_option_text_font_file": "SourceSerifPro4-VariableFont_opsz,wght.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -377,7 +377,7 @@
       },
       "name": {
         "font_name": "Cafe24 ClassicType",
-        "font_file": "Cafe24 ClassicType",
+        "font_file": "Cafe24 ClassicType.ttf",
         "font_size": 29,
         "color": "rgba(224,78,45,1)",
         "style_bold": false,

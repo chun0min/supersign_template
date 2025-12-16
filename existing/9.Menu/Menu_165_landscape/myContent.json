@@ -204,7 +204,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "AbhayaLibre-Regular",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -217,7 +217,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
+      "editor_option_text_font_file": "AbhayaLibre-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -495,7 +495,7 @@
       },
       "name": {
         "font_name": "Onest",
-        "font_file": "Onest",
+        "font_file": "Onest.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
         "style_bold": 700,

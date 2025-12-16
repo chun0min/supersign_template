@@ -214,14 +214,14 @@
     "widget_class": "r5_menu_61_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "Fried chicken",
             "description": "Hot dog with spicy onion sauce and onion flakes",
-            "price": ["$19"],
+            "price": ["19"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 1,
@@ -236,7 +236,7 @@
           {
             "menu_name": "Cheese Bburinkle chicken",
             "description": "Hot dog with spicy onion sauce and onion flakes",
-            "price": ["$21"],
+            "price": ["21"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 2,
@@ -251,7 +251,7 @@
           {
             "menu_name": "seasoned spicy chicken",
             "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
-            "price": ["$20.0"],
+            "price": ["20.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,",
             "ordr": 3,
@@ -375,14 +375,14 @@
     "widget_class": "r5_menu_61_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "Buffalo Wing",
             "description": "Hot dog with spicy onion sauce and onion flakes",
-            "price": ["$1"],
+            "price": ["1"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 1,
@@ -397,7 +397,7 @@
           {
             "menu_name": "Buffalo Wing",
             "description": "Hot dog with spicy onion sauce and onion flakes",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 2,
@@ -521,14 +521,14 @@
     "widget_class": "r5_menu_61_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "Sotteok Sotteok",
             "description": "Hot dog with spicy onion sauce and onion flakes",
-            "price": ["$8"],
+            "price": ["8"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 1,
@@ -543,7 +543,7 @@
           {
             "menu_name": "Sotteok Sotteok",
             "description": "Hot dog with spicy onion sauce and onion flakes",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 2,
