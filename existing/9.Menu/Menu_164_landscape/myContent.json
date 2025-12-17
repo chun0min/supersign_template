@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/background.jpg",
     "content_size": 475129,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -45,6 +45,178 @@
   {
     "id": 1,
     "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 379,
+    "left": 72,
+    "width": 375,
+    "height": 375,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/img_02.png",
+    "content_size": 249712,
+    "scene_no": 1,
+    "media_name": "img_02.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "IMAGE",
+    "top": 359,
+    "left": 1409,
+    "width": 440,
+    "height": 440,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/img_03.png",
+    "content_size": 329656,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 450,
+    "width": 300,
+    "height": 273,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/img_04.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/img_04.png",
+    "content_size": 168152,
+    "scene_no": 1,
+    "media_name": "img_04.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 1092,
+    "width": 351,
+    "height": 347,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/img_05.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/img_05.png",
+    "content_size": 208050,
+    "scene_no": 1,
+    "media_name": "img_05.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 5,
+    "display_order": 6,
     "content_type": "TEXT",
     "top": 143,
     "left": 130,
@@ -56,7 +228,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -68,8 +240,8 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
+      "editor_option_text_spacing": 9,
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -96,20 +268,20 @@
   },
 
   {
-    "id": 2,
-    "display_order": 3,
+    "id": 6,
+    "display_order": 7,
     "content_type": "TEXT",
     "top": 179,
     "left": 130,
     "width": 260,
-    "height": 36,
+    "height": 50,
     "angle": 0,
     "content_size": 10,
     "text_value": "RESTAURANT",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -120,9 +292,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.7",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -148,8 +320,8 @@
     }
   },
   {
-    "id": 3,
-    "display_order": 4,
+    "id": 7,
+    "display_order": 8,
     "content_type": "TEXT",
     "top": 251,
     "left": 130,
@@ -161,7 +333,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -173,8 +345,8 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
+      "editor_option_text_spacing": 2,
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -200,20 +372,20 @@
     }
   },
   {
-    "id": 4,
-    "display_order": 5,
+    "id": 8,
+    "display_order": 9,
     "content_type": "TEXT",
     "top": 370,
     "left": 494,
     "width": 867,
-    "height": 28,
+    "height": 35,
     "angle": 0,
     "content_size": 7,
     "text_value": "NOODLES",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -226,7 +398,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -252,20 +424,20 @@
     }
   },
   {
-    "id": 5,
-    "display_order": 6,
+    "id": 9,
+    "display_order": 10,
     "content_type": "TEXT",
     "top": 742,
     "left": 496,
     "width": 867,
-    "height": 28,
+    "height": 35,
     "angle": 0,
     "content_size": 5,
     "text_value": "DRINK",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -278,7 +450,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -304,16 +476,16 @@
     }
   },
   {
-    "id": 6,
-    "display_order": 7,
+    "id": 10,
+    "display_order": 11,
     "content_type": "IMAGE",
     "top": 78,
     "left": 233,
     "width": 54,
     "height": 54,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/img_01.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/img_01.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_164_landscape/img_01.png",
     "content_size": 1269,
     "scene_no": 1,
     "media_name": "img_01.png",
@@ -347,12 +519,12 @@
     "is_crop": false
   },
   {
-    "id": 7,
-    "display_order": 8,
+    "id": 11,
+    "display_order": 12,
     "content_type": "T_MENU",
     "width": 375,
-    "height": 653,
-    "top": 379,
+    "height": 219,
+    "top": 813,
     "left": 72,
     "angle": 0,
     "scene_no": 1,
@@ -360,41 +532,35 @@
     "widget_class": "r5_menu_64_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "5",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "Dongpo Pork",
             "description": "Dong-pae-yuk with soft lean meat and bok-choy",
-            "price": ["$26.0"],
+            "price": ["26.0"],
             "calory": ["120"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel,mackerel,mackerel,mackerel,",
             "ordr": 1,
-            "enable": true,
-            "image": {
-              "item_name": "img_02.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/img_02.png",
-              "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/img_02.png"
-            }
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Stri4e.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(49,50,50,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -404,30 +570,30 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(251,227,179,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(251,227,179,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(251,227,179,1)",
         "style_bold": 300,
@@ -437,8 +603,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -449,11 +615,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 30,
+        "horizontal_scale": 0,
+        "vertical_scale": 53,
         "reverse": false,
         "section": [
           {
@@ -478,54 +644,48 @@
   },
 
   {
-    "id": 8,
-    "display_order": 9,
+    "id": 12,
+    "display_order": 13,
     "content_type": "T_MENU",
-    "width": 440,
-    "height": 653,
-    "top": 359,
-    "left": 1409,
+    "width": 320,
+    "height": 236,
+    "top": 827,
+    "left": 1472,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
     "widget_class": "r5_menu_64_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "5",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "Stir-fried Seafood",
             "description": "a chewy and firm dish a chewy and firm dish a chewy and firm dish",
-            "price": ["$19.0"],
+            "price": ["19.0"],
             "calory": ["240"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel,mackerel,mackerel,mackerel,",
             "ordr": 1,
-            "enable": true,
-            "image": {
-              "item_name": "img_03.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/img_03.png",
-              "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/img_03.png"
-            }
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Stri4e.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(49,50,50,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -535,8 +695,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(251,227,179,1)",
         "style_bold": false,
@@ -546,19 +706,19 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(251,227,179,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(251,227,179,1)",
         "style_bold": 300,
@@ -568,8 +728,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -580,11 +740,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 30,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
@@ -609,45 +769,39 @@
   },
 
   {
-    "id": 9,
-    "display_order": 10,
+    "id": 13,
+    "display_order": 14,
     "content_type": "T_MENU",
-    "width": 630,
-    "height": 279,
-    "top": 0,
-    "left": 450,
+    "width": 320,
+    "height": 250,
+    "top": 40,
+    "left": 760,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_64_landscape",
+    "widget_class": "r5_menu_64_landscape-1",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "Stir-fried Assorted Seafood",
             "description": "Fresh abalone, shrimp, bokchoy",
-            "price": ["$14.0"],
+            "price": ["14.0"],
             "calory": ["240"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel,mackerel,mackerel,mackerel,",
             "ordr": 1,
-            "enable": true,
-            "image": {
-              "item_name": "img_04.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/img_04.png",
-              "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/img_04.png"
-            }
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Stri4e.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
-        "color": "rgba(49,50,50,1)",
+        "color": "rgba(255,255,255,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -655,19 +809,19 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "price": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(251,227,179,1)",
         "style_bold": false,
@@ -677,8 +831,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(251,227,179,1)",
         "style_bold": false,
@@ -688,34 +842,34 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(251,227,179,1)",
         "style_bold": 300,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
@@ -740,54 +894,48 @@
   },
 
   {
-    "id": 10,
-    "display_order": 11,
+    "id": 14,
+    "display_order": 15,
     "content_type": "T_MENU",
-    "width": 700,
-    "height": 347,
-    "top": 0,
-    "left": 1092,
+    "width": 320,
+    "height": 250,
+    "top": 110,
+    "left": 1472,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
     "widget_class": "r5_menu_64_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "palbochae",
             "description": "soft beef noodles soft beef noodlessoft beef noodlessoft beef noodlessoft beef noodles",
-            "price": ["$19.0"],
+            "price": ["19.0"],
             "calory": ["240"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel,mackerel,mackerel,mackerel,",
             "ordr": 1,
-            "enable": true,
-            "image": {
-              "item_name": "img_05.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/img_05.png",
-              "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_64_landscape/img_05.png"
-            }
+            "enable": true
           }
         ]
       },
       "name": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Stri4e.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(49,50,50,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -797,30 +945,30 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(251,227,179,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(251,227,179,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(251,227,179,1)",
         "style_bold": 300,
@@ -830,8 +978,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -842,11 +990,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 30,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
@@ -871,27 +1019,27 @@
   },
 
   {
-    "id": 11,
-    "display_order": 12,
+    "id": 15,
+    "display_order": 16,
     "content_type": "T_MENU",
     "width": 847,
-    "height": 288,
+    "height": 270,
     "top": 433,
     "left": 504,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_64_landscape_1",
+    "widget_class": "r5_menu_64_landscape-2",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "JAJANGMYEON",
             "description": "Dong-pae-yuk with soft lean meat and bok-choy Dong-pae-yuk with soft lean meat and bok-choy",
-            "price": ["$12.0"],
+            "price": ["12.0"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
             "ordr": 1,
@@ -906,7 +1054,7 @@
           {
             "menu_name": "JJAMPPONG",
             "description": "Dong-pae-yuk with soft lean meat and bok-choy",
-            "price": ["$11.0"],
+            "price": ["11.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,MACKEREL,MACKEREL,MACKEREL,",
             "ordr": 1,
@@ -921,7 +1069,7 @@
           {
             "menu_name": "SEAFOOD NOODLE SOUP",
             "description": "Dong-pae-yuk with soft lean meat ",
-            "price": ["$15.0"],
+            "price": ["15.0"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,MACKEREL,MACKEREL,MACKEREL,",
             "ordr": 1,
@@ -936,8 +1084,8 @@
         ]
       },
       "name": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Stri4e.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255,217,160,1)",
         "style_bold": false,
@@ -947,52 +1095,52 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "price": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 24,
         "color": "rgba(255,217,160,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(174,174,174,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(255,217,160,1)",
         "style_bold": 300,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -1003,56 +1151,57 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 85,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": ["name", "description"]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": ["price"]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": []
           }
         ]
-      }
+      },
+      "type": "text-b"
     },
     "name": ""
   },
 
   {
-    "id": 11,
-    "display_order": 12,
+    "id": 16,
+    "display_order": 17,
     "content_type": "T_MENU",
     "width": 847,
-    "height": 288,
+    "height": 270,
     "top": 808,
     "left": 507,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_64_landscape_1",
+    "widget_class": "r5_menu_64_landscape-2",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "YANTAI KAOLIANG LIQUOR",
             "description": "White liquor produced in Yantai, Shandong Province, China",
-            "price": ["$12.0"],
+            "price": ["12.0"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
             "ordr": 1,
@@ -1067,7 +1216,7 @@
           {
             "menu_name": "CINGDAO",
             "description": "White liquor produced in Yantai, Shandong Province, China",
-            "price": ["$18.0"],
+            "price": ["18.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
             "ordr": 1,
@@ -1082,7 +1231,7 @@
           {
             "menu_name": "MAOTAI",
             "description": "White liquor produced in Yantai, Shandong Province, China",
-            "price": ["$18.0"],
+            "price": ["18.0"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
             "ordr": 1,
@@ -1097,8 +1246,8 @@
         ]
       },
       "name": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Stri4e.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255,217,160,1)",
         "style_bold": false,
@@ -1108,52 +1257,52 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "price": {
-        "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_name": "ProtestStrike-Regular",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 24,
         "color": "rgba(255,217,160,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(174,174,174,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(255,217,160,1)",
         "style_bold": 300,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -1164,30 +1313,31 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 85,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": ["name", "description"]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": ["price"]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": []
           }
         ]
-      }
+      },
+      "type": "text-b"
     },
     "name": ""
   }

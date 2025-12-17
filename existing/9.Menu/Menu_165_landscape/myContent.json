@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_65_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_65_landscape/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_165_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_165_landscape/background.jpg",
     "content_size": 219946,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -51,8 +51,8 @@
     "width": 386,
     "height": 900,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_65_landscape/img_01.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_65_landscape/img_01.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_165_landscape/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_165_landscape/img_01.png",
     "content_size": 251279,
     "scene_no": 1,
     "media_name": "img_01.png",
@@ -91,15 +91,15 @@
     "content_type": "TEXT",
     "top": 56,
     "left": 61,
-    "width": 99,
-    "height": 50,
+    "width": 110,
+    "height": 60,
     "angle": 0,
     "content_size": 18,
     "text_value": "FLAVORS THAT STAY.",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barlow Condensed",
+      "editor_option_text_font_name": "BarlowCondensed-Regular",
       "editor_option_text_font_size": "25",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -109,10 +109,10 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Barlow Condensed.ttf"
+      "editor_option_text_font_file": "BarlowCondensed-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -152,9 +152,9 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "138",
-      "editor_option_text_style_bold": false,
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
@@ -163,9 +163,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.9",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Bebas Neue.ttf"
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -194,18 +194,18 @@
     "id": 4,
     "display_order": 5,
     "content_type": "TEXT",
-    "top": 377,
+    "top": 410,
     "left": 57,
     "width": 196,
     "height": 84,
     "angle": -12,
     "content_size": 18,
-    "text_value": "Chilled Vibes & Warm Hearts",
+    "text_value": "Chilled Vibes \n& Warm Hearts",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
       "editor_option_text_font_name": "AbhayaLibre-Regular",
-      "editor_option_text_font_size": "18",
+      "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -256,7 +256,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Onest",
+      "editor_option_text_font_name": "Onest-Regular-Regular",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -269,7 +269,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -308,7 +308,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Onest",
+      "editor_option_text_font_name": "Onest-Regular-Regular",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -321,7 +321,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -360,7 +360,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Onest",
+      "editor_option_text_font_name": "Onest-Regular-Regular",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -373,7 +373,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -402,10 +402,10 @@
     "id": 8,
     "display_order": 9,
     "content_type": "T_MENU",
-    "width": 375,
-    "height": 653,
-    "top": 379,
-    "left": 72,
+    "width": 560,
+    "height": 870,
+    "top": 160,
+    "left": 675,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -494,8 +494,8 @@
         ]
       },
       "name": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
         "style_bold": 700,
@@ -505,8 +505,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 17,
         "color": "rgba(43, 43, 43, 0.5)",
         "style_bold": 500,
@@ -516,8 +516,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
         "style_bold": 700,
@@ -527,8 +527,8 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 13,
         "color": "rgba(112,112,112,1)",
         "style_bold": 500,
@@ -538,8 +538,8 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 13,
         "color": "rgba(227,72,46,1)",
         "style_bold": false,
@@ -549,8 +549,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -561,30 +561,36 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 60,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": []
           }
         ]
-      }
+      },
+      "type": "text-b"
     },
     "name": ""
   },
@@ -593,10 +599,10 @@
     "id": 9,
     "display_order": 10,
     "content_type": "T_MENU",
-    "width": 375,
-    "height": 653,
-    "top": 379,
-    "left": 72,
+    "width": 560,
+    "height": 365,
+    "top": 151,
+    "left": 1307,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -640,8 +646,8 @@
         ]
       },
       "name": {
-        "font_name": "Onest",
-        "font_file": "Onest",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
         "style_bold": 700,
@@ -651,8 +657,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 17,
         "color": "rgba(43, 43, 43, 0.5)",
         "style_bold": 500,
@@ -662,8 +668,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
         "style_bold": 700,
@@ -673,8 +679,8 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 13,
         "color": "rgba(112,112,112,1)",
         "style_bold": 500,
@@ -684,8 +690,8 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 13,
         "color": "rgba(227,72,46,1)",
         "style_bold": false,
@@ -695,8 +701,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -707,42 +713,48 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 60,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": []
           }
         ]
-      }
+      },
+      "type": "text-b"
     },
     "name": ""
   },
 
   {
-    "id": 9,
-    "display_order": 10,
+    "id": 10,
+    "display_order": 11,
     "content_type": "T_MENU",
-    "width": 375,
-    "height": 653,
-    "top": 379,
-    "left": 72,
+    "width": 560,
+    "height": 365,
+    "top": 660,
+    "left": 1307,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -786,8 +798,8 @@
         ]
       },
       "name": {
-        "font_name": "Onest",
-        "font_file": "Onest",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
         "style_bold": 700,
@@ -797,8 +809,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 17,
         "color": "rgba(43, 43, 43, 0.5)",
         "style_bold": 500,
@@ -808,8 +820,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
         "style_bold": 700,
@@ -819,8 +831,8 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 13,
         "color": "rgba(112,112,112,1)",
         "style_bold": 500,
@@ -830,8 +842,8 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 13,
         "color": "rgba(227,72,46,1)",
         "style_bold": false,
@@ -841,8 +853,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_name": "Onest-Regular-Regular",
+        "font_file": "Onest-Regular-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -853,30 +865,36 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 60,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": []
           }
         ]
-      }
+      },
+      "type": "text-b"
     },
     "name": ""
   }
