@@ -99,7 +99,7 @@
     "scene_no": 1,
     "font_weight": "bold",   
     "option_text": {
-      "editor_option_text_font_name": "Bodoni Moda",
+      "editor_option_text_font_name": "BodoniModa_72pt-Medium",
       "editor_option_text_font_size": "80",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -112,7 +112,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Bodoni Moda.ttf"
+      "editor_option_text_font_file": "BodoniModa_72pt-Medium.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -151,7 +151,7 @@
     "font_weight": "normal",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "36",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -202,7 +202,7 @@
     "text_value": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUDLOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUDLOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -253,7 +253,7 @@
     "text_value": "0000-0000-0000",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -304,7 +304,7 @@
     "text_value": "01",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "160",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -355,7 +355,7 @@
     "text_value": "LOREM IPSUM",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -406,7 +406,7 @@
     "text_value": "DOLOR SIT",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -457,7 +457,7 @@
     "text_value": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA.",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -508,7 +508,7 @@
     "text_value": "02",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "160",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -559,7 +559,7 @@
     "text_value": "LOREM IPSUM",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -610,7 +610,7 @@
     "text_value": "DOLOR SIT",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -661,7 +661,7 @@
     "text_value": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -712,7 +712,7 @@
     "text_value": "03",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "160",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -763,7 +763,7 @@
     "text_value": "LOREM IPSUM",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -814,7 +814,7 @@
     "text_value": "DOLOR SIT",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -865,7 +865,7 @@
     "text_value": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCITATION ULLAMCO LABORIS NISI UT ALIQUIP EX EA COMMODO CONSEQUAT.",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
