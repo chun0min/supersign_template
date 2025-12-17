@@ -219,7 +219,7 @@
     "id": 5,
     "content_size": 13,
     "content_type": "TEXT",
-    "width": 192,
+    "width": 250,
     "height": 47,
     "top": 140,
     "left": 154,  
@@ -239,7 +239,7 @@
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1.4",
+      "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": 1,
       "editor_option_text_font_file": "Pretendard-Regular.ttf"
     },
