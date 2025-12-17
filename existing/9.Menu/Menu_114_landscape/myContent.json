@@ -282,7 +282,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway-Black",
+      "editor_option_text_font_name": "Alfa Slab One",
       "editor_option_text_font_size": "46",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -295,7 +295,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Subway-Black.ttf"
+      "editor_option_text_font_file": "AlfaSlabOne-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -335,7 +335,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway-Black",
+      "editor_option_text_font_name": "Alfa Slab One",
       "editor_option_text_font_size": "46",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -348,7 +348,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Subway-Black.ttf"
+      "editor_option_text_font_file": "AlfaSlabOne-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
