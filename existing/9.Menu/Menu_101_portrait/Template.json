@@ -1,11 +1,11 @@
 {
   "type": "template_New",
-  "name": "Menu_01",
+  "name": "Menu_101",
   "group": "Menu",
   "screen": {
     "width": "1080",
     "height": "1920"
   },
   "version": "1.00",
-  "folderName": "Menu_01_portrait"
+  "folderName": "Menu_101_portrait"
 }

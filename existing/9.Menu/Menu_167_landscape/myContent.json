@@ -266,7 +266,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bluetea",
+      "editor_option_text_font_name": "Pacifico-Regular.ttf",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -279,7 +279,7 @@
       "editor_option_text_align": "right",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Bluetea.ttf"
+      "editor_option_text_font_file": "Pacifico-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -1133,7 +1133,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "3",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "BLACK COFFEE",

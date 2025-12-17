@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Hey August",
+      "editor_option_text_font_name": "Hey August.ttf",
       "editor_option_text_font_size": "144",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Hey August.otf"
+      "editor_option_text_font_file": "Hey August.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Hey August",
+      "editor_option_text_font_name": "Hey August.ttf",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -121,7 +121,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.5",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Hey August.otf"
+      "editor_option_text_font_file": "Hey August.ttf.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -160,7 +160,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Hey August",
+      "editor_option_text_font_name": "Hey August.ttf",
       "editor_option_text_font_size": "78",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -173,7 +173,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Hey August.otf"
+      "editor_option_text_font_file": "Hey August.ttf.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -212,7 +212,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Hey August",
+      "editor_option_text_font_name": "Hey August.ttf",
       "editor_option_text_font_size": "78",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -225,7 +225,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Hey August.otf"
+      "editor_option_text_font_file": "Hey August.ttf.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -264,7 +264,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Hey August",
+      "editor_option_text_font_name": "Hey August.ttf",
       "editor_option_text_font_size": "78",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -277,7 +277,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "Hey August.otf"
+      "editor_option_text_font_file": "Hey August.ttf.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",

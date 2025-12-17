@@ -1,11 +1,11 @@
 {
   "type": "template_New",
-  "name": "Menu_35",
+  "name": "Menu_135",
   "group": "Menu",
   "screen": {
     "width": "1920",
     "height": "1080"
   },
   "version": "1.00",
-  "folderName": "Menu_35_landscape"
+  "folderName": "Menu_135_landscape"
 }
