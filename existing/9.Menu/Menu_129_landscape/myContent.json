@@ -272,7 +272,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "AcademyEngravedLetPlain",
+      "editor_option_text_font_name": "Cinzel",
       "editor_option_text_font_size": "129",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -285,7 +285,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "AcademyEngravedLetPlain.ttf"
+      "editor_option_text_font_file": "Cinzel.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -325,7 +325,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway-Black",
+      "editor_option_text_font_name": "Shrikhand-Black",
       "editor_option_text_font_size": "37",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -338,7 +338,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Subway-Black.ttf"
+      "editor_option_text_font_file": "Shrikhand-Black.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -378,7 +378,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway-Black",
+      "editor_option_text_font_name": "Shrikhand-Black",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -391,7 +391,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Subway-Black.ttf"
+      "editor_option_text_font_file": "Shrikhand-Black.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -431,7 +431,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway-Black",
+      "editor_option_text_font_name": "Shrikhand-Black",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -444,7 +444,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Subway-Black.ttf"
+      "editor_option_text_font_file": "Shrikhand-Black.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -484,7 +484,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway-Black",
+      "editor_option_text_font_name": "Shrikhand-Black",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -497,7 +497,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Subway-Black.ttf"
+      "editor_option_text_font_file": "Shrikhand-Black.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -537,7 +537,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Subway-Black",
+      "editor_option_text_font_name": "Shrikhand-Black",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -550,7 +550,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Subway-Black.ttf"
+      "editor_option_text_font_file": "Shrikhand-Black.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -668,8 +668,8 @@
         ]
       },
       "name": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -679,8 +679,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": false,
@@ -690,8 +690,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -808,8 +808,8 @@
         ]
       },
       "name": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -819,8 +819,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": false,
@@ -830,8 +830,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -957,8 +957,8 @@
         ]
       },
       "name": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -968,8 +968,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": false,
@@ -979,8 +979,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -1151,8 +1151,8 @@
         ]
       },
       "name": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,
@@ -1162,8 +1162,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": false,
@@ -1173,8 +1173,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Subway-Black",
-        "font_file": "Subway-Black.ttf",
+        "font_name": "Shrikhand-Black",
+        "font_file": "Shrikhand-Black.ttf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,

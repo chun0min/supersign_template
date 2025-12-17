@@ -699,8 +699,8 @@
         ]
       },
       "name": {
-        "font_name": "toxigenesis bd",
-        "font_file": "toxigenesis bd.ttf",
+        "font_name": "Russo One",
+        "font_file": "RussoOne-Regular.ttf",
         "font_size": 26,
         "color": "rgba(45, 38, 30,1)",
         "style_bold": true,
@@ -710,8 +710,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "toxigenesis bd",
-        "font_file": "toxigenesis bd.ttf",
+        "font_name": "Russo One",
+        "font_file": "RussoOne-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -863,8 +863,8 @@
         ]
       },
       "name": {
-        "font_name": "toxigenesis bd",
-        "font_file": "toxigenesis bd.ttf",
+        "font_name": "Russo One",
+        "font_file": "RussoOne-Regular.ttf",
         "font_size": 26,
         "color": "rgba(45, 38, 30,1)",
         "style_bold": true,
@@ -874,8 +874,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "toxigenesis bd",
-        "font_file": "toxigenesis bd.ttf",
+        "font_name": "Russo One",
+        "font_file": "RussoOne-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -1000,8 +1000,8 @@
         ]
       },
       "name": {
-        "font_name": "toxigenesis bd",
-        "font_file": "toxigenesis bd.ttf",
+        "font_name": "Russo One",
+        "font_file": "RussoOne-Regular.ttf",
         "font_size": 26,
         "color": "rgba(45, 38, 30,1)",
         "style_bold": true,
@@ -1011,8 +1011,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "toxigenesis bd",
-        "font_file": "toxigenesis bd.ttf",
+        "font_name": "Russo One",
+        "font_file": "RussoOne-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -1137,8 +1137,8 @@
         ]
       },
       "name": {
-        "font_name": "toxigenesis bd",
-        "font_file": "toxigenesis bd.ttf",
+        "font_name": "Russo One",
+        "font_file": "RussoOne-Regular.ttf",
         "font_size": 26,
         "color": "rgba(45, 38, 30,1)",
         "style_bold": true,
@@ -1148,8 +1148,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "toxigenesis bd",
-        "font_file": "toxigenesis bd.ttf",
+        "font_name": "Russo One",
+        "font_file": "RussoOne-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
