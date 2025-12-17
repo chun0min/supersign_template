@@ -358,7 +358,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Helv Children",
+      "editor_option_text_font_name": "Fredericka the Great",
       "editor_option_text_font_size": "193",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -371,7 +371,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "0.6",
       "editor_option_text_spacing": -4,
-      "editor_option_text_font_file": "Helv Children.otf"
+      "editor_option_text_font_file": "FrederickatheGreat-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",

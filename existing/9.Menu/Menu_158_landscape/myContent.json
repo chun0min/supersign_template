@@ -162,7 +162,7 @@
     "line_height": 52,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "GeneralSans-Variable",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "GeneralSans-Variable.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -215,7 +215,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "GeneralSans-Variable",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -228,7 +228,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "GeneralSans-Variable.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -268,7 +268,7 @@
     "line_height": 38,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "GeneralSans-Variable",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -281,7 +281,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "GeneralSans-Variable.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -321,7 +321,7 @@
     "line_height": 38,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "GeneralSans-Variable",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -334,7 +334,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "GeneralSans-Variable.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -374,7 +374,7 @@
     "line_height": 38,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "GeneralSans-Variable",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -387,7 +387,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "GeneralSans-Variable.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -427,7 +427,7 @@
     "line_height": 38,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "GeneralSans-Variable",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -440,7 +440,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "GeneralSans-Variable.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -692,7 +692,7 @@
     "line_height": 25,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Subway-Black",
+      "editor_option_text_font_name": "TitanOne-Regular",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -705,7 +705,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Subway-Black.ttf"
+      "editor_option_text_font_file": "TitanOne-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
