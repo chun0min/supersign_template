@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/background.jpg",
     "content_size": 1620979,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -48,7 +48,7 @@
     "content_type": "TEXT",
     "top": 7,
     "left": 30,
-    "width": 399,
+    "width": 420,
     "height": 48,
     "angle": 0,
     "content_size": 18,
@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Mogra",
+      "editor_option_text_font_name": "Mogra-Regular",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Mogra.ttf"
+      "editor_option_text_font_file": "Mogra-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -101,15 +101,15 @@
     "content_type": "TEXT",
     "top": 1038,
     "left": 1705,
-    "width": 185,
-    "height": 20,
+    "width": 195,
+    "height": 30,
     "angle": 0,
     "content_size": 14,
     "text_value": "0000-0000-0000",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Mogra",
+      "editor_option_text_font_name": "Mogra-Regular",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Mogra.ttf"
+      "editor_option_text_font_file": "Mogra-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -162,7 +162,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Mogra",
+      "editor_option_text_font_name": "Mogra-Regular",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Mogra.ttf"
+      "editor_option_text_font_file": "Mogra-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -205,7 +205,7 @@
     "display_order": 5,
     "content_type": "T_MENU",
     "width": 383,
-    "height": 947,
+    "height": 912,
     "top": 85,
     "left": 30,
     "angle": 0,
@@ -214,45 +214,45 @@
     "widget_class": "r5_menu_62_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "5",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "SHRIMP-MODUM-TENDON",
             "description": "FRIED FOOD SET MENU WHERE YOU CAN ENJOY A LOT OF TEMPURA",
-            "price": ["$16"],
+            "price": ["16"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, PEANUTS, SOYBEANS, EGGS",
             "ordr": 1,
             "enable": true,
             "image": {
               "item_name": "img_01.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_01.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_01.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_01.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_01.png"
             }
           },
           {
             "menu_name": "SQUID TENDON",
             "description": "FRIED FOOD SET MENU WHERE YOU CAN ENJOY A LOT OF TEMPURA",
-            "price": ["$18"],
+            "price": ["18"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, PEANUTS, SOYBEANS, EGGS",
             "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "img_02.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_02.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_02.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_02.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "Mogra",
-        "font_file": "Mogra.ttf",
+        "font_name": "Mogra-Regular",
+        "font_file": "Mogra-Regular.ttf",
         "font_size": 26,
         "color": "rgba(46,46,46,1)",
         "style_bold": false,
@@ -262,8 +262,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -273,8 +273,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Mogra",
-        "font_file": "Mogra.ttf",
+        "font_name": "Mogra-Regular",
+        "font_file": "Mogra-Regular.ttf",
         "font_size": 40,
         "color": "rgba(132,16,55,1)",
         "style_bold": false,
@@ -284,8 +284,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(133,133,133,1)",
         "style_bold": false,
@@ -295,8 +295,8 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(132,132,132,1)",
         "style_bold": false,
@@ -306,8 +306,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(46,46,46,1)",
         "style_bold": 500,
@@ -321,14 +321,14 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "horizontal_scale": 0,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
@@ -338,7 +338,7 @@
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": ["price", "image"]
           }
         ]
       }
@@ -351,7 +351,7 @@
     "display_order": 6,
     "content_type": "T_MENU",
     "width": 383,
-    "height": 947,
+    "height": 912,
     "top": 85,
     "left": 429,
     "angle": 0,
@@ -360,45 +360,45 @@
     "widget_class": "r5_menu_62_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "5",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FRIED TENDON",
             "description": "FRIED FOOD SET MENU WHERE YOU CAN ENJOY A LOT OF TEMPURA",
-            "price": ["$20"],
+            "price": ["20"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,",
             "ordr": 1,
             "enable": true,
             "image": {
               "item_name": "img_03.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_03.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_03.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_03.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_03.png"
             }
           },
           {
             "menu_name": "WARM TEMPURA",
             "description": "FRIED FOOD SET MENU WHERE YOU CAN ENJOY A LOT OF TEMPURA",
-            "price": ["$16"],
+            "price": ["16"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, PEANUTS, SOYBEANS, EGGS",
             "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "img_04.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_04.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_04.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_04.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_04.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "Mogra",
-        "font_file": "Mogra.ttf",
+        "font_name": "Mogra-Regular",
+        "font_file": "Mogra-Regular.ttf",
         "font_size": 26,
         "color": "rgba(46,46,46,1)",
         "style_bold": false,
@@ -408,8 +408,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -419,8 +419,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Mogra",
-        "font_file": "Mogra.ttf",
+        "font_name": "Mogra-Regular",
+        "font_file": "Mogra-Regular.ttf",
         "font_size": 40,
         "color": "rgba(132,16,55,1)",
         "style_bold": false,
@@ -430,8 +430,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(133,133,133,1)",
         "style_bold": false,
@@ -441,8 +441,8 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(132,132,132,1)",
         "style_bold": false,
@@ -452,8 +452,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(46,46,46,1)",
         "style_bold": 500,
@@ -467,14 +467,14 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "horizontal_scale": 0,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
@@ -484,7 +484,7 @@
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": ["price", "image"]
           }
         ]
       }
@@ -497,7 +497,7 @@
     "display_order": 7,
     "content_type": "T_MENU",
     "width": 383,
-    "height": 947,
+    "height": 912,
     "top": 85,
     "left": 828,
     "angle": 0,
@@ -506,45 +506,45 @@
     "widget_class": "r5_menu_62_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "5",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "WARM TEMPURA",
             "description": "FRIED FOOD SET MENU WHERE YOU CAN ENJOY A LOT OF TEMPURA",
-            "price": ["$18"],
+            "price": ["18"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, PEANUTS, SOYBEANS, EGGS",
             "ordr": 1,
             "enable": true,
             "image": {
               "item_name": "img_05.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_05.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_05.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_05.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_05.png"
             }
           },
           {
             "menu_name": "SQUID TENDON",
             "description": "FRIED FOOD SET MENU WHERE YOU CAN ENJOY A LOT OF TEMPURA",
-            "price": ["$22"],
+            "price": ["22"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, PEANUTS, SOYBEANS, EGGS",
             "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "img_06.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_06.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_06.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_06.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_06.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "Mogra",
-        "font_file": "Mogra.ttf",
+        "font_name": "Mogra-Regular",
+        "font_file": "Mogra-Regular.ttf",
         "font_size": 26,
         "color": "rgba(46,46,46,1)",
         "style_bold": false,
@@ -554,8 +554,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -565,8 +565,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Mogra",
-        "font_file": "Mogra.ttf",
+        "font_name": "Mogra-Regular",
+        "font_file": "Mogra-Regular.ttf",
         "font_size": 40,
         "color": "rgba(132,16,55,1)",
         "style_bold": false,
@@ -576,8 +576,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(133,133,133,1)",
         "style_bold": false,
@@ -587,8 +587,8 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(132,132,132,1)",
         "style_bold": false,
@@ -598,8 +598,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(46,46,46,1)",
         "style_bold": 500,
@@ -613,14 +613,14 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "horizontal_scale": 0,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
@@ -630,7 +630,7 @@
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": ["price", "image"]
           }
         ]
       }
@@ -649,48 +649,48 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_62_landscape_1",
+    "widget_class": "r5_menu_62_landscape-1",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "BUCKWHEAT NOODLES",
             "description": "YOU CAN ENJOY A LOT YOU CAN ENJOY A LOT YOU CAN ENJOY A LOT",
-            "price": ["$18"],
+            "price": ["18"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, , PEANUTS,",
             "ordr": 1,
             "enable": true,
             "image": {
               "item_name": "img_07.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_07.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_07.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_07.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_07.png"
             }
           },
           {
             "menu_name": "WASABI NOODLES",
             "description": "YOU CAN ENJOY A LOT YOU CAN ENJOY A LOT YOU CAN ENJOY A LOT",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, , PEANUTS,",
             "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "img_08.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_08.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_08.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_62_landscape/img_08.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_162_landscape/img_08.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "Mogra",
-        "font_file": "Mogra.ttf",
+        "font_name": "Mogra-Regular",
+        "font_file": "Mogra-Regular.ttf",
         "font_size": 24,
         "color": "rgba(46,46,46,1)",
         "style_bold": false,
@@ -700,8 +700,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -711,8 +711,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Mogra",
-        "font_file": "Mogra.ttf",
+        "font_name": "Mogra-Regular",
+        "font_file": "Mogra-Regular.ttf",
         "font_size": 40,
         "color": "rgba(132,16,55,1)",
         "style_bold": false,
@@ -722,8 +722,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(133,133,133,1)",
         "style_bold": 500,
@@ -733,8 +733,8 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(132,132,132,1)",
         "style_bold": false,
@@ -744,8 +744,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 15,
         "color": "rgba(46,46,46,1)",
         "style_bold": 500,
@@ -758,9 +758,9 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 15,
+        "horizontal_scale": 40,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
@@ -789,23 +789,23 @@
     "display_order": 9,
     "content_type": "T_MENU",
     "width": 639,
-    "height": 447,
+    "height": 423,
     "top": 598,
     "left": 1239,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_62_landscape_2",
+    "widget_class": "r5_menu_62_landscape-2",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "4",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "Chashu",
             "description": "Fried food set menu where you can enjoy a lot of tempura",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["120"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel,",
             "ordr": 1,
@@ -820,7 +820,7 @@
           {
             "menu_name": "Go Ahead",
             "description": "Fried food set menu where you can enjoy a lot of tempura",
-            "price": ["$11"],
+            "price": ["11"],
             "calory": ["120"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel,",
             "ordr": 2,
@@ -835,7 +835,7 @@
           {
             "menu_name": "Mochi-ridohu",
             "description": "Chewy texture and soft taste",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["120"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel,",
             "ordr": 3,
@@ -850,7 +850,7 @@
           {
             "menu_name": "Mochi-ridohu",
             "description": "Chewy texture and soft taste",
-            "price": ["$12"],
+            "price": ["12"],
             "calory": ["120"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel,",
             "ordr": 4,
@@ -865,7 +865,7 @@
           {
             "menu_name": "Mochi-ridohu",
             "description": "Chewy texture and soft taste",
-            "price": ["$12"],
+            "price": ["12"],
             "calory": ["120"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel,",
             "ordr": 5,
@@ -880,8 +880,8 @@
         ]
       },
       "name": {
-        "font_name": "Mogra",
-        "font_file": "Mogra.ttf",
+        "font_name": "Mogra-Regular",
+        "font_file": "Mogra-Regular.ttf",
         "font_size": 22,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -891,8 +891,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -902,8 +902,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Mogra",
-        "font_file": "Mogra.ttf",
+        "font_name": "Mogra-Regular",
+        "font_file": "Mogra-Regular.ttf",
         "font_size": 40,
         "color": "rgba(132,16,55,1)",
         "style_bold": false,
@@ -913,8 +913,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(133,133,133,1)",
         "style_bold": 500,
@@ -924,8 +924,8 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(159,64,96,1)",
         "style_bold": 300,
@@ -935,8 +935,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -947,31 +947,32 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 78,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": ["name", "description"]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": ["price"]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": []
           }
         ]
-      }
+      },
+      "type": "text-b"
     },
     "name": ""
-  },
+  }
 ]

@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_63_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_63_landscape/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_163_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_163_landscape/background.jpg",
     "content_size": 1110596,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Sarina",
+      "editor_option_text_font_name": "Sarina-Regular",
       "editor_option_text_font_size": "50",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Sarina.ttf"
+      "editor_option_text_font_file": "Sarina-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Racing Sans One",
+      "editor_option_text_font_name": "RacingSansOne-Regular",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Racing Sans One.ttf"
+      "editor_option_text_font_file": "RacingSansOne-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "255,255,255",
@@ -161,30 +161,30 @@
     "widget_class": "r5_menu_63_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "2",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "mackerel sushi",
             "description": "you can enjoy a lot you can enjoy a lot you can enjoy a lot",
-            "price": ["$26.0"],
+            "price": ["26.0"],
             "calory": ["120"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, , peanuts,",
             "ordr": 1,
             "enable": true,
             "image": {
               "item_name": "img_01.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_63_landscape/img_01.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_163_landscape/img_01.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_63_landscape/img_01.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_163_landscape/img_01.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "SeoulNamsan CBL",
-        "font_file": "SeoulNamsan CBL.ttf",
+        "font_name": "SeoulNamsanM",
+        "font_file": "SeoulNamsanM.ttf",
         "font_size": 36,
         "color": "rgba(218,16,64,1)",
         "style_bold": false,
@@ -194,8 +194,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -205,8 +205,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Sansita One",
-        "font_file": "Sansita One.ttf",
+        "font_name": "SansitaOne",
+        "font_file": "SansitaOne.ttf",
         "font_size": 54,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -216,8 +216,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 20,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -227,8 +227,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(190,190,190,1)",
         "style_bold": false,
@@ -238,8 +238,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 18,
         "color": "rgba(255,255,255,1)",
         "style_bold": 500,
@@ -252,28 +252,36 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
+        "item_spacing": 0,
         "horizontal_scale": 30,
         "vertical_scale": 70,
-        "reverse": false,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -289,63 +297,63 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_63_landscape_1",
+    "widget_class": "r5_menu_63_landscape-1",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "5",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "mackerel sushi",
             "description": "you can enjoy a lot you can enjoy a lot you can enjoy a lot",
-            "price": ["$26.0"],
+            "price": ["26.0"],
             "calory": ["120"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, , peanuts,",
             "ordr": 1,
             "enable": true,
             "image": {
               "item_name": "img_02.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_63_landscape/img_02.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_163_landscape/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_63_landscape/img_02.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_163_landscape/img_02.png"
             }
           },
           {
             "menu_name": "mackerel sushi",
             "description": "you can enjoy a lot you can enjoy a lot you can enjoy a lot",
-            "price": ["$26.0"],
+            "price": ["26.0"],
             "calory": ["120"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, , peanuts,",
             "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "img_03.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_63_landscape/img_03.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_163_landscape/img_03.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_63_landscape/img_03.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_163_landscape/img_03.png"
             }
           },
           {
             "menu_name": "mackerel sushi",
             "description": "you can enjoy a lot you can enjoy a lot you can enjoy a lot",
-            "price": ["$26.0"],
+            "price": ["26.0"],
             "calory": ["120"],
             "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, , peanuts,",
             "ordr": 3,
             "enable": true,
             "image": {
               "item_name": "img_04.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_63_landscape/img_04.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_163_landscape/img_04.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_63_landscape/img_04.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_163_landscape/img_04.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "SeoulNamsan CBL",
-        "font_file": "SeoulNamsan CBL.ttf",
+        "font_name": "SeoulNamsanM",
+        "font_file": "SeoulNamsanM.ttf",
         "font_size": 36,
         "color": "rgba(218,16,64,1)",
         "style_bold": false,
@@ -355,8 +363,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -366,8 +374,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Sansita One",
-        "font_file": "Sansita One.ttf",
+        "font_name": "SansitaOne",
+        "font_file": "SansitaOne.ttf",
         "font_size": 54,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -377,8 +385,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 20,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -388,8 +396,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(190,190,190,1)",
         "style_bold": false,
@@ -399,8 +407,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 18,
         "color": "rgba(255,255,255,1)",
         "style_bold": 500,
@@ -413,28 +421,35 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 75,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     },
     "name": ""
   }

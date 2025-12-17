@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/background.jpg",
     "content_size": 1173941,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Alex Brush",
+      "editor_option_text_font_name": "AlexBrush-Regular",
       "editor_option_text_font_size": "189",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Alex Brush.ttf"
+      "editor_option_text_font_file": "AlexBrush-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "SourceSerifPro4-VariableFont_opsz,wght",
+      "editor_option_text_font_name": "SourceSerif4-Regular",
       "editor_option_text_font_size": "25",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -120,9 +120,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "71",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "SourceSerifPro4-VariableFont_opsz,wght.ttf"
+      "editor_option_text_font_file": "SourceSerif4-Regular.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -161,7 +161,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "SourceSerifPro4-VariableFont_opsz,wght",
+      "editor_option_text_font_name": "SourceSerif4-Regular",
       "editor_option_text_font_size": "27",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -171,10 +171,10 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
+      "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "SourceSerifPro4-VariableFont_opsz,wght.ttf"
+      "editor_option_text_font_file": "SourceSerif4-Regular.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -213,7 +213,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "SourceSerifPro4-VariableFont_opsz,wght",
+      "editor_option_text_font_name": "SourceSerif4-Regular",
       "editor_option_text_font_size": "17",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -226,7 +226,7 @@
       "editor_option_text_align": "right",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "SourceSerifPro4-VariableFont_opsz,wght.ttf"
+      "editor_option_text_font_file": "SourceSerif4-Regular.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -261,8 +261,8 @@
     "width": 430,
     "height": 154,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_01.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_01.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_01.png",
     "content_size": 23084,
     "scene_no": 1,
     "media_name": "img_01.png",
@@ -323,9 +323,9 @@
             "enable": true,
             "image": {
               "item_name": "img_02.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_02.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_02.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_02.png"
             }
           },
           {
@@ -338,9 +338,9 @@
             "enable": true,
             "image": {
               "item_name": "img_03.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_03.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_03.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_03.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_03.png"
             }
           },
           {
@@ -353,9 +353,9 @@
             "enable": true,
             "image": {
               "item_name": "img_04.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_04.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_04.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_04.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_04.png"
             }
           },
           {
@@ -368,9 +368,9 @@
             "enable": true,
             "image": {
               "item_name": "img_05.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_05.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_05.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_05.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_05.png"
             }
           }
         ]
@@ -498,9 +498,9 @@
             "enable": true,
             "image": {
               "item_name": "img_06.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_06.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_06.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_06.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_06.png"
             }
           },
           {
@@ -513,9 +513,9 @@
             "enable": true,
             "image": {
               "item_name": "img_07.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_07.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_07.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_07.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_07.png"
             }
           },
           {
@@ -528,9 +528,9 @@
             "enable": true,
             "image": {
               "item_name": "img_08.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_08.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_08.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_08.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_08.png"
             }
           },
           {
@@ -543,9 +543,9 @@
             "enable": true,
             "image": {
               "item_name": "img_09.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_09.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_09.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_66_landscape/img_09.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_166_landscape/img_09.png"
             }
           }
         ]
