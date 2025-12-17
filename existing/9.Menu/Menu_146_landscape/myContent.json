@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "KOMTITP_",
+      "editor_option_text_font_name": "LuckiestGuy-Regular",
       "editor_option_text_font_size": "104",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": true,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "KOMTITP_.ttf"
+      "editor_option_text_font_file": "LuckiestGuy-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "KOMTITP_",
+      "editor_option_text_font_name": "LuckiestGuy-Regular",
       "editor_option_text_font_size": "104",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "KOMTITP_.ttf"
+      "editor_option_text_font_file": "LuckiestGuy-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -321,7 +321,7 @@
     "widget_class": "r5_menu_46_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
@@ -482,7 +482,7 @@
     "widget_class": "r5_menu_46_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
@@ -658,7 +658,7 @@
     "widget_class": "r5_menu_46_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
@@ -834,7 +834,7 @@
     "widget_class": "r5_menu_46_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [

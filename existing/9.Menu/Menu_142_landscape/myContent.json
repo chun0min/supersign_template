@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BodoniModa_72pt-Medium",
+      "editor_option_text_font_name": "Spectral_bold",
       "editor_option_text_font_size": "78",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": true,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "BodoniModa_72pt-Medium.ttf"
+      "editor_option_text_font_file": "Spectral_bold.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BodoniModa_72pt-Medium",
+      "editor_option_text_font_name": "Spectral_bold",
       "editor_option_text_font_size": "78",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": true,
@@ -121,7 +121,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.5,
-      "editor_option_text_font_file": "BodoniModa_72pt-Medium.ttf"
+      "editor_option_text_font_file": "Spectral_bold.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
