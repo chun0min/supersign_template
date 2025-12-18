@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/background.jpg",
     "content_size": 690571,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 ClassicType",
+      "editor_option_text_font_name": "Cafe24Classictype",
       "editor_option_text_font_size": "98",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -67,9 +67,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "114",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Cafe24 ClassicType.ttf"
+      "editor_option_text_font_file": "Cafe24Classictype.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barlow Condensed",
+      "editor_option_text_font_name": "BarlowCondensed-Regular",
       "editor_option_text_font_size": "64",
       "editor_option_text_style_bold": 600,
       "editor_option_text_style_italic": false,
@@ -120,9 +120,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "77",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Barlow Condensed.ttf"
+      "editor_option_text_font_file": "BarlowCondensed-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -152,8 +152,8 @@
     "display_order": 4,
     "content_type": "TEXT",
     "top": 499,
-    "left": 335,
-    "width": 214,
+    "left": 325,
+    "width": 234,
     "height": 129,
     "angle": 0,
     "content_size": 24,
@@ -161,7 +161,7 @@
     "line_height": 43,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 ClassicType",
+      "editor_option_text_font_name": "Cafe24Classictype",
       "editor_option_text_font_size": "35",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -174,7 +174,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Cafe24 ClassicType.ttf"
+      "editor_option_text_font_file": "Cafe24Classictype.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -213,7 +213,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 ClassicType",
+      "editor_option_text_font_name": "Cafe24Classictype",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -224,9 +224,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "25",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Cafe24 ClassicType.ttf"
+      "editor_option_text_font_file": "Cafe24Classictype.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -257,7 +257,7 @@
     "display_order": 6,
     "content_type": "T_MENU",
     "width": 340,
-    "height": 752,
+    "height": 785,
     "top": 233,
     "left": 741,
     "angle": 0,
@@ -268,7 +268,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "3",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -280,9 +280,9 @@
             "enable": true,
             "image": {
               "item_name": "img_01.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_01.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_01.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_01.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_01.png"
             }
           },
           {
@@ -295,9 +295,9 @@
             "enable": true,
             "image": {
               "item_name": "img_02.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_02.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_02.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_02.png"
             }
           },
           {
@@ -310,9 +310,9 @@
             "enable": true,
             "image": {
               "item_name": "img_03.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_03.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_03.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_03.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_03.png"
             }
           }
         ]
@@ -359,7 +359,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -385,30 +385,37 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 30,
+        "horizontal_scale": 0,
+        "vertical_scale": 18,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "image"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -418,7 +425,7 @@
     "display_order": 7,
     "content_type": "T_MENU",
     "width": 340,
-    "height": 752,
+    "height": 785,
     "top": 233,
     "left": 1130,
     "angle": 0,
@@ -429,7 +436,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "3",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -441,9 +448,9 @@
             "enable": true,
             "image": {
               "item_name": "img_04.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_04.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_04.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_04.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_04.png"
             }
           },
           {
@@ -456,9 +463,9 @@
             "enable": true,
             "image": {
               "item_name": "img_05.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_05.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_05.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_05.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_05.png"
             }
           },
           {
@@ -471,9 +478,9 @@
             "enable": true,
             "image": {
               "item_name": "img_06.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_06.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_06.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_06.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_06.png"
             }
           }
         ]
@@ -520,7 +527,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -546,30 +553,37 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 30,
+        "horizontal_scale": 0,
+        "vertical_scale": 18,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "image"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -579,7 +593,7 @@
     "display_order": 8,
     "content_type": "T_MENU",
     "width": 340,
-    "height": 752,
+    "height": 785,
     "top": 233,
     "left": 1519,
     "angle": 0,
@@ -590,7 +604,7 @@
       "menu_item": {
         "price_unit": "",
         "price_type": "3",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
@@ -602,9 +616,9 @@
             "enable": true,
             "image": {
               "item_name": "img_01.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_01.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_01.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_01.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_01.png"
             }
           },
           {
@@ -617,9 +631,9 @@
             "enable": true,
             "image": {
               "item_name": "img_02.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_02.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_02.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_02.png"
             }
           },
           {
@@ -632,9 +646,9 @@
             "enable": true,
             "image": {
               "item_name": "img_07.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_07.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_07.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_69_landscape/img_07.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_169_landscape/img_07.png"
             }
           }
         ]
@@ -681,7 +695,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -707,30 +721,37 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "item_spacing": 30,
+        "horizontal_scale": 0,
+        "vertical_scale": 18,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "image"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   }

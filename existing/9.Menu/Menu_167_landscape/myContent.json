@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_67_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_67_landscape/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_167_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_167_landscape/background.jpg",
     "content_size": 352009,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -48,7 +48,7 @@
     "content_type": "TEXT",
     "top": 60,
     "left": 73,
-    "width": 347,
+    "width": 357,
     "height": 180,
     "angle": 0,
     "content_size": 11,
@@ -56,9 +56,9 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "92",
-      "editor_option_text_style_bold": 800,
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
@@ -66,10 +66,10 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "90",
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Maven Pro",
+      "editor_option_text_font_name": "MavenPro-Regular",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": 600,
       "editor_option_text_style_italic": false,
@@ -119,10 +119,10 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "23",
-      "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Maven Pro.ttf"
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "MavenPro-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -161,7 +161,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "17",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -174,7 +174,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -203,7 +203,7 @@
     "id": 4,
     "display_order": 5,
     "content_type": "TEXT",
-    "top": 258,
+    "top": 1020,
     "left": 1476,
     "width": 398,
     "height": 23,
@@ -213,7 +213,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -226,7 +226,7 @@
       "editor_option_text_align": "right",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -266,7 +266,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pacifico-Regular.ttf",
+      "editor_option_text_font_name": "Pacifico",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -276,10 +276,10 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "right",
+      "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Pacifico-Regular.ttf"
+      "editor_option_text_font_file": "Pacifico.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -319,7 +319,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -332,7 +332,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -372,7 +372,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -385,7 +385,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -425,7 +425,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -438,7 +438,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -478,7 +478,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -491,7 +491,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -531,7 +531,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -544,7 +544,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -575,7 +575,7 @@
     "display_order": 12,
     "content_type": "TEXT",
     "top": 261,
-    "left": 1002,
+    "left": 985,
     "width": 177,
     "height": 74,
     "angle": 0,
@@ -584,7 +584,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -597,7 +597,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -628,8 +628,8 @@
     "display_order": 13,
     "content_type": "TEXT",
     "top": 261,
-    "left": 1320,
-    "width": 177,
+    "left": 1315,
+    "width": 187,
     "height": 74,
     "angle": 0,
     "content_size": 5,
@@ -637,7 +637,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -650,7 +650,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -681,7 +681,7 @@
     "display_order": 14,
     "content_type": "TEXT",
     "top": 261,
-    "left": 1659,
+    "left": 1650,
     "width": 177,
     "height": 74,
     "angle": 0,
@@ -690,7 +690,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -703,7 +703,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -735,7 +735,7 @@
     "content_type": "TEXT",
     "top": 322,
     "left": 695,
-    "width": 99,
+    "width": 105,
     "height": 42,
     "angle": 0,
     "content_size": 6,
@@ -743,7 +743,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -756,7 +756,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -788,7 +788,7 @@
     "content_type": "TEXT",
     "top": 322,
     "left": 1027,
-    "width": 99,
+    "width": 105,
     "height": 42,
     "angle": 0,
     "content_size": 6,
@@ -796,7 +796,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -809,7 +809,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -849,7 +849,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -862,7 +862,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -893,7 +893,7 @@
     "display_order": 18,
     "content_type": "TEXT",
     "top": 322,
-    "left": 1705,
+    "left": 1675,
     "width": 125,
     "height": 42,
     "angle": 0,
@@ -902,7 +902,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins",
+      "editor_option_text_font_name": "Poppins-Regular",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -915,7 +915,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Poppins.ttf"
+      "editor_option_text_font_file": "Poppins-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -950,8 +950,8 @@
     "width": 306,
     "height": 492,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_67_landscape/img_01.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_67_landscape/img_01.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_167_landscape/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_167_landscape/img_01.png",
     "content_size": 175273,
     "scene_no": 1,
     "media_name": "img_01.png",
@@ -994,8 +994,8 @@
     "width": 306,
     "height": 492,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_67_landscape/img_02.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_67_landscape/img_02.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_167_landscape/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_167_landscape/img_02.png",
     "content_size": 202083,
     "scene_no": 1,
     "media_name": "img_02.png",
@@ -1038,8 +1038,8 @@
     "width": 306,
     "height": 492,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_67_landscape/img_03.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_67_landscape/img_03.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_167_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_167_landscape/img_03.png",
     "content_size": 208799,
     "scene_no": 1,
     "media_name": "img_03.png",
@@ -1082,8 +1082,8 @@
     "width": 306,
     "height": 492,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_67_landscape/img_04.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_67_landscape/img_04.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_167_landscape/img_04.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_167_landscape/img_04.png",
     "content_size": 191501,
     "scene_no": 1,
     "media_name": "img_04.png",
@@ -1213,8 +1213,8 @@
         ]
       },
       "name": {
-        "font_name": "Maven Pro",
-        "font_file": "Maven Pro",
+        "font_name": "MavenPro-Regular",
+        "font_file": "MavenPro-Regular",
         "font_size": 19,
         "color": "rgba(0,0,0,1)",
         "style_bold": 700,
@@ -1235,8 +1235,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Maven Pro",
-        "font_file": "Maven Pro.ttf",
+        "font_name": "MavenPro-Regular",
+        "font_file": "MavenPro-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0,0,0,1)",
         "style_bold": 600,
@@ -1246,8 +1246,8 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Poppins",
-        "font_file": "Poppins.ttf",
+        "font_name": "Poppins-Regular",
+        "font_file": "Poppins-Regular.ttf",
         "font_size": 12,
         "color": "rgba(93,65,44,1)",
         "style_bold": 500,
@@ -1257,8 +1257,8 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Poppins",
-        "font_file": "Poppins.ttf",
+        "font_name": "Poppins-Regular",
+        "font_file": "Poppins-Regular.ttf",
         "font_size": 11,
         "color": "rgba(196,154,144,1)",
         "style_bold": 500,
@@ -1268,8 +1268,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins",
-        "font_file": "Poppins.ttf",
+        "font_name": "Poppins-Regular",
+        "font_file": "Poppins-Regular.ttf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -1279,12 +1279,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "left",
+        "price_type": "above",
         "calories": "right",
         "scale": 1,
         "item_spacing": 20,
-        "horizontal_scale": 30,
-        "vertical_scale": 70,
+        "horizontal_scale": 0,
+        "vertical_scale": 25,
         "reverse": false,
         "section": [
           {
@@ -1294,16 +1294,22 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   }
