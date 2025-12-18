@@ -263,7 +263,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_168_landscape",
+    "widget_class": "r5_menu_68_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -417,8 +417,8 @@
         "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 26,
-        "horizontal_scale": 0,
+        "item_spacing": 40,
+        "horizontal_scale": 1,
         "vertical_scale": 70,
         "reverse": false,
         "section": [
