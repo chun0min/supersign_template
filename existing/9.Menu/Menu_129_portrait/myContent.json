@@ -949,8 +949,8 @@
         ]
       },
       "name": {
-        "font_name": "Shrikhand",
-        "font_file": "Shrikhand-Regular.otf",
+        "font_name": "Subway",
+        "font_file": "Subway.otf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
         "style_bold": true,

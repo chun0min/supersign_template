@@ -314,8 +314,8 @@
         ]
       },
       "name": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.ttf",
+        "font_name": "Lobster-Regular",
+        "font_file": "Lobster-Regular.ttf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
