@@ -1,0 +1,773 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1920,
+    "height": 1080,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/Menu_123_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/Menu_123_landscape/background.jpg",
+    "content_size": 341779,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "TEXT",
+    "top": 108,
+    "left": 898,
+    "width": 195,
+    "height": 58,
+    "angle": 0,
+    "content_size": 6,
+    "text_value": "BRUNCH",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "700",
+    "option_text": {
+      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_size": "43",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "154, 102, 81",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1.2",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Inter-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "TEXT",
+    "top": 128,
+    "left": 713,
+    "width": 510,
+    "height": 200,
+    "angle": 0,
+    "content_size": 4,
+    "text_value": "Menu",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "700",
+    "option_text": {
+      "editor_option_text_font_name": "AlexBrush-Regular",
+      "editor_option_text_font_size": "217",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "154, 102, 81",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.2",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "AlexBrush-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "TEXT",
+    "top": 333,
+    "left": 777,
+    "width": 400,
+    "height": 50,
+    "angle": 0,
+    "content_size": 14,
+    "text_value": "SIGNATURE MENU",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "700",
+    "option_text": {
+      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_size": "43",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "154, 102, 81",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1.2",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Inter-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "T_MENU",
+    "width": 356,
+    "height": 460,
+    "top": 437,
+    "left": 151,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_23_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "The House Steak",
+            "description": "Grilled sirloin, black garlic butter, roast potato",
+            "price": ["9.5"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "Salmon Avocado Plate",
+            "description": "Grilled sirloin, black garlic butter, roast potato",
+            "price": ["19.5"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true
+          },
+          {
+            "menu_name": "Mushroom Omelette",
+            "description": "Grilled sirloin, black garlic butter, roast potato",
+            "price": ["19.5"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.otf",
+        "font_size": 30,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.otf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.ttf",
+        "font_size": 37,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "T_MENU",
+    "width": 356,
+    "height": 460,
+    "top": 437,
+    "left": 575,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_23_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Grilled Chicken Plate",
+            "description": "Grilled sirloin, black garlic butter, roast potato",
+            "price": ["19.5"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "Bacon & Egg Plate",
+            "description": "Grilled sirloin, black garlic butter, roast potato",
+            "price": ["19.5"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true
+          },
+          {
+            "menu_name": "Veggie Bowl",
+            "description": "Grilled sirloin, black garlic butter, roast potato",
+            "price": ["19.5"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.otf",
+        "font_size": 30,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.otf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.ttf",
+        "font_size": 37,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 356,
+    "height": 300,
+    "top": 437,
+    "left": 999,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_23_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Avocado Toast",
+            "description": "Grilled sirloin, black garlic butter, roast potato",
+            "price": ["19.5"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "Cheese Sandwich",
+            "description": "Grilled sirloin, black garlic butter, roast potato",
+            "price": ["19.5"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.otf",
+        "font_size": 30,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.otf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.ttf",
+        "font_size": 37,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "T_MENU",
+    "width": 356,
+    "height": 145,
+    "top": 437,
+    "left": 1422,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_23_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Egg Salad Croissant",
+            "description": "Grilled sirloin, black garlic butter, roast potato",
+            "price": ["19.5"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.otf",
+        "font_size": 30,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.otf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Blenda Script",
+        "font_file": "Blenda Script.ttf",
+        "font_size": 37,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(154, 102, 81,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    }
+  }
+]
