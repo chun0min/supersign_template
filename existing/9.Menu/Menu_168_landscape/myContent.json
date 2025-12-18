@@ -8,8 +8,8 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/background.jpg",
     "content_size": 1329312,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -57,7 +57,7 @@
     "scene_no": 1,
     "option_text": {
       "editor_option_text_font_name": "Anton",
-      "editor_option_text_font_size": "91",
+      "editor_option_text_font_size": "90",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -67,7 +67,7 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "138",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
       "editor_option_text_font_file": "Anton.ttf"
     },
@@ -100,7 +100,7 @@
     "display_order": 3,
     "content_type": "TEXT",
     "top": 123,
-    "left": 1227,
+    "left": 1120,
     "width": 350,
     "height": 61,
     "angle": 0,
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barlow Condensed",
+      "editor_option_text_font_name": "BarlowCondensed-Regular",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -120,9 +120,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "23",
-      "editor_option_text_spacing": -1.2,
-      "editor_option_text_font_file": "Barlow Condensed.ttf"
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -3,
+      "editor_option_text_font_file": "BarlowCondensed-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -152,7 +152,7 @@
     "display_order": 4,
     "content_type": "TEXT",
     "top": 123,
-    "left": 1427,
+    "left": 1440,
     "width": 430,
     "height": 61,
     "angle": 0,
@@ -161,7 +161,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barlow Condensed",
+      "editor_option_text_font_name": "BarlowCondensed-Regular",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -173,8 +173,8 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": -1.2,
-      "editor_option_text_font_file": "Barlow Condensed.ttf"
+      "editor_option_text_spacing": -3,
+      "editor_option_text_font_file": "BarlowCondensed-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -203,17 +203,17 @@
     "id": 4,
     "display_order": 5,
     "content_type": "TEXT",
-    "top": 170,
-    "left": 1227,
-    "width": 538,
+    "top": 190,
+    "left": 1120,
+    "width": 650,
     "height": 167,
     "angle": 0,
     "content_size": 51,
-    "text_value": "EGG SALAD, BACON & CHEESE BLT CLASSIC, GRILL POTATO",
+    "text_value": "EGG SALAD, BACON & CHEESE\nBLT CLASSIC, GRILL POTATO",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barlow Condensed",
+      "editor_option_text_font_name": "BarlowCondensed-Regular",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -224,9 +224,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "63",
-      "editor_option_text_spacing": -1.2,
-      "editor_option_text_font_file": "Barlow Condensed.ttf"
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": -3,
+      "editor_option_text_font_file": "BarlowCondensed-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -263,12 +263,12 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_68_landscape",
+    "widget_class": "r5_Menu_168_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
         "price_type": "5",
-        "price_type_text": [],
+        "price_type_text": [""],
         "menu_list": [
           {
             "menu_name": "AVOCADO VEGGIE",
@@ -280,9 +280,9 @@
             "enable": true,
             "image": {
               "item_name": "img_01.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/img_01.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/img_01.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/img_01.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/img_01.png"
             }
           },
           {
@@ -295,9 +295,9 @@
             "enable": true,
             "image": {
               "item_name": "img_02.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/img_02.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/img_02.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/img_02.png"
             }
           },
           {
@@ -310,9 +310,9 @@
             "enable": true,
             "image": {
               "item_name": "img_03.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/img_03.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/img_03.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/img_03.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/img_03.png"
             }
           },
           {
@@ -325,9 +325,9 @@
             "enable": true,
             "image": {
               "item_name": "img_04.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/img_04.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/img_04.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/img_04.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/img_04.png"
             }
           },
           {
@@ -340,9 +340,9 @@
             "enable": true,
             "image": {
               "item_name": "img_05.png",
-              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/img_05.png",
+              "item_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/img_05.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_68_landscape/img_05.png"
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/9.Menu/Menu_168_landscape/img_05.png"
             }
           }
         ]
@@ -378,7 +378,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "right"
+        "alignment": "center"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -415,30 +415,37 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 20,
-        "horizontal_scale": 30,
+        "item_spacing": 26,
+        "horizontal_scale": 0,
         "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "block-a"
     },
     "name": ""
   }
