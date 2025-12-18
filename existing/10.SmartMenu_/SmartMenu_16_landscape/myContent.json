@@ -1,0 +1,1116 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1920,
+    "height": 1080,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/background.jpg",
+    "content_size": 3952959,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "TEXT",
+    "top": 50,
+    "left": 966,
+    "width": 184,
+    "height": 29,
+    "angle": 0,
+    "content_size": 13,
+    "text_value": "000-0000-0000",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "500",
+    "option_text": {
+      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_size": "24",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Pretendard-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "TEXT",
+    "top": 83,
+    "left": 960,
+    "width": 500,
+    "height": 90,
+    "angle": 0,
+    "content_size": 10,
+    "text_value": "RESTAURANT",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "500",
+    "option_text": {
+      "editor_option_text_font_name": "Cafe24Ohsquare-v2.0",
+      "editor_option_text_font_size": "77",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.0.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "TEXT",
+    "top": 210,
+    "left": 960,
+    "width": 714,
+    "height": 82,
+    "angle": 0,
+    "content_size": 5,
+    "text_value": "PASTA",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "400",
+    "option_text": {
+      "editor_option_text_font_name": "Cafe24Shiningstar-v2-1",
+      "editor_option_text_font_size": "66",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Cafe24Shiningstar-v2-1.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "TEXT",
+    "top": 578,
+    "left": 960,
+    "width": 714,
+    "height": 82,
+    "angle": 0,
+    "content_size": 5,
+    "text_value": "Steak",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "400",
+    "option_text": {
+      "editor_option_text_font_name": "Cafe24Shiningstar-v2-1",
+      "editor_option_text_font_size": "66",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Cafe24Shiningstar-v2-1.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "TEXT",
+    "top": 770,
+    "left": 960,
+    "width": 714,
+    "height": 82,
+    "angle": 0,
+    "content_size": 5,
+    "text_value": "Pizza",
+    "line_height": 1,
+    "scene_no": 1,
+    "font-weight": "400",
+    "option_text": {
+      "editor_option_text_font_name": "Cafe24Shiningstar-v2-1",
+      "editor_option_text_font_size": "66",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255, 255, 255",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Cafe24Shiningstar-v2-1.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 678,
+    "height": 238,
+    "top": 90,
+    "left": 62,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_16_landscape-1",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Margherita Pizza",
+            "description": "Classic tomato, mozzarella, and fresh basil on a crispy thin crust – simple and timeless.",
+            "price": ["26"],
+            "calory": ["350"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_01.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/img_01.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/img_01.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
+        "font_size": 22,
+        "color": "rgba(154, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(88, 88, 88,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 47,
+        "vertical_scale": 50,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+        },
+        {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "T_MENU",
+    "width": 679,
+    "height": 252,
+    "top": 348,
+    "left": 130,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_16_landscape-1",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Cream Fettuccine",
+            "description": "Silky fettuccine noodles in a rich parmesan cream sauce with a touch of garlic and parsley.",
+            "price": ["15"],
+            "calory": ["450"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/img_02.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/img_02.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
+        "font_size": 22,
+        "color": "rgba(154, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(88, 88, 88,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 47,
+        "vertical_scale": 60,
+        "reverse": true,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "gallery-b"
+    }
+  },
+  {
+    "id": 8,
+    "display_order": 9,
+    "content_type": "T_MENU",
+    "width": 900,
+    "height": 456,
+    "top": 625,
+    "left": 0,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_16_landscape-2",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Grilled Ribeye Steak",
+            "description": "Juicy ribeye steak grilled to perfection, served with sea salt, black pepper, and herb butter.",
+            "price": ["45"],
+            "calory": ["380"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/img_03.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
+        "font_size": 22,
+        "color": "rgba(154, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(88, 88, 88,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 47,
+        "vertical_scale": 25,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+        },
+        {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["name", "description"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["price"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 9,
+    "display_order": 10,
+    "content_type": "T_MENU",
+    "width": 715,
+    "height": 253,
+    "top": 294,
+    "left": 960,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_16_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Spaghetti Bolognese",
+            "description": "Classic spaghetti with a slow-cooked tomato, beef ragu grated cheese.",
+            "price": ["25"],
+            "calory": ["380"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "Vongole Pasta",
+            "description": "Spaghetti tossed with fresh clams, garlic, white wine, and olive oil and savory.",
+            "price": ["25"],
+            "calory": ["380"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 2,
+            "enable": true
+          },
+          {
+            "menu_name": "Pesto Genovese",
+            "description": "Pasta coated in fresh basil pesto with pine nuts.",
+            "price": ["12"],
+            "calory": ["380"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 3,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
+        "font_size": 22,
+        "color": "rgba(154, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(88, 88, 88,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 90,
+        "vertical_scale": 100,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [ ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 10,
+    "display_order": 11,
+    "content_type": "T_MENU",
+    "width": 715,
+    "height": 80,
+    "top": 662,
+    "left": 960,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_16_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Filet Mignon with Red Wine Sauce",
+            "description": "Tender beef filet with a rich red wine reduction, elegant and flavorful.",
+            "price": ["30"],
+            "calory": ["380"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 1,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
+        "font_size": 22,
+        "color": "rgba(154, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(88, 88, 88,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 90,
+        "vertical_scale": 100,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [ ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 11,
+    "display_order": 12,
+    "content_type": "T_MENU",
+    "width": 715,
+    "height": 160,
+    "top": 854,
+    "left": 960,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_16_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Pepperoni Pizza",
+            "description": "Spicy pepperoni layered over cheese and tomato sauce on a golden crust.",
+            "price": ["32"],
+            "calory": ["380"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 1,
+            "enable": true
+          },          
+          {
+            "menu_name": "Truffle Mushroom Pizza",
+            "description": "Earthy mushroomsand a drizzle of truffle oil on a white base – rich and aromatic.",
+            "price": ["35"],
+            "calory": ["380"],
+            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel, pork, chicken, bee",
+            "ordr": 2,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare-v2.0",
+        "font_file": "Cafe24Ohsquare-v2.0.ttf",
+        "font_size": 22,
+        "color": "rgba(154, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(88, 88, 88,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 90,
+        "vertical_scale": 100,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [ ]
+          }
+        ]
+      }
+    }
+  }
+]
