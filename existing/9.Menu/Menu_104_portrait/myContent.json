@@ -323,7 +323,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Helvetica Neue",
+      "editor_option_text_font_name": "NotoSansCJKkr-Medium",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -335,7 +335,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "Helvetica neue.ttf",
+      "editor_option_text_font_file": "NotoSansCJKkr-Medium.otf ",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -375,7 +375,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Helvetica Neue",
+      "editor_option_text_font_name": "NotoSansCJKkr-Medium",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -387,7 +387,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "Helvetica Neue.ttf",
+      "editor_option_text_font_file": "NotoSansCJKkr-Medium.otf ",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -427,7 +427,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Helvetica Neue",
+      "editor_option_text_font_name": "NotoSansCJKkr-Medium",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -439,7 +439,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "Helvetica Neue.ttf",
+      "editor_option_text_font_file": "NotoSansCJKkr-Medium.otf ",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -479,7 +479,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Helvetica Neue",
+      "editor_option_text_font_name": "NotoSansCJKkr-Medium",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -491,7 +491,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "Helvetica Neue.ttf",
+      "editor_option_text_font_file": "NotoSansCJKkr-Medium.otf ",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -531,7 +531,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Helvetica Neue",
+      "editor_option_text_font_name": "NotoSansCJKkr-Medium",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -543,7 +543,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "Helvetica Neue.ttf",
+      "editor_option_text_font_file": "NotoSansCJKkr-Medium.otf ",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -680,8 +680,8 @@
         ]
       },
       "name": {
-        "font_name": "BodoniModa_72pt-Regular",
-        "font_file": "BodoniModa_72pt-Regular.ttf",
+        "font_name": "LibreBodoni-Regular",
+        "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 40,
         "color": "rgba(237,26,33,1)",
         "style_bold": true,
@@ -691,8 +691,8 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "BodoniModa_72pt-Regular",
-        "font_file": "BodoniModa_72pt-Regular.ttf",
+        "font_name": "LibreBodoni-Regular",
+        "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 28,
         "color": "rgba(77,77,77,1)",
         "style_bold": false,
@@ -702,8 +702,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "BodoniModa_72pt-Regular",
-        "font_file": "BodoniModa_72pt-Regular.ttf",
+        "font_name": "LibreBodoni-Regular",
+        "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 28,
         "color": "rgba(77,77,77,1)",
         "style_bold": false,
@@ -713,7 +713,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
@@ -724,8 +724,8 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
         "style_bold": false,
@@ -735,8 +735,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "BodoniModa_72pt-Regular",
-        "font_file": "BodoniModa_72pt-Regular.ttf",
+        "font_name": "LibreBodoni-Regular",
+        "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 28,
         "color": "rgba(77,77,77,1)",
         "style_bold": false,
@@ -840,8 +840,8 @@
         ]
       },
       "name": {
-        "font_name": "BodoniModa_72pt-Regular",
-        "font_file": "BodoniModa_72pt-Regular.ttf",
+        "font_name": "LibreBodoni-Regular",
+        "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 40,
         "color": "rgba(237,26,33,1)",
         "style_bold": true,
@@ -851,8 +851,8 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "BodoniModa_72pt-Regular",
-        "font_file": "BodoniModa_72pt-Regular.ttf",
+        "font_name": "LibreBodoni-Regular",
+        "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 28,
         "color": "rgba(77,77,77,1)",
         "style_bold": false,
@@ -862,8 +862,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "BodoniModa_72pt-Regular",
-        "font_file": "BodoniModa_72pt-Regular.ttf",
+        "font_name": "LibreBodoni-Regular",
+        "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 28,
         "color": "rgba(77,77,77,1)",
         "style_bold": false,
@@ -873,7 +873,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard",
+        "font_name": "Pretendard-Regular",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
@@ -884,8 +884,8 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
         "style_bold": false,
@@ -895,8 +895,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "BodoniModa_72pt-Regular",
-        "font_file": "BodoniModa_72pt-Regular.ttf",
+        "font_name": "LibreBodoni-Regular",
+        "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 28,
         "color": "rgba(77,77,77,1)",
         "style_bold": false,
