@@ -460,7 +460,7 @@
           {
             "menu_name": "Mango Smoothie",
             "description": "Smoothie with fresh mangoes",
-            "price": ["$10","$12","$14"],
+            "price": ["10","$12","$14"],
             "calory": ["60","60","60"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS",
             "ordr": 1,
@@ -475,7 +475,7 @@
           {
             "menu_name": "Apple smoothie",
             "description": "a sweet and sour apple smoothie",
-            "price": ["$10","$12","$14"],
+            "price": ["10","$12","$14"],
             "calory": ["60","60","60"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 2,
@@ -490,7 +490,7 @@
           {
             "menu_name": "Strawberry smoothie",
             "description": "Sweet and delicious strawberry smoothie",
-            "price": ["$10","$12","$14"],
+            "price": ["10","$12","$14"],
             "calory": ["60","60","60"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS",
             "ordr": 3,
@@ -505,7 +505,7 @@
           {
             "menu_name": "Kiwi smoothie",
             "description": "Fresh natural kiwi smoothie",
-            "price": ["$9","$11","$13"],
+            "price": ["9","$11","$13"],
             "calory": ["60","60","60"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 4,
@@ -641,7 +641,7 @@
           {
             "menu_name": "Americano",
             "description": "Americano with a gentle, mild acidity that you roast yourself",
-            "price": ["$12","$15","$18"],
+            "price": ["12","$15","$18"],
             "calory": ["60","60","60"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 1,
@@ -656,7 +656,7 @@
           {
             "menu_name": "Hazelnut latte",
             "description": "Sweet coffee with hazelnut flavor",
-            "price": ["$12","$14","$16"],
+            "price": ["12","$14","$16"],
             "calory": ["60","60","60"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 2,
@@ -671,7 +671,7 @@
           {
             "menu_name": "Cafe Latte",
             "description": "Sweet coffee with vanilla flavor",
-            "price": ["$14","$16","$18"],
+            "price": ["14","$16","$18"],
             "calory": ["60","60","60"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS",
             "ordr": 3,
@@ -686,7 +686,7 @@
           {
             "menu_name": "Ah-Shot-Chu",
             "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
-            "price": ["$10","$12","$14"],
+            "price": ["10","$12","$14"],
             "calory": ["60","60","60"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 4,
@@ -822,7 +822,7 @@
           {
             "menu_name": "Cheese Basque Cake",
             "description": "savory and soft basque cheesecake",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["220"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 1,
@@ -837,7 +837,7 @@
           {
             "menu_name": "Souffle Cheesecake",
             "description": "savory and soft basque cheesecake",
-            "price": ["$9"],
+            "price": ["9"],
             "calory": ["220"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS",
             "ordr": 2,
@@ -852,7 +852,7 @@
           {
             "menu_name": "Mont Blanc Boni Chestnut Cake",
             "description": "Mont Blanc full of chestnut flavor",
-            "price": ["$12"],
+            "price": ["12"],
             "calory": ["220"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 3,
@@ -867,7 +867,7 @@
           {
             "menu_name": "Earl Grey Chiffon",
             "description": "an earl-grey chiffon",
-            "price": ["$11"],
+            "price": ["11"],
             "calory": ["220"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 4,

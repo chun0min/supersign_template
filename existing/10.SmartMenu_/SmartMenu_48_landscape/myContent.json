@@ -345,7 +345,7 @@
           {
             "menu_name": "CHEESE CUTLET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$14.0"],
+            "price": ["14.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 1,
@@ -360,7 +360,7 @@
           {
             "menu_name": "PORK CUTLET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$12.0"],
+            "price": ["12.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 2,
@@ -375,7 +375,7 @@
           {
             "menu_name": "HIRED PORK CUTLET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$16.0"],
+            "price": ["16.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 3,
@@ -506,7 +506,7 @@
           {
             "menu_name": "PORK CUTLET SET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$14.0"],
+            "price": ["14.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 1,
@@ -521,7 +521,7 @@
           {
             "menu_name": "PORK CUTLET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$14.0"],
+            "price": ["14.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 2,
@@ -536,7 +536,7 @@
           {
             "menu_name": "PORK CUTLET SET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$16.0"],
+            "price": ["16.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 3,
@@ -551,7 +551,7 @@
           {
             "menu_name": "CHEESE PORK CUTLET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$15.0"],
+            "price": ["15.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 4,
@@ -686,7 +686,7 @@
           {
             "menu_name": "PORK CUTLET SET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$14.0"],
+            "price": ["14.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 1,
@@ -701,7 +701,7 @@
           {
             "menu_name": "PORK CUTLET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$14.0"],
+            "price": ["14.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 2,
@@ -716,7 +716,7 @@
           {
             "menu_name": "PORK CUTLET SET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$16.0"],
+            "price": ["16.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 3,
@@ -731,7 +731,7 @@
           {
             "menu_name": "CHEESE PORK CUTLET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$15.0"],
+            "price": ["15.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 4,
@@ -866,7 +866,7 @@
           {
             "menu_name": "PORK CUTLET SET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$14.0"],
+            "price": ["14.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 1,
@@ -881,7 +881,7 @@
           {
             "menu_name": "PORK CUTLET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$14.0"],
+            "price": ["14.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 2,
@@ -896,7 +896,7 @@
           {
             "menu_name": "PORK CUTLET SET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$16.0"],
+            "price": ["16.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 3,
@@ -911,7 +911,7 @@
           {
             "menu_name": "CHEESE PORK CUTLET",
             "description": "FRESH POLLACK ROE",
-            "price": ["$15.0"],
+            "price": ["15.0"],
             "calory": ["240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
             "ordr": 4,

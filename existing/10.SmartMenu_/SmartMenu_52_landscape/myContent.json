@@ -275,7 +275,7 @@
           {
             "menu_name": "Americano",
             "description": "Americano with a gentle, mild acidity that you roast yourself",
-            "price": ["$12", "$14", "$18"],
+            "price": ["12", "$14", "$18"],
             "calory": ["100", "180", "240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 1,
@@ -290,7 +290,7 @@
           {
             "menu_name": "Hazelnut Latte",
             "description": "Sweet coffee with hazelnut flavor",
-            "price": ["$10", "$12", "$14"],
+            "price": ["10", "$12", "$14"],
             "calory": ["100", "160", "220"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 2,
@@ -305,7 +305,7 @@
           {
             "menu_name": "Cafe Latte",
             "description": "Sweet coffee with vanilla flavor",
-            "price": ["$12", "$14", "$16"],
+            "price": ["12", "$14", "$16"],
             "calory": ["100", "160", "210"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS",
             "ordr": 3,
@@ -441,7 +441,7 @@
           {
             "menu_name": "Mango Smoothie",
             "description": "Americano with a gentle, mild acidity that you roast yourself",
-            "price": ["$12", "$14", "$18"],
+            "price": ["12", "$14", "$18"],
             "calory": ["100", "180", "240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 1,
@@ -456,7 +456,7 @@
           {
             "menu_name": "Apple smoothie",
             "description": "Sweet coffee with hazelnut flavor",
-            "price": ["$12", "$14", "$16"],
+            "price": ["12", "$14", "$16"],
             "calory": ["100", "180", "240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 2,
@@ -471,7 +471,7 @@
           {
             "menu_name": "Strawberry smoothie",
             "description": "Sweet coffee with vanilla flavor",
-            "price": ["$16", "$18", "$20"],
+            "price": ["16", "$18", "$20"],
             "calory": ["100", "160", "21=40"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS",
             "ordr": 3,

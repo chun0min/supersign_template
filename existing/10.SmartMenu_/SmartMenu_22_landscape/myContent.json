@@ -672,7 +672,7 @@
           {
             "menu_name": "SLEEMAN CLEAR",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
@@ -681,7 +681,7 @@
           {
             "menu_name": "ASAHI SUPER DRY",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
@@ -690,7 +690,7 @@
           {
             "menu_name": "STELLA ARTOIS",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
@@ -818,7 +818,7 @@
           {
             "menu_name": "SLEEMAN CLEAR",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
@@ -827,7 +827,7 @@
           {
             "menu_name": "PALE ALE",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
@@ -836,7 +836,7 @@
           {
             "menu_name": "INDIA PALE ALE [IPA]",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
@@ -845,7 +845,7 @@
           {
             "menu_name": "RED ALE",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 4,
@@ -854,7 +854,7 @@
           {
             "menu_name": "BROWN ALE",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 5,
@@ -982,7 +982,7 @@
           {
             "menu_name": "WHEAT ALE",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
@@ -991,7 +991,7 @@
           {
             "menu_name": "RED ALE",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
@@ -1119,7 +1119,7 @@
           {
             "menu_name": "SOUR ALE",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
@@ -1128,7 +1128,7 @@
           {
             "menu_name": "SMOKED BEER",
             "description": "GUELPH",
-            "price": ["$10"],
+            "price": ["10"],
             "calory": ["99"],
             "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
