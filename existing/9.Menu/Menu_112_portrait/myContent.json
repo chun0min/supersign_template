@@ -8,8 +8,8 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_portrait/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_12_portrait/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_112_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_112_portrait/background.jpg",
     "content_size": 215178,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "LuckiestGuy-Regular",
+      "editor_option_text_font_name": "LuckiestGuy",
       "editor_option_text_font_size": "96",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -68,7 +68,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.6",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "LuckiestGuy-Regular.ttf",
+      "editor_option_text_font_file": "LuckiestGuy.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "LuckiestGuy-Regular",
+      "editor_option_text_font_name": "LuckiestGuy",
       "editor_option_text_font_size": "34",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -120,7 +120,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "LuckiestGuy-Regular.ttf",
+      "editor_option_text_font_file": "LuckiestGuy.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -160,7 +160,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "LuckiestGuy-Regular",
+      "editor_option_text_font_name": "LuckiestGuy",
       "editor_option_text_font_size": "34",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -172,7 +172,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "LuckiestGuy-Regular.ttf",
+      "editor_option_text_font_file": "LuckiestGuy.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -212,7 +212,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "LuckiestGuy-Regular",
+      "editor_option_text_font_name": "LuckiestGuy",
       "editor_option_text_font_size": "34",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -224,7 +224,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "LuckiestGuy-Regular.ttf",
+      "editor_option_text_font_file": "LuckiestGuy.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -261,7 +261,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_12_portrait",
+    "widget_class": "r5_Menu_112_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -509,13 +509,13 @@
     "display_order": 7,
     "content_type": "T_MENU",
     "width": 702,
-    "height": 643,
-    "top": 370,
+    "height": 222,
+    "top": 1171,
     "left": 191,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_12_portrait",
+    "widget_class": "r5_Menu_112_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -687,13 +687,13 @@
     "display_order": 8,
     "content_type": "T_MENU",
     "width": 702,
-    "height": 643,
-    "top": 370,
+    "height": 150,
+    "top": 1587,
     "left": 191,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_12_portrait",
+    "widget_class": "r5_Menu_112_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -818,7 +818,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
