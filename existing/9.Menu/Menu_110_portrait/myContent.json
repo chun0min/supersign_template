@@ -8,8 +8,8 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_10_portrait/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_10_portrait/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_110_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_110_portrait/background.jpg",
     "content_size": 237814,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -45,6 +45,135 @@
   {
     "id": 1,
     "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 278,
+    "left": 135,
+    "width": 812,
+    "height": 5,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_110_portrait/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_110_portrait/img_01.png",
+    "content_size": 158,
+    "scene_no": 1,
+    "media_name": "img_01.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "IMAGE",
+    "top": 807,
+    "left": 135,
+    "width": 812,
+    "height": 5,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_110_portrait/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_110_portrait/img_01.png",
+    "content_size": 158,
+    "scene_no": 1,
+    "media_name": "img_01.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "IMAGE",
+    "top": 1424,
+    "left": 135,
+    "width": 479,
+    "height": 5,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_110_portrait/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_110_portrait/img_02.png",
+    "content_size": 151,
+    "scene_no": 1,
+    "media_name": "img_01.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 4,
+    "display_order": 5,
     "content_type": "TEXT",
     "top": 69,
     "left": 92,
@@ -56,7 +185,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Barriecito",
+      "editor_option_text_font_name": "Barriecito-Regular",
       "editor_option_text_font_size": "120",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -68,163 +197,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Barriecito.ttf",
-      "editor_option_text_font_opacity": 1
-    },
-    "option_text_outline": {
-      "editor_option_text_outline_color": "0,0,0",
-      "editor_option_text_outline_width": 0
-    },
-    "option_text_box": {
-      "editor_option_text_box_color": "0,0,0",
-      "editor_option_text_box_border": 0,
-      "editor_option_text_box_radius": 0,
-      "editor_option_text_box_radius_tl": 0,
-      "editor_option_text_box_radius_tr": 0,
-      "editor_option_text_box_radius_bl": 0,
-      "editor_option_text_box_radius_br": 0
-    },
-    "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "0,0,0",
-      "editor_option_shadow_blur": 10,
-      "editor_option_shadow_angle": 10,
-      "editor_option_shadow_distance": 10,
-      "editor_option_shadow_size": 10,
-      "editor_option_shadow_opacity": 1
-    }
-  },
-  {
-    "id": 2,
-    "display_order": 3,
-    "content_type": "TEXT",
-    "top": 231,
-    "left": 134,
-    "width": 813,
-    "height": 37,
-    "angle": 0,
-    "content_size": 6,
-    "text_value": "Coffee",
-    "line_height": 1,
-    "scene_no": 1,
-    "option_text": {
-      "editor_option_text_font_name": "Barriecito",
-      "editor_option_text_font_size": "40",
-      "editor_option_text_style_bold": false,
-      "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": false,
-      "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "0, 0, 0",
-      "editor_option_text_back_color": "255,255,255",
-      "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Barriecito.ttf",
-      "editor_option_text_font_opacity": 1
-    },
-    "option_text_outline": {
-      "editor_option_text_outline_color": "0,0,0",
-      "editor_option_text_outline_width": 0
-    },
-    "option_text_box": {
-      "editor_option_text_box_color": "0,0,0",
-      "editor_option_text_box_border": 0,
-      "editor_option_text_box_radius": 0,
-      "editor_option_text_box_radius_tl": 0,
-      "editor_option_text_box_radius_tr": 0,
-      "editor_option_text_box_radius_bl": 0,
-      "editor_option_text_box_radius_br": 0
-    },
-    "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "0,0,0",
-      "editor_option_shadow_blur": 10,
-      "editor_option_shadow_angle": 10,
-      "editor_option_shadow_distance": 10,
-      "editor_option_shadow_size": 10,
-      "editor_option_shadow_opacity": 1
-    }
-  },
-  {
-    "id": 3,
-    "display_order": 4,
-    "content_type": "TEXT",
-    "top": 762,
-    "left": 134,
-    "width": 813,
-    "height": 37,
-    "angle": 0,
-    "content_size": 10,
-    "text_value": "Non Coffee",
-    "line_height": 1,
-    "scene_no": 1,
-    "option_text": {
-      "editor_option_text_font_name": "Barriecito",
-      "editor_option_text_font_size": "40",
-      "editor_option_text_style_bold": false,
-      "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": false,
-      "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "0, 0, 0",
-      "editor_option_text_back_color": "255,255,255",
-      "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Barriecito.ttf",
-      "editor_option_text_font_opacity": 1
-    },
-    "option_text_outline": {
-      "editor_option_text_outline_color": "0,0,0",
-      "editor_option_text_outline_width": 0
-    },
-    "option_text_box": {
-      "editor_option_text_box_color": "0,0,0",
-      "editor_option_text_box_border": 0,
-      "editor_option_text_box_radius": 0,
-      "editor_option_text_box_radius_tl": 0,
-      "editor_option_text_box_radius_tr": 0,
-      "editor_option_text_box_radius_bl": 0,
-      "editor_option_text_box_radius_br": 0
-    },
-    "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "0,0,0",
-      "editor_option_shadow_blur": 10,
-      "editor_option_shadow_angle": 10,
-      "editor_option_shadow_distance": 10,
-      "editor_option_shadow_size": 10,
-      "editor_option_shadow_opacity": 1
-    }
-  },
-  {
-    "id": 4,
-    "display_order": 5,
-    "content_type": "TEXT",
-    "top": 1378,
-    "left": 134,
-    "width": 479,
-    "height": 37,
-    "angle": 0,
-    "content_size": 8,
-    "text_value": "Desserts",
-    "line_height": 1,
-    "scene_no": 1,
-    "option_text": {
-      "editor_option_text_font_name": "Barriecito",
-      "editor_option_text_font_size": "40",
-      "editor_option_text_style_bold": false,
-      "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": false,
-      "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "0, 0, 0",
-      "editor_option_text_back_color": "255,255,255",
-      "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Barriecito.ttf",
+      "editor_option_text_font_file": "Barriecito-Regular-Regular-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -253,15 +226,171 @@
   {
     "id": 5,
     "display_order": 6,
+    "content_type": "TEXT",
+    "top": 231,
+    "left": 134,
+    "width": 813,
+    "height": 47,
+    "angle": 0,
+    "content_size": 6,
+    "text_value": "Coffee",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Barriecito-Regular",
+      "editor_option_text_font_size": "40",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Barriecito-Regular.otf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "TEXT",
+    "top": 762,
+    "left": 134,
+    "width": 813,
+    "height": 47,
+    "angle": 0,
+    "content_size": 10,
+    "text_value": "Non Coffee",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Barriecito-Regular",
+      "editor_option_text_font_size": "40",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Barriecito-Regular.otf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "TEXT",
+    "top": 1378,
+    "left": 134,
+    "width": 479,
+    "height": 47,
+    "angle": 0,
+    "content_size": 8,
+    "text_value": "Desserts",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Barriecito-Regular",
+      "editor_option_text_font_size": "40",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Barriecito-Regular.otf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 8,
+    "display_order": 9,
     "content_type": "T_MENU",
     "width": 813,
-    "height": 397,
+    "height":378,
     "top": 299,
     "left": 134,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_10_portrait",
+    "widget_class": "r5_Menu_110_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -396,7 +525,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -407,7 +536,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -443,7 +572,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -467,17 +598,17 @@
     "name": ""
   },
   {
-    "id": 6,
-    "display_order": 7,
+    "id": 9,
+    "display_order": 10,
     "content_type": "T_MENU",
     "width": 813,
-    "height": 397,
-    "top": 299,
+    "height":455,
+    "top": 828,
     "left": 134,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_10_portrait",
+    "widget_class": "r5_Menu_110_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -678,7 +809,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -702,17 +835,17 @@
     "name": ""
   },
   {
-    "id": 7,
-    "display_order": 8,
+    "id": 10,
+    "display_order": 11,
     "content_type": "T_MENU",
     "width": 479,
-    "height": 315,
+    "height": 388,
     "top": 1440,
     "left": 134,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_10_portrait",
+    "widget_class": "r5_Menu_110_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -875,7 +1008,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",

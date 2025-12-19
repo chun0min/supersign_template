@@ -8,8 +8,8 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_19_portrait/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu)19_portrait/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_119_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_119_portrait/background.jpg",
     "content_size": 5390203,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -48,7 +48,7 @@
     "content_type": "TEXT",
     "top": 48,
     "left": 306,
-    "width": 163,
+    "width": 200,
     "height": 140,
     "angle": 0,
     "content_size": 3,
@@ -57,7 +57,7 @@
     "font-weight": 500,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EB Garamond",
+      "editor_option_text_font_name": "EBGaramond12-Regular",
       "editor_option_text_font_size": "107",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": true,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "EB Garamond.ttf",
+      "editor_option_text_font_file": "EBGaramond12-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -99,9 +99,9 @@
     "id": 2,
     "display_order": 3,
     "content_type": "TEXT",
-    "top": 112,
+    "top": 130,
     "left": 306,
-    "width": 216,
+    "width": 500,
     "height": 113,
     "angle": 0,
     "content_size": 4,
@@ -110,7 +110,7 @@
     "font-weight": 600,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EB Garamond",
+      "editor_option_text_font_name": "EBGaramond12-Regular",
       "editor_option_text_font_size": "145",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "EB Garamond.ttf",
+      "editor_option_text_font_file": "EBGaramond12-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -163,7 +163,7 @@
     "font-weight": 700,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EB Garamond",
+      "editor_option_text_font_name": "EBGaramond12-Regular",
       "editor_option_text_font_size": "49",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "EB Garamond.ttf",
+      "editor_option_text_font_file": "EBGaramond12-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -216,7 +216,7 @@
     "font-weight": 700,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EB Garamond",
+      "editor_option_text_font_name": "EBGaramond12-Regular",
       "editor_option_text_font_size": "49",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -228,7 +228,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "EB Garamond.ttf",
+      "editor_option_text_font_file": "EBGaramond12-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -269,7 +269,7 @@
     "font-weight": 700,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EB Garamond",
+      "editor_option_text_font_name": "EBGaramond12-Regular",
       "editor_option_text_font_size": "49",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -281,7 +281,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "EB Garamond.ttf",
+      "editor_option_text_font_file": "EBGaramond12-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -318,7 +318,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_19_portrait",
+    "widget_class": "r5_Menu_119_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -426,8 +426,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "EB Garamond",
-        "font_file": "EB Garamond.otf",
+        "font_name": "EBGaramond12-Regular",
+        "font_file": "EBGaramond12-Regular.ttf",
         "font_size": 30,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": true,
@@ -481,7 +481,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -515,7 +517,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_19_portrait",
+    "widget_class": "r5_Menu_119_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -623,8 +625,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "EB Garamond",
-        "font_file": "EB Garamond.otf",
+        "font_name": "EBGaramond12-Regular",
+        "font_file": "EBGaramond12-Regular.ttf",
         "font_size": 30,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": true,
@@ -678,7 +680,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -706,13 +710,13 @@
     "display_order": 9,
     "content_type": "T_MENU",
     "width": 705,
-    "height": 383,
+    "height": 173,
     "top": 1622,
     "left": 306,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_19_portrait",
+    "widget_class": "r5_Menu_119_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -782,8 +786,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "EB Garamond",
-        "font_file": "EB Garamond.otf",
+        "font_name": "EBGaramond12-Regular",
+        "font_file": "EBGaramond12-Regular.ttf",
         "font_size": 30,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": true,
@@ -837,7 +841,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",

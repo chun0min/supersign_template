@@ -8,8 +8,8 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/background.jpg",
     "content_size": 257,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -51,11 +51,11 @@
     "width": 163,
     "height": 181,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_01.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_01.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_01.png",
     "content_size": 51574,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_01.png",
+    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_01.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -94,11 +94,11 @@
     "width": 541,
     "height": 361,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
     "content_size": 408,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
+    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -133,15 +133,15 @@
     "display_order": 4,
     "content_type": "IMAGE",
     "top": 666,
-    "left": 92,
+    "left": 444,
     "width": 541,
     "height": 361,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
     "content_size": 408,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
+    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -180,11 +180,11 @@
     "width": 541,
     "height": 361,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
     "content_size": 408,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
+    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -219,15 +219,15 @@
     "display_order": 6,
     "content_type": "IMAGE",
     "top": 1430,
-    "left": 92,
+    "left": 444,
     "width": 541,
     "height": 361,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
     "content_size": 408,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_02.png",
+    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_02.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -262,15 +262,15 @@
     "display_order": 7,
     "content_type": "IMAGE",
     "top": 310,
-    "left": 716,
-    "width": 211,
-    "height": 310,
+    "left": 659,
+    "width": 325,
+    "height": 361,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_03.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_03.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_03.png",
     "content_size": 656482,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_03.png",
+    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_03.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -305,15 +305,15 @@
     "display_order": 8,
     "content_type": "IMAGE",
     "top": 694,
-    "left": 166,
-    "width": 178,
-    "height": 305,
+    "left": 92,
+    "width": 325,
+    "height": 361,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_04.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_04.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_04.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_04.png",
     "content_size": 510036,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_04.png",
+    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_04.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -352,11 +352,11 @@
     "width": 305,
     "height": 271,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_05.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_05.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_05.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_05.png",
     "content_size": 482593,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_05.png",
+    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_05.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -395,11 +395,11 @@
     "width": 270,
     "height": 285,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_06.png",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_06.png",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_06.png",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_06.png",
     "content_size": 536170,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_17_portrait/img_06.png",
+    "media_name": "SUPERSIGN/Template/existing/9.Menu/Menu_117_portrait/img_06.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -439,12 +439,12 @@
     "height": 113,
     "angle": 0,
     "content_size": 9,
-    "text_value": "FOOD MENU",
+    "text_value": "Coffee",
     "line_height": 1,
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bely Display",
+      "editor_option_text_font_name": "Spectral-Regular",
       "editor_option_text_font_size": "78",
       "editor_option_text_style_bold":false,
       "editor_option_text_style_italic": false,
@@ -456,7 +456,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.6",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bely Display.ttf",
+      "editor_option_text_font_file": "Spectral-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -497,7 +497,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bely Display",
+      "editor_option_text_font_name": "Spectral-Regular",
       "editor_option_text_font_size": "78",
       "editor_option_text_style_bold":false,
       "editor_option_text_style_italic": false,
@@ -509,7 +509,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.6",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bely Display.ttf",
+      "editor_option_text_font_file": "Spectral-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -758,7 +758,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_17_portrait",
+    "widget_class": "r5_Menu_117_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -902,7 +902,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -936,7 +938,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_17_portrait",
+    "widget_class": "r5_Menu_117_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -1080,7 +1082,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -1114,7 +1118,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_17_portrait",
+    "widget_class": "r5_Menu_117_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -1258,7 +1262,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -1292,7 +1298,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_17_portrait",
+    "widget_class": "r5_Menu_117_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -1436,7 +1442,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",

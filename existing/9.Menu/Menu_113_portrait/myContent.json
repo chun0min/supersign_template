@@ -8,8 +8,8 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_portrait/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_13_portrait/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_113_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_113_portrait/background.jpg",
     "content_size": 351414,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Alex Brush",
+      "editor_option_text_font_name": "AlexBrush-Regular",
       "editor_option_text_font_size": "218",
       "editor_option_text_style_bold":true,
       "editor_option_text_style_italic": false,
@@ -120,7 +120,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Alex Brush.ttf",
+      "editor_option_text_font_file": "AlexBrush-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -209,7 +209,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_13_portrait",
+    "widget_class": "r5_Menu_113_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -336,8 +336,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.ttf",
+        "font_name": "Lobster-Regular",
+        "font_file": "Lobster-Regular.ttf",
         "font_size": 37,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -381,7 +381,7 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -391,7 +391,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -419,13 +421,13 @@
     "display_order": 6,
     "content_type": "T_MENU",
     "width": 356,
-    "height": 688,
+    "height": 538,
     "top": 578,
     "left": 574,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_13_portrait",
+    "widget_class": "r5_Menu_113_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -511,8 +513,8 @@
         ]
       },
       "name": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.ttf",
+        "font_name": "Lobster-Regular",
+        "font_file": "Lobster-Regular.ttf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -522,8 +524,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.ttf",
+        "font_name": "Lobster-Regular",
+        "font_file": "Lobster-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -533,8 +535,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.ttf",
+        "font_name": "Lobster-Regular",
+        "font_file": "Lobster-Regular.ttf",
         "font_size": 37,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -578,7 +580,7 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -588,7 +590,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",

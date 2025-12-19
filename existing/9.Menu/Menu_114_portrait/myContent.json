@@ -8,8 +8,8 @@
     "width": 1080,
     "height": 1920,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_14_portrait/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_14_portrait/background.jpg",
+    "thumbnail_url": "SUPERSIGN/Template/existing/9.Menu/Menu_114_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/9.Menu/Menu_114_portrait/background.jpg",
     "content_size": 2999222,
     "scene_no": 1,
     "media_name": "background.jpg",
@@ -48,16 +48,16 @@
     "content_type": "TEXT",
     "top": 226,
     "left": 67,
-    "width": 311,
+    "width": 320,
     "height": 339,
     "angle": 0,
     "content_size": 6,
-    "text_value": "BRUNCH",
+    "text_value": "BURGER & BREWS MENU",
     "line_height": 1,
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "121",
       "editor_option_text_style_bold":false,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -1,
-      "editor_option_text_font_file": "Bebas Neue.ttf",
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -110,7 +110,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "86",
       "editor_option_text_style_bold":false,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bebas Neue.ttf",
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -163,7 +163,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "86",
       "editor_option_text_style_bold":false,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bebas Neue.ttf",
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -216,7 +216,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "86",
       "editor_option_text_style_bold":false,
       "editor_option_text_style_italic": false,
@@ -228,7 +228,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bebas Neue.ttf",
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -269,7 +269,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bebas Neue",
+      "editor_option_text_font_name": "BebasNeue-Regular",
       "editor_option_text_font_size": "86",
       "editor_option_text_style_bold":false,
       "editor_option_text_style_italic": false,
@@ -281,7 +281,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bebas Neue.ttf",
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -318,7 +318,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_14_portrait",
+    "widget_class": "r5_Menu_114_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -404,8 +404,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -415,8 +415,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -426,8 +426,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -470,8 +470,8 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "right",
+        "price_type": "left",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -481,7 +481,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -515,7 +517,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_14_portrait",
+    "widget_class": "r5_Menu_114_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -582,8 +584,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -593,8 +595,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -604,8 +606,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -648,8 +650,8 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "right",
+        "price_type": "left",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -659,7 +661,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -693,7 +697,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_14_portrait",
+    "widget_class": "r5_Menu_114_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -741,8 +745,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -752,8 +756,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -763,8 +767,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -807,8 +811,8 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "right",
+        "price_type": "left",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -818,7 +822,9 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
@@ -845,14 +851,14 @@
     "id": 9,
     "display_order": 10,
     "content_type": "T_MENU",
-    "width": 927,
-    "height": 269,
+    "width": 441,
+    "height": 294,
     "top": 1507,
     "left": 85,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_14_portrait",
+    "widget_class": "r5_Menu_114_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -915,69 +921,12 @@
               "item_type": "image",
               "item_thumbnail_url": ""
             }
-          },
-          {
-            "menu_name": "HAZY IPA",
-            "description": "double beef patties, cheddar, onion, pickles, house sauce",
-            "price": [
-              "9.9"
-            ],
-            "calory": [
-              "99"
-            ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4,
-            "enable": true,
-            "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "image",
-              "item_thumbnail_url": ""
-            }
-          },
-          {
-            "menu_name": "DARK STOUT",
-            "description": "double beef patties, cheddar, onion, pickles, house sauce",
-            "price": [
-              "9.9"
-            ],
-            "calory": [
-              "99"
-            ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5,
-            "enable": true,
-            "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "image",
-              "item_thumbnail_url": ""
-            }
-          },
-          {
-            "menu_name": "NON-ALCOHOLIC BEER",
-            "description": "double beef patties, cheddar, onion, pickles, house sauce",
-            "price": [
-              "9.9"
-            ],
-            "calory": [
-              "99"
-            ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 6,
-            "enable": true,
-            "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "image",
-              "item_thumbnail_url": ""
-            }
           }
         ]
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -987,8 +936,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -998,8 +947,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -1042,8 +991,8 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "right",
+        "price_type": "left",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -1053,7 +1002,189 @@
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  },
+  {
+    "id": 10,
+    "display_order": 11,
+    "content_type": "T_MENU",
+    "width": 441,
+    "height": 294,
+    "top": 1507,
+    "left": 571,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_Menu_114_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "HAZY IPA",
+            "description": "double beef patties, cheddar, onion, pickles, house sauce",
+            "price": [
+              "9.9"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "DARK STOUT",
+            "description": "double beef patties, cheddar, onion, pickles, house sauce",
+            "price": [
+              "9.9"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "NON-ALCOHOLIC BEER",
+            "description": "double beef patties, cheddar, onion, pickles, house sauce",
+            "price": [
+              "9.9"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
+        "font_size": 17,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare.ttf",
+        "font_size": 17,
+        "color": "rgba(0, 0, 0,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(242, 99, 70,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(242, 99, 70,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Spoqa Han Sans Neo",
+        "font_file": "Spoqa Han Sans Neo.otf",
+        "font_size": 17,
+        "color": "rgba(76, 76, 76,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
