@@ -1,0 +1,1638 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1080,
+    "height": 1920,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/background.jpg",
+    "content_size": 635,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 428,
+    "left": 341,
+    "width": 169,
+    "height": 80,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/img_01.png",
+    "content_size": 23190,
+    "scene_no": 1,
+    "media_name": "img_01.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "IMAGE",
+    "top": 1360,
+    "left": 385,
+    "width": 119,
+    "height": 77,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/img_02.png",
+    "content_size": 21589,
+    "scene_no": 1,
+    "media_name": "img_02.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "IMAGE",
+    "top": 428,
+    "left": 876,
+    "width": 118,
+    "height": 80,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/img_03.png",
+    "content_size": 24084,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "IMAGE",
+    "top": 844,
+    "left": 882,
+    "width": 122,
+    "height": 85,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/img_04.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/img_04.png",
+    "content_size": 19697,
+    "scene_no": 1,
+    "media_name": "img_04.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "IMAGE",
+    "top": 1350,
+    "left": 905,
+    "width": 68,
+    "height": 96,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/img_05.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_15_portrait/img_05.png",
+    "content_size": 14558,
+    "scene_no": 1,
+    "media_name": "img_05.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "TEXT",
+    "top": 185,
+    "left": 141,
+    "width": 797,
+    "height": 110,
+    "angle": 0,
+    "content_size": 9,
+    "text_value": "FOOD MENU",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "BlackHanSans-Regular",
+      "editor_option_text_font_size": "127",
+      "editor_option_text_style_bold":true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "42, 68, 67",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "0.7",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "TEXT",
+    "top": 362,
+    "left": 80,
+    "width": 249,
+    "height": 46,
+    "angle": 0,
+    "content_size": 10,
+    "text_value": "MAKI SUSHI",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "BlackHanSans-Regular",
+      "editor_option_text_font_size": "35",
+      "editor_option_text_style_bold":true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "42, 68, 67",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 8,
+    "display_order": 9,
+    "content_type": "TEXT",
+    "top": 1292,
+    "left": 80,
+    "width": 291,
+    "height": 46,
+    "angle": 0,
+    "content_size": 13,
+    "text_value": "CLASSIC ROLLS",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "BlackHanSans-Regular",
+      "editor_option_text_font_size": "35",
+      "editor_option_text_style_bold":true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "42, 68, 67",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 9,
+    "display_order": 10,
+    "content_type": "TEXT",
+    "top": 362,
+    "left": 564,
+    "width": 148,
+    "height": 46,
+    "angle": 0,
+    "content_size": 5,
+    "text_value": "RAMEN",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "BlackHanSans-Regular",
+      "editor_option_text_font_size": "35",
+      "editor_option_text_style_bold":true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "42, 68, 67",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 10,
+    "display_order": 11,
+    "content_type": "TEXT",
+    "top": 785,
+    "left": 564,
+    "width": 271,
+    "height": 46,
+    "angle": 0,
+    "content_size": 11,
+    "text_value": "BENTO ROLLS",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "BlackHanSans-Regular",
+      "editor_option_text_font_size": "35",
+      "editor_option_text_style_bold":true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "42, 68, 67",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 11,
+    "display_order": 12,
+    "content_type": "TEXT",
+    "top": 1295,
+    "left": 564,
+    "width": 163,
+    "height": 46,
+    "angle": 0,
+    "content_size": 6,
+    "text_value": "DRINKS",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "BlackHanSans-Regular",
+      "editor_option_text_font_size": "35",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "42, 68, 67",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "BlackHanSans-Regular.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 12,
+    "display_order": 13,
+    "content_type": "T_MENU",
+    "width": 441,
+    "height": 741,
+    "top": 525,
+    "left": 80,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_15_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "TUNA FUTOMAKI",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "VEGETARIAN",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "SPICY TUNA",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "VEGETARIAN",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "SPICY TUNA",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 5,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "S.K.I ROLL",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 6,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "TUNA FUTOMAKI",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 7,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "TUNA FUTOMAKI",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 8,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "TUNA FUTOMAKI",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 9,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 11,
+        "color": "rgba(112, 112, 112,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 10.5,
+        "color": "rgba(112, 112, 112,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 13,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  },
+  {
+    "id": 13,
+    "display_order": 14,
+    "content_type": "T_MENU",
+    "width": 441,
+    "height": 316,
+    "top": 1455,
+    "left": 80,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_15_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "TUNA FUTOMAKI",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "VEGETARIAN",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "SPICY TUNA",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "VEGETARIAN",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 11,
+        "color": "rgba(112, 112, 112,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 10.5,
+        "color": "rgba(112, 112, 112,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 13,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  },
+  {
+    "id": 14,
+    "display_order": 15,
+    "content_type": "T_MENU",
+    "width": 441,
+    "height": 239,
+    "top": 525,
+    "left": 564,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_15_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "TUNA FUTOMAKI",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "VEGETARIAN",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "SPICY TUNA",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 11,
+        "color": "rgba(112, 112, 112,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 10.5,
+        "color": "rgba(112, 112, 112,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 13,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  },
+  {
+    "id": 15,
+    "display_order": 16,
+    "content_type": "T_MENU",
+    "width": 441,
+    "height": 316,
+    "top": 948,
+    "left": 564,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_15_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "TUNA FUTOMAKI",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "VEGETARIAN",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "SPICY TUNA",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "SPICY TUNA",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 11,
+        "color": "rgba(112, 112, 112,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 10.5,
+        "color": "rgba(112, 112, 112,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 13,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  },
+  {
+    "id": 16,
+    "display_order": 17,
+    "content_type": "T_MENU",
+    "width": 441,
+    "height": 316,
+    "top": 1455,
+    "left": 564,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_15_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "TUNA FUTOMAKI",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "VEGETARIAN",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "SPICY TUNA",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "SPICY TUNA",
+            "description": "Tuna Salad, Kanimiya, Tamago, Avocado, Tobikko",
+            "price": [
+              "19.0"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "image",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 11,
+        "color": "rgba(112, 112, 112,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 10.5,
+        "color": "rgba(112, 112, 112,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.otf",
+        "font_size": 13,
+        "color": "rgba(42, 68, 67,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  }
+]
