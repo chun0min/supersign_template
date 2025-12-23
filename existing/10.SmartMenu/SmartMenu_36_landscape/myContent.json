@@ -1011,9 +1011,9 @@
             "enable": true,
             "image": {
               "item_name": "img_08.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_08.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_08.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_08.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_08.png"
             }
           },
           {
@@ -1026,9 +1026,9 @@
             "enable": true,
             "image": {
               "item_name": "img_09.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_09.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_09.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_09.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_09.png"
             }
           },
           {
@@ -1041,9 +1041,9 @@
             "enable": true,
             "image": {
               "item_name": "img_10.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_10.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_10.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_10.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_10.png"
             }
           }
         ]
@@ -1170,9 +1170,9 @@
             "enable": true,
             "image": {
               "item_name": "img_11.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_11.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_11.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_11.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_11.png"
             }
           },
           {
@@ -1185,9 +1185,9 @@
             "enable": true,
             "image": {
               "item_name": "img_12.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_12.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_12.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_12.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_12.png"
             }
           },
           {
@@ -1200,9 +1200,9 @@
             "enable": true,
             "image": {
               "item_name": "img_13.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_13.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_13.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_13.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_13.png"
             }
           }
         ]
