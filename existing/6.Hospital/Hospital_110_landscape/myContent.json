@@ -388,7 +388,222 @@
   },
   {
     "display_order": 10,
-    "id": 9,
+    "id": 9,    
+    "content_size": 173,
+    "content_type": "IMAGE",
+    "width": 400,
+    "height": 400,     
+    "top": 0,
+    "left": 73,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_110_landscape/img_06.png",
+    "media_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_110_landscape/img_06.png",
+    "scene_no": 1,
+    "media_name": "img_06.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 11,
+    "id": 10,    
+    "content_size": 173,
+    "content_type": "IMAGE",
+    "width": 400,
+    "height": 400,     
+    "top": 440,
+    "left": 73,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_110_landscape/img_07.png",
+    "media_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_110_landscape/img_07.png",
+    "scene_no": 1,
+    "media_name": "img_07.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 12,
+    "id": 11,    
+    "content_size": 173,
+    "content_type": "IMAGE",
+    "width": 400,
+    "height": 200,     
+    "top": 890,
+    "left": 73,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_110_landscape/img_08.png",
+    "media_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_110_landscape/img_08.png",
+    "scene_no": 1,
+    "media_name": "img_08.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 13,
+    "id": 12,    
+    "content_size": 173,
+    "content_type": "IMAGE",
+    "width": 400,
+    "height": 190,     
+    "top": 110,
+    "left": 513,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_110_landscape/img_09.png",
+    "media_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_110_landscape/img_09.png",
+    "scene_no": 1,
+    "media_name": "img_09.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 14,
+    "id": 13,    
+    "content_size": 173,
+    "content_type": "IMAGE",
+    "width": 400,
+    "height": 380,     
+    "top": 700,
+    "left": 513,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_110_landscape/img_10.png",
+    "media_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_110_landscape/img_10.png",
+    "scene_no": 1,
+    "media_name": "img_10.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 15,
+    "id": 14,
     "content_size": 14,
     "content_type": "TEXT",
     "width": 770,
@@ -438,8 +653,8 @@
     }
   },
   {
-    "display_order": 11,
-    "id": 10,
+    "display_order": 16,
+    "id": 15,
     "content_size": 183,
     "content_type": "TEXT",
     "width": 770,
@@ -489,8 +704,8 @@
     }
   },
   {
-    "display_order": 12,
-    "id": 11,
+    "display_order": 17,
+    "id": 16,
     "content_size": 12,
     "content_type": "TEXT",
     "width": 274,
@@ -540,8 +755,8 @@
     }
   },
   {
-    "display_order": 13,
-    "id": 12,
+    "display_order": 18,
+    "id": 17,
     "content_size": 72,
     "content_type": "TEXT",
     "width": 274,
@@ -591,8 +806,8 @@
     }
   },
   {
-    "display_order": 14,
-    "id": 13,
+    "display_order": 19,
+    "id": 18,
     "content_size": 15,
     "content_type": "TEXT",
     "width": 274,
@@ -642,8 +857,8 @@
     }
   },
   {
-    "display_order": 15,
-    "id": 14,
+    "display_order": 20,
+    "id": 19,
     "content_size": 72,
     "content_type": "TEXT",
     "width": 274,
@@ -693,8 +908,8 @@
     }
   },
   {
-    "display_order": 16,
-    "id": 15,
+    "display_order": 21,
+    "id": 20,
     "content_size": 12,
     "content_type": "TEXT",
     "width": 274,
@@ -744,8 +959,8 @@
     }
   },
   {
-    "display_order": 17,
-    "id": 16,
+    "display_order": 22,
+    "id": 21,
     "content_size": 72,
     "content_type": "TEXT",
     "width": 274,
@@ -795,8 +1010,8 @@
     }
   },
   {
-    "display_order": 18,
-    "id": 17,
+    "display_order": 23,
+    "id": 22,
     "content_size": 12,
     "content_type": "TEXT",
     "width": 274,
@@ -846,8 +1061,8 @@
     }
   },
   {
-    "display_order": 19,
-    "id": 18,
+    "display_order": 24,
+    "id": 23,
     "content_size": 72,
     "content_type": "TEXT",
     "width": 274,
