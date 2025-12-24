@@ -45,6 +45,49 @@
   {
     "display_order": 2,    
     "id": 1,
+    "content_size": 6215,
+    "content_type": "IMAGE",
+    "width": 920,
+    "height": 1080,    
+    "top": 0,
+    "left": 1000,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_106_landscape/img_05.png",
+    "media_url": "SUPERSIGN/Template/existing/6.Hospital/Hospital_106_landscape/img_05.png",
+    "scene_no": 1,
+    "media_name": "img_05.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "display_order": 3,    
+    "id": 2,
     "content_size": 1009,
     "content_type": "IMAGE",
     "width": 860,
@@ -86,8 +129,8 @@
     "is_crop": false
   },
   {
-    "display_order": 3,    
-    "id": 2,
+    "display_order": 4,    
+    "id": 3,
     "content_size": 1347,
     "content_type": "IMAGE",
     "width": 60,
@@ -129,8 +172,8 @@
     "is_crop": false
   },
   {
-    "display_order": 4,    
-    "id": 3,
+    "display_order": 5,    
+    "id": 4,
     "content_size": 15621,
     "content_type": "IMAGE",
     "width": 144,
@@ -172,8 +215,8 @@
     "is_crop": false
   },
   {
-    "display_order": 5,    
-    "id": 4,
+    "display_order": 6,    
+    "id": 5,
     "content_size": 15281,
     "content_type": "IMAGE",
     "width": 144,
@@ -215,8 +258,8 @@
     "is_crop": false
   },
   {
-    "display_order": 6,
-    "id": 5,
+    "display_order": 7,
+    "id": 6,
     "content_size": 12,
     "content_type": "TEXT",
     "width": 351,
@@ -267,8 +310,8 @@
     }
   },
   {
-    "display_order": 7,
-    "id": 6,
+    "display_order": 8,
+    "id": 7,
     "content_size": 183,
     "content_type": "TEXT",
     "width": 680,
@@ -318,8 +361,8 @@
     }
   },
   {
-    "display_order": 8,
-    "id": 7,
+    "display_order": 9,
+    "id": 8,
     "content_size": 29,
     "content_type": "TEXT",
     "width": 699,
@@ -370,8 +413,8 @@
     }
   },
   {
-    "display_order": 9,
-    "id": 8,
+    "display_order": 10,
+    "id": 9,
     "content_size": 315,
     "content_type": "TEXT",
     "width": 700,
@@ -422,8 +465,8 @@
     }
   },
   {
-    "display_order": 10,
-    "id": 9,
+    "display_order": 11,
+    "id": 10,
     "content_size": 123,
     "content_type": "TEXT",
     "width": 700,
@@ -474,8 +517,8 @@
     }
   },
   {
-    "display_order": 11,
-    "id": 10,
+    "display_order": 12,
+    "id": 11,
     "content_size": 4,
     "content_type": "TEXT",
     "width": 123,
@@ -526,8 +569,8 @@
     }
   },
   {
-    "display_order": 12,
-    "id": 11,
+    "display_order": 13,
+    "id": 12,
     "content_size": 40,
     "content_type": "TEXT",
     "width": 250,
@@ -578,8 +621,8 @@
     }
   },
   {
-    "display_order": 13,
-    "id": 12,
+    "display_order": 14,
+    "id": 13,
     "content_size": 40,
     "content_type": "TEXT",
     "width": 221,
@@ -630,8 +673,8 @@
     }
   },
   {
-    "display_order": 14,
-    "id": 13,
+    "display_order": 15,
+    "id": 14,
     "content_size": 4,
     "content_type": "TEXT",
     "width": 123,
@@ -682,8 +725,8 @@
     }
   },
   {
-    "display_order": 15,
-    "id": 14,
+    "display_order": 16,
+    "id": 15,
     "content_size": 40,
     "content_type": "TEXT",
     "width": 250,
@@ -734,8 +777,8 @@
     }
   },
   {
-    "display_order": 16,
-    "id": 15,
+    "display_order": 17,
+    "id": 16,
     "content_size": 40,
     "content_type": "TEXT",
     "width": 221,

@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1080,
+    "height": 1920,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/background.jpg",
+    "content_size": 561302,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 20,
+    "left": 480,
+    "width": 120,
+    "height": 120,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_01.png",
+    "content_size": 100508,
+    "scene_no": 1,
+    "media_name": "img_01.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "TEXT",
+    "top": 144,
+    "left": 392,
+    "width": 295,
+    "height": 38,
+    "angle": 0,
+    "content_size": 18,
+    "text_value": "CHINESE RESTAURANT",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Protest Riot",
+      "editor_option_text_font_size": "32",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 255, 255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Protest Riot.otf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "TEXT",
+    "top": 20,
+    "left": 755,
+    "width": 295,
+    "height": 29,
+    "angle": 0,
+    "content_size": 14,
+    "text_value": "0000-0000-0000",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Protest Riot",
+      "editor_option_text_font_size": "24",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 255, 255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 0,
+      "editor_option_text_font_file": "Protest Riot.otf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "T_MENU",
+    "width": 650,
+    "height": 250,
+    "top": 222,
+    "left": 80,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_31_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Black-Bean-Sauce Noodles",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "10.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_02",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_02"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Protest Riot",
+        "font_file": "Protest Riot.ttf",
+        "font_size": 26,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Red Rose",
+        "font_file": "Red Rose.ttf",
+        "font_size": 36,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 10,
+        "color": "rgba(107, 1, 1, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 14,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "T_MENU",
+    "width": 650,
+    "height": 250,
+    "top": 482,
+    "left": 380,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_31_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "JJambbong",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "12.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_03",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_03"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Protest Riot",
+        "font_file": "Protest Riot.ttf",
+        "font_size": 26,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Red Rose",
+        "font_file": "Red Rose.ttf",
+        "font_size": 36,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 10,
+        "color": "rgba(107, 1, 1, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 14,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 650,
+    "height": 250,
+    "top": 742,
+    "left": 80,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_31_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Seafood And White JJamppong",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "10.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_04",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_04"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Protest Riot",
+        "font_file": "Protest Riot.ttf",
+        "font_size": 26,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Red Rose",
+        "font_file": "Red Rose.ttf",
+        "font_size": 36,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 10,
+        "color": "rgba(107, 1, 1, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 14,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "T_MENU",
+    "width": 650,
+    "height": 250,
+    "top": 1035,
+    "left": 400,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_31_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Mapa Tofu Rice Bowl",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "10.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_05.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_05",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_05"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Protest Riot",
+        "font_file": "Protest Riot.ttf",
+        "font_size": 26,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Red Rose",
+        "font_file": "Red Rose.ttf",
+        "font_size": 36,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 10,
+        "color": "rgba(107, 1, 1, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 14,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 8,
+    "display_order": 9,
+    "content_type": "T_MENU",
+    "width": 650,
+    "height": 250,
+    "top": 1227,
+    "left": 100,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_31_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Japchae Rice Bowl",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "10.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_06",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_06"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Protest Riot",
+        "font_file": "Protest Riot.ttf",
+        "font_size": 26,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Red Rose",
+        "font_file": "Red Rose.ttf",
+        "font_size": 36,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 10,
+        "color": "rgba(107, 1, 1, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 14,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  },
+  
+  {
+    "id": 9,
+    "display_order": 10,
+    "content_type": "T_MENU",
+    "width": 960,
+    "height": 338,
+    "top": 1461,
+    "left": 60,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_31_portrait_1",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Sweet And Sour Pork",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "12.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_07",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_07"
+            }
+          },
+          
+          {
+            "menu_name": "Deep-Fried Chicken",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "16.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_08.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_08",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_08"
+            }
+          },
+
+          {
+            "menu_name": "Red Pepper Japchae",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "18.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL,",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_09.png",
+              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_09",
+              "item_type": "image",
+              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_09"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Protest Riot",
+        "font_file": "Protest Riot.ttf",
+        "font_size": 26,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Red Rose",
+        "font_file": "Red Rose.ttf",
+        "font_size": 36,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": 700,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 10,
+        "color": "rgba(107, 1, 1, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard.ttf",
+        "font_size": 14,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 43,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": ["image"]
+          },
+          {
+            "id": "orange",
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description"
+            ]
+          }
+        ]
+      },
+      "type": "balance"
+    },
+    "name": ""
+  }
+]
