@@ -662,7 +662,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": false,
@@ -673,7 +673,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(9, 87, 69,1)",
         "style_bold": false,
@@ -809,7 +809,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": false,
@@ -820,7 +820,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(9, 87, 69,1)",
         "style_bold": false,
@@ -947,7 +947,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": false,
@@ -958,7 +958,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(9, 87, 69,1)",
         "style_bold": false,
@@ -1085,7 +1085,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": false,
@@ -1096,7 +1096,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(9, 87, 69,1)",
         "style_bold": false,

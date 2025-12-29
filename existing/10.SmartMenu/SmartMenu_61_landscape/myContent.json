@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Pretendard-Regular.ttf"
+      "editor_option_text_font_file": "Pretendard-Regular.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -175,7 +175,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Pretendard-Regular.ttf"
+      "editor_option_text_font_file": "Pretendard-Regular.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -248,7 +248,7 @@
       },
       "priceType": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -259,7 +259,7 @@
       },
       "price": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 40,
         "color": "rgba(255,255,255,1)",
         "style_bold": 700,
@@ -270,7 +270,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -281,7 +281,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -292,7 +292,7 @@
       },
       "description": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,204,116,1)",
         "style_bold": 500,
@@ -378,7 +378,7 @@
       },
       "priceType": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -389,7 +389,7 @@
       },
       "price": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 40,
         "color": "rgba(255,255,255,1)",
         "style_bold": 700,
@@ -400,7 +400,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -411,7 +411,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -422,7 +422,7 @@
       },
       "description": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,204,116,1)",
         "style_bold": 500,
@@ -509,7 +509,7 @@
       },
       "priceType": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -520,7 +520,7 @@
       },
       "price": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 40,
         "color": "rgba(255,255,255,1)",
         "style_bold": 700,
@@ -531,7 +531,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -542,7 +542,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -553,7 +553,7 @@
       },
       "description": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,204,116,1)",
         "style_bold": 500,
@@ -654,7 +654,7 @@
       },
       "priceType": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -665,7 +665,7 @@
       },
       "price": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 40,
         "color": "rgba(255,255,255,1)",
         "style_bold": 700,
@@ -676,7 +676,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -687,7 +687,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -698,7 +698,7 @@
       },
       "description": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,204,116,1)",
         "style_bold": 500,
@@ -807,7 +807,7 @@
       },
       "priceType": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -818,7 +818,7 @@
       },
       "price": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 40,
         "color": "rgba(255,255,255,1)",
         "style_bold": 700,
@@ -829,7 +829,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -840,7 +840,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -851,7 +851,7 @@
       },
       "description": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,204,116,1)",
         "style_bold": 500,

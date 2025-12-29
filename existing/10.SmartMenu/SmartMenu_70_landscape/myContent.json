@@ -256,7 +256,7 @@
       },
       "priceType": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 17,
         "color": "rgba(43, 43, 43, 0.5)",
         "style_bold": 500,
@@ -278,7 +278,7 @@
       },
       "calories": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 11,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -300,7 +300,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -454,7 +454,7 @@
       },
       "priceType": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 17,
         "color": "rgba(43, 43, 43, 0.5)",
         "style_bold": 500,
@@ -476,7 +476,7 @@
       },
       "calories": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 11,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -498,7 +498,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,

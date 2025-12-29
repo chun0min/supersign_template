@@ -388,7 +388,7 @@
       },
       "priceType": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 17,
         "color": "rgba(43, 43, 43, 0.5)",
         "style_bold": 500,
@@ -398,8 +398,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter 18pt",
-        "font_file": "Inter 18pt.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 27,
         "color": "rgba(224,78,45,1)",
         "style_bold": 600,
@@ -409,8 +409,8 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter 18pt",
-        "font_file": "Inter 18pt.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(224,78,45,1)",
         "style_bold": false,
@@ -570,7 +570,7 @@
       },
       "priceType": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 17,
         "color": "rgba(43, 43, 43, 0.5)",
         "style_bold": 500,
@@ -580,8 +580,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter 18pt",
-        "font_file": "Inter 18pt.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 27,
         "color": "rgba(224,78,45,1)",
         "style_bold": 600,
@@ -591,8 +591,8 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter 18pt",
-        "font_file": "Inter 18pt.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(224,78,45,1)",
         "style_bold": false,
