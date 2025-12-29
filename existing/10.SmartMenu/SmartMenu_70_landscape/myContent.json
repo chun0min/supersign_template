@@ -266,8 +266,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24 ClassicType",
-        "font_file": "Cafe24 ClassicType.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 22,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -288,8 +288,8 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(186,234,162,1)",
         "style_bold": false,
@@ -464,8 +464,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24 ClassicType",
-        "font_file": "Cafe24 ClassicType.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 22,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -486,8 +486,8 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(186,234,162,1)",
         "style_bold": false,

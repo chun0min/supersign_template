@@ -598,7 +598,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
@@ -751,7 +751,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
@@ -904,7 +904,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
@@ -1057,7 +1057,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
@@ -1195,7 +1195,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",

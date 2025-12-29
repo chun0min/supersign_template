@@ -629,7 +629,7 @@
       },
       "name": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 22,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": true,
@@ -640,7 +640,7 @@
       },
       "priceType": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 20,
         "color": "rgba(49, 87, 69, 1)",
         "style_bold": false,
@@ -651,7 +651,7 @@
       },
       "price": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 20,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": true,
@@ -684,7 +684,7 @@
       },
       "description": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 17,
         "color": "rgba(120, 120, 120,1)",
         "style_bold": false,
@@ -776,7 +776,7 @@
       },
       "name": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 22,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": true,
@@ -787,7 +787,7 @@
       },
       "priceType": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 20,
         "color": "rgba(49, 87, 69, 1)",
         "style_bold": false,
@@ -798,7 +798,7 @@
       },
       "price": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 20,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": true,
@@ -831,7 +831,7 @@
       },
       "description": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 17,
         "color": "rgba(120, 120, 120,1)",
         "style_bold": false,
@@ -914,7 +914,7 @@
       },
       "name": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 22,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": true,
@@ -925,7 +925,7 @@
       },
       "priceType": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 20,
         "color": "rgba(49, 87, 69, 1)",
         "style_bold": false,
@@ -936,7 +936,7 @@
       },
       "price": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 20,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": true,
@@ -969,7 +969,7 @@
       },
       "description": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 17,
         "color": "rgba(120, 120, 120,1)",
         "style_bold": false,
@@ -1052,7 +1052,7 @@
       },
       "name": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 22,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": true,
@@ -1063,7 +1063,7 @@
       },
       "priceType": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 20,
         "color": "rgba(49, 87, 69, 1)",
         "style_bold": false,
@@ -1074,7 +1074,7 @@
       },
       "price": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 20,
         "color": "rgba(49, 87, 69,1)",
         "style_bold": true,
@@ -1107,7 +1107,7 @@
       },
       "description": {
         "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.ttf",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 17,
         "color": "rgba(120, 120, 120,1)",
         "style_bold": false,

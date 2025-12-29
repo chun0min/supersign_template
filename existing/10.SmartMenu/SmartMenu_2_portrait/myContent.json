@@ -330,8 +330,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansCJKkr-Medium",
-        "font_file": "NotoSansCJKkr-Medium.otf",
+        "font_name": "NotoSansKR-Medium",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 22,
         "color": "rgba(63,85,44,1)",
         "style_bold": true,
@@ -341,8 +341,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "NotoSansCJKkr-Medium",
-        "font_file": "NotoSansCJKkr-Medium.otf",
+        "font_name": "NotoSansKR-Medium",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 22,
         "color": "rgba(63,85,44,1)",
         "style_bold": true,
@@ -353,7 +353,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(63,85,44,1)",
         "style_bold": false,
@@ -364,7 +364,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(63,85,44,1)",
         "style_bold": false,
@@ -374,8 +374,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "NotoSansCJKkr-Medium",
-        "font_file": "NotoSansCJKkr-Medium.otf",
+        "font_name": "NotoSansKR-Medium",
+        "font_file": "NotoSansKR-Medium.otf",
         "font_size": 22,
         "color": "rgba(63,85,44,1)",
         "style_bold": false,

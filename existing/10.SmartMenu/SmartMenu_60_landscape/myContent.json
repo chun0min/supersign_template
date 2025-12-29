@@ -280,8 +280,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Red Rose",
-        "font_file": "Red Rose.ttf",
+        "font_name": "RedRose-Regular",
+        "font_file": "RedRose-Regular.ttf",
         "font_size": 36,
         "color": "rgba(255,255,255,1)",
         "style_bold": 700,
@@ -426,8 +426,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Red Rose",
-        "font_file": "Red Rose.ttf",
+        "font_name": "RedRose-Regular",
+        "font_file": "RedRose-Regular.ttf",
         "font_size": 36,
         "color": "rgba(205,28,29,1)",
         "style_bold": 700,
@@ -587,8 +587,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Red Rose",
-        "font_file": "Red Rose.ttf",
+        "font_name": "RedRose-Regular",
+        "font_file": "RedRose-Regular.ttf",
         "font_size": 36,
         "color": "rgba(205,28,29,1)",
         "style_bold": 700,

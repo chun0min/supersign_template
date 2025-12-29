@@ -165,7 +165,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Lobster.ttf",
+      "editor_option_text_font_file": "Lobster.otf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -577,7 +577,7 @@
       },
       "name": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 20,
         "color": "rgba(135, 32, 44,1)",
         "style_bold": true,
@@ -850,7 +850,7 @@
       },
       "name": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 20,
         "color": "rgba(135, 32, 44,1)",
         "style_bold": true,
@@ -1047,7 +1047,7 @@
       },
       "name": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 20,
         "color": "rgba(135, 32, 44,1)",
         "style_bold": true,
@@ -1244,7 +1244,7 @@
       },
       "name": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 20,
         "color": "rgba(135, 32, 44,1)",
         "style_bold": true,

@@ -393,8 +393,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare",
-        "font_file": "Cafe24 Ohsquare-Regular.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": true,
@@ -552,8 +552,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare",
-        "font_file": "Cafe24 Ohsquare-Regular.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": true,

@@ -249,8 +249,8 @@
         ]
       },
       "name": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.otf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -260,8 +260,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.otf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -271,8 +271,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.ttf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 37,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -398,8 +398,8 @@
         ]
       },
       "name": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.otf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -409,8 +409,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.otf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -420,8 +420,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.ttf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 37,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -538,8 +538,8 @@
         ]
       },
       "name": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.otf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -549,8 +549,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.otf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -560,8 +560,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.ttf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 37,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -669,8 +669,8 @@
         ]
       },
       "name": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.otf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,
@@ -680,8 +680,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.otf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -691,8 +691,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.ttf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 37,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": false,

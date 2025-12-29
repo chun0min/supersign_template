@@ -403,8 +403,8 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(45,45,45,1)",
         "style_bold": 600,

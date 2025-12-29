@@ -495,8 +495,8 @@
         ]
       },
       "name": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 24,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": true,
@@ -506,8 +506,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -517,8 +517,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 24,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": true,
@@ -528,8 +528,8 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": true,
@@ -539,8 +539,8 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
         "style_bold": true,
@@ -550,8 +550,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 16,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": true,
@@ -732,8 +732,8 @@
         ]
       },
       "name": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 24,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": true,
@@ -743,8 +743,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -754,8 +754,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 24,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": true,
@@ -765,8 +765,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": true,
@@ -776,8 +776,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
         "style_bold": true,
@@ -787,8 +787,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 16,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": true,
@@ -931,8 +931,8 @@
         ]
       },
       "name": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 24,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": true,
@@ -942,8 +942,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -953,8 +953,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 24,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": true,
@@ -964,8 +964,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": true,
@@ -975,8 +975,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
         "style_bold": true,
@@ -986,8 +986,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Noto Sans",
-        "font_file": "Noto Sans-Regular.ttf",
+        "font_name": "NotoSansKR-Regular",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 16,
         "color": "rgba(100, 100, 100,1)",
         "style_bold": true,

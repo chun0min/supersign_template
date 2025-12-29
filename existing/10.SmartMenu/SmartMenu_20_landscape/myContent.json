@@ -355,7 +355,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(04, 104, 104,1)",
@@ -513,7 +513,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(04, 104, 104,1)",
@@ -662,7 +662,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(04, 104, 104,1)",
@@ -802,7 +802,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(04, 104, 104,1)",

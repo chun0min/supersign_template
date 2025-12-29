@@ -325,7 +325,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-Regular",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -535,8 +535,8 @@
         ]
       },
       "name": {
-        "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_name": "Charter Regular",
+        "font_file": "Charter Regular.otf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
         "style_bold": false,
@@ -557,8 +557,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 22,
         "color": "rgba(23, 23, 23,1)",
         "style_bold": false,
@@ -700,8 +700,8 @@
         ]
       },
       "name": {
-        "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_name": "Charter Regular",
+        "font_file": "Charter Regular.otf",
         "font_size": 24,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
@@ -722,8 +722,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare OTF",
-        "font_file": "Cafe24 Ohsquare OTF.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 22,
         "color": "rgba(255,255,255,1)",
         "style_bold": false,
