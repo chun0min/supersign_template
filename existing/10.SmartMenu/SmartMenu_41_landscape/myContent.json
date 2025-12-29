@@ -477,7 +477,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "5",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -659,7 +659,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "1",
+        "price_type": "3",
         "price_type_text": ["250ml", "500ml", "Bottle"],
         "menu_list": [
           {
