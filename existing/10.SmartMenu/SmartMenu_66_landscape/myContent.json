@@ -376,8 +376,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24 ClassicType",
-        "font_file": "Cafe24 ClassicType.ttf",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 29,
         "color": "rgba(224,78,45,1)",
         "style_bold": false,
@@ -558,8 +558,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24 ClassicType",
-        "font_file": "Cafe24 ClassicType",
+        "font_name": "Cafe24Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 29,
         "color": "rgba(224,78,45,1)",
         "style_bold": false,

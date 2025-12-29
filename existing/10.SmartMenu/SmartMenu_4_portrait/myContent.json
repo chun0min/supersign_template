@@ -323,7 +323,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "NotoSansCJKkr-Medium",
+      "editor_option_text_font_name": "NotoSansKR-Medium",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -335,7 +335,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "NotoSansCJKkr-Medium.otf ",
+      "editor_option_text_font_file": "NotoSansKR-Medium.otf ",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -375,7 +375,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "NotoSansCJKkr-Medium",
+      "editor_option_text_font_name": "NotoSansKR-Medium",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -387,7 +387,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "NotoSansCJKkr-Medium.otf ",
+      "editor_option_text_font_file": "NotoSansKR-Medium.otf ",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -427,7 +427,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "NotoSansCJKkr-Medium",
+      "editor_option_text_font_name": "NotoSansKR-Medium",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -439,7 +439,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "NotoSansCJKkr-Medium.otf ",
+      "editor_option_text_font_file": "NotoSansKR-Medium.otf ",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -479,7 +479,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "NotoSansCJKkr-Medium",
+      "editor_option_text_font_name": "NotoSansKR-Medium",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -491,7 +491,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "NotoSansCJKkr-Medium.otf ",
+      "editor_option_text_font_file": "NotoSansKR-Medium.otf ",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -531,7 +531,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "NotoSansCJKkr-Medium",
+      "editor_option_text_font_name": "NotoSansKR-Medium",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -543,7 +543,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "NotoSansCJKkr-Medium.otf ",
+      "editor_option_text_font_file": "NotoSansKR-Medium.otf ",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -714,7 +714,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
         "style_bold": false,
@@ -874,7 +874,7 @@
       },
       "calories": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
         "style_bold": false,

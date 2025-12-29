@@ -398,8 +398,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(204, 204, 204,1)",
         "style_bold": false,
@@ -533,8 +533,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(204, 204, 204,1)",
         "style_bold": false,
@@ -668,8 +668,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(204, 204, 204,1)",
         "style_bold": false,
@@ -842,8 +842,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(123, 84, 66,1)",
         "style_bold": false,
@@ -1015,8 +1015,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(123, 84, 66,1)",
         "style_bold": false,
@@ -1188,8 +1188,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 10,
         "color": "rgba(123, 84, 66,1)",
         "style_bold": false,

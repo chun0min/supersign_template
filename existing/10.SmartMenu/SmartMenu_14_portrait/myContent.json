@@ -399,8 +399,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -410,8 +410,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -421,8 +421,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -432,8 +432,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.otf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
         "style_bold": true,
@@ -443,8 +443,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.otf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
         "style_bold": false,
@@ -454,8 +454,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
-        "font_file": "Spoqa Han Sans Neo.otf",
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 17,
         "color": "rgba(76, 76, 76,1)",
         "style_bold": false,
@@ -579,8 +579,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -590,8 +590,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -601,8 +601,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -612,8 +612,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.otf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
         "style_bold": true,
@@ -623,8 +623,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.otf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
         "style_bold": false,
@@ -634,8 +634,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
-        "font_file": "Spoqa Han Sans Neo.otf",
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 17,
         "color": "rgba(76, 76, 76,1)",
         "style_bold": false,
@@ -740,8 +740,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -751,8 +751,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -762,8 +762,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -773,8 +773,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.otf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
         "style_bold": true,
@@ -784,8 +784,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.otf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
         "style_bold": false,
@@ -795,8 +795,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
-        "font_file": "Spoqa Han Sans Neo.otf",
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 17,
         "color": "rgba(76, 76, 76,1)",
         "style_bold": false,
@@ -920,8 +920,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -931,8 +931,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -942,8 +942,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -953,8 +953,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.otf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
         "style_bold": true,
@@ -964,8 +964,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.otf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
         "style_bold": false,
@@ -975,8 +975,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
-        "font_file": "Spoqa Han Sans Neo.otf",
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 17,
         "color": "rgba(76, 76, 76,1)",
         "style_bold": false,
@@ -1100,8 +1100,8 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -1111,8 +1111,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -1122,8 +1122,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
-        "font_file": "Cafe24Ohsquare.ttf",
+        "font_name": "Cafe24Ohsquare-v2",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
@@ -1133,8 +1133,8 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.otf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
         "style_bold": true,
@@ -1144,8 +1144,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.otf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
         "style_bold": false,
@@ -1155,8 +1155,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
-        "font_file": "Spoqa Han Sans Neo.otf",
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 17,
         "color": "rgba(76, 76, 76,1)",
         "style_bold": false,

@@ -325,8 +325,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Blenda Script",
-        "font_file": "Blenda Script.ttf",
+        "font_name": "Blenda-Script",
+        "font_file": "Blenda-Script.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -369,8 +369,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": true,
@@ -568,8 +568,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.ttf",
         "font_size": 16,
         "color": "rgba(154, 102, 81,1)",
         "style_bold": true,

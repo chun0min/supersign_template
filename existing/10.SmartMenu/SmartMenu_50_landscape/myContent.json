@@ -751,8 +751,8 @@
         ]
       },
       "name": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChang-Peace",
+        "font_file": "PyeongChang-Peace.ttf",
         "font_size": 18,
         "color": "rgba(32,19,3,1)",
         "style_bold": 900,
@@ -762,8 +762,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
@@ -916,8 +916,8 @@
         ]
       },
       "name": {
-        "font_name": "PyeongChang Peace",
-        "font_file": "PyeongChang Peace.ttf",
+        "font_name": "PyeongChang-Peace",
+        "font_file": "PyeongChang-Peace.ttf",
         "font_size": 18,
         "color": "rgba(32,19,3,1)",
         "style_bold": 900,
@@ -927,8 +927,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
         "style_bold": 800,
