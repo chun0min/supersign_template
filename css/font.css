@@ -661,7 +661,7 @@
   font-family: 'Lobster 1_4';
   font-weight: normal;
   font-style: normal;
-  src: url('../font/Lobster 1_4/Lobster 1_4.otf')
+  src: url('../font/Lobster_1_4/Lobster 1_4.otf')
     format('truetype');
 }
 @font-face {
@@ -787,7 +787,7 @@
   font-family: 'Pretendard-Regular';
   font-weight: normal;
   font-style: normal;
-  src: url('../font/Pretendard-Regular/Pretendard-Regular.ttf')
+  src: url('../font/Pretendard-Regular/Pretendard-Regular.otf')
     format('truetype');
 }
 @font-face {
