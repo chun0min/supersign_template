@@ -923,3 +923,45 @@
   src: url('../font/chab_ddag/chab.otf')
     format('truetype');
 }
+@font-face {
+  font-family: 'ProtestRiot-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/protest-riot/ProtestRiot-Regular.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'Baloo-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/Baloo-Font/Baloo-Regular.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'BalooBhai-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/baloo-bhai/BalooBhai-Regular.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'ChangwonDangamAsac';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/changwondangamasac/ChangwonDangamAsac-Bold_0712.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'PartialSansKR-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/partial-sans-kr/PartialSansKR-Regular.otf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'PatrickHand-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/patrick-hand/PatrickHand-Regular.ttf')
+    format('truetype');
+}
