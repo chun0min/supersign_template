@@ -899,7 +899,7 @@
   font-family: 'Saira-Regular';
   font-weight: normal;
   font-style: normal;
-  src: url('../font/sarina/Saira-Regular.ttf')
+  src: url('../font/sarina/Sarina-Regular.ttf')
     format('truetype');
 }
 @font-face {
@@ -963,5 +963,33 @@
   font-weight: normal;
   font-style: normal;
   src: url('../font/patrick-hand/PatrickHand-Regular.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'Sancreek-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/sancreek/Sancreek-Regular.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'SeoulNamsan CBL';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/seoul-namsan/seoulnamsan/SeoulNamsanvert.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'SansitaOne';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/sansita-one/SansitaOne.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'Abhaya Libre';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/AbhayaLibre-Regular/AbhayaLibre-Regular.ttf')
     format('truetype');
 }
