@@ -738,7 +738,7 @@
   font-family: 'Poppins-Regular';
   font-weight: normal;
   font-style: normal;
-  src: url('../font/Poppins-Regular/Poppins-Regular.ttf')
+  src: url('../font/poppins/Poppins-Regular.ttf')
     format('truetype');
 }
 @font-face {
