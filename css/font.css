@@ -549,7 +549,7 @@
   font-family: 'Charter Regular';
   font-weight: normal;
   font-style: normal;
-  src: url('../font/Charter Regular/Charter Regular.otf')
+  src: url('../font/bitstream-charter/Charter Regular.otf')
     format('truetype');
 }
 @font-face {
