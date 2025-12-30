@@ -751,8 +751,8 @@
         ]
       },
       "name": {
-        "font_name": "PyeongChang-Peace",
-        "font_file": "PyeongChang-Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 18,
         "color": "rgba(32,19,3,1)",
         "style_bold": 900,
@@ -916,8 +916,8 @@
         ]
       },
       "name": {
-        "font_name": "PyeongChang-Peace",
-        "font_file": "PyeongChang-Peace.ttf",
+        "font_name": "PyeongChangPeace-Bold",
+        "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 18,
         "color": "rgba(32,19,3,1)",
         "style_bold": 900,

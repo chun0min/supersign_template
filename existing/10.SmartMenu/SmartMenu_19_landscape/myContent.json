@@ -162,7 +162,7 @@
     "widget_class": "r5_menu_19_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -211,7 +211,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_19_landscape/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Cafe24Classictype",
