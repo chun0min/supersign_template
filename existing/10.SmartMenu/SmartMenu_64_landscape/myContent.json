@@ -545,7 +545,8 @@
             "ordr": 1,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "ProtestStrike-Regular",
@@ -670,7 +671,8 @@
             "ordr": 1,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "ProtestStrike-Regular",
@@ -795,7 +797,8 @@
             "ordr": 1,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "ProtestStrike-Regular",
@@ -920,7 +923,8 @@
             "ordr": 1,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "ProtestStrike-Regular",
@@ -1081,7 +1085,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "ProtestStrike-Regular",
@@ -1243,7 +1248,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "ProtestStrike-Regular",

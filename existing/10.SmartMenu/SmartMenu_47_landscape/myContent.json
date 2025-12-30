@@ -408,7 +408,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "BebasNeue-Regular",

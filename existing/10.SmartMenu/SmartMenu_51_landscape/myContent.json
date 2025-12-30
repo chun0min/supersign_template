@@ -453,8 +453,8 @@
     "widget_class": "r5_menu_51_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "4",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
@@ -517,7 +517,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Cafe24Classictype",
@@ -634,8 +635,8 @@
     "widget_class": "r5_menu_51_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "4",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
@@ -698,7 +699,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Cafe24Classictype",
@@ -815,7 +817,7 @@
     "widget_class": "r5_menu_51_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "4",
         "price_type_text": [""],
         "menu_list": [
@@ -879,7 +881,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Cafe24Classictype",

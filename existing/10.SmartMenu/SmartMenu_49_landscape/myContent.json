@@ -550,7 +550,7 @@
     "widget_class": "r5_menu_49_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "5",
         "price_type_text": [""],
         "menu_list": [
@@ -584,7 +584,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_landscape/img_02.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "PyeongChangPeace-Bold",
@@ -703,7 +704,7 @@
     "widget_class": "r5_menu_49_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "5",
         "price_type_text": [""],
         "menu_list": [
@@ -737,7 +738,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_landscape/img_04.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "PyeongChangPeace-Bold",
@@ -856,7 +858,7 @@
     "widget_class": "r5_menu_49_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "5",
         "price_type_text": [""],
         "menu_list": [
@@ -890,7 +892,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_landscape/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "PyeongChangPeace-Bold",
@@ -1009,7 +1012,7 @@
     "widget_class": "r5_menu_49_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "5",
         "price_type_text": [""],
         "menu_list": [
@@ -1181,7 +1184,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_landscape/img_10.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "PyeongChangPeace-Bold",
