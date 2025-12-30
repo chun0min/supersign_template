@@ -486,7 +486,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_38_landscape/img_01.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Pretendard-Regular",
@@ -664,7 +665,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_38_landscape/img_07.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Pretendard-Regular",
@@ -842,7 +844,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_38_landscape/img_07.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Pretendard-Regular",

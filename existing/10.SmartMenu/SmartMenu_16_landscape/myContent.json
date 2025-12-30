@@ -340,7 +340,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/img_01.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard-Regular",
@@ -469,7 +470,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/img_02.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard-Regular",
@@ -606,7 +608,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_16_landscape/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard-Regular",
@@ -747,7 +750,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard-Regular",
@@ -875,7 +879,8 @@
             "ordr": 1,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard-Regular",
@@ -1012,7 +1017,8 @@
             "ordr": 2,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard-Regular",

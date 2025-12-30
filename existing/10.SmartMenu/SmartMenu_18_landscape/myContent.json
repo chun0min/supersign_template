@@ -546,7 +546,7 @@
     "widget_class": "r5_menu_18_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -577,7 +577,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Cafe24Classictype",
@@ -692,7 +693,7 @@
     "widget_class": "r5_menu_18_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -723,7 +724,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Cafe24Classictype",
@@ -838,7 +840,7 @@
     "widget_class": "r5_menu_18_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -869,7 +871,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Cafe24Classictype",
@@ -984,7 +987,7 @@
     "widget_class": "r5_menu_18_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -1015,7 +1018,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Cafe24Classictype",

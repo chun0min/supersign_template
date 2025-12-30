@@ -764,7 +764,8 @@
             "ordr": 1,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "BookkMyungjo_Bold",
@@ -887,7 +888,8 @@
             "ordr": 1,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "BookkMyungjo_Bold",
@@ -1046,7 +1048,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_10.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "BookkMyungjo_Bold",
@@ -1205,7 +1208,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_landscape/img_13.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "BookkMyungjo_Bold",
@@ -1337,7 +1341,8 @@
             "ordr": 2,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "BookkMyungjo_Bold",
@@ -1477,7 +1482,8 @@
             "ordr": 2,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "BookkMyungjo_Bold",
