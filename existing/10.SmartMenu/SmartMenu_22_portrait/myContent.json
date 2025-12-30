@@ -351,7 +351,8 @@
             "ordr": 1,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Paperlogy-4Regular",
@@ -486,7 +487,8 @@
             "ordr": 1,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Paperlogy-4Regular",
@@ -621,7 +623,8 @@
             "ordr": 1,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Paperlogy-4Regular",
@@ -795,7 +798,8 @@
             "ordr": 4,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Paperlogy-4Regular",
@@ -968,7 +972,8 @@
             "ordr": 4,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Paperlogy-4Regular",
@@ -1141,7 +1146,8 @@
             "ordr": 4,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Paperlogy-4Regular",
