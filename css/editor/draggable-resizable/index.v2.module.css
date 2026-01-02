@@ -663,3 +663,15 @@
 .r5_menu_74_landscape .item-image img{
   max-width: 335px;
 }
+
+.r5_menu_75_landscape .item-image img{
+  max-width: 292px;
+}
+
+.r5_menu_75_landscape .menu {
+  gap: 35px;
+}
+
+.r5_menu_75_landscape .menu .menuOption {
+  justify-content: flex-end;
+}

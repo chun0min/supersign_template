@@ -8,9 +8,9 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/background.jpg",
-    "content_size": 470075,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/background.jpg",
+    "content_size": 308318,
     "scene_no": 1,
     "media_name": "background.jpg",
     "option_line": {
@@ -46,14 +46,14 @@
     "id": 1,
     "display_order": 2,
     "content_type": "IMAGE",
-    "top": 657,
-    "left": 120,
-    "width": 360,
-    "height": 88,
+    "top": 154,
+    "left": 702,
+    "width": 515,
+    "height": 95,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_05.png",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_05.png",
-    "content_size": 1053,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_01.png",
+    "content_size": 5929,
     "scene_no": 1,
     "media_name": "img_01.png",
     "option_line": {
@@ -88,160 +88,31 @@
   {
     "id": 2,
     "display_order": 3,
-    "content_type": "IMAGE",
-    "top": 657,
-    "left": 560,
-    "width": 360,
-    "height": 88,
-    "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_05.png",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_05.png",
-    "content_size": 1053,
-    "scene_no": 1,
-    "media_name": "img_01.png",
-    "option_line": {
-      "editor_option_line_color": "0,0,0",
-      "editor_option_line_opacity": 1,
-      "editor_option_line_style": "none",
-      "editor_option_line_border": 1,
-      "editor_option_line_radius": 0,
-      "editor_option_line_radius_tl": 0,
-      "editor_option_line_radius_tr": 0,
-      "editor_option_line_radius_bl": 0,
-      "editor_option_line_radius_br": 0
-    },
-    "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "0,0,0",
-      "editor_option_shadow_blur": 10,
-      "editor_option_shadow_angle": 10,
-      "editor_option_shadow_distance": 10,
-      "editor_option_shadow_size": 10,
-      "editor_option_shadow_opacity": 1
-    },
-    "option_crop": {
-      "editor_option_crop_iscut": false,
-      "editor_option_crop_height": 0,
-      "editor_option_crop_width": 0,
-      "editor_option_crop_positionx": 0,
-      "editor_option_crop_positiony": 0
-    },
-    "is_crop": false
-  },
-  {
-    "id": 3,
-    "display_order": 4,
-    "content_type": "IMAGE",
-    "top": 657,
-    "left": 1000,
-    "width": 360,
-    "height": 88,
-    "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_05.png",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_05.png",
-    "content_size": 1053,
-    "scene_no": 1,
-    "media_name": "img_01.png",
-    "option_line": {
-      "editor_option_line_color": "0,0,0",
-      "editor_option_line_opacity": 1,
-      "editor_option_line_style": "none",
-      "editor_option_line_border": 1,
-      "editor_option_line_radius": 0,
-      "editor_option_line_radius_tl": 0,
-      "editor_option_line_radius_tr": 0,
-      "editor_option_line_radius_bl": 0,
-      "editor_option_line_radius_br": 0
-    },
-    "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "0,0,0",
-      "editor_option_shadow_blur": 10,
-      "editor_option_shadow_angle": 10,
-      "editor_option_shadow_distance": 10,
-      "editor_option_shadow_size": 10,
-      "editor_option_shadow_opacity": 1
-    },
-    "option_crop": {
-      "editor_option_crop_iscut": false,
-      "editor_option_crop_height": 0,
-      "editor_option_crop_width": 0,
-      "editor_option_crop_positionx": 0,
-      "editor_option_crop_positiony": 0
-    },
-    "is_crop": false
-  },
-  {
-    "id": 4,
-    "display_order": 5,
-    "content_type": "IMAGE",
-    "top": 657,
-    "left": 120,
-    "width": 1440,
-    "height": 88,
-    "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_05.png",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_05.png",
-    "content_size": 1053,
-    "scene_no": 1,
-    "media_name": "img_01.png",
-    "option_line": {
-      "editor_option_line_color": "0,0,0",
-      "editor_option_line_opacity": 1,
-      "editor_option_line_style": "none",
-      "editor_option_line_border": 1,
-      "editor_option_line_radius": 0,
-      "editor_option_line_radius_tl": 0,
-      "editor_option_line_radius_tr": 0,
-      "editor_option_line_radius_bl": 0,
-      "editor_option_line_radius_br": 0
-    },
-    "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "0,0,0",
-      "editor_option_shadow_blur": 10,
-      "editor_option_shadow_angle": 10,
-      "editor_option_shadow_distance": 10,
-      "editor_option_shadow_size": 10,
-      "editor_option_shadow_opacity": 1
-    },
-    "option_crop": {
-      "editor_option_crop_iscut": false,
-      "editor_option_crop_height": 0,
-      "editor_option_crop_width": 0,
-      "editor_option_crop_positionx": 0,
-      "editor_option_crop_positiony": 0
-    },
-    "is_crop": false
-  },
-  {
-    "id": 5,
-    "display_order": 6,
     "content_type": "TEXT",
-    "top": 94,
-    "left": 839,
-    "width": 241,
-    "height": 52,
+    "top": 30,
+    "left": 750,
+    "width": 420,
+    "height": 142,
     "angle": 0,
     "content_size": 12,
-    "text_value": "CHINESE FOOD",
+    "text_value": "Rice noodles",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
-      "editor_option_text_font_size": "48",
+      "editor_option_text_font_name": "Pacifico",
+      "editor_option_text_font_size": "80",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "232, 205, 0",
+      "editor_option_text_font_color": "0, 0, 0",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.1",
-      "editor_option_text_spacing": "3.36",
-      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
+      "editor_option_text_spacing": "0.157",
+      "editor_option_text_font_file": "Pacifico.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -267,33 +138,33 @@
     }
   },
   {
-    "id": 6,
-    "display_order": 7,
+    "id": 3,
+    "display_order": 4,
     "content_type": "TEXT",
-    "top": 142,
-    "left": 684,
-    "width": 550,
-    "height": 129,
+    "top": 154.5,
+    "left": 752.5,
+    "width": 415,
+    "height": 88,
     "angle": 0,
-    "content_size": 10,
-    "text_value": "RESTAURANT",
+    "content_size": 9,
+    "text_value": "FOOD MENU",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
-      "editor_option_text_font_size": "120",
+      "editor_option_text_font_name": "Satoshi-Variable",
+      "editor_option_text_font_size": "63",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "232, 205, 0",
+      "editor_option_text_font_color": "237, 237, 237",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": "9.6",
-      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
+      "editor_option_text_spacing": "2.584",
+      "editor_option_text_font_file": "Satoshi-Variable.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -319,17 +190,17 @@
     }
   },
   {
-    "id": 7,
-    "display_order": 8,
+    "id": 4,
+    "display_order": 5,
     "content_type": "T_MENU",
-    "width": 1680,
-    "height": 575,
-    "top": 391,
-    "left": 120,
+    "width": 1838,
+    "height": 215,
+    "top": 303,
+    "left": 40,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_74_landscape",
+    "widget_class": "r5_menu_75_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -337,105 +208,90 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "Jajangmyeon",
-            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
-            "price": ["11.0"],
-            "calory": ["240"],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, MACKEREL, MACKEREL",
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient \ndescribe the ingredient",
+            "price": ["10.4"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, \nshellfish, soybeans, sesame",
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_01.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_01.png",
+              "item_name": "img_02.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_01.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_02.png"
             }
           },
           {
-            "menu_name": "Jjamppong",
-            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
-            "price": ["14.0"],
-            "calory": ["240"],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, MACKEREL, MACKEREL",
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient \ndescribe the ingredient",
+            "price": ["10.4"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, \nshellfish, soybeans, sesame",
             "ordr": 2,
             "enable": true,
             "image": {
-              "item_name": "img_02.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_02.png",
+              "item_name": "img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_05.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_02.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_05.png"
             }
           },
           {
-            "menu_name": "Boneless sweet and ",
-            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
-            "price": ["16.0"],
-            "calory": ["240"],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, MACKEREL, MACKEREL",
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient \ndescribe the ingredient",
+            "price": ["10.4"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, \nshellfish, soybeans, sesame",
             "ordr": 3,
             "enable": true,
             "image": {
-              "item_name": "img_03.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_03.png",
+              "item_name": "img_08.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_08.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_03.png"
-            }
-          },
-          {
-            "menu_name": "Seafood \nJjamppong Tang",
-            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
-            "price": ["12.0"],
-            "calory": ["240"],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, MACKEREL, MACKEREL",
-            "ordr": 4,
-            "enable": true,
-            "image": {
-              "item_name": "img_04.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_04.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_04.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_08.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "ProtestStrike-Regular",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 30,
-        "color": "rgba(232, 205, 0, 1)",
-        "style_bold": 700,
-        "style_italic": false,
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 23,
+        "color": "rgba(25, 25, 25, 1)",
+        "style_bold": 800,
+        "style_italic": true,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "ProtestStrike-Regular",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 18,
-        "color": "rgba(232, 205, 0, 1)",
-        "style_bold": 700,
-        "style_italic": false,
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 17,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": 800,
+        "style_italic": true,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
       },
       "price": {
-        "font_name": "ProtestStrike-Regular",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 18,
-        "color": "rgba(232, 205, 0, 1)",
-        "style_bold": 700,
-        "style_italic": false,
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 17,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": 800,
+        "style_italic": true,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
       },
       "calories": {
-        "font_name": "ProtestStrike-Regular",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 11,
-        "color": "rgba(151,151,151,1)",
+        "font_name": "Onest",
+        "font_file": "Onest.ttf",
+        "font_size": 7,
+        "color": "rgba(1, 1, 1, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -443,10 +299,10 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 9,
-        "color": "rgba(113, 113, 113, 1)",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 10,
+        "color": "rgba(242, 103, 48, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -454,11 +310,178 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
-        "color": "rgba(132, 6, 15, 1)",
+        "color": "rgba(25, 25, 25, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 74,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "T_MENU",
+    "width": 1838,
+    "height": 215,
+    "top": 557,
+    "left": 40,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_75_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient \ndescribe the ingredient",
+            "price": ["10.4"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, \nshellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_03.png"
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient \ndescribe the ingredient",
+            "price": ["10.4"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, \nshellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_06.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_06.png"
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient \ndescribe the ingredient",
+            "price": ["10.4"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, \nshellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_09.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_09.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_09.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 23,
+        "color": "rgba(25, 25, 25, 1)",
+        "style_bold": 800,
+        "style_italic": true,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 17,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": 800,
+        "style_italic": true,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 17,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": 800,
+        "style_italic": true,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Onest",
+        "font_file": "Onest.ttf",
+        "font_size": 7,
+        "color": "rgba(1, 1, 1, 1)",
         "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 10,
+        "color": "rgba(242, 103, 48, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(25, 25, 25, 1)",
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -504,75 +527,105 @@
     "id": 6,
     "display_order": 7,
     "content_type": "T_MENU",
-    "width": 410,
-    "height": 523,
-    "top": 486,
-    "left": 66,
+    "width": 1838,
+    "height": 215,
+    "top": 811,
+    "left": 40,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_73_landscape",
+    "widget_class": "r5_menu_75_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
         "price_type": "1",
-        "price_type_text": ["S","M","L"],
+        "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "French Breakfast",
-            "description": "Americano with a gentle, mild acidity that you roast yourself",
-            "price": ["9.5","10.5","11.5"],
-            "calory": ["300","400","500"],
-            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel",
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient \ndescribe the ingredient",
+            "price": ["10.4"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, \nshellfish, soybeans, sesame",
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_03.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_03.png",
+              "item_name": "img_04.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_04.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_03.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_04.png"
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient \ndescribe the ingredient",
+            "price": ["10.4"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, \nshellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_07.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_07.png"
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient \ndescribe the ingredient",
+            "price": ["10.4"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, \nshellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_10.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_10.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_75_landscape/img_10.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "ProtestStrike-Regular",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 30,
-        "color": "rgba(232, 205, 0, 1)",
-        "style_bold": false,
-        "style_italic": false,
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 23,
+        "color": "rgba(25, 25, 25, 1)",
+        "style_bold": 800,
+        "style_italic": true,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "priceType": {
-        "font_name": "ProtestStrike-Regular",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 48,
-        "color": "rgba(232, 205, 0, 1)",
-        "style_bold": false,
-        "style_italic": false,
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 17,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": 800,
+        "style_italic": true,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "price": {
-        "font_name": "ProtestStrike-Regular",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 48,
-        "color": "rgba(232, 205, 0, 1)",
-        "style_bold": false,
-        "style_italic": false,
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 17,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": 800,
+        "style_italic": true,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 16,
-        "color": "rgba(119, 134, 170, 1)",
+        "font_name": "Onest",
+        "font_file": "Onest.ttf",
+        "font_size": 7,
+        "color": "rgba(1, 1, 1, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -580,26 +633,26 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 14,
-        "color": "rgba(232, 205, 0, 1)",
-        "style_bold": 300,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "center"
-      },
-      "description": {
-        "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
-        "font_size": 16,
-        "color": "rgba(232, 205, 0, 1)",
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 10,
+        "color": "rgba(242, 103, 48, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 14,
+        "color": "rgba(25, 25, 25, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
       },
       "custom": {
         "price_type": "above",
