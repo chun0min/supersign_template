@@ -421,7 +421,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(224,78,45,1)",
         "style_bold": 300,
@@ -603,7 +603,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(224,78,45,1)",
         "style_bold": 300,

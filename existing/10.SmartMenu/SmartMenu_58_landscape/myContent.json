@@ -809,7 +809,7 @@
       },
       "priceType": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -976,7 +976,7 @@
       },
       "priceType": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -1128,7 +1128,7 @@
       },
       "priceType": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,
@@ -1280,7 +1280,7 @@
       },
       "priceType": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
         "style_bold": 600,

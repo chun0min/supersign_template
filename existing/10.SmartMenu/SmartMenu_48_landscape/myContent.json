@@ -436,7 +436,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(204,204,204,1)",
         "style_bold": false,
@@ -613,7 +613,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(123,84,66,1)",
         "style_bold": false,
@@ -794,7 +794,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(123,84,66,1)",
         "style_bold": false,
@@ -975,7 +975,7 @@
       },
       "allergies": {
         "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(123,84,66,1)",
         "style_bold": false,
