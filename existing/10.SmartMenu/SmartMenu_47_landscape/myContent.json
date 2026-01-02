@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BarlowCondensed-Regular",
+      "editor_option_text_font_name": "BarlowCondensed",
       "editor_option_text_font_size": "162",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -467,7 +467,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "BarlowCondensed-Regular",
+        "font_name": "BarlowCondensed",
         "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(225,54,14,1)",

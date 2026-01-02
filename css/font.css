@@ -349,13 +349,13 @@
   src: url('../font/MaruBuri-Regular/MaruBuri-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'Caveat-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Caveat-Regular/Caveat-Regular.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'PermanentMarker';
   font-weight: normal;
@@ -574,7 +574,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'BarlowCondensed-Regular';
+  font-family: 'BarlowCondensed';
   font-weight: normal;
   font-style: normal;
   src: url('../font/BarlowCondensed-Regular/BarlowCondensed-Regular.ttf')
