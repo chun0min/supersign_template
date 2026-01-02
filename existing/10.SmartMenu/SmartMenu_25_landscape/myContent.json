@@ -346,7 +346,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -357,7 +357,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -417,7 +417,7 @@
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
@@ -486,7 +486,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -497,7 +497,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -557,7 +557,7 @@
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
@@ -592,7 +592,7 @@
     "display_order": 9,
     "content_type": "T_MENU",
     "width": 377,
-    "height": 790,
+    "height": 825,
     "top": 195,
     "left": 1432,
     "angle": 0,
@@ -662,7 +662,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -673,7 +673,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -733,7 +733,7 @@
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
@@ -811,7 +811,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -822,7 +822,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -882,7 +882,7 @@
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
@@ -960,7 +960,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -971,7 +971,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -1031,7 +1031,7 @@
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {

@@ -393,7 +393,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
@@ -552,7 +552,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",

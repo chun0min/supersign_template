@@ -646,7 +646,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "STIXTwoText-VariableFont_wght",
+      "editor_option_text_font_name": "STIXTwoText-VariableFont",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": true,
@@ -699,7 +699,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "STIXTwoText-VariableFont_wght",
+      "editor_option_text_font_name": "STIXTwoText-VariableFont",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": true,
@@ -752,7 +752,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "STIXTwoText-VariableFont_wght",
+      "editor_option_text_font_name": "STIXTwoText-VariableFont",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": true,
@@ -805,7 +805,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "STIXTwoText-VariableFont_wght",
+      "editor_option_text_font_name": "STIXTwoText-VariableFont",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": true,
@@ -858,7 +858,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "STIXTwoText-VariableFont_wght",
+      "editor_option_text_font_name": "STIXTwoText-VariableFont",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": true,
@@ -911,7 +911,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "STIXTwoText-VariableFont_wght",
+      "editor_option_text_font_name": "STIXTwoText-VariableFont",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": true,

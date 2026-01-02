@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Lobster 1_4",
+      "editor_option_text_font_name": "Lobster",
       "editor_option_text_font_size": "169",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Lobster 1_4",
+      "editor_option_text_font_name": "Lobster",
       "editor_option_text_font_size": "140",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -480,7 +480,7 @@
     "line_height": 27,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Lobster 1_4",
+      "editor_option_text_font_name": "Lobster",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,

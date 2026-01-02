@@ -603,11 +603,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "vertical_scale": 35,
         "reverse": false,
         "section": [
           {
@@ -761,11 +761,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "vertical_scale": 35,
         "reverse": false,
         "section": [
           {
@@ -901,11 +901,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "vertical_scale": 35,
         "reverse": false,
         "section": [
           {
@@ -950,7 +950,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "3",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {

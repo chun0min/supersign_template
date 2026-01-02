@@ -229,7 +229,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -282,7 +282,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -335,7 +335,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -388,7 +388,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -441,7 +441,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -494,7 +494,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -611,7 +611,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "right"
+        "alignment": "left"
       },
       "calories": {
         "font_name": "Pretendard-Regular",
@@ -622,7 +622,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "right"
+        "alignment": "left"
       },
       "allergies": {
         "font_name": "Pretendard-Regular",

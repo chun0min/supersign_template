@@ -229,7 +229,7 @@
     "font-weight": 800,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Paperlogy-4Regular",
+      "editor_option_text_font_name": "Paperlogy-Regular",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -282,7 +282,7 @@
     "font-weight": 600,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Paperlogy-4Regular",
+      "editor_option_text_font_name": "Paperlogy-Regular",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -355,7 +355,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255,1)",
@@ -366,7 +366,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -377,7 +377,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 46,
         "color": "rgba(255, 255, 255,1)",
@@ -388,7 +388,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 24,
         "color": "rgba(255, 255, 255,1)",
@@ -410,7 +410,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 14,
         "color": "rgba(255, 255, 255,1)",
@@ -491,7 +491,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255,1)",
@@ -502,7 +502,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -513,7 +513,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 46,
         "color": "rgba(255, 255, 255,1)",
@@ -524,7 +524,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 24,
         "color": "rgba(255, 255, 255,1)",
@@ -546,7 +546,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 14,
         "color": "rgba(255, 255, 255,1)",
@@ -627,7 +627,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255,1)",
@@ -638,7 +638,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -649,7 +649,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 46,
         "color": "rgba(255, 255, 255,1)",
@@ -660,7 +660,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 24,
         "color": "rgba(255, 255, 255,1)",
@@ -682,7 +682,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 14,
         "color": "rgba(255, 255, 255,1)",
@@ -802,7 +802,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 16,
         "color": "rgba(32, 19, 3,1)",
@@ -813,7 +813,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -824,7 +824,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 24,
         "color": "rgba(117, 0, 0,1)",
@@ -835,7 +835,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 14,
         "color": "rgba(87, 57, 44,1)",
@@ -857,7 +857,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 12,
         "color": "rgba(101, 33, 0,1)",
@@ -976,7 +976,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 16,
         "color": "rgba(32, 19, 3,1)",
@@ -987,7 +987,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -998,7 +998,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 24,
         "color": "rgba(117, 0, 0,1)",
@@ -1009,7 +1009,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 14,
         "color": "rgba(87, 57, 44,1)",
@@ -1031,7 +1031,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 12,
         "color": "rgba(101, 33, 0,1)",
@@ -1150,7 +1150,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 16,
         "color": "rgba(32, 19, 3,1)",
@@ -1161,7 +1161,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -1172,7 +1172,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 24,
         "color": "rgba(117, 0, 0,1)",
@@ -1183,7 +1183,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 14,
         "color": "rgba(87, 57, 44,1)",
@@ -1205,7 +1205,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Paperlogy-4Regular",
+        "font_name": "Paperlogy-Regular",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 12,
         "color": "rgba(101, 33, 0,1)",

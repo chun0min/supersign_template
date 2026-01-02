@@ -272,7 +272,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "22",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -325,7 +325,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Shiningstar-v2",
+      "editor_option_text_font_name": "Cafe24Shiningstar",
       "editor_option_text_font_size": "100",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -378,7 +378,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Shiningstar-v2",
+      "editor_option_text_font_name": "Cafe24Shiningstar",
       "editor_option_text_font_size": "65",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -431,7 +431,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "22",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -484,7 +484,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Shiningstar-v2",
+      "editor_option_text_font_name": "Cafe24Shiningstar",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -537,7 +537,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Shiningstar-v2",
+      "editor_option_text_font_name": "Cafe24Shiningstar",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -590,7 +590,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Shiningstar-v2",
+      "editor_option_text_font_name": "Cafe24Shiningstar",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -643,7 +643,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Shiningstar-v2",
+      "editor_option_text_font_name": "Cafe24Shiningstar",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,

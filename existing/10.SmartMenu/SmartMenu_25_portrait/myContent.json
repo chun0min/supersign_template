@@ -558,7 +558,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 22,
         "color": "rgba(23, 23, 23,1)",
@@ -724,7 +724,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 22,
         "color": "rgba(255,255,255,1)",

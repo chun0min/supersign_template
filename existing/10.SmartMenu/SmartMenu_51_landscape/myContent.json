@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -162,7 +162,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -215,7 +215,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -268,7 +268,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare-v2",
+      "editor_option_text_font_name": "Cafe24Ohsquare",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -543,7 +543,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(131,99,61,1)",
@@ -725,7 +725,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(131,99,61,1)",
@@ -907,7 +907,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare-v2",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(131,99,61,1)",
