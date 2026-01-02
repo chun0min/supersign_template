@@ -441,13 +441,6 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'MaruBuri-Regular';
-  font-weight: normal;
-  font-style: normal;
-  src: url('../font/MaruBuri-Regular/MaruBuri-Regular.otf')
-    format('truetype');
-}
-@font-face {
   font-family: 'LeagueSpartan-Bold';
   font-weight: normal;
   font-style: normal;
