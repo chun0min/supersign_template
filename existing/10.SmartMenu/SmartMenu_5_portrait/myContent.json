@@ -541,7 +541,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "4",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -732,7 +732,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "3",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -866,7 +866,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 30,
+        "vertical_scale": 35,
         "reverse": false,
         "section": [
           {
@@ -910,7 +910,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -1025,7 +1025,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 30,
+        "vertical_scale": 35,
         "reverse": false,
         "section": [
           {
@@ -1069,7 +1069,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -1184,7 +1184,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 30,
+        "vertical_scale": 35,
         "reverse": false,
         "section": [
           {
