@@ -340,7 +340,7 @@
         "scale": 1,
         "item_spacing": 25,
         "horizontal_scale": 35,
-        "vertical_scale": 50,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
@@ -608,7 +608,7 @@
         "scale": 1,
         "item_spacing": 25,
         "horizontal_scale": 35,
-        "vertical_scale": 50,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {

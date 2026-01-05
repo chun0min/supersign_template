@@ -426,7 +426,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
@@ -562,7 +562,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
@@ -1221,7 +1221,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
