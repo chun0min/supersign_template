@@ -986,3 +986,10 @@
   src: url('../font/AbhayaLibre-Regular/AbhayaLibre-Regular.ttf')
     format('truetype');
 }
+@font-face {
+  font-family: 'Sarina-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/Sarina/Sarina-Regular.ttf')
+    format('truetype');
+}
