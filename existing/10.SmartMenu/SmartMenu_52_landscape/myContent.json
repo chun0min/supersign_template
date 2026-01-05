@@ -269,7 +269,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "4",
+        "price_type": "3",
         "price_type_text": ["S", "M", "L"],
         "menu_list": [
           {
@@ -436,7 +436,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "4",
+        "price_type": "3",
         "price_type_text": ["S", "M", "L"],
         "menu_list": [
           {
