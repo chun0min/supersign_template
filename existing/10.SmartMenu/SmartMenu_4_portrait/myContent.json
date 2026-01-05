@@ -632,11 +632,11 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_104_portrait",
+    "widget_class": "r5_menu_04_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -792,11 +792,11 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_Menu_104_portrait",
+    "widget_class": "r5_menu_04_portrait",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
