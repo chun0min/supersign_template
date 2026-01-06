@@ -1036,3 +1036,7 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.r5_menu_104_landscape .kcal_option {
+  align-items:baseline;
+}
