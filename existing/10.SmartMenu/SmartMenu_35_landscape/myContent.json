@@ -534,7 +534,7 @@
       },
       "name": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 23,
         "color": "rgba(58, 48, 41, 1)",
         "style_bold": true,
@@ -545,7 +545,7 @@
       },
       "priceType": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 20,
         "color": "rgba(66, 28, 15,1)",
         "style_bold": false,
@@ -556,7 +556,7 @@
       },
       "price": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 23,
         "color": "rgba(221, 97, 5, 1)",
         "style_bold": true,
@@ -567,7 +567,7 @@
       },
       "calories": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 12,
         "color": "rgba(71, 71, 71,1)",
         "style_bold": false,
@@ -692,7 +692,7 @@
       },
       "name": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 23,
         "color": "rgba(58, 48, 41, 1)",
         "style_bold": true,
@@ -703,7 +703,7 @@
       },
       "priceType": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 20,
         "color": "rgba(66, 28, 15,1)",
         "style_bold": false,
@@ -714,7 +714,7 @@
       },
       "price": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 23,
         "color": "rgba(221, 97, 5, 1)",
         "style_bold": true,
@@ -725,7 +725,7 @@
       },
       "calories": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 12,
         "color": "rgba(71, 71, 71,1)",
         "style_bold": false,
@@ -832,7 +832,7 @@
       },
       "name": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 23,
         "color": "rgba(58, 48, 41, 1)",
         "style_bold": true,
@@ -843,7 +843,7 @@
       },
       "priceType": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 20,
         "color": "rgba(66, 28, 15,1)",
         "style_bold": false,
@@ -854,7 +854,7 @@
       },
       "price": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 23,
         "color": "rgba(221, 97, 5, 1)",
         "style_bold": true,
@@ -865,7 +865,7 @@
       },
       "calories": {
         "font_name": "Saira-Regular",
-        "font_file": "Saira-Regular.ttf",
+        "font_file": "Saira-Regular.otf",
         "font_size": 12,
         "color": "rgba(71, 71, 71,1)",
         "style_bold": false,
