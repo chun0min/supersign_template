@@ -993,3 +993,17 @@
   src: url('../font/Sarina/Sarina-Regular.ttf')
     format('truetype');
 }
+@font-face {
+  font-family: 'Instrument Sans';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/instrument-sans/InstrumentSansCondensed-Regular.otf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/NanumSquareRound/NanumSquareRoundR.ttf')
+    format('truetype');
+}
