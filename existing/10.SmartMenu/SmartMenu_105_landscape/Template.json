@@ -1,0 +1,11 @@
+{
+  "type": "template_New",
+  "name": "SmartMenu_105",
+  "group": "SmartMenu",
+  "screen": {
+    "width": "1920",
+    "height": "1080"
+  },
+  "version": "1.00",
+  "folderName": "SmartMenu_105_landscape"
+}

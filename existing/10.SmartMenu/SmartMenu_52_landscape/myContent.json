@@ -47,7 +47,7 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 60,
-    "left": 810,
+    "left": 785,
     "width": 300,
     "height": 48,
     "angle": 0,
@@ -100,7 +100,7 @@
     "display_order": 3,
     "content_type": "TEXT",
     "top": 1036,
-    "left": 1448,
+    "left": 1423,
     "width": 412,
     "height": 24,
     "angle": 0,
@@ -269,13 +269,13 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "4",
+        "price_type": "3",
         "price_type_text": ["S", "M", "L"],
         "menu_list": [
           {
             "menu_name": "Americano",
             "description": "Americano with a gentle, mild acidity that you roast yourself",
-            "price": ["12", "$14", "$18"],
+            "price": ["12", "14", "18"],
             "calory": ["100", "180", "240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 1,
@@ -290,7 +290,7 @@
           {
             "menu_name": "Hazelnut Latte",
             "description": "Sweet coffee with hazelnut flavor",
-            "price": ["10", "$12", "$14"],
+            "price": ["10", "12", "14"],
             "calory": ["100", "160", "220"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 2,
@@ -305,7 +305,7 @@
           {
             "menu_name": "Cafe Latte",
             "description": "Sweet coffee with vanilla flavor",
-            "price": ["12", "$14", "$16"],
+            "price": ["12", "14", "16"],
             "calory": ["100", "160", "210"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS",
             "ordr": 3,
@@ -336,7 +336,7 @@
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
-        "style_bold": 600,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -436,13 +436,13 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "4",
+        "price_type": "3",
         "price_type_text": ["S", "M", "L"],
         "menu_list": [
           {
             "menu_name": "Mango Smoothie",
             "description": "Americano with a gentle, mild acidity that you roast yourself",
-            "price": ["12", "$14", "$18"],
+            "price": ["12", "14", "18"],
             "calory": ["100", "180", "240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 1,
@@ -457,7 +457,7 @@
           {
             "menu_name": "Apple smoothie",
             "description": "Sweet coffee with hazelnut flavor",
-            "price": ["12", "$14", "$16"],
+            "price": ["12", "14", "16"],
             "calory": ["100", "180", "240"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
             "ordr": 2,
@@ -472,7 +472,7 @@
           {
             "menu_name": "Strawberry smoothie",
             "description": "Sweet coffee with vanilla flavor",
-            "price": ["16", "$18", "$20"],
+            "price": ["16", "18", "20"],
             "calory": ["100", "160", "21=40"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS",
             "ordr": 3,
@@ -503,7 +503,7 @@
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(255,255,255, 1)",
-        "style_bold": 600,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,

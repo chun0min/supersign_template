@@ -47,7 +47,7 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 128.85,
-    "left": 230,
+    "left": 205,
     "width": 600,
     "height": 100,
     "angle": 0,
@@ -265,7 +265,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "3",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -495,7 +495,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "3",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -673,7 +673,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -832,7 +832,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -991,7 +991,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {

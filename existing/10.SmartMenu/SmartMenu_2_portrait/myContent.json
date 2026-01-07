@@ -161,7 +161,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "8",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {

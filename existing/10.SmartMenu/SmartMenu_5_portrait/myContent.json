@@ -219,7 +219,7 @@
     "display_order": 6,
     "content_type": "TEXT",
     "top": 50,
-    "left": 373.5,
+    "left": 350,
     "width": 333,
     "height": 80,
     "angle": 0,
@@ -271,7 +271,7 @@
     "display_order": 7,
     "content_type": "TEXT",
     "top": 132.56,
-    "left": 370,
+    "left": 345,
     "width": 304,
     "height": 37,
     "angle": 0,
@@ -323,7 +323,7 @@
     "display_order": 8,
     "content_type": "TEXT",
     "top": 231,
-    "left": 127.88,
+    "left": 102,
     "width": 833.88,
     "height": 36,
     "angle": 0,
@@ -375,7 +375,7 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 794.6,
-    "left": 127.88,
+    "left": 102,
     "width": 833.88,
     "height": 36,
     "angle": 0,
@@ -427,7 +427,7 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 1245.24,
-    "left": 127.88,
+    "left": 102,
     "width": 833.88,
     "height": 36,
     "angle": 0,
@@ -479,7 +479,7 @@
     "display_order": 11,
     "content_type": "TEXT",
     "top": 1563.24,
-    "left": 127.88,
+    "left": 102,
     "width": 833.88,
     "height": 36,
     "angle": 0,
@@ -541,7 +541,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "4",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -732,7 +732,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "3",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -866,7 +866,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 30,
+        "vertical_scale": 35,
         "reverse": false,
         "section": [
           {
@@ -910,7 +910,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -1025,7 +1025,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 30,
+        "vertical_scale": 35,
         "reverse": false,
         "section": [
           {
@@ -1069,7 +1069,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -1184,7 +1184,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 30,
+        "vertical_scale": 35,
         "reverse": false,
         "section": [
           {

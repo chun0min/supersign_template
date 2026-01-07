@@ -48,7 +48,7 @@
     "content_type": "TEXT",
     "top": 80,
     "left": 0,
-    "width": 1080,
+    "width": 1030,
     "height": 194,
     "angle": 0,
     "content_size": 15,
@@ -109,7 +109,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "6",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -344,7 +344,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "",
-        "price_type": "5",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {

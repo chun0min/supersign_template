@@ -166,7 +166,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -217,7 +217,7 @@
         "font_file": "Sansita One.ttf",
         "font_size": 54,
         "color": "rgba(255, 255, 255,1)",
-        "style_bold": 400,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -250,7 +250,7 @@
         "font_file": "Pretendard.ttf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
-        "style_bold": 500,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -358,7 +358,7 @@
         "font_file": "Sansita One.ttf",
         "font_size": 54,
         "color": "rgba(255, 255, 255,1)",
-        "style_bold": 400,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -391,7 +391,7 @@
         "font_file": "Pretendard.ttf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
-        "style_bold": 500,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -448,7 +448,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "2",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -499,7 +499,7 @@
         "font_file": "Sansita One.ttf",
         "font_size": 54,
         "color": "rgba(255, 255, 255,1)",
-        "style_bold": 400,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -532,7 +532,7 @@
         "font_file": "Pretendard.ttf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
-        "style_bold": 500,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,

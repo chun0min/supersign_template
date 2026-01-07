@@ -548,7 +548,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "5",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -595,7 +595,7 @@
         "font_file": "Protest Strike.ttf",
         "font_size": 48,
         "color": "rgba(251, 227, 179,1)",
-        "style_bold": 400,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -628,7 +628,7 @@
         "font_file": "Pretendard.ttf",
         "font_size": 14,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": 500,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -680,7 +680,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "4",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -727,7 +727,7 @@
         "font_file": "Protest Strike.ttf",
         "font_size": 48,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": 400,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -760,7 +760,7 @@
         "font_file": "Pretendard.ttf",
         "font_size": 14,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": 500,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -812,7 +812,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "4",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -859,7 +859,7 @@
         "font_file": "Protest Strike.ttf",
         "font_size": 48,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": 400,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -892,7 +892,7 @@
         "font_file": "Pretendard.ttf",
         "font_size": 14,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": 500,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -944,7 +944,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "4",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -991,7 +991,7 @@
         "font_file": "Protest Strike.ttf",
         "font_size": 48,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": 400,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -1024,7 +1024,7 @@
         "font_file": "Pretendard.ttf",
         "font_size": 14,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": 500,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -1076,7 +1076,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "3",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -1155,7 +1155,7 @@
         "font_file": "Protest Strike.ttf",
         "font_size": 24,
         "color": "rgba(251, 227, 179, 1)",
-        "style_bold": 400,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -1188,7 +1188,7 @@
         "font_file": "Pretendard.ttf",
         "font_size": 14,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": 500,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -1240,7 +1240,7 @@
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
-        "price_type": "3",
+        "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
           {
@@ -1319,7 +1319,7 @@
         "font_file": "Protest Strike.ttf",
         "font_size": 24,
         "color": "rgba(251, 227, 179, 1)",
-        "style_bold": 400,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -1352,7 +1352,7 @@
         "font_file": "Pretendard.ttf",
         "font_size": 14,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": 500,
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,

@@ -1,0 +1,838 @@
+<!-- /* 웹화면 누락(임의로 생성함) */ -->
+<head>
+  <title>템플릿 오리지날 TEST</title>
+  <style>
+    @import url('../../../css/editor/draggable-resizable/index.module.css');
+    @import url('../../../css/editor/draggable-resizable/moveable.css');
+    @import url('../../../css/editor/draggable-resizable/t_menu_new.css');
+    @import url('../../../css/font.css');
+
+    /*custom css*/
+    @import url('../../../css/editor/draggable-resizable/index.v2.module.css');
+    ._price_option_col_1ypul_43 {
+      display: flex;
+      flex-direction: column;
+    }
+  </style>
+</head>
+<body style="margin: 0; padding: 0"> 
+  <!-- 여기부터 템플릿 화면 -->
+  <style>
+    .backgroundSize {
+      width: 1920px;
+      height: 1080px;
+      background-size: 1920px 1080px;
+      position: relative;
+    }
+    .widgetCon {
+      position: absolute;
+    }
+  </style>
+  <div id="editor" class="backgroundSize" style="background-image: url('background.jpg')">
+    <!-- text -->
+    <div
+      id="editorItem1"
+      class="widgetCon"
+      style="
+        top: 91px;
+        left: 91px;
+        width: 308px;
+        height: 105px;
+        text-align: left; 
+        color: rgba(255, 255, 255, 1);
+        font-size: 84px;
+        font-family: 'Pretendard';
+        font-style: normal;
+        font-weight: normal;
+        line-height: normal;
+        letter-spacing: 1px;
+      "
+    >
+    COFFEE
+    </div>
+
+    <div
+    id="editorItem2"
+    class="widgetCon"
+    style="
+      top: 176px;
+      left: 91px;
+      width: 339px;
+      height: 140px;
+      text-align: left; 
+      color: rgba(255, 255, 255, 1);
+      font-size: 117px;
+      font-family: 'Pretendard';
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      letter-spacing: 1px;
+    "
+  >
+  MENU
+    </div>
+
+    <div
+    id="editorItem3"
+    class="widgetCon"
+    style="
+      top: 327px;
+      left: 104px;
+      width: 163px;
+      height: 48px;
+      text-align: left; 
+      color: rgba(255, 255, 255, 1);
+      font-size: 18.5px;
+      font-family: 'Pretendard';
+      font-style: normal;
+      font-weight: normal;
+      line-height: normal;
+      letter-spacing: 1px;
+    "
+  >
+  AVAILABLE FROM 07:00 TO 10:00
+    </div>
+
+    <!-- 여기부터 웹화면 -->
+    <div
+      id="editorIte4"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 5, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 474px; height: 255px; top: 146px; left: 531px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea r5_menu_105_landscape" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu" style="display: flex; flex-direction: column;">
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+              --col1: 30;
+              --col2: 70;
+              grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%);"
+            >
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_01.png" alt="img_01.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer" style="margin-top: auto; margin-left: 20px;">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Pretendard';
+                    font-size: 33px;
+                    font-weight: 900;
+                    font-style: normal;
+                    color:rgba(181, 109, 60, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    line-height: 1;
+                    margin-bottom: 12px;
+                  "
+                >
+                ICED COFFEE
+                </div>
+
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 19px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(0, 0, 0, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 6px;
+                    "
+                  >
+                  Briefly describe the ingredients and their characteristics.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(181, 109, 60, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 15px;
+                    "
+                  >
+                  Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer" style="margin-top: 0; margin-bottom: auto; margin-left: 20px;">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option" >
+                    <div class="size_option">
+                      <div class="price_option price_left">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 35px;
+                            font-weight: 900; 
+                            font-style: normal;
+                            color: rgba(0, 0, 0, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            margin-right: 3px;
+                          "
+                        >
+                        3.6
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Inter-Regular';
+                        font-size: 13px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(0, 0, 0, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                      "
+                    >
+                    99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="editorIte5"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 6, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 474px; height: 255px; top: 776px; left: 517px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea r5_menu_105_landscape" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu" style="display: flex; flex-direction: column;">
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+              --col1: 30;
+              --col2: 70;
+              grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%);"
+            >
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_02.png" alt="img_02.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer" style="margin-top: auto; margin-left: 20px;">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Pretendard';
+                    font-size: 33px;
+                    font-weight: 900;
+                    font-style: normal;
+                    color:rgba(181, 109, 60, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    line-height: 1;
+                    margin-bottom: 12px;
+                  "
+                >
+                ICED COFFEE
+                </div>
+
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 19px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(0, 0, 0, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 6px;
+                    "
+                  >
+                  Briefly describe the ingredients and their characteristics.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(181, 109, 60, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 15px;
+                    "
+                  >
+                  Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer" style="margin-top: 0; margin-bottom: auto; margin-left: 20px;">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option" >
+                    <div class="size_option">
+                      <div class="price_option price_left">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 35px;
+                            font-weight: 900; 
+                            font-style: normal;
+                            color: rgba(0, 0, 0, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            margin-right: 3px;
+                          "
+                        >
+                        3.6
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Inter-Regular';
+                        font-size: 13px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(0, 0, 0, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                      "
+                    >
+                    99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="editorIte6"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 7, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 474px; height: 255px; top: 472px; left: 659px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea r5_menu_105_landscape" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu" style="display: flex; flex-direction: column;">
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+              --col1: 70;
+              --col2: 30;
+              grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%);"
+            >
+              <!-- Grid-B (첫 번째 열, 첫 번째 행) -->
+              <div class="itemGrid-B dragContainer" style="margin-top: auto; margin-right: 20px; grid-column: 1; grid-row: 1;">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Pretendard';
+                    font-size: 33px;
+                    font-weight: 900;
+                    font-style: normal;
+                    color:rgba(181, 109, 60, 1);
+                    text-align: right;
+                    background-color: rgba(255, 255, 255, 0);
+                    line-height: 1;
+                    margin-bottom: 12px;
+                  "
+                >
+                ICED COFFEE
+                </div>
+
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 19px;
+                      font-weight: 400;
+                      font-style: normal;
+                      text-align: right;
+                      color: rgba(0, 0, 0, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 6px;
+                    "
+                  >
+                  Briefly describe the ingredients and their characteristics.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 12px;
+                      font-weight: normal;
+                      text-align: right;
+                      font-style: normal;
+                      color: rgba(181, 109, 60, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 15px;
+                    "
+                  >
+                  Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C (첫 번째 열, 두 번째 행) -->
+              <div class="itemGrid-C dragContainer" style="margin-top: 0; margin-bottom: auto; margin-right: 20px; grid-column: 1; grid-row: 2;">
+                <div class="menuOption dragBox" style="justify-content: flex-end;" draggable="true">
+                  <div class="kcal_option" >
+                    <div class="size_option">
+                      <div class="price_option price_left">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 35px;
+                            font-weight: 900; 
+                            font-style: normal;
+                            text-align: right;
+                            color: rgba(0, 0, 0, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            margin-right: 3px;
+                          "
+                        >
+                        3.6
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Inter-Regular';
+                        font-size: 13px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(0, 0, 0, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                      "
+                    >
+                    99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-A (두 번째 열, 전체 행 차지) -->
+              <div class="itemGrid-A dragContainer" style="grid-column: 2; grid-row: 1 / 3;">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_03.png" alt="img_03.png의 썸네일입니다." />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="editorIte7"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 8, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 474px; height: 255px; top: 146px; left: 1214px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea r5_menu_105_landscape" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu" style="display: flex; flex-direction: column;">
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+              --col1: 30;
+              --col2: 70;
+              grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%);"
+            >
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_04.png" alt="img_04.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer" style="margin-top: auto; margin-left: 20px;">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Pretendard';
+                    font-size: 33px;
+                    font-weight: 900;
+                    font-style: normal;
+                    color:rgba(181, 109, 60, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    line-height: 1;
+                    margin-bottom: 12px;
+                  "
+                >
+                ICED COFFEE
+                </div>
+
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 19px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(0, 0, 0, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 6px;
+                    "
+                  >
+                  Briefly describe the ingredients and their characteristics.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(181, 109, 60, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 15px;
+                    "
+                  >
+                  Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer" style="margin-top: 0; margin-bottom: auto; margin-left: 20px;">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option" >
+                    <div class="size_option">
+                      <div class="price_option price_left">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 35px;
+                            font-weight: 900; 
+                            font-style: normal;
+                            color: rgba(0, 0, 0, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            margin-right: 3px;
+                          "
+                        >
+                        3.6
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Inter-Regular';
+                        font-size: 13px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(0, 0, 0, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                      "
+                    >
+                    99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="editorIte8"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 9, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 474px; height: 255px; top: 776px; left: 1190px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea r5_menu_105_landscape" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu" style="display: flex; flex-direction: column;">
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+              --col1: 30;
+              --col2: 70;
+              grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%);"
+            >
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_05.png" alt="img_05.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer" style="margin-top: auto; margin-left: 20px;">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Pretendard';
+                    font-size: 33px;
+                    font-weight: 900;
+                    font-style: normal;
+                    color:rgba(181, 109, 60, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    line-height: 1;
+                    margin-bottom: 12px;
+                  "
+                >
+                ICED COFFEE
+                </div>
+
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 19px;
+                      font-weight: 400;
+                      font-style: normal;
+                      color: rgba(0, 0, 0, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 6px;
+                    "
+                  >
+                  Briefly describe the ingredients and their characteristics.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(181, 109, 60, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 15px;
+                    "
+                  >
+                  Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer" style="margin-top: 0; margin-bottom: auto; margin-left: 20px;">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option" >
+                    <div class="size_option">
+                      <div class="price_option price_left">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 35px;
+                            font-weight: 900; 
+                            font-style: normal;
+                            color: rgba(0, 0, 0, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            margin-right: 3px;
+                          "
+                        >
+                        3.6
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Inter-Regular';
+                        font-size: 13px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(0, 0, 0, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                      "
+                    >
+                    99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="editorIte9"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 10, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 474px; height: 255px; top: 472px; left: 1336px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea r5_menu_105_landscape" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu" style="display: flex; flex-direction: column;">
+            <div
+              class="menuItem itemGrid type-01"
+              style="
+              --col1: 70;
+              --col2: 30;
+              grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%);"
+            >
+              <!-- Grid-B (첫 번째 열, 첫 번째 행) -->
+              <div class="itemGrid-B dragContainer" style="margin-top: auto; margin-right: 20px; grid-column: 1; grid-row: 1;">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Pretendard';
+                    font-size: 33px;
+                    font-weight: 900;
+                    font-style: normal;
+                    color:rgba(181, 109, 60, 1);
+                    text-align: right;
+                    background-color: rgba(255, 255, 255, 0);
+                    line-height: 1;
+                    margin-bottom: 12px;
+                  "
+                >
+                ICED COFFEE
+                </div>
+
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 19px;
+                      font-weight: 400;
+                      font-style: normal;
+                      text-align: right;
+                      color: rgba(0, 0, 0, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 6px;
+                    "
+                  >
+                  Briefly describe the ingredients and their characteristics.
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Inter-Regular';
+                      font-size: 12px;
+                      font-weight: normal;
+                      text-align: right;
+                      font-style: normal;
+                      color: rgba(181, 109, 60, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      margin-bottom: 15px;
+                    "
+                  >
+                  Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C (첫 번째 열, 두 번째 행) -->
+              <div class="itemGrid-C dragContainer" style="margin-top: 0; margin-bottom: auto; margin-right: 20px; grid-column: 1; grid-row: 2;">
+                <div class="menuOption dragBox" style="justify-content: flex-end;" draggable="true">
+                  <div class="kcal_option" >
+                    <div class="size_option">
+                      <div class="price_option price_left">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 35px;
+                            font-weight: 900; 
+                            font-style: normal;
+                            text-align: right;
+                            color: rgba(0, 0, 0, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            margin-right: 3px;
+                          "
+                        >
+                        3.6
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Inter-Regular';
+                        font-size: 13px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color:rgba(0, 0, 0, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                      "
+                    >
+                    99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-A (두 번째 열, 전체 행 차지) -->
+              <div class="itemGrid-A dragContainer" style="grid-column: 2; grid-row: 1 / 3;">
+                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%);">
+                  <img src="img_06.png" alt="img_06.png의 썸네일입니다." />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 여기까지 -->
+  </div>
+</body>
