@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1920,
+    "height": 1080,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/background.jpg",
+    "content_size": 736285,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 77.7,
+    "left": 1423,
+    "width": 1,
+    "height": 925.6,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_13.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_13.png",
+    "content_size": 180,
+    "scene_no": 1,
+    "media_name": "img_13.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "TEXT",
+    "top": 37,
+    "left": 90,
+    "width": 306,
+    "height": 244,
+    "angle": 0,
+    "content_size": 6,
+    "text_value": "Coffee",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Allura",
+      "editor_option_text_font_size": "145.8",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.23",
+      "editor_option_text_spacing": "0",
+      "editor_option_text_font_file": "Allura.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_angle": 6,
+      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "TEXT",
+    "top": 180,
+    "left": 289,
+    "width": 137,
+    "height": 61,
+    "angle": 0,
+    "content_size": 4,
+    "text_value": "MENU",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "EBGaramond-Regular",
+      "editor_option_text_font_size": "43.7",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "175, 117, 97",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": "1.707",
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_angle": 6,
+      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "TEXT",
+    "top": 88,
+    "left": 1485,
+    "width": 97,
+    "height": 61,
+    "angle": 0,
+    "content_size": 4,
+    "text_value": "Food",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Plantagenet Cherokee",
+      "editor_option_text_font_size": "43.7",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "175, 117, 97",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.2",
+      "editor_option_text_spacing": "1.366",
+      "editor_option_text_font_file": "Plantagenet Cherokee.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_angle": 6,
+      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "TEXT",
+    "top": 556,
+    "left": 1485,
+    "width": 97,
+    "height": 61,
+    "angle": 0,
+    "content_size": 7,
+    "text_value": "Dessert",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Plantagenet Cherokee",
+      "editor_option_text_font_size": "43.7",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "175, 117, 97",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.2",
+      "editor_option_text_spacing": "1.366",
+      "editor_option_text_font_file": "Plantagenet Cherokee.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_angle": 6,
+      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 200,
+    "height": 929,
+    "top": 72,
+    "left": 459,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_81_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_01.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_01.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_01.png"
+            }
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_05.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_05.png"
+            }
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_09.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_09.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_09.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": true,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 10.8,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 10.6,
+        "color": "rgba(198, 164, 155, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(76, 76, 76, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 74,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "T_MENU",
+    "width": 200,
+    "height": 929,
+    "top": 72,
+    "left": 701.6,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_81_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_02.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_02.png"
+            }
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_06.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_06.png"
+            }
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_10.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_10.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_10.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": true,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 10.8,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 10.6,
+        "color": "rgba(198, 164, 155, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(76, 76, 76, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 74,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 8,
+    "display_order": 9,
+    "content_type": "T_MENU",
+    "width": 200,
+    "height": 929,
+    "top": 72,
+    "left": 944.3,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_81_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_03.png"
+            }
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_07.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_07.png"
+            }
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_11.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_11.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_11.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": true,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 10.8,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 10.6,
+        "color": "rgba(198, 164, 155, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(76, 76, 76, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 74,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 9,
+    "display_order": 10,
+    "content_type": "T_MENU",
+    "width": 200,
+    "height": 929,
+    "top": 72,
+    "left": 1187,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_81_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_04.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_04.png"
+            }
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_08.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_08.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_08.png"
+            }
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame.",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_12.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_12.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_12.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": true,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 10.8,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 10.6,
+        "color": "rgba(198, 164, 155, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(76, 76, 76, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 74,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 10,
+    "display_order": 11,
+    "content_type": "T_MENU",
+    "width": 362,
+    "height": 357,
+    "top": 165,
+    "left": 1485,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_81_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "ordr": 2,
+            "enable": true
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "ordr": 3,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": true,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 10.8,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 10.6,
+        "color": "rgba(198, 164, 155, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(76, 76, 76, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 74,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 11,
+    "display_order": 12,
+    "content_type": "T_MENU",
+    "width": 362,
+    "height": 357,
+    "top": 637,
+    "left": 1485,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_81_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "ordr": 1,
+            "enable": true
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "ordr": 2,
+            "enable": true
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "ordr": 3,
+            "enable": true
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": true,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "price": {
+        "font_name": "Cafe24Ohsquare",
+        "font_file": "Cafe24Ohsquare-v2.ttf",
+        "font_size": 15.5,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 10.8,
+        "color": "rgba(175, 117, 97, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 10.6,
+        "color": "rgba(198, 164, 155, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_file": "SpoqaHanSansNeo-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(76, 76, 76, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "above",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 74,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  }
+]
