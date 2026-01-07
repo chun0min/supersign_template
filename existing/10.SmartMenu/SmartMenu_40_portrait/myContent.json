@@ -1,0 +1,609 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1080,
+    "height": 1920,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/background.jpg",
+    "content_size": 641409,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "TEXT",
+    "top": 95,
+    "left": 132,
+    "width": 801,
+    "height": 130,
+    "angle": 0,
+    "content_size": 10,
+    "text_value": "BIG BURGER",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "LOTTERIA CHAB",
+      "editor_option_text_font_size": "110",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 2,
+      "editor_option_text_font_file": "LOTTERIA CHAB.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 0.32
+    }
+  },
+
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "TEXT",
+    "top": 232,
+    "left": 132,
+    "width": 815,
+    "height": 24,
+    "angle": 0,
+    "content_size": 85,
+    "text_value": "No.1 Hamburger Rastaurant, One perfect bite to satisfy your cravings — taste it now! ",
+    "line_height": 1,
+    "font-weight": 900,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_size": "20",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "0, 0, 0",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 1,
+      "editor_option_text_font_file": "Pretendard-Regular.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 0.32
+    }
+  },
+
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "T_MENU",
+    "width": 532,
+    "height": 652,
+    "top": 323,
+    "left": 274,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_40_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
+        "menu_list": [
+          {
+            "menu_name": "Signature Big Patty Burger",
+            "description": "Describe ingredients and features.",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_01.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_01.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_01.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 32,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(61, 61, 61, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 11,
+        "color": "rgba(151, 151, 151, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(143, 38, 37, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "T_MENU",
+    "width": 1055,
+    "height": 375,
+    "top": 1046,
+    "left": 13,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_40_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
+        "menu_list": [
+          {
+            "menu_name": "Chicken Burger",
+            "description": "Describe ingredients and features.",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_02.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_02.png"
+            }
+          },
+          {
+            "menu_name": "Chicken Burger",
+            "description": "Describe ingredients and features.",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_03.png"
+            }
+          },
+          {
+            "menu_name": "Chicken Burger",
+            "description": "Describe ingredients and features.",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_04.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_04.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 28,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(61, 61, 61, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 11,
+        "color": "rgba(151, 151, 151, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(143, 38, 37, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "T_MENU",
+    "width": 1055,
+    "height": 375,
+    "top": 1432,
+    "left": 13,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_40_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
+        "menu_list": [
+          {
+            "menu_name": "Chicken Burger",
+            "description": "Describe ingredients and features.",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_05.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_05.png"
+            }
+          },
+          {
+            "menu_name": "Chicken Burger",
+            "description": "Describe ingredients and features.",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_06.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_06.png"
+            }
+          },
+          {
+            "menu_name": "Chicken Burger",
+            "description": "Describe ingredients and features.",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_07.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_07.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 28,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(61, 61, 61, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 11,
+        "color": "rgba(151, 151, 151, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(143, 38, 37, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Pretendard-Regular",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  }
+]
