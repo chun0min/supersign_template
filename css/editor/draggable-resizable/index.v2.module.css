@@ -776,7 +776,3 @@
 .r5_menu_85_landscape .menuItem.type-01 .menuOption {
   justify-content: flex-end;
 }
-
-.menu .item-image img{
-  max-width: 207px;
-}
