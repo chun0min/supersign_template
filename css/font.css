@@ -349,13 +349,13 @@
   src: url('../font/MaruBuri-Regular/MaruBuri-Regular.ttf')
     format('truetype');
 }
-/* @font-face {
-  font-family: 'Caveat-Regular';
+@font-face {
+  font-family: 'Caveat';
   font-weight: normal;
   font-style: normal;
-  src: url('../font/Caveat-Regular/Caveat-Regular.ttf')
+  src: url('../font/Caveat/Caveat-Regular.ttf')
     format('truetype');
-} */
+}
 @font-face {
   font-family: 'Permanent Marker';
   font-weight: normal;
@@ -426,13 +426,6 @@
   src: url('../font/Playlist_Script/Playlist Script.otf')
     format('truetype');
 }
-/* @font-face {
-  font-family: 'NotoSansKR-Medium';
-  font-weight: normal;
-  font-style: normal;
-  src: url('../font/NotoSansKR-Medium/NotoSansKR-Medium.otf')
-    format('truetype');
-} */
 @font-face {
   font-family: 'Noto Sans KR';
   font-weight: normal;
@@ -524,13 +517,6 @@
   src: url('../font/BlackHanSans-Regular/BlackHanSans-Regular.ttf')
     format('truetype');
 }
-/* @font-face {
-  font-family: 'Alfa Slab One';
-  font-weight: normal;
-  font-style: normal;
-  src: url('../font/AlfaSlabOne-Regular/AlfaSlabOne-Regular.ttf')
-    format('truetype');
-} */
 @font-face {
   font-family: 'Satoshi';
   font-weight: normal;
@@ -685,13 +671,6 @@
   src: url('../font/BlackOpsOne-Regular/BlackOpsOne-Regular.ttf')
     format('truetype');
 } */
-/* @font-face {
-  font-family: 'EBGaramond12-Regular';
-  font-weight: normal;
-  font-style: normal;
-  src: url('../font/EBGaramond12-Regular/EBGaramond12-Regular.ttf')
-    format('truetype');
-} */
 @font-face {
   font-family: 'EBGaramond';
   font-weight: normal;
@@ -805,13 +784,6 @@
     format('truetype');
 }
 /* @font-face {
-  font-family: 'Inter-Bold';
-  font-weight: normal;
-  font-style: normal;
-  src: url('../font/Inter-Regular/Inter-Bold.ttf')
-    format('truetype');
-} */
-/* @font-face {
   font-family: 'Oswald-Regular';
   font-weight: normal;
   font-style: normal;
@@ -872,13 +844,6 @@
   font-weight: normal;
   font-style: normal;
   src: url('../font/Khalila/Khalila.otf')
-    format('truetype');
-} */
-/* @font-face {
-  font-family: 'Saira';
-  font-weight: normal;
-  font-style: normal;
-  src: url('../font/Saira/Saira-Regular.ttf')
     format('truetype');
 } */
 @font-face {
