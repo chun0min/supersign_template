@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "75",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "AlexBrush-Regular",
+      "editor_option_text_font_name": "Alex Brush",
       "editor_option_text_font_size": "115",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -162,7 +162,7 @@
     "line_height": 37,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -215,7 +215,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -228,7 +228,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -268,7 +268,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -281,7 +281,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -321,7 +321,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -334,7 +334,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -456,7 +456,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(45,45,45,1)",
@@ -467,7 +467,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -478,7 +478,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "LibreBodoni-Regular",
+        "font_name": "Libre Bodoni",
         "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 20,
         "color": "rgba(153,97,20,1)",
@@ -489,7 +489,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(153,97,20,1)",
@@ -500,7 +500,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(153,97,20,1)",
@@ -511,7 +511,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(45,45,45,1)",
@@ -608,7 +608,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(45,45,45,1)",
@@ -619,7 +619,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -630,7 +630,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "LibreBodoni-Regular",
+        "font_name": "Libre Bodoni",
         "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 20,
         "color": "rgba(153,97,20,1)",
@@ -641,7 +641,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(153,97,20,1)",
@@ -652,7 +652,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(153,97,20,1)",
@@ -663,7 +663,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(45,45,45,1)",
@@ -760,7 +760,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(45,45,45,1)",
@@ -771,7 +771,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -782,7 +782,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "LibreBodoni-Regular",
+        "font_name": "Libre Bodoni",
         "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 20,
         "color": "rgba(153,97,20,1)",
@@ -793,7 +793,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(153,97,20,1)",
@@ -804,7 +804,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(153,97,20,1)",
@@ -815,7 +815,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(45,45,45,1)",
@@ -912,7 +912,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(45,45,45,1)",
@@ -923,7 +923,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -934,7 +934,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "LibreBodoni-Regular",
+        "font_name": "Libre Bodoni",
         "font_file": "LibreBodoni-Regular.ttf",
         "font_size": 20,
         "color": "rgba(153,97,20,1)",
@@ -945,7 +945,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(153,97,20,1)",
@@ -956,7 +956,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(153,97,20,1)",
@@ -967,7 +967,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(45,45,45,1)",

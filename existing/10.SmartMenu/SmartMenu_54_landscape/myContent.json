@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "48",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ChangwonDangamAsac-Bold_0712",
+      "editor_option_text_font_name": "Changwon Dangam Asac",
       "editor_option_text_font_size": "74",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -162,7 +162,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -215,7 +215,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -268,7 +268,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -321,7 +321,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -374,7 +374,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "36",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -427,7 +427,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi-Variable",
+      "editor_option_text_font_name": "Satoshi",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -480,7 +480,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi-Variable",
+      "editor_option_text_font_name": "Satoshi",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -533,7 +533,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi-Variable",
+      "editor_option_text_font_name": "Satoshi",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -586,7 +586,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi-Variable",
+      "editor_option_text_font_name": "Satoshi",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -639,7 +639,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi-Variable",
+      "editor_option_text_font_name": "Satoshi",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -692,7 +692,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi-Variable",
+      "editor_option_text_font_name": "Satoshi",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -914,7 +914,7 @@
         ]
       },
       "name": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 24,
         "color": "rgba(75,71,69,1)",
@@ -925,7 +925,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -936,7 +936,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 22,
         "color": "rgba(75,71,69,1)",
@@ -947,7 +947,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(139,139,139,1)",
@@ -958,7 +958,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(139,139,139,1)",
@@ -969,7 +969,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(75,71,69,1)",
@@ -1066,7 +1066,7 @@
         ]
       },
       "name": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 24,
         "color": "rgba(75,71,69,1)",
@@ -1077,7 +1077,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -1088,7 +1088,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 22,
         "color": "rgba(75,71,69,1)",
@@ -1099,7 +1099,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(139,139,139,1)",
@@ -1110,7 +1110,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(139,139,139,1)",
@@ -1121,7 +1121,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(75,71,69,1)",
@@ -1233,7 +1233,7 @@
         ]
       },
       "name": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 24,
         "color": "rgba(75,71,69,1)",
@@ -1244,7 +1244,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -1255,7 +1255,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 22,
         "color": "rgba(75,71,69,1)",
@@ -1266,7 +1266,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(139,139,139,1)",
@@ -1277,7 +1277,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(139,139,139,1)",
@@ -1288,7 +1288,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(75,71,69,1)",
@@ -1400,7 +1400,7 @@
         ]
       },
       "name": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 24,
         "color": "rgba(75,71,69,1)",
@@ -1411,7 +1411,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -1422,7 +1422,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 22,
         "color": "rgba(75,71,69,1)",
@@ -1433,7 +1433,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(139,139,139,1)",
@@ -1444,7 +1444,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(139,139,139,1)",
@@ -1455,7 +1455,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(75,71,69,1)",
@@ -1552,7 +1552,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(75,71,69,1)",
@@ -1563,7 +1563,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(75, 71, 69, 1)",
@@ -1574,7 +1574,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 25,
         "color": "rgba(255,78,37,1)",
@@ -1585,7 +1585,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(139,139,139,1)",
@@ -1596,7 +1596,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(139,139,139,1)",
@@ -1607,7 +1607,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(75,71,69,1)",

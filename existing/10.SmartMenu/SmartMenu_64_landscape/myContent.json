@@ -228,7 +228,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -281,7 +281,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -333,7 +333,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -385,7 +385,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -437,7 +437,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -549,7 +549,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(49,50,50,1)",
@@ -560,7 +560,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -571,7 +571,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(251,227,179,1)",
@@ -582,7 +582,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(251,227,179,1)",
@@ -593,7 +593,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(251,227,179,1)",
@@ -604,7 +604,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
@@ -675,7 +675,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(49,50,50,1)",
@@ -686,7 +686,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -697,7 +697,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(251,227,179,1)",
@@ -708,7 +708,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(251,227,179,1)",
@@ -719,7 +719,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(251,227,179,1)",
@@ -730,7 +730,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
@@ -801,7 +801,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(255,255,255,1)",
@@ -812,7 +812,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -823,7 +823,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(251,227,179,1)",
@@ -834,7 +834,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(251,227,179,1)",
@@ -845,7 +845,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(251,227,179,1)",
@@ -856,7 +856,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
@@ -927,7 +927,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(49,50,50,1)",
@@ -938,7 +938,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -949,7 +949,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(251,227,179,1)",
@@ -960,7 +960,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(251,227,179,1)",
@@ -971,7 +971,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(251,227,179,1)",
@@ -982,7 +982,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
@@ -1089,7 +1089,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255,217,160,1)",
@@ -1100,7 +1100,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -1111,7 +1111,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 24,
         "color": "rgba(255,217,160,1)",
@@ -1122,7 +1122,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(174,174,174,1)",
@@ -1133,7 +1133,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(255,217,160,1)",
@@ -1144,7 +1144,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
@@ -1252,7 +1252,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255,217,160,1)",
@@ -1263,7 +1263,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -1274,7 +1274,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "ProtestStrike-Regular",
+        "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 24,
         "color": "rgba(255,217,160,1)",
@@ -1285,7 +1285,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(174,174,174,1)",
@@ -1296,7 +1296,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(255,217,160,1)",
@@ -1307,7 +1307,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",

@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BarlowCondensed",
+      "editor_option_text_font_name": "Barlow Condensed",
       "editor_option_text_font_size": "162",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -412,7 +412,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "BebasNeue-Regular",
+        "font_name": "Bebas Neue",
         "font_file": "BebasNeue-Regular.ttf",
         "font_size": 92,
         "color": "rgba(225,54,14,1)",
@@ -423,7 +423,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
@@ -434,7 +434,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(45,21,13,1)",
@@ -445,7 +445,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(45,21,13,1)",
@@ -456,7 +456,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(45,21,13,1)",
@@ -467,7 +467,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "BarlowCondensed",
+        "font_name": "Barlow Condensed",
         "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(225,54,14,1)",

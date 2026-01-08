@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "106",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": true,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0.8,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "145",
       "editor_option_text_style_bold": 600,
       "editor_option_text_style_italic": false,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -0.8,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -162,7 +162,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "49",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -175,7 +175,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1.4,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -215,7 +215,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "49",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -228,7 +228,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1.4,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -268,7 +268,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "49",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -281,7 +281,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1.4,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -388,7 +388,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 28,
         "color": "rgba(198,74,38,1)",
@@ -399,8 +399,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -410,8 +410,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "EBGaramond12-Regular",
-        "font_file": "EBGaramond12-Regular.ttf",
+        "font_name": "EBGaramond",
+        "font_file": "EBGaramond-Regular.ttf",
         "font_size": 30,
         "color": "rgba(0,0,0,1)",
         "style_bold": true,
@@ -421,7 +421,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(135,135,135,1)",
@@ -432,7 +432,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(135,135,135,1)",
@@ -443,7 +443,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0,0,0,1)",
@@ -570,7 +570,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 28,
         "color": "rgba(198,74,38,1)",
@@ -581,8 +581,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -592,8 +592,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "EBGaramond12-Regular",
-        "font_file": "EBGaramond12-Regular.ttf",
+        "font_name": "EBGaramond",
+        "font_file": "EBGaramond-Regular.ttf",
         "font_size": 30,
         "color": "rgba(0,0,0,1)",
         "style_bold": true,
@@ -603,7 +603,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(135,135,135,1)",
@@ -614,7 +614,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(135,135,135,1)",
@@ -625,7 +625,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0,0,0,1)",
@@ -751,7 +751,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 28,
         "color": "rgba(198,74,38,1)",
@@ -762,8 +762,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -773,8 +773,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "EBGaramond12-Regular",
-        "font_file": "EBGaramond12-Regular.ttf",
+        "font_name": "EBGaramond",
+        "font_file": "EBGaramond-Regular.ttf",
         "font_size": 30,
         "color": "rgba(0,0,0,1)",
         "style_bold": true,
@@ -784,7 +784,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(135,135,135,1)",
@@ -795,7 +795,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(135,135,135,1)",
@@ -806,7 +806,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0,0,0,1)",

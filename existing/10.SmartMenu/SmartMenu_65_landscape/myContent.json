@@ -99,7 +99,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BarlowCondensed",
+      "editor_option_text_font_name": "Barlow Condensed",
       "editor_option_text_font_size": "25",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -152,7 +152,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "138",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -204,7 +204,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "AbhayaLibre-Regular",
+      "editor_option_text_font_name": "Abhaya Libre",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,

@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "92",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "MavenPro-Regular",
+      "editor_option_text_font_name": "Maven Pro",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": 600,
       "editor_option_text_style_italic": false,
@@ -161,7 +161,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "17",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -213,7 +213,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -319,7 +319,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -372,7 +372,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -425,7 +425,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -478,7 +478,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -531,7 +531,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -584,7 +584,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -637,7 +637,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -690,7 +690,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -743,7 +743,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -796,7 +796,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -849,7 +849,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -902,7 +902,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -1213,7 +1213,7 @@
         ]
       },
       "name": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular",
         "font_size": 19,
         "color": "rgba(0,0,0,1)",
@@ -1235,7 +1235,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0,0,0,1)",
@@ -1246,7 +1246,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 12,
         "color": "rgba(93,65,44,1)",
@@ -1257,7 +1257,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 11,
         "color": "rgba(196,154,144,1)",
@@ -1268,7 +1268,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",

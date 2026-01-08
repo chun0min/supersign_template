@@ -151,7 +151,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi-Variable",
+      "editor_option_text_font_name": "Satoshi",
       "editor_option_text_font_size": "63",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -255,7 +255,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 23,
         "color": "rgba(25, 25, 25, 1)",
@@ -266,7 +266,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -277,7 +277,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -299,7 +299,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 10,
         "color": "rgba(242, 103, 48, 1)",
@@ -310,7 +310,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(25, 25, 25, 1)",
@@ -422,7 +422,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 23,
         "color": "rgba(25, 25, 25, 1)",
@@ -433,7 +433,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -444,7 +444,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -466,7 +466,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 10,
         "color": "rgba(242, 103, 48, 1)",
@@ -477,7 +477,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(25, 25, 25, 1)",
@@ -589,7 +589,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 23,
         "color": "rgba(25, 25, 25, 1)",
@@ -600,7 +600,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -611,7 +611,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -633,7 +633,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 10,
         "color": "rgba(242, 103, 48, 1)",
@@ -644,7 +644,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(25, 25, 25, 1)",

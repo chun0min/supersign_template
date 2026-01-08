@@ -100,7 +100,7 @@
     "font-weight": 900,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "98",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -206,7 +206,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Baloo-Regular",
+      "editor_option_text_font_name": "Baloo",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -259,7 +259,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Baloo-Regular",
+      "editor_option_text_font_name": "Baloo",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -312,7 +312,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Baloo-Regular",
+      "editor_option_text_font_name": "Baloo",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -365,7 +365,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Baloo-Regular",
+      "editor_option_text_font_name": "Baloo",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -576,7 +576,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(135, 32, 44,1)",
@@ -587,7 +587,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -598,7 +598,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(218, 74, 53,1)",
@@ -609,7 +609,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(122, 122, 122,1)",
@@ -620,7 +620,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(122, 122, 122,1)",
@@ -631,7 +631,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 18,
         "color": "rgba(135, 32, 44,1)",
@@ -849,7 +849,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(135, 32, 44,1)",
@@ -860,7 +860,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -871,7 +871,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(218, 74, 53,1)",
@@ -882,7 +882,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(122, 122, 122,1)",
@@ -893,7 +893,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(122, 122, 122,1)",
@@ -904,7 +904,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 18,
         "color": "rgba(135, 32, 44,1)",
@@ -1046,7 +1046,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(135, 32, 44,1)",
@@ -1057,7 +1057,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -1068,7 +1068,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(218, 74, 53,1)",
@@ -1079,7 +1079,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(122, 122, 122,1)",
@@ -1090,7 +1090,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(122, 122, 122,1)",
@@ -1101,7 +1101,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 18,
         "color": "rgba(135, 32, 44,1)",
@@ -1243,7 +1243,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(135, 32, 44,1)",
@@ -1254,7 +1254,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -1265,7 +1265,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(218, 74, 53,1)",
@@ -1276,7 +1276,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(122, 122, 122,1)",
@@ -1287,7 +1287,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(122, 122, 122,1)",
@@ -1298,7 +1298,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 18,
         "color": "rgba(135, 32, 44,1)",

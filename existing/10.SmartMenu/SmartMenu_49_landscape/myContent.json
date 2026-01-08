@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChangPeace-Bold",
+      "editor_option_text_font_name": "Pyeong Chang Peace",
       "editor_option_text_font_size": "48",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChangPeace-Bold",
+      "editor_option_text_font_name": "Pyeong Chang Peace",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -162,7 +162,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChangPeace-Bold",
+      "editor_option_text_font_name": "Pyeong Chang Peace",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -215,7 +215,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChangPeace-Bold",
+      "editor_option_text_font_name": "Pyeong Chang Peace",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -268,7 +268,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChangPeace-Bold",
+      "editor_option_text_font_name": "Pyeong Chang Peace",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -321,7 +321,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PyeongChangPeace-Bold",
+      "editor_option_text_font_name": "Pyeong Chang Peace",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": 700,
       "editor_option_text_style_italic": false,
@@ -588,7 +588,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "PyeongChangPeace-Bold",
+        "font_name": "Pyeong Chang Peace",
         "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 20,
         "color": "rgba(240,84,36,1)",
@@ -599,7 +599,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
@@ -610,7 +610,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "PyeongChangPeace-Bold",
+        "font_name": "Pyeong Chang Peace",
         "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 28,
         "color": "rgba(240,84,36,1)",
@@ -621,7 +621,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(240,84,36,1)",
@@ -632,7 +632,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(105,66,48,1)",
@@ -643,7 +643,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(240,84,36,1)",
@@ -742,7 +742,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "PyeongChangPeace-Bold",
+        "font_name": "Pyeong Chang Peace",
         "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 20,
         "color": "rgba(240,84,36,1)",
@@ -753,7 +753,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
@@ -764,7 +764,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "PyeongChangPeace-Bold",
+        "font_name": "Pyeong Chang Peace",
         "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 28,
         "color": "rgba(240,84,36,1)",
@@ -775,7 +775,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(240,84,36,1)",
@@ -786,7 +786,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(105,66,48,1)",
@@ -797,7 +797,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(240,84,36,1)",
@@ -896,7 +896,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "PyeongChangPeace-Bold",
+        "font_name": "Pyeong Chang Peace",
         "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 20,
         "color": "rgba(240,84,36,1)",
@@ -907,7 +907,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
@@ -918,7 +918,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "PyeongChangPeace-Bold",
+        "font_name": "Pyeong Chang Peace",
         "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 28,
         "color": "rgba(240,84,36,1)",
@@ -929,7 +929,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(240,84,36,1)",
@@ -940,7 +940,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(105,66,48,1)",
@@ -951,7 +951,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(240,84,36,1)",
@@ -1049,7 +1049,7 @@
         ]
       },
       "name": {
-        "font_name": "PyeongChangPeace-Bold",
+        "font_name": "Pyeong Chang Peace",
         "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 20,
         "color": "rgba(240,84,36,1)",
@@ -1060,7 +1060,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
@@ -1071,7 +1071,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "PyeongChangPeace-Bold",
+        "font_name": "Pyeong Chang Peace",
         "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 28,
         "color": "rgba(240,84,36,1)",
@@ -1082,7 +1082,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(240,84,36,1)",
@@ -1093,7 +1093,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(105,66,48,1)",
@@ -1104,7 +1104,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(240,84,36,1)",
@@ -1188,7 +1188,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "PyeongChangPeace-Bold",
+        "font_name": "Pyeong Chang Peace",
         "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 32,
         "color": "rgba(240,84,36,1)",
@@ -1199,7 +1199,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(225, 54, 14, 1)",
@@ -1210,7 +1210,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "PyeongChangPeace-Bold",
+        "font_name": "Pyeong Chang Peace",
         "font_file": "PyeongChangPeace-Bold.ttf",
         "font_size": 50,
         "color": "rgba(240,84,36,1)",
@@ -1221,7 +1221,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 30,
         "color": "rgba(240,84,36,1)",
@@ -1232,7 +1232,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(105,66,48,1)",
@@ -1243,7 +1243,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 24,
         "color": "rgba(240,84,36,1)",

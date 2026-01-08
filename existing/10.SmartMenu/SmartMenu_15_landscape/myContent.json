@@ -186,7 +186,7 @@
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "GmarketSansMedium",
+      "editor_option_text_font_name": "Gmarket Sans",
       "editor_option_text_font_size": "36",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -239,7 +239,7 @@
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "GmarketSansMedium",
+      "editor_option_text_font_name": "Gmarket Sans",
       "editor_option_text_font_size": "22",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -292,7 +292,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -345,7 +345,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -398,7 +398,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "15",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -451,7 +451,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "15",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -504,7 +504,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "15",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -557,7 +557,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "15",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -610,7 +610,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "15",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -663,7 +663,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "10",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -716,7 +716,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "NanumMyeongjo-Regular",
+      "editor_option_text_font_name": "Nanum Myeongjo",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -769,7 +769,7 @@
     "scene_no": 1,
     "font-weight": "800",
     "option_text": {
-      "editor_option_text_font_name": "NanumMyeongjo-Regular",
+      "editor_option_text_font_name": "Nanum Myeongjo",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -822,7 +822,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "36",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -875,7 +875,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "36",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -962,7 +962,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0,1)",
@@ -973,7 +973,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(233, 89, 70, 1)",
@@ -984,7 +984,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "NanumMyeongjo-Regular",
+        "font_name": "Nanum Myeongjo",
         "font_file": "NanumMyeongjo-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0, 0, 0,1)",
@@ -995,7 +995,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "NanumMyeongjo-Regular",
+        "font_name": "Nanum Myeongjo",
         "font_file": "NanumMyeongjo-Regular.ttf",
         "font_size": 14,
         "color": "rgba(0, 0, 0,1)",
@@ -1006,7 +1006,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(137, 137, 137,1)",
@@ -1017,7 +1017,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0, 0, 0,1)",
@@ -1119,7 +1119,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0,1)",
@@ -1130,7 +1130,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(233, 89, 70, 1)",
@@ -1141,7 +1141,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "NanumMyeongjo-Regular",
+        "font_name": "Nanum Myeongjo",
         "font_file": "NanumMyeongjo-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0, 0, 0,1)",
@@ -1152,7 +1152,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "NanumMyeongjo-Regular",
+        "font_name": "Nanum Myeongjo",
         "font_file": "NanumMyeongjo-Regular.ttf",
         "font_size": 14,
         "color": "rgba(0, 0, 0,1)",
@@ -1163,7 +1163,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(137, 137, 137,1)",
@@ -1174,7 +1174,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0, 0, 0,1)",
@@ -1276,7 +1276,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0,1)",
@@ -1287,7 +1287,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(233, 89, 70, 1)",
@@ -1298,7 +1298,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "NanumMyeongjo-Regular",
+        "font_name": "Nanum Myeongjo",
         "font_file": "NanumMyeongjo-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0, 0, 0,1)",
@@ -1309,7 +1309,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "NanumMyeongjo-Regular",
+        "font_name": "Nanum Myeongjo",
         "font_file": "NanumMyeongjo-Regular.ttf",
         "font_size": 14,
         "color": "rgba(0, 0, 0,1)",
@@ -1320,7 +1320,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(137, 137, 137,1)",
@@ -1331,7 +1331,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0, 0, 0,1)",

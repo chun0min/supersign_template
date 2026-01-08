@@ -337,7 +337,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -390,7 +390,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -443,7 +443,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -496,7 +496,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -601,7 +601,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 22,
         "color": "rgba(83,54,32,1)",
@@ -612,8 +612,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -623,7 +623,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(83,54,32,1)",
@@ -634,7 +634,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
@@ -645,7 +645,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
@@ -656,7 +656,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(83,54,32,1)",
@@ -767,7 +767,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 22,
         "color": "rgba(83,54,32,1)",
@@ -778,8 +778,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -789,7 +789,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(83,54,32,1)",
@@ -800,7 +800,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
@@ -811,7 +811,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
@@ -822,7 +822,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(83,54,32,1)",
@@ -933,7 +933,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 22,
         "color": "rgba(83,54,32,1)",
@@ -944,8 +944,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -955,7 +955,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(83,54,32,1)",
@@ -966,7 +966,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
@@ -977,7 +977,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
@@ -988,7 +988,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(83,54,32,1)",
@@ -1099,7 +1099,7 @@
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 22,
         "color": "rgba(83,54,32,1)",
@@ -1110,8 +1110,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -1121,7 +1121,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(83,54,32,1)",
@@ -1132,7 +1132,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
@@ -1143,7 +1143,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
@@ -1154,7 +1154,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(83,54,32,1)",

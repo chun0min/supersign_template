@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "MaruBuri-Regular",
+      "editor_option_text_font_name": "Maru Buri",
       "editor_option_text_font_size": "110",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "MaruBuri-Regular",
+      "editor_option_text_font_name": "Maru Buri",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -227,8 +227,8 @@
         ]
       },
       "name": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 40,
         "color": "rgba(63,85,44,1)",
         "style_bold": true,
@@ -238,8 +238,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
           "style_bold": false,
@@ -249,8 +249,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(63,85,44,1)",
         "style_bold": true,
@@ -260,8 +260,8 @@
         "alignment": "left"
         },
       "calories": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 15,
         "color": "rgba(63,85,44,1)",
           "style_bold": false,
@@ -271,8 +271,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 15,
         "color": "rgba(63,85,44,1)",
         "style_bold": false,
@@ -282,8 +282,8 @@
         "alignment": "left"
         },
       "description": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(63,85,44,1)",
           "style_bold": true,
@@ -402,8 +402,8 @@
         ]
       },
       "name": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 40,
         "color": "rgba(63,85,44,1)",
         "style_bold": true,
@@ -413,8 +413,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
           "style_bold": false,
@@ -424,8 +424,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(63,85,44,1)",
         "style_bold": true,
@@ -435,8 +435,8 @@
         "alignment": "left"
         },
       "calories": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 15,
         "color": "rgba(63,85,44,1)",
           "style_bold": false,
@@ -446,8 +446,8 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 15,
         "color": "rgba(63,85,44,1)",
         "style_bold": false,
@@ -457,8 +457,8 @@
         "alignment": "left"
         },
       "description": {
-        "font_name": "NotoSansKR-Medium",
-        "font_file": "NotoSansKR-Medium.otf",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
         "color": "rgba(63,85,44,1)",
           "style_bold": true,

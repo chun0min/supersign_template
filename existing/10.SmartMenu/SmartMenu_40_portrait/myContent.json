@@ -112,7 +112,7 @@
     "font-weight": 900,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -187,7 +187,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 32,
         "color": "rgba(0, 0, 0, 1)",
@@ -198,7 +198,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(61, 61, 61, 1)",
@@ -209,7 +209,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -220,7 +220,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(151, 151, 151, 1)",
@@ -231,7 +231,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(143, 38, 37, 1)",
@@ -242,7 +242,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0, 0, 0, 1)",
@@ -349,7 +349,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 28,
         "color": "rgba(0, 0, 0, 1)",
@@ -360,7 +360,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(61, 61, 61, 1)",
@@ -371,7 +371,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -382,7 +382,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(151, 151, 151, 1)",
@@ -393,7 +393,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(143, 38, 37, 1)",
@@ -404,7 +404,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0, 0, 0, 1)",
@@ -511,7 +511,7 @@
         ]
       },
       "name": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 28,
         "color": "rgba(0, 0, 0, 1)",
@@ -522,7 +522,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(61, 61, 61, 1)",
@@ -533,7 +533,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -544,7 +544,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(151, 151, 151, 1)",
@@ -555,7 +555,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(143, 38, 37, 1)",
@@ -566,7 +566,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0, 0, 0, 1)",

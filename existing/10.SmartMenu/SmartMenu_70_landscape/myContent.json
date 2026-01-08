@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "LeagueSpartan-Bold",
+      "editor_option_text_font_name": "League Spartan",
       "editor_option_text_font_size": "49",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "LeagueSpartan-Bold",
+      "editor_option_text_font_name": "League Spartan",
       "editor_option_text_font_size": "154",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -266,7 +266,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24Classictype",
+        "font_name": "Cafe24 Classictype",
         "font_file": "Cafe24Classictype.ttf",
         "font_size": 22,
         "color": "rgba(255,255,255,1)",
@@ -288,7 +288,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(186,234,162,1)",
@@ -464,7 +464,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24Classictype",
+        "font_name": "Cafe24 Classictype",
         "font_file": "Cafe24Classictype.ttf",
         "font_size": 22,
         "color": "rgba(255,255,255,1)",
@@ -486,7 +486,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(186,234,162,1)",

@@ -229,7 +229,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare",
+      "editor_option_text_font_name": "Cafe24 Ohsquare",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -282,7 +282,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare",
+      "editor_option_text_font_name": "Cafe24 Ohsquare",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -335,7 +335,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare",
+      "editor_option_text_font_name": "Cafe24 Ohsquare",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -388,7 +388,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare",
+      "editor_option_text_font_name": "Cafe24 Ohsquare",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -441,7 +441,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare",
+      "editor_option_text_font_name": "Cafe24 Ohsquare",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -561,7 +561,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Cafe24Classictype",
+        "font_name": "Cafe24 Classictype",
         "font_file": "Cafe24Classictype.ttf",
         "font_size": 19,
         "color": "rgba(0,0,0,1)",
@@ -572,7 +572,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(131, 99, 61, 1)",
@@ -583,7 +583,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(131,99,61,1)",
@@ -594,7 +594,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(142,142,142,1)",
@@ -605,7 +605,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 9,
         "color": "rgba(174,138,82,1)",
@@ -616,7 +616,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",
@@ -742,7 +742,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Cafe24Classictype",
+        "font_name": "Cafe24 Classictype",
         "font_file": "Cafe24Classictype.ttf",
         "font_size": 19,
         "color": "rgba(0,0,0,1)",
@@ -753,7 +753,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(131, 99, 61, 1)",
@@ -764,7 +764,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(131,99,61,1)",
@@ -775,7 +775,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(142,142,142,1)",
@@ -786,7 +786,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 9,
         "color": "rgba(174,138,82,1)",
@@ -797,7 +797,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",
@@ -923,7 +923,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Cafe24Classictype",
+        "font_name": "Cafe24 Classictype",
         "font_file": "Cafe24Classictype.ttf",
         "font_size": 19,
         "color": "rgba(0,0,0,1)",
@@ -934,7 +934,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(131, 99, 61, 1)",
@@ -945,7 +945,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(131,99,61,1)",
@@ -956,7 +956,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(142,142,142,1)",
@@ -967,7 +967,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 9,
         "color": "rgba(174,138,82,1)",
@@ -978,7 +978,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",

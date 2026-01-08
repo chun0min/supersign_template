@@ -272,7 +272,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Caprasimo-Regular",
+      "editor_option_text_font_name": "Caprasimo",
       "editor_option_text_font_size": "46",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -325,7 +325,7 @@
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -378,7 +378,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Caprasimo-Regular",
+      "editor_option_text_font_name": "Caprasimo",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -431,7 +431,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": {
-      "editor_option_text_font_name": "Caprasimo-Regular",
+      "editor_option_text_font_name": "Caprasimo",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -506,7 +506,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Caprasimo-Regular",
+        "font_name": "Caprasimo",
         "font_file": "Caprasimo-Regular.ttf",
         "font_size": 20,
         "color": "rgba(32, 19, 3,1)",
@@ -517,7 +517,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Caprasimo-Regular",
+        "font_name": "Caprasimo",
         "font_file": "Caprasimo-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -528,7 +528,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "BalooBhai-Regular",
+        "font_name": "Baloo Bhai",
         "font_file": "BalooBhai-Regular.ttf",
         "font_size": 30,
         "color": "rgba(117, 0, 0,1)",
@@ -539,7 +539,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(136, 136, 136,1)",
@@ -550,7 +550,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(130, 130, 130,1)",
@@ -561,7 +561,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(117, 96, 48,1)",
@@ -673,7 +673,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Caprasimo-Regular",
+        "font_name": "Caprasimo",
         "font_file": "Caprasimo-Regular.ttf",
         "font_size": 16,
         "color": "rgba(32, 19, 3,1)",
@@ -684,7 +684,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Caprasimo-Regular",
+        "font_name": "Caprasimo",
         "font_file": "Caprasimo-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -695,7 +695,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "BalooBhai-Regular",
+        "font_name": "Baloo Bhai",
         "font_file": "BalooBhai-Regular.ttf",
         "font_size": 24,
         "color": "rgba(117, 0, 0,1)",
@@ -706,7 +706,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(136, 136, 136,1)",
@@ -717,7 +717,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(143, 143, 143,1)",
@@ -728,7 +728,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(117, 96, 48,1)",
@@ -833,7 +833,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Caprasimo-Regular",
+        "font_name": "Caprasimo",
         "font_file": "Caprasimo-Regular.ttf",
         "font_size": 16,
         "color": "rgba(32, 19, 3,1)",
@@ -844,7 +844,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Caprasimo-Regular",
+        "font_name": "Caprasimo",
         "font_file": "Caprasimo-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -855,7 +855,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "BalooBhai-Regular",
+        "font_name": "Baloo Bhai",
         "font_file": "BalooBhai-Regular.ttf",
         "font_size": 24,
         "color": "rgba(117, 0, 0,1)",
@@ -866,7 +866,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(136, 136, 136,1)",
@@ -877,7 +877,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(143, 143, 143,1)",
@@ -888,7 +888,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(117, 96, 48,1)",
@@ -1008,7 +1008,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Caprasimo-Regular",
+        "font_name": "Caprasimo",
         "font_file": "Caprasimo-Regular.ttf",
         "font_size": 16,
         "color": "rgba(32, 19, 3,1)",
@@ -1019,7 +1019,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Caprasimo-Regular",
+        "font_name": "Caprasimo",
         "font_file": "Caprasimo-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -1030,7 +1030,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "BalooBhai-Regular",
+        "font_name": "Baloo Bhai",
         "font_file": "BalooBhai-Regular.ttf",
         "font_size": 24,
         "color": "rgba(117, 0, 0,1)",
@@ -1041,7 +1041,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(136, 136, 136,1)",
@@ -1052,7 +1052,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(143, 143, 143,1)",
@@ -1063,7 +1063,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(117, 96, 48,1)",

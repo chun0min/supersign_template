@@ -614,7 +614,7 @@
     "text_value": "Up to",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "LibreBodoni-Regular",
+      "editor_option_text_font_name": "Libre Bodoni",
       "editor_option_text_font_size": "38",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -665,7 +665,7 @@
     "text_value": "30%",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "LibreBodoni-Regular",
+      "editor_option_text_font_name": "Libre Bodoni",
       "editor_option_text_font_size": "48",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -716,7 +716,7 @@
     "text_value": "Discount",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "LibreBodoni-Regular",
+      "editor_option_text_font_name": "Libre Bodoni",
       "editor_option_text_font_size": "38",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,

@@ -57,7 +57,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "135",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -110,7 +110,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "88",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -163,7 +163,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "88",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -216,7 +216,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "88",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -269,7 +269,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "BebasNeue-Regular",
+      "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "88",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -346,7 +346,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -357,7 +357,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -368,7 +368,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -379,7 +379,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
@@ -390,7 +390,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
@@ -401,7 +401,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 17,
         "color": "rgba(76, 76, 76,1)",
@@ -486,7 +486,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -497,7 +497,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -508,7 +508,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -519,7 +519,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
@@ -530,7 +530,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
@@ -541,7 +541,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 17,
         "color": "rgba(76, 76, 76,1)",
@@ -662,7 +662,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -673,7 +673,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -684,7 +684,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -695,7 +695,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
@@ -706,7 +706,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
@@ -717,7 +717,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 17,
         "color": "rgba(76, 76, 76,1)",
@@ -811,7 +811,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -822,7 +822,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -833,7 +833,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -844,7 +844,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
@@ -855,7 +855,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
@@ -866,7 +866,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 17,
         "color": "rgba(76, 76, 76,1)",
@@ -960,7 +960,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -971,7 +971,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -982,7 +982,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0,1)",
@@ -993,7 +993,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
@@ -1004,7 +1004,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(242, 99, 70,1)",
@@ -1015,7 +1015,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 17,
         "color": "rgba(76, 76, 76,1)",

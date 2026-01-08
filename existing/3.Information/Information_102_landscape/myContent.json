@@ -486,7 +486,7 @@
     "font_weight": "700",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -537,7 +537,7 @@
     "text_value": "Keep updated on weather forecasts and official alerts from trusted sources. Make sure your devices are charged to receive warnings promptly. Early information helps you make safe decisions.",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -589,7 +589,7 @@
     "font_weight": "700",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -640,7 +640,7 @@
     "text_value": "Prepare a family emergency plan with evacuation routes, meeting points, and communication methods. Ensure everyone knows their role to reduce panic during the storm.",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -692,7 +692,7 @@
     "font_weight": "700",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -743,7 +743,7 @@
     "text_value": "Gather at least 72 hours of essentials: water, food, flashlights, batteries, first-aid kit, and medications. Include items for pets or special needs. Being prepared prevents last-minute stress.",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -795,7 +795,7 @@
     "font_weight": "700",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -846,7 +846,7 @@
     "text_value": "Secure windows and doors, and bring outdoor items inside. Check roofs and gutters to minimize damage. These steps help reduce property loss and keep your family safe.",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -898,7 +898,7 @@
     "font_weight": "700",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -949,7 +949,7 @@
     "text_value": "Keep updated on weather forecasts and official alerts from trusted sources. Make sure your devices are charged to receive warnings promptly. Early information helps you make safe decisions.",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -1103,7 +1103,7 @@
     "text_value": "Season Period: June 1 - November 30",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -1154,7 +1154,7 @@
     "text_value": "Following safety guidelines can help protect you and your loved ones.",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "23",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,

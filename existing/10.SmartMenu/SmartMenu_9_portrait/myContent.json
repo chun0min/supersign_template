@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ChelseaMarket-Regular",
+      "editor_option_text_font_name": "Chelsea Market",
       "editor_option_text_font_size": "102",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ChelseaMarket-Regular",
+      "editor_option_text_font_name": "Chelsea Market",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -160,7 +160,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ChelseaMarket-Regular",
+      "editor_option_text_font_name": "Chelsea Market",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -212,7 +212,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ChelseaMarket-Regular",
+      "editor_option_text_font_name": "Chelsea Market",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -347,7 +347,7 @@
         ]
       },
       "name": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -358,7 +358,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -369,7 +369,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -380,7 +380,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(222,76,66,1)",
@@ -391,7 +391,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
@@ -402,7 +402,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 18,
         "color": "rgba(222,76,66,1)",
@@ -525,7 +525,7 @@
         ]
       },
       "name": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -536,7 +536,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -547,7 +547,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -558,7 +558,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(222,76,66,1)",
@@ -569,7 +569,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
@@ -580,7 +580,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 18,
         "color": "rgba(222,76,66,1)",
@@ -703,7 +703,7 @@
         ]
       },
       "name": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -714,7 +714,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -725,7 +725,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -736,7 +736,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(222,76,66,1)",
@@ -747,7 +747,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(100,100,100,1)",
@@ -758,7 +758,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "NotoSansKR-Regular",
+        "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 18,
         "color": "rgba(222,76,66,1)",

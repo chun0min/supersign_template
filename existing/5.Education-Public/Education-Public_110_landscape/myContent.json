@@ -56,7 +56,7 @@
     "font_weight": "500",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "18",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -107,7 +107,7 @@
     "text_value": "Congratulations",    
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "AlexBrush-Regular",
+      "editor_option_text_font_name": "Alex Brush",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -211,7 +211,7 @@
     "font_weight": "500",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,

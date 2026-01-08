@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "43",
       "editor_option_text_style_bold":true,
       "editor_option_text_style_italic": false,
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "AlexBrush-Regular",
+      "editor_option_text_font_name": "Alex Brush",
       "editor_option_text_font_size": "218",
       "editor_option_text_style_bold":true,
       "editor_option_text_style_italic": false,
@@ -160,7 +160,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "43",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -314,7 +314,7 @@
         ]
       },
       "name": {
-        "font_name": "AlexBrush-Regular",
+        "font_name": "Alex Brush",
         "font_file": "AlexBrush-Regular.ttf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
@@ -336,7 +336,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "AlexBrush-Regular",
+        "font_name": "Alex Brush",
         "font_file": "AlexBrush-Regular.ttf",
         "font_size": 37,
         "color": "rgba(154, 102, 81,1)",
@@ -347,7 +347,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -358,7 +358,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -369,7 +369,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(154, 102, 81,1)",
@@ -513,7 +513,7 @@
         ]
       },
       "name": {
-        "font_name": "AlexBrush-Regular",
+        "font_name": "Alex Brush",
         "font_file": "AlexBrush-Regular.ttf",
         "font_size": 30,
         "color": "rgba(154, 102, 81,1)",
@@ -535,7 +535,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "AlexBrush-Regular",
+        "font_name": "Alex Brush",
         "font_file": "AlexBrush-Regular.ttf",
         "font_size": 37,
         "color": "rgba(154, 102, 81,1)",
@@ -546,7 +546,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -557,7 +557,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(154, 102, 81,1)",
@@ -568,7 +568,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(154, 102, 81,1)",

@@ -271,7 +271,7 @@
     "font_weight": "900",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "54",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -323,7 +323,7 @@
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -375,7 +375,7 @@
     "font_weight": "500",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -427,7 +427,7 @@
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -479,7 +479,7 @@
     "font_weight": "500",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -531,7 +531,7 @@
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -583,7 +583,7 @@
     "font_weight": "500",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,

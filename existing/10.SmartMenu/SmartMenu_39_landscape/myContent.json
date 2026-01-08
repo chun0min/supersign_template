@@ -229,7 +229,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": {
-      "editor_option_text_font_name": "Pridi-Regular",
+      "editor_option_text_font_name": "Pridi",
       "editor_option_text_font_size": "90",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -282,7 +282,7 @@
     "scene_no": 1,
     "font-weight": "300",
     "option_text": {
-      "editor_option_text_font_name": "Pridi-Regular",
+      "editor_option_text_font_name": "Pridi",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -335,7 +335,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": {
-      "editor_option_text_font_name": "Pridi-Regular",
+      "editor_option_text_font_name": "Pridi",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -388,7 +388,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": {
-      "editor_option_text_font_name": "Pridi-Regular",
+      "editor_option_text_font_name": "Pridi",
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -457,7 +457,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 40,
         "color": "rgba(255, 255, 255,1)",
@@ -468,7 +468,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -479,7 +479,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 40,
         "color": "rgba(255, 255, 255,1)",
@@ -490,7 +490,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255, 255, 255,1)",
@@ -501,7 +501,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(237, 162, 166,1)",
@@ -512,7 +512,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 20,
         "color": "rgba(255, 255, 255,1)",
@@ -602,7 +602,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255,1)",
@@ -613,7 +613,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -624,7 +624,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 28,
         "color": "rgba(255, 255, 255,1)",
@@ -635,7 +635,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(255, 255, 255,1)",
@@ -646,7 +646,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(255, 255, 255,1)",
@@ -657,7 +657,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 15,
         "color": "rgba(255, 255, 255,1)",
@@ -770,7 +770,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 24,
         "color": "rgba(48, 48, 48,1)",
@@ -781,7 +781,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -792,7 +792,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255, 255, 255,1)",
@@ -803,7 +803,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255, 255, 255,1)",
@@ -814,7 +814,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(183, 57, 58,1)",
@@ -825,7 +825,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 15,
         "color": "rgba(93, 93, 93,1)",
@@ -952,7 +952,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 20,
         "color": "rgba(48, 48, 48,1)",
@@ -963,7 +963,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 20,
         "color": "rgba(42, 68, 67,1)",
@@ -974,7 +974,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 20,
         "color": "rgba(48, 48, 48,1)",
@@ -985,7 +985,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 14,
         "color": "rgba(48, 48, 48,1)",
@@ -996,7 +996,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(183, 57, 58,1)",
@@ -1007,7 +1007,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pridi-Regular",
+        "font_name": "Pridi",
         "font_file": "Pridi-Regular.ttf",
         "font_size": 12,
         "color": "rgba(93, 93, 93,1)",

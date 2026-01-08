@@ -185,7 +185,7 @@
     "scene_no": 1,
     "font-weight": "600",
     "option_text": { 
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "38",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -237,7 +237,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": { 
-      "editor_option_text_font_name": "BreeSerif-Regular",
+      "editor_option_text_font_name": "Bree Serif",
       "editor_option_text_font_size": "118",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -289,7 +289,7 @@
     "scene_no": 1,
     "font-weight": "400",
     "option_text": { 
-      "editor_option_text_font_name": "LuckiestGuy",
+      "editor_option_text_font_name": "Luckiest Guy",
       "editor_option_text_font_size": "43",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,

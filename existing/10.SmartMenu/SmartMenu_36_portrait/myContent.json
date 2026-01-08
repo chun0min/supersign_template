@@ -278,7 +278,7 @@
     "font-weight": 700,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BookkMyungjo-Bold",
+      "editor_option_text_font_name": "Bookk Myungjo",
       "editor_option_text_font_size": "46",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -332,7 +332,7 @@
     "font-weight": 700,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BookkMyungjo-Bold",
+      "editor_option_text_font_name": "Bookk Myungjo",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -386,7 +386,7 @@
     "font-weight": 300,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -440,7 +440,7 @@
     "font-weight": 700,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BookkMyungjo-Bold",
+      "editor_option_text_font_name": "Bookk Myungjo",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -494,7 +494,7 @@
     "font-weight": 700,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BookkMyungjo-Bold",
+      "editor_option_text_font_name": "Bookk Myungjo",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -569,7 +569,7 @@
         ]
       },
       "name": {
-        "font_name": "BookkMyungjo-Bold",
+        "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.tff",
         "font_size": 28,
         "color": "rgba(0, 0, 0, 1)",
@@ -591,7 +591,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "BookkMyungjo-Bold",
+        "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.ttf",
         "font_size": 30,
         "color": "rgba(0,0,0,1)",
@@ -602,7 +602,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(61, 61, 61,1)",
@@ -613,7 +613,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(130, 130, 130, 1)",
@@ -624,7 +624,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(62, 62, 62, 1)",
@@ -701,7 +701,7 @@
         ]
       },
       "name": {
-        "font_name": "BookkMyungjo-Bold",
+        "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.tff",
         "font_size": 28,
         "color": "rgba(0, 0, 0, 1)",
@@ -723,7 +723,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "BookkMyungjo-Bold",
+        "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.ttf",
         "font_size": 30,
         "color": "rgba(0,0,0,1)",
@@ -734,7 +734,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(61, 61, 61,1)",
@@ -745,7 +745,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(130, 130, 130, 1)",
@@ -756,7 +756,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(62, 62, 62, 1)",
@@ -913,7 +913,7 @@
         ]
       },
       "name": {
-        "font_name": "BookkMyungjo-Bold",
+        "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.tff",
         "font_size": 28,
         "color": "rgba(0, 0, 0, 1)",
@@ -935,7 +935,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "BookkMyungjo-Bold",
+        "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.ttf",
         "font_size": 30,
         "color": "rgba(0,0,0,1)",
@@ -946,7 +946,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(61, 61, 61,1)",
@@ -957,7 +957,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(130, 130, 130, 1)",
@@ -968,7 +968,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(62, 62, 62, 1)",
@@ -1060,7 +1060,7 @@
         ]
       },
       "name": {
-        "font_name": "BookkMyungjo-Bold",
+        "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.tff",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -1082,7 +1082,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "BookkMyungjo-Bold",
+        "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.ttf",
         "font_size": 20,
         "color": "rgba(0,0,0,1)",
@@ -1093,7 +1093,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(61, 61, 61,1)",
@@ -1104,7 +1104,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(130, 130, 130, 1)",
@@ -1115,7 +1115,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(62, 62, 62, 1)",
@@ -1207,7 +1207,7 @@
         ]
       },
       "name": {
-        "font_name": "BookkMyungjo-Bold",
+        "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.tff",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -1229,7 +1229,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "BookkMyungjo-Bold",
+        "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.ttf",
         "font_size": 20,
         "color": "rgba(0,0,0,1)",
@@ -1240,7 +1240,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(61, 61, 61,1)",
@@ -1251,7 +1251,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(130, 130, 130, 1)",
@@ -1262,7 +1262,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(62, 62, 62, 1)",

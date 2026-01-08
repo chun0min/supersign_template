@@ -228,7 +228,7 @@
     "font_weight": "600",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "108",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -241,7 +241,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -280,7 +280,7 @@
     "font_weight": "600",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -293,7 +293,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -383,7 +383,7 @@
     "font_weight": "600",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -396,7 +396,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -486,7 +486,7 @@
     "font_weight": "600",   
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond12-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "42",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -499,7 +499,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "EBGaramond12-Regular.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",

@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ProtestRiot-Regular",
+      "editor_option_text_font_name": "Protest Riot",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "ProtestRiot-Regular",
+      "editor_option_text_font_name": "Protest Riot",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -259,7 +259,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "ProtestRiot-Regular",
+        "font_name": "Protest Riot",
         "font_file": "ProtestRiot-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255,255,255,1)",
@@ -270,7 +270,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -281,7 +281,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "RedRose-Regular",
+        "font_name": "Red Rose",
         "font_file": "RedRose-Regular.ttf",
         "font_size": 36,
         "color": "rgba(255,255,255,1)",
@@ -292,7 +292,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(255,255,255,1)",
@@ -303,7 +303,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(107,1,1,1)",
@@ -314,7 +314,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(255,255,255,1)",
@@ -406,7 +406,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "ProtestRiot-Regular",
+        "font_name": "Protest Riot",
         "font_file": "ProtestRiot-Regular.ttf",
         "font_size": 26,
         "color": "rgba(0,0,0,1)",
@@ -417,7 +417,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -428,7 +428,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "RedRose-Regular",
+        "font_name": "Red Rose",
         "font_file": "RedRose-Regular.ttf",
         "font_size": 36,
         "color": "rgba(205,28,29,1)",
@@ -439,7 +439,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(0,0,0,1)",
@@ -450,7 +450,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(68,68,68,1)",
@@ -461,7 +461,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",
@@ -568,7 +568,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "ProtestRiot-Regular",
+        "font_name": "Protest Riot",
         "font_file": "ProtestRiot-Regular.ttf",
         "font_size": 26,
         "color": "rgba(0,0,0,1)",
@@ -579,7 +579,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(33, 45, 93, 1)",
@@ -590,7 +590,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "RedRose-Regular",
+        "font_name": "Red Rose",
         "font_file": "RedRose-Regular.ttf",
         "font_size": 36,
         "color": "rgba(205,28,29,1)",
@@ -601,7 +601,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(0,0,0,1)",
@@ -612,7 +612,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(68,68,68,1)",
@@ -623,7 +623,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(0,0,0,1)",

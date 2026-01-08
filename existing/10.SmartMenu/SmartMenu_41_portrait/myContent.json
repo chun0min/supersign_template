@@ -57,7 +57,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "PatrickHand-Regular",
+      "editor_option_text_font_name": "Patrick Hand",
       "editor_option_text_font_size": "180",
       "editor_option_text_style_bold":false,
       "editor_option_text_style_italic": false,
@@ -111,7 +111,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "51",
       "editor_option_text_style_bold":false,
       "editor_option_text_style_italic": false,
@@ -165,7 +165,7 @@
     "font-weight": 600,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Poppins-Regular",
+      "editor_option_text_font_name": "Poppins",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold":true,
       "editor_option_text_style_italic": false,
@@ -415,7 +415,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 20,
         "color": "rgba(38, 90, 150, 1)",
@@ -426,7 +426,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(27, 127, 89,1)",
@@ -437,7 +437,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 20,
         "color": "rgba(38, 90, 150, 1)",
@@ -448,7 +448,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(130, 163, 196, 1)",
@@ -459,7 +459,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.ttf",
         "font_size": 12,
         "color": "rgba(130, 163, 196, 1)",
@@ -470,7 +470,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 20,
         "color": "rgba(38, 90, 150, 1)",

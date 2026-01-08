@@ -271,7 +271,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cinzel-VariableFont",
+      "editor_option_text_font_name": "Cinzel",
       "editor_option_text_font_size": "129",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -323,7 +323,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Shrikhand-Regular",
+      "editor_option_text_font_name": "Shrikhand",
       "editor_option_text_font_size": "37",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -376,7 +376,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Shrikhand-Regular",
+      "editor_option_text_font_name": "Shrikhand",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -429,7 +429,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Shrikhand-Regular",
+      "editor_option_text_font_name": "Shrikhand",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -482,7 +482,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Shrikhand-Regular",
+      "editor_option_text_font_name": "Shrikhand",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -535,7 +535,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "Shrikhand-Regular",
+      "editor_option_text_font_name": "Shrikhand",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -666,7 +666,7 @@
         ]
       },
       "name": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
@@ -677,7 +677,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
@@ -688,7 +688,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
@@ -699,7 +699,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -710,7 +710,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -721,7 +721,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 12,
         "color": "rgba(1, 113, 187,1)",
@@ -806,7 +806,7 @@
         ]
       },
       "name": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
@@ -817,7 +817,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
@@ -828,7 +828,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
@@ -839,7 +839,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -850,7 +850,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -861,7 +861,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 12,
         "color": "rgba(1, 113, 187,1)",
@@ -955,7 +955,7 @@
         ]
       },
       "name": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
@@ -966,7 +966,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
@@ -977,7 +977,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
@@ -988,7 +988,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -999,7 +999,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -1010,7 +1010,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 12,
         "color": "rgba(1, 113, 187,1)",
@@ -1149,7 +1149,7 @@
         ]
       },
       "name": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
@@ -1160,7 +1160,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 20,
         "color": "rgba(1, 113, 187,1)",
@@ -1171,7 +1171,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Shrikhand-Regular",
+        "font_name": "Shrikhand",
         "font_file": "Shrikhand-Regular.otf",
         "font_size": 15,
         "color": "rgba(1, 113, 187,1)",
@@ -1182,7 +1182,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -1193,7 +1193,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 9,
         "color": "rgba(97, 166, 213,1)",
@@ -1204,7 +1204,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Poppins-Regular",
+        "font_name": "Poppins",
         "font_file": "Poppins-Regular.ttf",
         "font_size": 12,
         "color": "rgba(1, 113, 187,1)",

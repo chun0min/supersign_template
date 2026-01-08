@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "AlexBrush-Regular",
+      "editor_option_text_font_name": "Alex Brush",
       "editor_option_text_font_size": "180",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "SourceSerif4-Regular",
+      "editor_option_text_font_name": "Source Serif",
       "editor_option_text_font_size": "25",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -161,7 +161,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "SourceSerif4-Regular",
+      "editor_option_text_font_name": "Source Serif",
       "editor_option_text_font_size": "27",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -213,7 +213,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "SourceSerif4-Regular",
+      "editor_option_text_font_name": "Source Serif",
       "editor_option_text_font_size": "17",
       "editor_option_text_style_bold": 900,
       "editor_option_text_style_italic": false,
@@ -376,7 +376,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Classictype",
+        "font_name": "Cafe24 Classictype",
         "font_file": "Cafe24Classictype.ttf",
         "font_size": 29,
         "color": "rgba(224,78,45,1)",
@@ -398,7 +398,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 27,
         "color": "rgba(224,78,45,1)",
@@ -409,7 +409,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(224,78,45,1)",
@@ -420,7 +420,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(224,78,45,1)",
@@ -558,7 +558,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Classictype",
+        "font_name": "Cafe24 Classictype",
         "font_file": "Cafe24Classictype.ttf",
         "font_size": 29,
         "color": "rgba(224,78,45,1)",
@@ -580,7 +580,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 27,
         "color": "rgba(224,78,45,1)",
@@ -591,7 +591,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(224,78,45,1)",
@@ -602,7 +602,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(224,78,45,1)",

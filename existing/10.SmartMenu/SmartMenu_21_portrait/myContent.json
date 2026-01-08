@@ -358,7 +358,7 @@
     "font-weight": 700,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Paperlogy-Regular",
+      "editor_option_text_font_name": "Paperlogy",
       "editor_option_text_font_size": "16",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -411,7 +411,7 @@
     "font-weight": 600,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Paperlogy-Regular",
+      "editor_option_text_font_name": "Paperlogy",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -464,7 +464,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Moyamoya-Face",
+      "editor_option_text_font_name": "Cafe24 Moyamoya Face",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -517,7 +517,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Moyamoya-Face",
+      "editor_option_text_font_name": "Cafe24 Moyamoya Face",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -570,7 +570,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Moyamoya-Face",
+      "editor_option_text_font_name": "Cafe24 Moyamoya Face",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -687,7 +687,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Paperlogy-Regular",
+        "font_name": "Paperlogy",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 18,
         "color": "rgba(32, 19, 3,1)",
@@ -698,7 +698,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Paperlogy-Regular",
+        "font_name": "Paperlogy",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -709,7 +709,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 24,
         "color": "rgba(17, 17, 17,1)",
@@ -720,7 +720,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(33, 33, 33,1)",
@@ -731,7 +731,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(45, 45, 45,1)",
@@ -742,7 +742,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(103, 103, 103,1)",
@@ -861,7 +861,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Paperlogy-Regular",
+        "font_name": "Paperlogy",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 18,
         "color": "rgba(32, 19, 3,1)",
@@ -872,7 +872,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Paperlogy-Regular",
+        "font_name": "Paperlogy",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -883,7 +883,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 24,
         "color": "rgba(17, 17, 17,1)",
@@ -894,7 +894,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(33, 33, 33,1)",
@@ -905,7 +905,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(45, 45, 45,1)",
@@ -916,7 +916,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(103, 103, 103,1)",
@@ -1021,7 +1021,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Paperlogy-Regular",
+        "font_name": "Paperlogy",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 18,
         "color": "rgba(32, 19, 3,1)",
@@ -1032,7 +1032,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Paperlogy-Regular",
+        "font_name": "Paperlogy",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
@@ -1043,7 +1043,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 24,
         "color": "rgba(17, 17, 17,1)",
@@ -1054,7 +1054,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
         "color": "rgba(33, 33, 33,1)",
@@ -1065,7 +1065,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10,
         "color": "rgba(45, 45, 45,1)",
@@ -1076,7 +1076,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(103, 103, 103,1)",

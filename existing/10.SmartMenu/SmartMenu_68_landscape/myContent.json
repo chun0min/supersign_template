@@ -109,7 +109,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BarlowCondensed",
+      "editor_option_text_font_name": "Barlow Condensed",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -161,7 +161,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BarlowCondensed",
+      "editor_option_text_font_name": "Barlow Condensed",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -213,7 +213,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BarlowCondensed",
+      "editor_option_text_font_name": "Barlow Condensed",
       "editor_option_text_font_size": "52",
       "editor_option_text_style_bold": 500,
       "editor_option_text_style_italic": false,
@@ -381,7 +381,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 13,
         "color": "rgba(222,105,52,1)",
@@ -392,7 +392,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(158,158,158,1)",
@@ -403,7 +403,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 17,
         "color": "rgba(45,45,45,1)",

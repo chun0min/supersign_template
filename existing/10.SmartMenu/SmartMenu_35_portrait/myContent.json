@@ -322,7 +322,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Mogra-Regular",
+      "editor_option_text_font_name": "Mogra",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -376,7 +376,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Mogra-Regular",
+      "editor_option_text_font_name": "Mogra",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -430,7 +430,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Mogra-Regular",
+      "editor_option_text_font_name": "Mogra",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -535,7 +535,7 @@
         ]
       },
       "name": {
-        "font_name": "Mogra-Regular",
+        "font_name": "Mogra",
         "font_file": "Mogra-Regular.tff",
         "font_size": 24,
         "color": "rgba(46, 46, 46,1)",
@@ -557,7 +557,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Mogra-Regular",
+        "font_name": "Mogra",
         "font_file": "Mogra-Regular.ttf",
         "font_size": 42,
         "color": "rgba(132,16,55,1)",
@@ -568,7 +568,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(133, 133, 133,1)",
@@ -579,7 +579,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(132, 132, 132, 1)",
@@ -590,7 +590,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(46, 46, 46, 1)",
@@ -697,7 +697,7 @@
         ]
       },
       "name": {
-        "font_name": "Mogra-Regular",
+        "font_name": "Mogra",
         "font_file": "Mogra-Regular.tff",
         "font_size": 24,
         "color": "rgba(46, 46, 46,1)",
@@ -719,7 +719,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Mogra-Regular",
+        "font_name": "Mogra",
         "font_file": "Mogra-Regular.ttf",
         "font_size": 42,
         "color": "rgba(132,16,55,1)",
@@ -730,7 +730,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(133, 133, 133,1)",
@@ -741,7 +741,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(132, 132, 132, 1)",
@@ -752,7 +752,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(46, 46, 46, 1)",
@@ -844,7 +844,7 @@
         ]
       },
       "name": {
-        "font_name": "Mogra-Regular",
+        "font_name": "Mogra",
         "font_file": "Mogra-Regular.tff",
         "font_size": 24,
         "color": "rgba(46, 46, 46,1)",
@@ -866,7 +866,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Mogra-Regular",
+        "font_name": "Mogra",
         "font_file": "Mogra-Regular.ttf",
         "font_size": 42,
         "color": "rgba(132,16,55,1)",
@@ -877,7 +877,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(133, 133, 133,1)",
@@ -888,7 +888,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(132, 132, 132, 1)",
@@ -899,7 +899,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(46, 46, 46, 1)",
@@ -1021,7 +1021,7 @@
         ]
       },
       "name": {
-        "font_name": "Mogra-Regular",
+        "font_name": "Mogra",
         "font_file": "Mogra-Regular.tff",
         "font_size": 22,
         "color": "rgba(0, 0, 0, 1)",
@@ -1043,7 +1043,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Mogra-Regular",
+        "font_name": "Mogra",
         "font_file": "Mogra-Regular.ttf",
         "font_size": 42,
         "color": "rgba(132,16,55,1)",
@@ -1054,7 +1054,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(133, 133, 133,1)",
@@ -1065,7 +1065,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(132, 132, 132, 1)",
@@ -1076,7 +1076,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(46, 46, 46, 1)",

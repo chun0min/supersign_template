@@ -57,7 +57,7 @@
     "scene_no": 1,
     "font-weight": "900",
     "option_text": {
-      "editor_option_text_font_name": "PlayfairDisplay-Regular",
+      "editor_option_text_font_name": "Playfair Display",
       "editor_option_text_font_size": "134",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": true,
@@ -110,7 +110,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "LeagueSpartan-Bold",
+      "editor_option_text_font_name": "League Spartan",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -163,7 +163,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "LeagueSpartan-Bold",
+      "editor_option_text_font_name": "League Spartan",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -216,7 +216,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "LeagueSpartan-Bold",
+      "editor_option_text_font_name": "League Spartan",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -269,7 +269,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "LeagueSpartan-Bold",
+      "editor_option_text_font_name": "League Spartan",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -322,7 +322,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "LeagueSpartan-Bold",
+      "editor_option_text_font_name": "League Spartan",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -375,7 +375,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "LeagueSpartan-Bold",
+      "editor_option_text_font_name": "League Spartan",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -470,7 +470,7 @@
         ]
       },
       "name": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -481,7 +481,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 20,
         "color": "rgba(66, 28, 15,1)",
@@ -492,7 +492,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 21,
         "color": "rgba(216, 80, 80, 1)",
@@ -503,7 +503,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(216, 80, 80,1)",
@@ -514,7 +514,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(219, 121, 121,1)",
@@ -525,7 +525,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -637,7 +637,7 @@
         ]
       },
       "name": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -648,7 +648,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 20,
         "color": "rgba(66, 28, 15,1)",
@@ -659,7 +659,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 21,
         "color": "rgba(216, 80, 80, 1)",
@@ -670,7 +670,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(216, 80, 80,1)",
@@ -681,7 +681,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(219, 121, 121,1)",
@@ -692,7 +692,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -804,7 +804,7 @@
         ]
       },
       "name": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -815,7 +815,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 20,
         "color": "rgba(66, 28, 15,1)",
@@ -826,7 +826,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 21,
         "color": "rgba(216, 80, 80, 1)",
@@ -837,7 +837,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(216, 80, 80,1)",
@@ -848,7 +848,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(219, 121, 121,1)",
@@ -859,7 +859,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -953,7 +953,7 @@
         ]
       },
       "name": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -964,7 +964,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 20,
         "color": "rgba(66, 28, 15,1)",
@@ -975,7 +975,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 21,
         "color": "rgba(216, 80, 80, 1)",
@@ -986,7 +986,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(216, 80, 80,1)",
@@ -997,7 +997,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(219, 121, 121,1)",
@@ -1008,7 +1008,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -1102,7 +1102,7 @@
         ]
       },
       "name": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -1113,7 +1113,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 20,
         "color": "rgba(66, 28, 15,1)",
@@ -1124,7 +1124,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 21,
         "color": "rgba(216, 80, 80, 1)",
@@ -1135,7 +1135,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(216, 80, 80,1)",
@@ -1146,7 +1146,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(219, 121, 121,1)",
@@ -1157,7 +1157,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
@@ -1233,7 +1233,7 @@
         ]
       },
       "name": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
@@ -1244,7 +1244,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 20,
         "color": "rgba(66, 28, 15,1)",
@@ -1255,7 +1255,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "LeagueSpartan-Bold",
+        "font_name": "League Spartan",
         "font_file": "LeagueSpartan-Bold.otf",
         "font_size": 21,
         "color": "rgba(216, 80, 80, 1)",
@@ -1266,7 +1266,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 13,
         "color": "rgba(216, 80, 80,1)",
@@ -1277,7 +1277,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(219, 121, 121,1)",
@@ -1288,7 +1288,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "MavenPro-Regular",
+        "font_name": "Maven Pro",
         "font_file": "MavenPro-Regular.ttf",
         "font_size": 17,
         "color": "rgba(0, 0, 0, 1)",
