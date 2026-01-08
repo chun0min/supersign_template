@@ -343,7 +343,7 @@
 
 /* NEW */
 @font-face {
-  font-family: 'MaruBuri-Regular';
+  font-family: 'Maru Buri';
   font-weight: normal;
   font-style: normal;
   src: url('../font/MaruBuri-Regular/MaruBuri-Regular.ttf')
@@ -357,42 +357,42 @@
     format('truetype');
 } */
 @font-face {
-  font-family: 'PermanentMarker';
+  font-family: 'Permanent Marker';
   font-weight: normal;
   font-style: normal;
   src: url('../font/PermanentMarker/PermanentMarker.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'TitanOne-Regular';
+  font-family: 'Titan One';
   font-weight: normal;
   font-style: normal;
   src: url('../font/TitanOne-Regular/TitanOne-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Manrope-Regular';
+  font-family: 'Manrope';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Manrope-Regular/Manrope-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'FrederickatheGreat-Regular';
+  font-family: 'Frederickathe Great';
   font-weight: normal;
   font-style: normal;
   src: url('../font/FrederickatheGreat-Regular/FrederickatheGreat-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Shrikhand-Regular';
+  font-family: 'Shrikhand';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Shrikhand-Regular/Shrikhand-Regular.otf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Cinzel-VariableFont';
+  font-family: 'Cinzel';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Cinzel-VariableFont_wght/Cinzel-VariableFont_wght.ttf')
@@ -406,14 +406,14 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'LuckiestGuy';
+  font-family: 'Luckiest Guy';
   font-weight: normal;
   font-style: normal;
   src: url('../font/LuckiestGuy/LuckiestGuy.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'AlfaSlabOne-Regular';
+  font-family: 'Alfa Slab One';
   font-weight: normal;
   font-style: normal;
   src: url('../font/AlfaSlabOne-Regular/AlfaSlabOne-Regular.ttf')
@@ -427,7 +427,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'NotoSansKR-Medium';
+  font-family: 'Noto Sans KR';
   font-weight: normal;
   font-style: normal;
   src: url('../font/NotoSansKR-Medium/NotoSansKR-Medium.otf')
@@ -441,28 +441,28 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'LeagueSpartan-Bold';
+  font-family: 'League Spartan';
   font-weight: normal;
   font-style: normal;
   src: url('../font/LeagueSpartan-Bold/LeagueSpartan-Bold.otf')
     format('truetype');
 }
 @font-face {
-  font-family: 'SourceSerif4-Regular';
+  font-family: 'Source Serif';
   font-weight: normal;
   font-style: normal;
   src: url('../font/SourceSerif4-Regular/SourceSerif4-Regular.otf')
     format('truetype');
 }
 @font-face {
-  font-family: 'RacingSansOne-Regular';
+  font-family: 'Racing Sans One';
   font-weight: normal;
   font-style: normal;
   src: url('../font/RacingSansOne-Regular/RacingSansOne-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Mogra-Regular';
+  font-family: 'Mogra';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Mogra-Regular/Mogra-Regular.ttf')
@@ -476,70 +476,70 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'Pridi-Regular';
+  font-family: 'Pridi';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Pridi-Regular/Pridi-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Caprasimo-Regular';
+  font-family: 'Caprasimo';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Caprasimo-Regular/Caprasimo-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'BookkMyungjo-Bold';
+  font-family: 'Bookk Myungjo';
   font-weight: normal;
   font-style: normal;
   src: url('../font/BookkMyungjo_Bold/BookkMyungjo_Bold.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'STIXTwoText-VariableFont';
+  font-family: 'STIX Two Text';
   font-weight: normal;
   font-style: normal;
   src: url('../font/STIXTwoText-VariableFont_wght/STIXTwoText-VariableFont_wght.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'MavenPro-Regular';
+  font-family: 'Maven Pro';
   font-weight: normal;
   font-style: normal;
   src: url('../font/MavenPro-Regular/MavenPro-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'SpoqaHanSansNeo-Regular';
+  font-family: 'Spoqa Han Sans Neo';
   font-weight: normal;
   font-style: normal;
   src: url('../font/SpoqaHanSansNeo-Regular/SpoqaHanSansNeo-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'BlackHanSans-Regular';
+  font-family: 'Black Han Sans';
   font-weight: normal;
   font-style: normal;
   src: url('../font/BlackHanSans-Regular/BlackHanSans-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'AlfaSlabOne-Regular';
+  font-family: 'Alfa Slab One';
   font-weight: normal;
   font-style: normal;
   src: url('../font/AlfaSlabOne-Regular/AlfaSlabOne-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Satoshi-Variable';
+  font-family: 'Satoshi';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Satoshi-Variable/Satoshi-Variable.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Charter Regular';
+  font-family: 'Charter';
   font-weight: normal;
   font-style: normal;
   src: url('../font/bitstream-charter/Charter Regular.otf')
@@ -553,28 +553,28 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'Cafe24Classictype';
+  font-family: 'Cafe24 Classictype';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Cafe24Classictype/Cafe24Classictype.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Cafe24Moyamoya-Face';
+  font-family: 'Cafe24 Moyamoya Face';
   font-weight: normal;
   font-style: normal;
   src: url('../font/moyamoya-face/Cafe24Moyamoya-Face-v1.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Paperlogy-Regular';
+  font-family: 'Paperlogy';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Paperlogy-4Regular/Paperlogy-4Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'BarlowCondensed';
+  font-family: 'Barlow Condensed';
   font-weight: normal;
   font-style: normal;
   src: url('../font/BarlowCondensed-Regular/BarlowCondensed-Regular.ttf')
@@ -588,35 +588,35 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'Cafe24Shiningstar';
+  font-family: 'Cafe24 Shiningstar';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Cafe24Shiningstar-v2/Cafe24Shiningstar-v2.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Cafe24Ohsquare';
+  font-family: 'Cafe24 Ohsquare';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Cafe24Ohsquare-v2/Cafe24Ohsquare-v2.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'NanumMyeongjo-Regular';
+  font-family: 'Nanum Myeongjo';
   font-weight: normal;
   font-style: normal;
   src: url('../font/NanumMyeongjo-Regular/NanumMyeongjo-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'GmarketSansMedium';
+  font-family: 'Gmarket Sans';
   font-weight: normal;
   font-style: normal;
   src: url('../font/GmarketSansMedium/GmarketSansMedium.otf')
     format('truetype');
 }
 @font-face {
-  font-family: 'BebasNeue-Regular';
+  font-family: 'Bebas Neue';
   font-weight: normal;
   font-style: normal;
   src: url('../font/BebasNeue-Regular/BebasNeue-Regular.ttf')
@@ -630,7 +630,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'ProtestStrike-Regular';
+  font-family: 'Protest Strike';
   font-weight: normal;
   font-style: normal;
   src: url('../font/ProtestStrike-Regular/ProtestStrike-Regular.ttf')
@@ -658,7 +658,7 @@
     format('truetype');
 } */
 @font-face {
-  font-family: 'Spectral-Regular';
+  font-family: 'Spectral';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Spectral-Regular/Spectral-Regular.ttf')
@@ -672,7 +672,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'PlayfairDisplay-Regular';
+  font-family: 'Playfair Display';
   font-weight: normal;
   font-style: normal;
   src: url('../font/PlayfairDisplay-Regular/PlayfairDisplay-Regular.ttf')
@@ -693,7 +693,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'EBGaramond-Regular';
+  font-family: 'EBGaramond';
   font-weight: normal;
   font-style: normal;
   src: url('../font/EBGaramond12-Regular/EBGaramond-Regular.ttf')
@@ -721,14 +721,14 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'BreeSerif-Regular';
+  font-family: 'Bree Serif';
   font-weight: normal;
   font-style: normal;
   src: url('../font/BreeSerif-Regular/BreeSerif-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Poppins-Regular';
+  font-family: 'Poppins';
   font-weight: normal;
   font-style: normal;
   src: url('../font/poppins/Poppins-Regular.ttf')
@@ -749,42 +749,42 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'LondrinaSolid-Regular';
+  font-family: 'Londrina Solid';
   font-weight: normal;
   font-style: normal;
   src: url('../font/LondrinaSolid-Regular/LondrinaSolid-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'LibreBodoni-Regular';
+  font-family: 'Libre Bodoni';
   font-weight: normal;
   font-style: normal;
   src: url('../font/LibreBodoni-Regular/LibreBodoni-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'WireOne';
+  font-family: 'Wire One';
   font-weight: normal;
   font-style: normal;
   src: url('../font/WireOne/WireOne.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'ChelseaMarket-Regular';
+  font-family: 'Chelsea Market';
   font-weight: normal;
   font-style: normal;
   src: url('../font/ChelseaMarket-Regular/ChelseaMarket-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Pretendard-Regular';
+  font-family: 'Pretendard';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Pretendard-Regular/Pretendard-Regular.otf')
     format('truetype');
 }
 @font-face {
-  font-family: 'AlexBrush-Regular';
+  font-family: 'Alex Brush';
   font-weight: normal;
   font-style: normal;
   src: url('../font/AlexBrush-Regular/AlexBrush-Regular.ttf')
@@ -798,7 +798,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'Inter-Regular';
+  font-family: 'Inter';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Inter-Regular/Inter-Regular.ttf')
@@ -819,7 +819,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'PyeongChangPeace-Bold';
+  font-family: 'Pyeong Chang Peace';
   font-weight: normal;
   font-style: normal;
   src: url('../font/PyeongChangPeace-Bold/PyeongChangPeace-Bold.ttf')
@@ -833,21 +833,21 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'PirataOne-Regular';
+  font-family: 'Pirata One';
   font-weight: normal;
   font-style: normal;
   src: url('../font/PirataOne-Regular/PirataOne-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'SigmarOne';
+  font-family: 'Sigmar One';
   font-weight: normal;
   font-style: normal;
   src: url('../font/SigmarOne/SigmarOne.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Notable-Regular';
+  font-family: 'Notable';
   font-weight: normal;
   font-style: normal;
   src: url('../font/notable/Notable-Regular.ttf')
@@ -861,7 +861,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'Barriecito-Regular';
+  font-family: 'Barriecito';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Barriecito/otf/Barriecito-Regular.otf')
@@ -889,14 +889,14 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'Saira-Regular';
+  font-family: 'Saira';
   font-weight: normal;
   font-style: normal;
   src: url('../font/sarina/Saira-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'SpoqaHanSansNeo-Regular';
+  font-family: 'Spoqa Han Sans Neo';
   font-weight: normal;
   font-style: normal;
   src: url('../font/SpoqaHanSansNeo-Regular/SpoqaHanSansNeo-Regular.ttf')
@@ -917,49 +917,49 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'ProtestRiot-Regular';
+  font-family: 'Protest Riot';
   font-weight: normal;
   font-style: normal;
   src: url('../font/protest-riot/ProtestRiot-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Baloo-Regular';
+  font-family: 'Baloo';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Baloo-Font/Baloo-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'BalooBhai-Regular';
+  font-family: 'Baloo Bhai';
   font-weight: normal;
   font-style: normal;
   src: url('../font/baloo-bhai/BalooBhai-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'ChangwonDangamAsac';
+  font-family: 'Changwon Dangam Asac';
   font-weight: normal;
   font-style: normal;
   src: url('../font/changwondangamasac/ChangwonDangamAsac-Bold_0712.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'PartialSansKR-Regular';
+  font-family: 'Partial Sans KR';
   font-weight: normal;
   font-style: normal;
   src: url('../font/partial-sans-kr/PartialSansKR-Regular.otf')
     format('truetype');
 }
 @font-face {
-  font-family: 'PatrickHand-Regular';
+  font-family: 'Patrick Hand';
   font-weight: normal;
   font-style: normal;
   src: url('../font/patrick-hand/PatrickHand-Regular.ttf')
     format('truetype');
 }
 @font-face {
-  font-family: 'Sancreek-Regular';
+  font-family: 'Sancreek';
   font-weight: normal;
   font-style: normal;
   src: url('../font/sancreek/Sancreek-Regular.ttf')
@@ -973,7 +973,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'SansitaOne';
+  font-family: 'Sansita One';
   font-weight: normal;
   font-style: normal;
   src: url('../font/sansita-one/SansitaOne.ttf')
@@ -987,7 +987,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'Sarina-Regular';
+  font-family: 'Sarina';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Sarina/Sarina-Regular.ttf')
@@ -1001,7 +1001,7 @@
     format('truetype');
 }
 @font-face {
-  font-family: 'NanumSquareRound';
+  font-family: 'Nanum Square Round';
   font-weight: normal;
   font-style: normal;
   src: url('../font/NanumSquareRound/NanumSquareRoundR.ttf')
