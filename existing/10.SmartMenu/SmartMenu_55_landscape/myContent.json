@@ -48,7 +48,7 @@
     "content_type": "TEXT",
     "top": 81,
     "left": 600,
-    "width": 695,
+    "width": 674,
     "height": 72,
     "angle": 0,
     "content_size": 15,
@@ -57,7 +57,7 @@
     "scene_no": 1,
     "option_text": {
       "editor_option_text_font_name": "Alfa Slab One",
-      "editor_option_text_font_size": "64",
+      "editor_option_text_font_size": "58",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -68,7 +68,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 13,
+      "editor_option_text_spacing": 0,
       "editor_option_text_font_file": "AlfaSlabOne-Regular.ttf"
     },
     "option_text_outline": {

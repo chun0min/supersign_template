@@ -394,7 +394,7 @@
         "font_name": "Paperlogy",
         "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 30,
-        "color": "rgba(225,255,255,1)",
+        "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
