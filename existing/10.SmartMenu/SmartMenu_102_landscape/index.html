@@ -59,7 +59,7 @@
         top: 158px;
         left: 220px;
         width: 403px;
-        height: 33px;
+        height: 50px;
         text-align: center; 
         color: rgb(0, 0, 0);
         font-size: 50px;
@@ -198,7 +198,10 @@
           <div class="menuTypeGroup menu" style="display: flex; flex-direction: column;">
             <div
               class="menuItem itemGrid type-01"
-              style="display: flex; grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%);"
+              style="
+              --col1: 80;
+              --col2: 20;
+              grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%);"
             >
               <!-- Grid-A -->
               <!-- <div class="itemGrid-A dragContainer">
@@ -262,7 +265,7 @@
               <div class="itemGrid-C dragContainer">
                 <div class="menuOption dragBox text_center" draggable="true">
                   <div class="kcal_option kcal_down">
-                    <div class="size_option">
+                    <div class="size_option siq">
                       <div class="price_option price_left">
                         <span
                           style="
@@ -838,10 +841,7 @@
               style="display: flex; grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%);"
             >
               <!-- Grid-A -->
-              <!-- <div class="itemGrid-A dragContainer">
-                <div class="item-image dragBox" draggable="true" style="width: calc(var(--imgW) * 1%)">
-                  <img src="img_02.png" alt="img_02.png의 썸네일입니다." />
-                </div>
+              <!-- <div class="itemGrid-A dragContainer" style="text-align: center; place-items: center">
               </div> -->
 
               <!-- Grid-B -->
