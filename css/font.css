@@ -426,15 +426,15 @@
   src: url('../font/Playlist_Script/Playlist Script.otf')
     format('truetype');
 }
-@font-face {
-  font-family: 'Noto Sans KR';
+/* @font-face {
+  font-family: 'NotoSansKR-Medium';
   font-weight: normal;
   font-style: normal;
   src: url('../font/NotoSansKR-Medium/NotoSansKR-Medium.otf')
     format('truetype');
-}
+} */
 @font-face {
-  font-family: 'NotoSansKR-Regular';
+  font-family: 'Noto Sans KR';
   font-weight: normal;
   font-style: normal;
   src: url('../font/NotoSansKR-Medium/NotoSansKR-Regular.otf')
@@ -442,7 +442,7 @@
 }
 @font-face {
   font-family: 'League Spartan';
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
   src: url('../font/LeagueSpartan-Bold/LeagueSpartan-Bold.otf')
     format('truetype');
@@ -468,13 +468,13 @@
   src: url('../font/Mogra-Regular/Mogra-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'Bhineka';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Bhineka/Bhineka.otf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Pridi';
   font-weight: normal;
@@ -491,7 +491,7 @@
 }
 @font-face {
   font-family: 'Bookk Myungjo';
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
   src: url('../font/BookkMyungjo_Bold/BookkMyungjo_Bold.ttf')
     format('truetype');
@@ -524,13 +524,13 @@
   src: url('../font/BlackHanSans-Regular/BlackHanSans-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'Alfa Slab One';
   font-weight: normal;
   font-style: normal;
   src: url('../font/AlfaSlabOne-Regular/AlfaSlabOne-Regular.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Satoshi';
   font-weight: normal;
@@ -580,13 +580,13 @@
   src: url('../font/BarlowCondensed-Regular/BarlowCondensed-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'KOMTITP';
   font-weight: normal;
   font-style: normal;
   src: url('../font/KOMTITP_/KOMTITP_.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Cafe24 Shiningstar';
   font-weight: normal;
@@ -622,13 +622,13 @@
   src: url('../font/BebasNeue-Regular/BebasNeue-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'ConcertOne-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/ConcertOne-Regular/ConcertOne-Regular.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Protest Strike';
   font-weight: normal;
@@ -636,13 +636,13 @@
   src: url('../font/ProtestStrike-Regular/ProtestStrike-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'Qwigley-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Qwigley-Regular/Qwigley-Regular.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Lobster';
   font-weight: normal;
@@ -664,13 +664,13 @@
   src: url('../font/Spectral-Regular/Spectral-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'BonaNovaSC-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/BonaNovaSC-Regular/BonaNovaSC-Regular.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Playfair Display';
   font-weight: normal;
@@ -678,20 +678,20 @@
   src: url('../font/PlayfairDisplay-Regular/PlayfairDisplay-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'BlackOpsOne-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/BlackOpsOne-Regular/BlackOpsOne-Regular.ttf')
     format('truetype');
-}
-@font-face {
+} */
+/* @font-face {
   font-family: 'EBGaramond12-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/EBGaramond12-Regular/EBGaramond12-Regular.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'EBGaramond';
   font-weight: normal;
@@ -699,20 +699,20 @@
   src: url('../font/EBGaramond12-Regular/EBGaramond-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'Mina-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Mina-Regular/Mina-Regular.ttf')
     format('truetype');
-}
-@font-face {
+} */
+/* @font-face {
   font-family: 'RubikMarkerHatch-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/RubikMarkerHatch-Regular/RubikMarkerHatch-Regular.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Pacifico';
   font-weight: normal;
@@ -734,20 +734,20 @@
   src: url('../font/poppins/Poppins-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'DTPhudu-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/DTPhudu-Regular/DTPhudu-Regular.ttf')
     format('truetype');
-}
-@font-face {
+} */
+/* @font-face {
   font-family: 'FiraSans-Medium';
   font-weight: normal;
   font-style: normal;
   src: url('../font/FiraSans-Medium/FiraSans-Medium.otf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Londrina Solid';
   font-weight: normal;
@@ -790,13 +790,13 @@
   src: url('../font/AlexBrush-Regular/AlexBrush-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'Rokkitt-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Rokkitt-Regular/Rokkitt-Regular.otf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Inter';
   font-weight: normal;
@@ -804,23 +804,23 @@
   src: url('../font/Inter-Regular/Inter-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'Inter-Bold';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Inter-Regular/Inter-Bold.ttf')
     format('truetype');
-}
-@font-face {
+} */
+/* @font-face {
   font-family: 'Oswald-Regular';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Oswald-Regular/Oswald-Regular.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Pyeong Chang Peace';
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
   src: url('../font/PyeongChangPeace-Bold/PyeongChangPeace-Bold.ttf')
     format('truetype');
@@ -867,20 +867,20 @@
   src: url('../font/Barriecito/otf/Barriecito-Regular.otf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'Khalila';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Khalila/Khalila.otf')
     format('truetype');
-}
-@font-face {
+} */
+/* @font-face {
   font-family: 'Saira';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Saira/Saira-Regular.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Red Rose';
   font-weight: normal;
@@ -895,20 +895,20 @@
   src: url('../font/sarina/Saira-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'Spoqa Han Sans Neo';
   font-weight: normal;
   font-style: normal;
   src: url('../font/SpoqaHanSansNeo-Regular/SpoqaHanSansNeo-Regular.ttf')
     format('truetype');
-}
-@font-face {
+} */
+/* @font-face {
   font-family: 'Blenda-Script';
   font-weight: normal;
   font-style: normal;
   src: url('../font/Blenda-Script/Blenda-Script.otf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'chab';
   font-weight: normal;
@@ -939,7 +939,7 @@
 }
 @font-face {
   font-family: 'Changwon Dangam Asac';
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
   src: url('../font/changwondangamasac/ChangwonDangamAsac-Bold_0712.ttf')
     format('truetype');
@@ -965,13 +965,13 @@
   src: url('../font/sancreek/Sancreek-Regular.ttf')
     format('truetype');
 }
-@font-face {
+/* @font-face {
   font-family: 'SeoulNamsan CBL';
   font-weight: normal;
   font-style: normal;
   src: url('../font/seoul-namsan/seoulnamsan/SeoulNamsanvert.ttf')
     format('truetype');
-}
+} */
 @font-face {
   font-family: 'Sansita One';
   font-weight: normal;
@@ -993,6 +993,8 @@
   src: url('../font/Sarina/Sarina-Regular.ttf')
     format('truetype');
 }
+
+/* 2차 추가 */
 @font-face {
   font-family: 'Instrument Sans';
   font-weight: normal;
