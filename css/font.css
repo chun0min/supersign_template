@@ -892,7 +892,7 @@
   font-family: 'Saira';
   font-weight: normal;
   font-style: normal;
-  src: url('../font/sarina/Saira-Regular.ttf')
+  src: url('../font/saira/Saira-Regular.otf')
     format('truetype');
 }
 /* @font-face {
@@ -990,7 +990,7 @@
   font-family: 'Sarina';
   font-weight: normal;
   font-style: normal;
-  src: url('../font/Sarina/Sarina-Regular.ttf')
+  src: url('../font/sarina/Sarina-Regular.ttf')
     format('truetype');
 }
 
