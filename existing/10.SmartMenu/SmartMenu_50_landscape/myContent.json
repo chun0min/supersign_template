@@ -753,8 +753,8 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Pyeong Chang Peace",
-        "font_file": "PyeongChangPeace-Bold.ttf",
+        "font_name": "Paperlogy",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 18,
         "color": "rgba(32,19,3,1)",
         "style_bold": true,
@@ -919,8 +919,8 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "Pyeong Chang Peace",
-        "font_file": "PyeongChangPeace-Bold.ttf",
+        "font_name": "Paperlogy",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 18,
         "color": "rgba(32,19,3,1)",
         "style_bold": true,
@@ -1023,7 +1023,7 @@
     "display_order": 15,
     "content_type": "TEXT",
     "top": 169,
-    "left": 856,
+    "left": 831,
     "width": 210,
     "height": 20,
     "angle": 0,

@@ -111,7 +111,7 @@
     "option_text": {
       "editor_option_text_font_name": "Alex Brush",
       "editor_option_text_font_size": "115",
-      "editor_option_text_style_bold": 700,
+      "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,

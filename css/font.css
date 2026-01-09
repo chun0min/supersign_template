@@ -183,7 +183,7 @@
   font-family: 'Caveat';
   font-weight: normal;
   font-style: normal;
-  src: url('../font/Caveat/Caveat-Regular.ttf') format('truetype');
+  src: url('../font/caveat/Caveat-Regular.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Dancing Script';

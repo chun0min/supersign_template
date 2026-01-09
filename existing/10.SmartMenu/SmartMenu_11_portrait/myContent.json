@@ -281,7 +281,7 @@
     "font-weight": "900",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi",
+      "editor_option_text_font_name": "Saira",
       "editor_option_text_font_size": "46",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -293,7 +293,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Satoshi-Variable.ttf",
+      "editor_option_text_font_file": "Saira-Regular.otf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -334,7 +334,7 @@
     "font-weight": "900",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi",
+      "editor_option_text_font_name": "Saira",
       "editor_option_text_font_size": "46",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -346,7 +346,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Satoshi-Variable.ttf",
+      "editor_option_text_font_file": "Saira-Regular.otf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -387,7 +387,7 @@
     "font-weight": "900",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Satoshi",
+      "editor_option_text_font_name": "Saira",
       "editor_option_text_font_size": "46",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -399,7 +399,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Satoshi-Variable.ttf",
+      "editor_option_text_font_file": "Saira-Regular.otf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -612,7 +612,7 @@
         "scale": 1,
         "item_spacing": 6,
         "horizontal_scale": 0,
-        "vertical_scale": 30,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
@@ -828,7 +828,7 @@
         "scale": 1,
         "item_spacing": 6,
         "horizontal_scale": 0,
-        "vertical_scale": 30,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
@@ -1044,7 +1044,7 @@
         "scale": 1,
         "item_spacing": 6,
         "horizontal_scale": 0,
-        "vertical_scale": 30,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
