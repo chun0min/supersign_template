@@ -694,7 +694,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "priceType": {
         "font_name": "Inter-Regular",
@@ -705,7 +705,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "price": {
         "font_name": "Inter",
@@ -716,7 +716,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "calories": {
         "font_name": "Inter",
@@ -727,7 +727,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "allergies": {
         "font_name": "Inter-Regular",
@@ -749,7 +749,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "custom": {
         "price_type": "left",
