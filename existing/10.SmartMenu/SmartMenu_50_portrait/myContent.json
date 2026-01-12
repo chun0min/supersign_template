@@ -1192,11 +1192,91 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "Mr. Egg Sandwich",
-            "description": "Briefly describe the ingredient",
-            "price": ["10.5"],
-            "calory": ["500"],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "menu_name": "MILK TEA",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["6.0"],
+            "calory": ["240"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+
+          {
+            "menu_name": "MILK TEA",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["6.0"],
+            "calory": ["240"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+
+          {
+            "menu_name": "MILK TEA",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["8.0"],
+            "calory": ["240"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+
+          {
+            "menu_name": "MILK TEA",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["5.0"],
+            "calory": ["240"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+
+          {
+            "menu_name": "MILK TEA",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["4.0"],
+            "calory": ["240"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+
+          {
+            "menu_name": "MILK TEA",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["4.0"],
+            "calory": ["240"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
             "enable": true,
             "image": {
@@ -1211,13 +1291,13 @@
       "name": {
         "font_name": "Charter",
         "font_file": "Charter.ttf",
-        "font_size": 26,
-        "color": "rgba(255, 255, 255, 1)",
+        "font_size": 20,
+        "color": "rgba(55, 55, 55, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "centlefter"
       },
       "priceType": {
         "font_name": "Inter",
@@ -1233,46 +1313,46 @@
       "price": {
         "font_name": "Inter",
         "font_file": "Inter.ttf",
-        "font_size": 28,
-        "color": "rgba(255, 255, 255, 1)",
+        "font_size": 24,
+        "color": "rgba(5, 60, 81, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter",
-        "font_file": "Inter.ttf",
-        "font_size": 11,
-        "color": "rgba(193, 193, 193, 1)",
-        "style_bold": false,
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(55, 55, 55, 1)",
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 12,
-        "color": "rgba(139, 205, 149, 1)",
-        "style_bold": false,
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 10,
+        "color": "rgba(5, 60, 81, 1)",
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 15,
-        "color": "rgba(255, 255, 255, 1)",
-        "style_bold": true,
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(74, 74, 74, 1)",
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "custom": {
         "price_type": "left",
