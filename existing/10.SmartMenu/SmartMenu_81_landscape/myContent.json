@@ -403,7 +403,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10.6,
         "color": "rgba(198, 164, 155, 1)",
@@ -570,7 +570,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10.6,
         "color": "rgba(198, 164, 155, 1)",
@@ -737,7 +737,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10.6,
         "color": "rgba(198, 164, 155, 1)",
@@ -904,7 +904,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10.6,
         "color": "rgba(198, 164, 155, 1)",
@@ -1053,7 +1053,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10.6,
         "color": "rgba(198, 164, 155, 1)",
@@ -1202,7 +1202,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 10.6,
         "color": "rgba(198, 164, 155, 1)",

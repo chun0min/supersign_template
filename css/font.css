@@ -930,13 +930,6 @@
   src: url('../font/sancreek/Sancreek-Regular.ttf')
     format('truetype');
 }
-/* @font-face {
-  font-family: 'SeoulNamsan CBL';
-  font-weight: normal;
-  font-style: normal;
-  src: url('../font/seoul-namsan/seoulnamsan/SeoulNamsanvert.ttf')
-    format('truetype');
-} */
 @font-face {
   font-family: 'Sansita One';
   font-weight: normal;
@@ -972,5 +965,12 @@
   font-weight: normal;
   font-style: normal;
   src: url('../font/NanumSquareRound/NanumSquareRoundR.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: 'Seoul Namsan';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/seoulnamsan/SeoulNamsanM.ttf')
     format('truetype');
 }

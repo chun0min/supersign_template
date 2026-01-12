@@ -184,7 +184,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "SeoulNamsanM",
+        "font_name": "Seoul Namsan",
         "font_file": "SeoulNamsanM.ttf",
         "font_size": 36,
         "color": "rgba(218,16,64,1)",
@@ -354,7 +354,7 @@
         "unit_placement": "before"
       },
       "name": {
-        "font_name": "SeoulNamsanM",
+        "font_name": "Seoul Namsan",
         "font_file": "SeoulNamsanM.ttf",
         "font_size": 36,
         "color": "rgba(218,16,64,1)",

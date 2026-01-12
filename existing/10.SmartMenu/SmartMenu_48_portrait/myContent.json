@@ -266,7 +266,7 @@
       },
       "price": {
         "font_name": "Sansita One",
-        "font_file": "Sansita One.ttf",
+        "font_file": "SansitaOne.ttf",
         "font_size": 40,
         "color": "rgba(30, 30, 30, 1)",
         "style_bold": false,
@@ -465,7 +465,7 @@
       },
       "price": {
         "font_name": "Sansita One",
-        "font_file": "Sansita One.ttf",
+        "font_file": "SansitaOne.ttf",
         "font_size": 40,
         "color": "rgba(30, 30, 30, 1)",
         "style_bold": false,

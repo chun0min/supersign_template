@@ -191,8 +191,8 @@
         ]
       },
       "name": {
-        "font_name": "SeoulNamsan CBL",
-        "font_file": "SeoulNamsan CBL.ttf",
+        "font_name": "Seoul Namsan",
+        "font_file": "SeoulNamsanM.ttf",
         "font_size": 36,
         "color": "rgba(218, 16, 64,1)",
         "style_bold": false,
@@ -214,7 +214,7 @@
       },
       "price": {
         "font_name": "Sansita One",
-        "font_file": "Sansita One.ttf",
+        "font_file": "SansitaOne.ttf",
         "font_size": 54,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -225,7 +225,7 @@
       },
       "calories": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -236,7 +236,7 @@
       },
       "allergies": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(190, 190, 190, 1)",
         "style_bold": false,
@@ -247,7 +247,7 @@
       },
       "description": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": true,
@@ -332,8 +332,8 @@
         ]
       },
       "name": {
-        "font_name": "SeoulNamsan CBL",
-        "font_file": "SeoulNamsan CBL.ttf",
+        "font_name": "Seoul Namsan",
+        "font_file": "SeoulNamsanM.ttf",
         "font_size": 36,
         "color": "rgba(218, 16, 64,1)",
         "style_bold": false,
@@ -355,7 +355,7 @@
       },
       "price": {
         "font_name": "Sansita One",
-        "font_file": "Sansita One.ttf",
+        "font_file": "SansitaOne.ttf",
         "font_size": 54,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -366,7 +366,7 @@
       },
       "calories": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -377,7 +377,7 @@
       },
       "allergies": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(190, 190, 190, 1)",
         "style_bold": false,
@@ -388,7 +388,7 @@
       },
       "description": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": true,
@@ -473,8 +473,8 @@
         ]
       },
       "name": {
-        "font_name": "SeoulNamsan CBL",
-        "font_file": "SeoulNamsan CBL.ttf",
+        "font_name": "Seoul Namsan",
+        "font_file": "SeoulNamsanM.ttf",
         "font_size": 36,
         "color": "rgba(218, 16, 64,1)",
         "style_bold": false,
@@ -496,7 +496,7 @@
       },
       "price": {
         "font_name": "Sansita One",
-        "font_file": "Sansita One.ttf",
+        "font_file": "SansitaOne.ttf",
         "font_size": 54,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -507,7 +507,7 @@
       },
       "calories": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -518,7 +518,7 @@
       },
       "allergies": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(190, 190, 190, 1)",
         "style_bold": false,
@@ -529,7 +529,7 @@
       },
       "description": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": true,

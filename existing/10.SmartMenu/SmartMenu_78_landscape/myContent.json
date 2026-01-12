@@ -323,7 +323,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "35",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -793,7 +793,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 24,
         "color": "rgba(0, 0, 0, 1)",
@@ -804,7 +804,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 24,
         "color": "rgba(0, 0, 0, 1)",
@@ -951,7 +951,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 24,
         "color": "rgba(0, 0, 0, 1)",
@@ -962,7 +962,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Pretendard-Regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 24,
         "color": "rgba(0, 0, 0, 1)",
