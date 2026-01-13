@@ -1,0 +1,601 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1080,
+    "height": 1920,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/background.jpg",
+    "content_size": 693139,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "TEXT",
+    "top": 93,
+    "left": 66,
+    "width": 387,
+    "height": 212,
+    "angle": 0,
+    "content_size": 12,
+    "text_value": "Dessert Menu",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Lobster",
+      "editor_option_text_font_size": "133",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 51, 87",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 2,
+      "editor_option_text_font_file": "Lobster.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "255,255,255",
+      "editor_option_text_outline_width": 20
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "TEXT",
+    "top": 93,
+    "left": 66,
+    "width": 387,
+    "height": 212,
+    "angle": 0,
+    "content_size": 12,
+    "text_value": "Dessert Menu",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Lobster",
+      "editor_option_text_font_size": "133",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 51, 87",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 2,
+      "editor_option_text_font_file": "Lobster.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "TEXT",
+    "top": 374,
+    "left": 149,
+    "width": 221,
+    "height": 106,
+    "angle": 0,
+    "content_size": 14,
+    "text_value": "0000-0000-0000",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Lobster",
+      "editor_option_text_font_size": "30",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 51, 87",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 2,
+      "editor_option_text_font_file": "Lobster.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "255,255,255",
+      "editor_option_text_outline_width": 20
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "TEXT",
+    "top": 374,
+    "left": 149,
+    "width": 221,
+    "height": 106,
+    "angle": 0,
+    "content_size": 14,
+    "text_value": "0000-0000-0000",
+    "line_height": 1,
+    "font-weight": 400,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Lobster",
+      "editor_option_text_font_size": "30",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 51, 87",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 2,
+      "editor_option_text_font_file": "Lobster.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "T_MENU",
+    "width": 460,
+    "height": 445,
+    "top": 20,
+    "left": 580,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_51_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Strawberry Cake",
+            "description": "Briefly describe the ingredient Briefly describe the ingredient Briefly",
+            "price": ["14.5"],
+            "calory": ["500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_01.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_01.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_01.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Charter",
+        "font_file": "Charter.ttf",
+        "font_size": 36,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Iowan Old Style",
+        "font_file": "Iowan Old Style.ttf",
+        "font_size": 46,
+        "color": "rgba(68, 68, 68, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 14,
+        "color": "rgba(111, 111, 111, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(108, 50, 60, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 1000,
+    "height": 1370,
+    "top": 508,
+    "left": 40,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_51_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Strawberry Cake",
+            "description": "Briefly describe the ingredient Briefly describe the ingredient Briefly",
+            "price": ["12.5"],
+            "calory": ["500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_02.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_02.png"
+            }
+          },
+          {
+            "menu_name": "Strawberry Cake",
+            "description": "Briefly describe the ingredient Briefly describe the ingredient Briefly",
+            "price": ["16.5"],
+            "calory": ["500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_03.png"
+            }
+          },
+          {
+            "menu_name": "Strawberry Cake",
+            "description": "Briefly describe the ingredient Briefly describe the ingredient Briefly",
+            "price": ["11.5"],
+            "calory": ["500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_04.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_04.png"
+            }
+          },
+          {
+            "menu_name": "Strawberry Cake",
+            "description": "Briefly describe the ingredient Briefly describe the ingredient Briefly",
+            "price": ["13.5"],
+            "calory": ["500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_05.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_05.png"
+            }
+          },
+          {
+            "menu_name": "Strawberry Cake",
+            "description": "Briefly describe the ingredient Briefly describe the ingredient Briefly",
+            "price": ["11.5"],
+            "calory": ["500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 5,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_06.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_06.png"
+            }
+          },
+          {
+            "menu_name": "Strawberry Cake",
+            "description": "Briefly describe the ingredient Briefly describe the ingredient Briefly",
+            "price": ["13.5"],
+            "calory": ["500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 6,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_07.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_51_portrait/img_07.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Charter",
+        "font_file": "Charter.ttf",
+        "font_size": 36,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Iowan Old Style",
+        "font_file": "Iowan Old Style.ttf",
+        "font_size": 46,
+        "color": "rgba(68, 68, 68, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 14,
+        "color": "rgba(111, 111, 111, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(108, 50, 60, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  }
+
+]

@@ -1,0 +1,1627 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1080,
+    "height": 1920,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/background.jpg",
+    "content_size": 200108,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 159,
+    "left": 0,
+    "width": 184,
+    "height": 323,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_01.png",
+    "content_size": 129642,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_01.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "IMAGE",
+    "top": 209,
+    "left": 896,
+    "width": 184,
+    "height": 322,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_02.png",
+    "content_size": 138156,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_02.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "IMAGE",
+    "top": 547,
+    "left": 199,
+    "width": 384,
+    "height": 188,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_03.png",
+    "content_size": 111624,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "IMAGE",
+    "top": 806,
+    "left": 49,
+    "width": 275,
+    "height": 268,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_04.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_04.png",
+    "content_size": 167924,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_04.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "IMAGE",
+    "top": 788,
+    "left": 390,
+    "width": 297,
+    "height": 297,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_05.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_05.png",
+    "content_size": 155326,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_05.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 6,
+    "display_order": 5,
+    "content_type": "IMAGE",
+    "top": 806,
+    "left": 762,
+    "width": 269,
+    "height": 269,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_06.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_05.pn6",
+    "content_size": 155326,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_52_portrait/img_05.pn6",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "IMAGE",
+    "top": 300,
+    "left": 559,
+    "width": 402,
+    "height": 345,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_02.png",
+    "content_size": 212045,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_02.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "IMAGE",
+    "top": 893,
+    "left": 119,
+    "width": 402,
+    "height": 345,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_03.png",
+    "content_size": 208030,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "IMAGE",
+    "top": 893,
+    "left": 559,
+    "width": 402,
+    "height": 345,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_04.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_04.png",
+    "content_size": 204942,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_04.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "IMAGE",
+    "top": 125,
+    "left": 264,
+    "width": 40,
+    "height": 40,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_05.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_05.png",
+    "content_size": 730,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_05.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "IMAGE",
+    "top": 125,
+    "left": 776,
+    "width": 40,
+    "height": 40,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_06.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_06.png",
+    "content_size": 730,
+    "scene_no": 1,
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_50_portrait/img_06.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "TEXT",
+    "top": 30,
+    "left": 315,
+    "width": 450,
+    "height": 68,
+    "angle": 0,
+    "content_size": 10,
+    "text_value": "PIZZA MENU",
+    "line_height": 1,
+    "font-weight": 900,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Charter",
+      "editor_option_text_font_size": "56",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 255, 255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "center",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 2,
+      "editor_option_text_font_file": "Charter.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 8,
+    "display_order": 9,
+    "content_type": "TEXT",
+    "top": 1337,
+    "left": 85,
+    "width": 910,
+    "height": 32,
+    "angle": 0,
+    "content_size": 9,
+    "text_value": "SIDE MENU",
+    "line_height": 1,
+    "font-weight": 900,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Charter",
+      "editor_option_text_font_size": "26",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "55, 55, 55",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 2,
+      "editor_option_text_font_file": "Charter.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 9,
+    "display_order": 10,
+    "content_type": "TEXT",
+    "top": 1604,
+    "left": 85,
+    "width": 910,
+    "height": 32,
+    "angle": 0,
+    "content_size": 5,
+    "text_value": "DRINK",
+    "line_height": 1,
+    "font-weight": 900,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Charter",
+      "editor_option_text_font_size": "26",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "55, 55, 55",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 2,
+      "editor_option_text_font_file": "Charter.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 10,
+    "display_order": 11,
+    "content_type": "TEXT",
+    "top": 120,
+    "left": 410,
+    "width": 260,
+    "height": 29,
+    "angle": 0,
+    "content_size": 14,
+    "text_value": "0000-0000-0000",
+    "line_height": 1,
+    "font-weight": 900,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Charter",
+      "editor_option_text_font_size": "24",
+      "editor_option_text_style_bold": true,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "255, 255, 255",
+      "editor_option_text_back_color": "255,255,255",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": 2,
+      "editor_option_text_font_file": "Charter.ttf",
+      "editor_option_text_font_opacity": 1
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+
+  {
+    "id": 11,
+    "display_order": 12,
+    "content_type": "T_MENU",
+    "width": 290,
+    "height": 170,
+    "top": 251,
+    "left": 196,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_52_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
+        "menu_list": [
+          {
+            "menu_name": "PIZZA NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Charter",
+        "font_file": "Charter.ttf",
+        "font_size": 28,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 20,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 11,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 13,
+        "color": "rgba(255, 252, 92, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 12,
+    "display_order": 13,
+    "content_type": "T_MENU",
+    "width": 290,
+    "height": 170,
+    "top": 300,
+    "left": 196,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_52_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
+        "menu_list": [
+          {
+            "menu_name": "PIZZA NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Charter",
+        "font_file": "Charter.ttf",
+        "font_size": 28,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 20,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 11,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 13,
+        "color": "rgba(255, 252, 92, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 13,
+    "display_order": 14,
+    "content_type": "T_MENU",
+    "width": 290,
+    "height": 170,
+    "top": 571,
+    "left": 591,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_52_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
+        "menu_list": [
+          {
+            "menu_name": "PIZZA NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Charter",
+        "font_file": "Charter.ttf",
+        "font_size": 28,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 20,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 11,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 13,
+        "color": "rgba(255, 252, 92, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 14,
+    "display_order": 15,
+    "content_type": "T_MENU",
+    "width": 1040,
+    "height": 140,
+    "top": 1137,
+    "left": 15,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_52_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
+        "menu_list": [
+          {
+            "menu_name": "PIZZA NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "PIZZA NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "PIZZA NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["9.5","10.5","11.5"],
+            "calory": ["300","400","500"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Charter",
+        "font_file": "Charter.ttf",
+        "font_size": 26,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 22,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 11,
+        "color": "rgba(151, 151, 151, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(191, 1, 1, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(58, 58, 58, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 15,
+    "display_order": 16,
+    "content_type": "T_MENU",
+    "width": 870,
+    "height": 200,
+    "top": 1393,
+    "left": 105,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_52_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "TOMATO PASTA",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["10.0"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "CREAM PASTA",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["11.0"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "ROSE PASTA",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["12.0"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Charter",
+        "font_file": "Charter.ttf",
+        "font_size": 20,
+        "color": "rgba(55, 55, 55, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 24,
+        "color": "rgba(55, 55, 55, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(55, 55, 55, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 10,
+        "color": "rgba(191, 1, 1, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(74, 74, 74, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+
+  {
+    "id": 16,
+    "display_order": 17,
+    "content_type": "T_MENU",
+    "width": 870,
+    "height": 200,
+    "top": 1661,
+    "left": 105,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_52_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "TSINGTAO",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["8.0"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "YEONTAE HIGH LIQUOR",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["6.0"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "COKE AND SPRITE",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["9.0"],
+            "calory": ["240"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Charter",
+        "font_file": "Charter.ttf",
+        "font_size": 20,
+        "color": "rgba(55, 55, 55, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter.ttf",
+        "font_size": 24,
+        "color": "rgba(55, 55, 55, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(55, 55, 55, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 10,
+        "color": "rgba(191, 1, 1, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(74, 74, 74, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 60,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": ["image", "name"]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": ["description", "price"]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  }
+]
