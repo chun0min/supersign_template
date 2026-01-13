@@ -1,0 +1,820 @@
+<!-- /* 웹화면 누락(임의로 생성함) */ -->
+
+<head>
+  <meta charset="UTF-8" />
+  <title>템플릿 세로 타입</title>
+  <style>
+    @import url('../../../css/editor/draggable-resizable/index.module.css');
+    @import url('../../../css/editor/draggable-resizable/moveable.css');
+    @import url('../../../css/editor/draggable-resizable/t_menu_new.css');
+    @import url('../../../css/font.css');
+
+    /*custom css*/
+    @import url('../../../css/editor/draggable-resizable/index.v2.module.css');
+  </style>
+</head>
+
+<body style="margin: 0; padding: 0" class="r5_menu_55_portrait">
+  <!-- 여기부터 템플릿 화면 -->
+  <style>
+    .backgroundSize {
+      width: 1080px;
+      height: 1920px;
+      background-size: 1080px 1920px;
+      position: relative;
+    }
+
+    .widgetCon {
+      position: absolute;
+    }
+  </style>
+
+  <div id="editor" class="backgroundSize" style="background-image: url('background.jpg')">
+    <!-- image -->
+
+    <!-- text -->
+    <div
+      id="editorItem1"
+      class="widgetCon"
+      style="
+        top: 87px;
+        left: 178px;
+        width: 187px;
+        height: 29px;
+        font-family: 'Pretendard';
+        font-size: 24px;
+        font-weight: 400;
+        font-style: normal;
+        letter-spacing: 1px;
+        line-height: 1;
+        color: rgba(255, 255, 255, 1);
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+      "
+    >
+      0000-0000-0000
+    </div>
+
+    <div
+      id="editorItem2"
+      class="widgetCon"
+      style="
+        top: 121px;
+        left: 107px;
+        width: 328px;
+        height: 138px;
+        font-family: 'Elsie';
+        font-size: 120px;
+        font-weight: 400;
+        font-style: normal;
+        letter-spacing: 1px;
+        line-height: 1;
+        color: rgba(255, 255, 255, 1);
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+      "
+    >
+      FOOD
+    </div>
+
+    <div
+      id="editorItem3"
+      class="widgetCon"
+      style="
+        top: 244px;
+        left: 107px;
+        width: 328px;
+        height: 138px;
+        font-family: 'Elsie';
+        font-size: 120px;
+        font-weight: 400;
+        font-style: normal;
+        letter-spacing: 1px;
+        line-height: 1;
+        color: rgba(255, 255, 255, 1);
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+      "
+    >
+      MENU
+    </div>
+
+    <!-- 여기부터 메뉴구성 레이아웃 -->
+    <div
+      id="editorItem4"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 5, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 465px; height: 425px; top: 44px; left: 562px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu portrait" style="">
+            <div class="menuItem itemGrid type-04" style="">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Mina';
+                    font-size: 26px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgba(255, 255, 255, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  FOOD NAME HERE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 16px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Briefly describe the ingredient Briefly describe the describe ingredient
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: 330px">
+                  <img src="img_01.png" alt="img_01.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 28px; justify-content: center">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option" style="align-items: center">
+                      <div class="price_option price_right">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 21px;
+                            font-weight: 700;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                          "
+                        >
+                          $12
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 14px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(255, 255, 255, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="editorItem5"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 5, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 978px; height: 1371px; top: 512px; left: 50px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu portrait" style="gap: 43px 48px; display: grid; grid-template-columns: repeat(2, 1fr)">
+            <div class="menuItem itemGrid type-04" style="">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Mina';
+                    font-size: 26px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgba(255, 255, 255, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  FOOD NAME HERE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 16px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Briefly describe the ingredient Briefly describe the describe ingredient
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: 330px">
+                  <img src="img_02.png" alt="img_02.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 28px; justify-content: center">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option" style="align-items: center">
+                      <div class="price_option price_right">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 21px;
+                            font-weight: 700;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                          "
+                        >
+                          $14
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 14px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(255, 255, 255, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-04" style="">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Mina';
+                    font-size: 26px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgba(255, 255, 255, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  FOOD NAME HERE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 16px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Briefly describe the ingredient Briefly describe the describe ingredient
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: 330px">
+                  <img src="img_03.png" alt="img_03.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 28px; justify-content: center">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option" style="align-items: center">
+                      <div class="price_option price_right">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 21px;
+                            font-weight: 700;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                          "
+                        >
+                          $14
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 14px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(255, 255, 255, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-04" style="">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Mina';
+                    font-size: 26px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgba(255, 255, 255, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  FOOD NAME HERE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 16px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Briefly describe the ingredient Briefly describe the describe ingredient
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: 330px">
+                  <img src="img_04.png" alt="img_04.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 28px; justify-content: center">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option" style="align-items: center">
+                      <div class="price_option price_right">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 21px;
+                            font-weight: 700;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                          "
+                        >
+                          $11
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 14px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(255, 255, 255, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-04" style="">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Mina';
+                    font-size: 26px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgba(255, 255, 255, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  FOOD NAME HERE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 16px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Briefly describe the ingredient Briefly describe the describe ingredient
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: 330px">
+                  <img src="img_05.png" alt="img_05.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 28px; justify-content: center">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option" style="align-items: center">
+                      <div class="price_option price_right">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 21px;
+                            font-weight: 700;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                          "
+                        >
+                          $16
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 14px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(255, 255, 255, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-04" style="">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Mina';
+                    font-size: 26px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgba(255, 255, 255, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  FOOD NAME HERE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 16px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Briefly describe the ingredient Briefly describe the describe ingredient
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: 330px">
+                  <img src="img_06.png" alt="img_06.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 28px; justify-content: center">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option" style="align-items: center">
+                      <div class="price_option price_right">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 21px;
+                            font-weight: 700;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                          "
+                        >
+                          $19
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 14px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(255, 255, 255, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-04" style="">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div
+                  class="item-name dragBox"
+                  draggable="true"
+                  style="
+                    font-family: 'Mina';
+                    font-size: 26px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgba(255, 255, 255, 1);
+                    background-color: rgba(255, 255, 255, 0);
+                    text-align: left;
+                  "
+                >
+                  FOOD NAME HERE
+                </div>
+                <div class="description dragBox" draggable="true">
+                  <div
+                    class="menuExplain"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 16px;
+                      font-weight: 500;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Briefly describe the ingredient Briefly describe the describe ingredient
+                  </div>
+                  <div
+                    class="allergy"
+                    style="
+                      font-family: 'Pretendard';
+                      font-size: 12px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgba(255, 255, 255, 1);
+                      background-color: rgba(255, 255, 255, 0);
+                      text-align: left;
+                    "
+                  >
+                    Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="item-image dragBox" draggable="true" style="width: 330px">
+                  <img src="img_07.png" alt="img_07.png의 썸네일입니다." />
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="menuOption dragBox" draggable="true" style="gap: 28px; justify-content: center">
+                  <div class="kcal_option kcal_right">
+                    <div class="size_option" style="align-items: center">
+                      <div class="price_option price_right">
+                        <span
+                          style="
+                            font-family: 'Pretendard';
+                            font-size: 21px;
+                            font-weight: 700;
+                            font-style: normal;
+                            color: rgba(255, 255, 255, 1);
+                            background-color: rgba(255, 255, 255, 0);
+                            text-align: left;
+                          "
+                        >
+                          $19
+                        </span>
+                      </div>
+                    </div>
+                    <span
+                      class="kcal-right"
+                      style="
+                        font-family: 'Pretendard';
+                        font-size: 14px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgba(255, 255, 255, 1);
+                        background-color: rgba(255, 255, 255, 0);
+                        text-align: left;
+                      "
+                    >
+                      99 kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 여기까지 -->
+  </div>
+  <body></body>
+</body>
