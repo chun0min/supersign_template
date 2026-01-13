@@ -620,7 +620,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 21,
         "color": "rgba(83, 54, 32, 1)",
@@ -631,7 +631,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(83, 54, 32,1)",
@@ -642,7 +642,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(83, 54, 32,1)",
@@ -653,7 +653,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(83, 54, 32,1)",
@@ -664,7 +664,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(201, 87, 73,1)",
@@ -675,7 +675,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(83, 54, 32,1)",
@@ -779,7 +779,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 21,
         "color": "rgba(83, 54, 32, 1)",
@@ -790,7 +790,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(83, 54, 32,1)",
@@ -801,7 +801,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(83, 54, 32,1)",
@@ -812,7 +812,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(83, 54, 32,1)",
@@ -823,7 +823,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(201, 87, 73,1)",
@@ -834,7 +834,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(83, 54, 32,1)",
@@ -976,7 +976,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 21,
         "color": "rgba(83, 54, 32, 1)",
@@ -987,7 +987,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(83, 54, 32,1)",
@@ -998,7 +998,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(83, 54, 32,1)",
@@ -1009,7 +1009,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(83, 54, 32,1)",
@@ -1020,7 +1020,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(201, 87, 73,1)",
@@ -1031,7 +1031,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(83, 54, 32,1)",

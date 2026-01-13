@@ -329,7 +329,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(173, 173, 173,1)",
@@ -340,7 +340,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(188, 188, 188,1)",

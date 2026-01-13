@@ -256,7 +256,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Onest-Regular",
+      "editor_option_text_font_name": "Onest",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -308,7 +308,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Onest-Regular",
+      "editor_option_text_font_name": "Onest",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -360,7 +360,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Onest-Regular",
+      "editor_option_text_font_name": "Onest",
       "editor_option_text_font_size": "33",
       "editor_option_text_style_bold": 800,
       "editor_option_text_style_italic": false,
@@ -494,7 +494,7 @@
         ]
       },
       "name": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
@@ -505,7 +505,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 17,
         "color": "rgba(43, 43, 43, 0.5)",
@@ -516,7 +516,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
@@ -527,7 +527,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 13,
         "color": "rgba(112,112,112,1)",
@@ -538,7 +538,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 13,
         "color": "rgba(227,72,46,1)",
@@ -549,7 +549,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0,0,0,1)",
@@ -646,7 +646,7 @@
         ]
       },
       "name": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
@@ -657,7 +657,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 17,
         "color": "rgba(43, 43, 43, 0.5)",
@@ -668,7 +668,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
@@ -679,7 +679,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 13,
         "color": "rgba(112,112,112,1)",
@@ -690,7 +690,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 13,
         "color": "rgba(227,72,46,1)",
@@ -701,7 +701,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0,0,0,1)",
@@ -798,7 +798,7 @@
         ]
       },
       "name": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
@@ -809,7 +809,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 17,
         "color": "rgba(43, 43, 43, 0.5)",
@@ -820,7 +820,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0,0,0,1)",
@@ -831,7 +831,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 13,
         "color": "rgba(112,112,112,1)",
@@ -842,7 +842,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 13,
         "color": "rgba(227,72,46,1)",
@@ -853,7 +853,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0,0,0,1)",

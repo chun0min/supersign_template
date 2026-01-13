@@ -244,7 +244,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(59, 59, 59,1)",
@@ -255,7 +255,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(15, 85, 57,1)",
@@ -288,7 +288,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(143, 38, 37,1)",
@@ -299,7 +299,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(59, 59, 59,1)",
@@ -442,7 +442,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(59, 59, 59,1)",
@@ -453,7 +453,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(15, 85, 57,1)",
@@ -486,7 +486,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(143, 38, 37,1)",
@@ -497,7 +497,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(59, 59, 59,1)",

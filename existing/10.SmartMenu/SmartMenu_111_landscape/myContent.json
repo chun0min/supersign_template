@@ -606,7 +606,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(59, 59, 59,1)",
@@ -617,7 +617,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(35, 61, 135,1)",
@@ -650,7 +650,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(168, 168, 168,1)",
@@ -661,7 +661,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 16,
         "color": "rgba(59, 59, 59,1)",
@@ -774,7 +774,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(3, 19, 138, 1)",
@@ -785,7 +785,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(255, 255, 255,1)",
@@ -807,7 +807,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(181, 181, 181,1)",
@@ -818,7 +818,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 16,
         "color": "rgba(255, 255, 255,1)",
@@ -930,7 +930,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(3, 19, 138, 1)",
@@ -941,7 +941,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(255, 255, 255,1)",
@@ -963,7 +963,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(181, 181, 181,1)",
@@ -974,7 +974,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 16,
         "color": "rgba(255, 255, 255,1)",

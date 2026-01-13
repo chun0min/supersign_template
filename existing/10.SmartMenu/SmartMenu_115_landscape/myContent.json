@@ -526,7 +526,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(28, 121, 137, 1)",
@@ -537,7 +537,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(165, 34, 17,1)",
@@ -570,7 +570,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(144, 144, 144,1)",
@@ -581,7 +581,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 16,
         "color": "rgba(59, 59, 59,1)",
@@ -686,7 +686,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(28, 121, 137, 1)",
@@ -697,7 +697,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(165, 34, 17,1)",
@@ -730,7 +730,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(144, 144, 144,1)",
@@ -741,7 +741,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 16,
         "color": "rgba(59, 59, 59,1)",
