@@ -1,3 +1,0 @@
-없는 폰트 목록(가로 86 ~)
-- SmartMenu_86_landscape > Lobster
-- SmartMenu_86_landscape > Iowan Old Style
