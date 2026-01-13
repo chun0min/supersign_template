@@ -902,7 +902,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 30,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -913,7 +913,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 20,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -924,7 +924,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 25,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": true,
@@ -1042,7 +1042,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 30,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1053,7 +1053,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 20,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1064,7 +1064,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 25,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": true,
@@ -1182,7 +1182,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 30,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1193,7 +1193,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 20,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1204,7 +1204,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 25,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": true,
@@ -1331,7 +1331,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 30,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1342,7 +1342,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 20,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1353,7 +1353,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 25,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": true,
@@ -1480,7 +1480,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 30,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1491,7 +1491,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 20,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": false,
@@ -1502,7 +1502,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular-Regular.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 25,
         "color": "rgba(26, 26, 26,1)",
         "style_bold": true,

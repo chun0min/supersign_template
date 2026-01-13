@@ -231,7 +231,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 19,
         "color": "rgba(15,18,11,1)",

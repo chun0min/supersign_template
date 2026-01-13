@@ -245,7 +245,7 @@
       },
       "name": {
         "font_name": "Onest",
-        "font_file": "Onest",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(255,255,255,1)",
         "style_bold": true,
@@ -443,7 +443,7 @@
       },
       "name": {
         "font_name": "Onest",
-        "font_file": "Onest",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(255,255,255,1)",
         "style_bold": true,

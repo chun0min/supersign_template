@@ -91,7 +91,7 @@
     "display_order": 3,
     "content_type": "TEXT",
     "top": 144,
-    "left": 392,
+    "left": 367,
     "width": 295,
     "height": 38,
     "angle": 0,
@@ -113,7 +113,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Protest Riot.otf",
+      "editor_option_text_font_file": "ProtestRiot-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -167,7 +167,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Protest Riot.otf",
+      "editor_option_text_font_file": "ProtestRiot-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -226,16 +226,17 @@
             "enable": true,
             "image": {
               "item_name": "img_02.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_02",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_02"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_02.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Riot",
-        "font_file": "Protest Riot.ttf",
+        "font_file": "ProtestRiot-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -300,37 +301,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "horizontal_scale": 55,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
               "name",
-              "price"
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description"
+              "price"
             ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -367,16 +370,17 @@
             "enable": true,
             "image": {
               "item_name": "img_03.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_03",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_03.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_03"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Riot",
-        "font_file": "Protest Riot.ttf",
+        "font_file": "ProtestRiot-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -441,37 +445,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "horizontal_scale": 55,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
               "name",
-              "price"
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description"
+              "price"
             ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -481,7 +487,7 @@
     "display_order": 7,
     "content_type": "T_MENU",
     "width": 650,
-    "height": 250,
+    "height": 265,
     "top": 742,
     "left": 80,
     "angle": 0,
@@ -508,16 +514,17 @@
             "enable": true,
             "image": {
               "item_name": "img_04.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_04",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_04.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_04"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_04.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Riot",
-        "font_file": "Protest Riot.ttf",
+        "font_file": "ProtestRiot-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -582,37 +589,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "horizontal_scale": 55,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
               "name",
-              "price"
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description"
+              "price"
             ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -622,7 +631,7 @@
     "display_order": 8,
     "content_type": "T_MENU",
     "width": 650,
-    "height": 250,
+    "height": 215,
     "top": 1035,
     "left": 400,
     "angle": 0,
@@ -649,18 +658,19 @@
             "enable": true,
             "image": {
               "item_name": "img_05.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_05",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_05.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_05"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_05.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Riot",
-        "font_file": "Protest Riot.ttf",
+        "font_file": "ProtestRiot-Regular.ttf",
         "font_size": 26,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(0,0,0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -682,7 +692,7 @@
         "font_name": "Red Rose",
         "font_file": "RedRose-Regular.ttf",
         "font_size": 36,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(205,28,29,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -693,7 +703,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard.ttf",
         "font_size": 16,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(0,0,0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -704,7 +714,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard.ttf",
         "font_size": 10,
-        "color": "rgba(107, 1, 1, 1)",
+        "color": "rgba(68,68,68,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -715,7 +725,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard.ttf",
         "font_size": 14,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(0,0,0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -723,37 +733,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "horizontal_scale": 55,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
               "name",
-              "price"
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description"
+              "price"
             ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -763,8 +775,8 @@
     "display_order": 9,
     "content_type": "T_MENU",
     "width": 650,
-    "height": 250,
-    "top": 1227,
+    "height": 215,
+    "top": 1235,
     "left": 100,
     "angle": 0,
     "scene_no": 1,
@@ -790,18 +802,19 @@
             "enable": true,
             "image": {
               "item_name": "img_06.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_06",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_06.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_06"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Riot",
-        "font_file": "Protest Riot.ttf",
+        "font_file": "ProtestRiot-Regular.ttf",
         "font_size": 26,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(0,0,0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -823,7 +836,7 @@
         "font_name": "Red Rose",
         "font_file": "RedRose-Regular.ttf",
         "font_size": 36,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(205,28,29,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -834,7 +847,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard.ttf",
         "font_size": 16,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(0,0,0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -845,7 +858,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard.ttf",
         "font_size": 10,
-        "color": "rgba(107, 1, 1, 1)",
+        "color": "rgba(68,68,68,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -856,7 +869,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard.ttf",
         "font_size": 14,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(0,0,0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -864,37 +877,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "horizontal_scale": 55,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
               "name",
-              "price"
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description"
+              "price"
             ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -910,7 +925,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_31_portrait_1",
+    "widget_class": "r5_menu_31_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -931,9 +946,9 @@
             "enable": true,
             "image": {
               "item_name": "img_07.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_07",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_07.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_07"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_07.png"
             }
           },
           
@@ -951,9 +966,9 @@
             "enable": true,
             "image": {
               "item_name": "img_08.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_08",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_08.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_08"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_08.png"
             }
           },
 
@@ -971,18 +986,19 @@
             "enable": true,
             "image": {
               "item_name": "img_09.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_09",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_09.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_09"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_31_portrait/img_09.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Riot",
-        "font_file": "Protest Riot.ttf",
+        "font_file": "ProtestRiot-Regular.ttf",
         "font_size": 26,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(0,0,0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1004,7 +1020,7 @@
         "font_name": "Red Rose",
         "font_file": "RedRose-Regular.ttf",
         "font_size": 36,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(205,28,29,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -1015,7 +1031,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard.ttf",
         "font_size": 16,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(0,0,0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1026,7 +1042,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard.ttf",
         "font_size": 10,
-        "color": "rgba(107, 1, 1, 1)",
+        "color": "rgba(68,68,68,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1037,7 +1053,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard.ttf",
         "font_size": 14,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(0,0,0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1045,37 +1061,38 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 0,
+        "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
-              "name",
-              "price"
+              "image",
+              "name"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description"
+              "description",
+              "price"
             ]
           }
         ]
       },
-      "type": "balance"
+      "type": "block-a"
     },
     "name": ""
   }

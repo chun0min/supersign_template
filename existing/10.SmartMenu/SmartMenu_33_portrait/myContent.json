@@ -67,7 +67,7 @@
       "editor_option_text_font_color": "218, 16, 64",
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
       "editor_option_text_font_file": "Pretendard.otf",
@@ -121,7 +121,7 @@
       "editor_option_text_font_color": "17, 17, 17",
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
       "editor_option_text_font_file": "Racing Sans One.otf",
@@ -155,8 +155,8 @@
     "id": 3,
     "display_order": 4,
     "content_type": "T_MENU",
-    "width": 1000,
-    "height": 430,
+    "width": 1020,
+    "height": 410,
     "top": 203,
     "left": 60,
     "angle": 0,
@@ -183,16 +183,17 @@
             "enable": true,
             "image": {
               "item_name": "img_01.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_01",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_01.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_01"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_01.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
-        "font_name": "SeoulNamsan CBL",
-        "font_file": "SeoulNamsan CBL.ttf",
+        "font_name": "Seoul Namsan",
+        "font_file": "SeoulNamsanM.ttf",
         "font_size": 36,
         "color": "rgba(218, 16, 64,1)",
         "style_bold": false,
@@ -225,7 +226,7 @@
       },
       "calories": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -236,7 +237,7 @@
       },
       "allergies": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(190, 190, 190, 1)",
         "style_bold": false,
@@ -247,7 +248,7 @@
       },
       "description": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": true,
@@ -257,37 +258,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 43,
-        "reverse": false,
+        "horizontal_scale": 51,
+        "vertical_scale": 65,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
               "name",
-              "price"
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description"
+              "price"
             ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -296,14 +299,14 @@
     "id": 4,
     "display_order": 5,
     "content_type": "T_MENU",
-    "width": 1000,
-    "height": 430,
+    "width": 960,
+    "height": 340,
     "top": 697,
     "left": 60,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_33_portrait",
+    "widget_class": "r5_menu_33_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -324,16 +327,17 @@
             "enable": true,
             "image": {
               "item_name": "img_02.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_02",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_02"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_02.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
-        "font_name": "SeoulNamsan CBL",
-        "font_file": "SeoulNamsan CBL.ttf",
+        "font_name": "Seoul Namsan",
+        "font_file": "SeoulNamsanM.ttf",
         "font_size": 36,
         "color": "rgba(218, 16, 64,1)",
         "style_bold": false,
@@ -355,7 +359,7 @@
       },
       "price": {
         "font_name": "Sansita One",
-        "font_file": "Sansita One.ttf",
+        "font_file": "SansitaOne.ttf",
         "font_size": 54,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -366,7 +370,7 @@
       },
       "calories": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 20,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -377,7 +381,7 @@
       },
       "allergies": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
         "color": "rgba(190, 190, 190, 1)",
         "style_bold": false,
@@ -388,7 +392,7 @@
       },
       "description": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 18,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": true,
@@ -398,12 +402,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "horizontal_scale": 55,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
@@ -413,32 +417,31 @@
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
               "name",
-              "price"
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description"
+              "price"
             ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-a"
     },
     "name": ""
   },
-
   {
     "id": 5,
     "display_order": 6,
     "content_type": "T_MENU",
-    "width": 1000,
-    "height": 430,
+    "width": 960,
+    "height": 340,
     "top": 1088,
     "left": 60,
     "angle": 0,
@@ -465,16 +468,17 @@
             "enable": true,
             "image": {
               "item_name": "img_03.png",
-              "item_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_03",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_03.png",
               "item_type": "image",
-              "item_thumbnail_url": "template/SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_03"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
-        "font_name": "SeoulNamsan CBL",
-        "font_file": "SeoulNamsan CBL.ttf",
+        "font_name": "Seoul Namsan",
+        "font_file": "SeoulNamsanM.ttf",
         "font_size": 36,
         "color": "rgba(218, 16, 64,1)",
         "style_bold": false,
@@ -539,37 +543,182 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 43,
-        "reverse": false,
+        "horizontal_scale": 55,
+        "vertical_scale": 65,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
               "name",
-              "price"
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description"
+              "price"
             ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-b"
+    },
+    "name": ""
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 960,
+    "height": 340,
+    "top": 1479,
+    "left": 60,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_33_portrait-1",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "mackerel sushi",
+            "description": "you can enjoy a lot you can enjoy a lot you can enjoy a lot",
+            "price": [
+              "26"
+            ],
+            "calory": [
+              "120"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, , PEANUTS,",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_33_portrait/img_03.png"
+            }
+          }
+        ],
+        "unit_placement": "before"
+      },
+      "name": {
+        "font_name": "Seoul Namsan",
+        "font_file": "SeoulNamsanM.ttf",
+        "font_size": 36,
+        "color": "rgba(218, 16, 64,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Sansita One",
+        "font_file": "SansitaOne.ttf",
+        "font_size": 54,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 20,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 16,
+        "color": "rgba(190, 190, 190, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 18,
+        "color": "rgba(255, 255, 255,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 55,
+        "vertical_scale": 65,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "gallery-a"
     },
     "name": ""
   }

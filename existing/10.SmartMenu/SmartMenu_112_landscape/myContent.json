@@ -151,7 +151,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-Regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20.8",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -516,7 +516,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_102_landscape",
+    "widget_class": "r5_menu_112_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -573,7 +573,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(3, 19, 138, 1)",
@@ -606,7 +606,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(224, 78, 45,1)",
@@ -617,7 +617,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 15,
         "color": "rgba(58, 58, 58,1)",
@@ -672,7 +672,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_102_landscape",
+    "widget_class": "r5_menu_112_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -711,7 +711,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(3, 19, 138, 1)",
@@ -744,7 +744,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12,
         "color": "rgba(224, 78, 45,1)",
@@ -755,7 +755,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 15,
         "color": "rgba(58, 58, 58,1)",
