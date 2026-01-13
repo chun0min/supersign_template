@@ -456,7 +456,7 @@
       },
       "priceType": {
         "font_name": "Paperlogy",
-        "font_file": "Paperlogy-Regular.otf",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -618,7 +618,7 @@
       },
       "priceType": {
         "font_name": "Paperlogy",
-        "font_file": "Paperlogy-Regular.otf",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -779,7 +779,7 @@
       },
       "priceType": {
         "font_name": "Paperlogy",
-        "font_file": "Paperlogy-Regular.otf",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -940,7 +940,7 @@
       },
       "priceType": {
         "font_name": "Paperlogy",
-        "font_file": "Paperlogy-Regular.otf",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -1101,7 +1101,7 @@
       },
       "priceType": {
         "font_name": "Paperlogy",
-        "font_file": "Paperlogy-Regular.otf",
+        "font_file": "Paperlogy-4Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,

@@ -1214,7 +1214,7 @@
       },
       "name": {
         "font_name": "Maven Pro",
-        "font_file": "MavenPro-Regular",
+        "font_file": "MavenPro-Regular.ttf",
         "font_size": 19,
         "color": "rgba(0,0,0,1)",
         "style_bold": true,

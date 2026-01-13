@@ -602,7 +602,7 @@
       },
       "name": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 22,
         "color": "rgba(83,54,32,1)",
         "style_bold": true,
@@ -635,7 +635,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": false,
@@ -646,7 +646,7 @@
       },
       "allergies": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": false,
@@ -768,7 +768,7 @@
       },
       "name": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 22,
         "color": "rgba(83,54,32,1)",
         "style_bold": true,
@@ -801,7 +801,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": false,
@@ -812,7 +812,7 @@
       },
       "allergies": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": false,
@@ -934,7 +934,7 @@
       },
       "name": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 22,
         "color": "rgba(83,54,32,1)",
         "style_bold": true,
@@ -967,7 +967,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": false,
@@ -978,7 +978,7 @@
       },
       "allergies": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": false,
@@ -1100,7 +1100,7 @@
       },
       "name": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 22,
         "color": "rgba(83,54,32,1)",
         "style_bold": true,
@@ -1133,7 +1133,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": false,
@@ -1144,7 +1144,7 @@
       },
       "allergies": {
         "font_name": "Inter",
-        "font_file": "Inter-Regular",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(201,87,73,1)",
         "style_bold": false,
