@@ -776,3 +776,88 @@
 .r5_menu_85_landscape .menuItem.type-01 .menuOption {
   justify-content: flex-end;
 }
+
+.r5_menu_86_landscape .menu {
+  gap: 70px;
+}
+
+.r5_menu_86_landscape .menu .item-image img {
+  max-width: 410px;
+}
+
+.r5_menu_86_landscape .menuTypeGroup .kcal_option {
+  align-items: center;
+}
+
+.r5_menu_87_landscape .menu {
+  flex-direction: column;
+  gap: 5px;
+}
+
+.r5_menu_87_landscape .menu .item-image img {
+  max-width: 125px;
+}
+
+.r5_menu_87_landscape .menuTypeGroup .kcal_option {
+  align-items: center;
+}
+
+.r5_menu_88_landscape .menu {
+  flex-direction: column;
+  gap: 24px;
+}
+
+.r5_menu_88_landscape .menu .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_89_landscape .menu {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.r5_menu_89_landscape .menu .item-image img {
+  max-width: 370px;
+}
+
+.r5_menu_89_landscape .menu .menuOption {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.r5_menu_90_landscape .menu {
+  flex-direction: column;
+  gap: 36px;
+}
+
+.r5_menu_90_landscape .menu .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_91_landscape .menu {
+  gap: 50px;
+}
+
+.r5_menu_91_landscape .menu .item-image img {
+  max-width: 254px;
+}
+
+.r5_menu_92_landscape .menu {
+  gap: 78.1px;
+}
+
+.r5_menu_92_landscape .menu .item-image img {
+  max-width: 295.5px;
+}
+
+.r5_menu_93_landscape .menu {
+  flex-direction: column;
+  gap: 22px;
+}
+
+.r5_menu_93_landscape .menu .menuOption:not(.text_center) {
+  justify-content: flex-end;
+}
+.r5_menu_93_landscape .menu .menuOption:not(.text_center) .kcal_option {
+  align-items: center;
+}

@@ -1,0 +1,966 @@
+<!-- /* 웹화면 누락(임의로 생성함) */ -->
+<head>
+  <title>템플릿 오리지날 TEST</title>
+  <style>
+    @import url('../../../css/editor/draggable-resizable/index.module.css');
+    @import url('../../../css/editor/draggable-resizable/moveable.css');
+    @import url('../../../css/editor/draggable-resizable/t_menu_new.css');
+    @import url('../../../css/font.css');
+
+    /*custom css*/
+    @import url('../../../css/editor/draggable-resizable/index.v2.module.css');
+    ._price_option_col_1ypul_43 {
+      display: flex;
+      flex-direction: column;
+    }
+  </style>
+</head>
+<body style="margin: 0; padding: 0">
+  <!-- 여기부터 템플릿 화면 -->
+  <style>
+    .backgroundSize {
+      width: 1920px;
+      height: 1080px;
+      background-size: 1920px 1080px;
+      position: relative;
+    }
+    .widgetCon {
+      position: absolute;
+    }
+  </style>
+
+  <div id="editor" class="backgroundSize" style="background-image: url('background.jpg')">
+    <div>
+      <img id="editorItem1" class="widgetCon" style="top: 0px; left: 0px; width: 607.5px; height: 1080px" src="img_01.png" alt="">
+    </div> 
+
+    <div>
+      <img id="editorItem2" class="widgetCon" style="top: 713px; left: 322.2px; width: 295.5px; height: 367px" src="img_02.png" alt="">
+    </div>
+
+    <div>
+      <img id="editorItem3" class="widgetCon" style="top: 96.2px; left: 779.7px; width: 197px; height: 393px" src="img_03.png" alt="">
+    </div>
+
+    <div>
+      <img id="editorItem4" class="widgetCon" style="top: 96.2px; left: 1163.4px; width: 197px; height: 393px" src="img_04.png" alt="">
+    </div>
+
+    <div>
+      <img id="editorItem5" class="widgetCon" style="top: 96.2px; left: 1547.1px; width: 197px; height: 393px" src="img_05.png" alt="">
+    </div>
+    
+    <!-- text -->
+    <div
+      id="editorItem6"
+      class="widgetCon"
+      style="
+        top: 150.2px;
+        left: 168.3px;
+        width: 394px;
+        height: 146px;
+        text-align: left; 
+        color: rgb(0, 0, 0);
+        font-size: 92px;
+        font-family: 'EBGaramond';
+        font-style: italic;
+        font-weight: 600;
+        line-height: 1;
+        letter-spacing: -1.974px;
+      "
+    >
+      Cafe menu
+    </div>
+
+    <div
+      id="editorItem7"
+      class="widgetCon"
+      style="
+        top: 269.1px;
+        left: 305.6px;
+        width: 251px;
+        height: 73px;
+        text-align: left; 
+        color: rgb(0, 0, 0);
+        font-size: 54px;
+        font-family: 'Alex Brush';
+        font-style: normal;
+        font-weight: normal;
+        line-height: 1;
+      "
+    >
+      Chilled Vibes
+    </div>
+
+    <div
+      id="editorItem8"
+      class="widgetCon"
+      style="
+        top: 386.6px;
+        left: 353.1px;
+        width: 164px;
+        height: 77px;
+        text-align: left; 
+        color: rgb(0, 0, 0);
+        font-size: 17.3px;
+        font-family: 'Onest';
+        font-style: normal;
+        font-weight: normal;
+        line-height: 1.3;
+        letter-spacing: -0.068px;
+      "
+    >
+      Briefly describe <br>the ingredients an <br>their characteristics.
+    </div>
+
+    <div
+      id="editorItem9"
+      class="widgetCon"
+      style="
+        top: 546.4px;
+        left: 791px;
+        width: 173px;
+        height: 48px;
+        text-align: left; 
+        color: rgb(0, 0, 0);
+        font-size: 46px;
+        font-family: 'EBGaramond';
+        font-style: normal;
+        font-weight: 600;
+        line-height: 1;
+        letter-spacing: 0.749px;
+      "
+    >
+      COFFEE
+    </div>
+
+    <div
+      id="editorItem10"
+      class="widgetCon"
+      style="
+        top: 546.4px;
+        left: 1183px;
+        width: 161px;
+        height: 48px;
+        text-align: left; 
+        color: rgb(0, 0, 0);
+        font-size: 46px;
+        font-family: 'EBGaramond';
+        font-style: normal;
+        font-weight: 600;
+        line-height: 1;
+        letter-spacing: 0.749px;
+      "
+    >
+      DRINK
+    </div>
+
+    <div
+      id="editorItem11"
+      class="widgetCon"
+      style="
+        top: 546.4px;
+        left: 1549.5px;
+        width: 201px;
+        height: 48px;
+        text-align: left; 
+        color: rgb(0, 0, 0);
+        font-size: 46px;
+        font-family: 'EBGaramond';
+        font-style: normal;
+        font-weight: 600;
+        line-height: 1;
+        letter-spacing: 0.749px;
+      "
+    >
+      DESSERT
+    </div>
+
+    <!-- 여기부터 웹화면 -->
+    <div
+      id="editorItem12"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 13, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 315px; height: 375.5px; top: 647px; left: 720px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea r5_menu_90_landscape" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu">
+            <div class="menuItem itemGrid type-02" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); --col1: 80; --col2: 20;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Inter';
+                    font-size: 21px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(54, 29, 11, 0);
+                    line-height: 1.2;
+                    margin-bottom: 15px;
+                  ">
+                    FOOD NAME HERE
+                </div>
+                
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal_down">
+                    <div class="size_option size_down">
+                      <div class="price_option">
+                        <span style="
+                            font-family: 'Inter';
+                            font-size: 21.3px;
+                            font-weight: 700; 
+                            font-style: normal;
+                            color: rgb(0, 0, 0);
+                            background-color: rgba(54, 29, 11, 0);
+                          ">
+                          9.40
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12.2px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(25, 25, 25);
+                        background-color: rgba(54, 29, 11, 0);
+                        letter-spacing: -0.095px;
+                      ">
+                      99 Kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 13px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(0, 0, 0);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: 0.076px;
+                      margin-bottom: 3px;
+                    ">
+                    Briefly describe the ingredient and its <br>characteristics.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 11px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(242, 103, 48);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: -0.086px;
+                    ">
+                    Milk, nuts, eggs, peanuts, fish, wheat, <br>shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-02" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); --col1: 80; --col2: 20;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Inter';
+                    font-size: 21px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(54, 29, 11, 0);
+                    line-height: 1.2;
+                    margin-bottom: 15px;
+                  ">
+                    FOOD NAME HERE
+                </div>
+                
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal_down">
+                    <div class="size_option size_down">
+                      <div class="price_option">
+                        <span style="
+                            font-family: 'Inter';
+                            font-size: 21.3px;
+                            font-weight: 700; 
+                            font-style: normal;
+                            color: rgb(0, 0, 0);
+                            background-color: rgba(54, 29, 11, 0);
+                          ">
+                          9.40
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12.2px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(25, 25, 25);
+                        background-color: rgba(54, 29, 11, 0);
+                        letter-spacing: -0.095px;
+                      ">
+                      99 Kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 13px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(0, 0, 0);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: 0.076px;
+                      margin-bottom: 3px;
+                    ">
+                    Briefly describe the ingredient and its <br>characteristics.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 11px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(242, 103, 48);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: -0.086px;
+                    ">
+                    Milk, nuts, eggs, peanuts, fish, wheat, <br>shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-02" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); --col1: 80; --col2: 20;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Inter';
+                    font-size: 21px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(54, 29, 11, 0);
+                    line-height: 1.2;
+                    margin-bottom: 15px;
+                  ">
+                    FOOD NAME HERE
+                </div>
+                
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal_down">
+                    <div class="size_option size_down">
+                      <div class="price_option">
+                        <span style="
+                            font-family: 'Inter';
+                            font-size: 21.3px;
+                            font-weight: 700; 
+                            font-style: normal;
+                            color: rgb(0, 0, 0);
+                            background-color: rgba(54, 29, 11, 0);
+                          ">
+                          9.40
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12.2px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(25, 25, 25);
+                        background-color: rgba(54, 29, 11, 0);
+                        letter-spacing: -0.095px;
+                      ">
+                      99 Kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 13px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(0, 0, 0);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: 0.076px;
+                      margin-bottom: 3px;
+                    ">
+                    Briefly describe the ingredient and its <br>characteristics.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 11px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(242, 103, 48);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: -0.086px;
+                    ">
+                    Milk, nuts, eggs, peanuts, fish, wheat, <br>shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="editorItem13"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 14, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 315px; height: 375.5px; top: 647px; left: 1106px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea r5_menu_90_landscape" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu">
+            <div class="menuItem itemGrid type-02" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); --col1: 80; --col2: 20;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Inter';
+                    font-size: 21px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(54, 29, 11, 0);
+                    line-height: 1.2;
+                    margin-bottom: 15px;
+                  ">
+                    FOOD NAME HERE
+                </div>
+                
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal_down">
+                    <div class="size_option size_down">
+                      <div class="price_option">
+                        <span style="
+                            font-family: 'Inter';
+                            font-size: 21.3px;
+                            font-weight: 700; 
+                            font-style: normal;
+                            color: rgb(0, 0, 0);
+                            background-color: rgba(54, 29, 11, 0);
+                          ">
+                          9.40
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12.2px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(25, 25, 25);
+                        background-color: rgba(54, 29, 11, 0);
+                        letter-spacing: -0.095px;
+                      ">
+                      99 Kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 13px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(0, 0, 0);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: 0.076px;
+                      margin-bottom: 3px;
+                    ">
+                    Briefly describe the ingredient and its <br>characteristics.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 11px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(242, 103, 48);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: -0.086px;
+                    ">
+                    Milk, nuts, eggs, peanuts, fish, wheat, <br>shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-02" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); --col1: 80; --col2: 20;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Inter';
+                    font-size: 21px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(54, 29, 11, 0);
+                    line-height: 1.2;
+                    margin-bottom: 15px;
+                  ">
+                    FOOD NAME HERE
+                </div>
+                
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal_down">
+                    <div class="size_option size_down">
+                      <div class="price_option">
+                        <span style="
+                            font-family: 'Inter';
+                            font-size: 21.3px;
+                            font-weight: 700; 
+                            font-style: normal;
+                            color: rgb(0, 0, 0);
+                            background-color: rgba(54, 29, 11, 0);
+                          ">
+                          9.40
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12.2px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(25, 25, 25);
+                        background-color: rgba(54, 29, 11, 0);
+                        letter-spacing: -0.095px;
+                      ">
+                      99 Kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 13px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(0, 0, 0);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: 0.076px;
+                      margin-bottom: 3px;
+                    ">
+                    Briefly describe the ingredient and its <br>characteristics.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 11px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(242, 103, 48);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: -0.086px;
+                    ">
+                    Milk, nuts, eggs, peanuts, fish, wheat, <br>shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-02" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); --col1: 80; --col2: 20;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Inter';
+                    font-size: 21px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(54, 29, 11, 0);
+                    line-height: 1.2;
+                    margin-bottom: 15px;
+                  ">
+                    FOOD NAME HERE
+                </div>
+                
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal_down">
+                    <div class="size_option size_down">
+                      <div class="price_option">
+                        <span style="
+                            font-family: 'Inter';
+                            font-size: 21.3px;
+                            font-weight: 700; 
+                            font-style: normal;
+                            color: rgb(0, 0, 0);
+                            background-color: rgba(54, 29, 11, 0);
+                          ">
+                          9.40
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12.2px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(25, 25, 25);
+                        background-color: rgba(54, 29, 11, 0);
+                        letter-spacing: -0.095px;
+                      ">
+                      99 Kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 13px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(0, 0, 0);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: 0.076px;
+                      margin-bottom: 3px;
+                    ">
+                    Briefly describe the ingredient and its <br>characteristics.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 11px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(242, 103, 48);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: -0.086px;
+                    ">
+                    Milk, nuts, eggs, peanuts, fish, wheat, <br>shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="editorItem14"
+      class="undefined moveable_target _selected_1lhfl_9 zoom_10 undefined"
+      role="application"
+      tabindex="0"
+      aria-label=", 콘텐츠 순서 : 15, 콘텐츠 타입 : t_menu"
+      aria-roledescription="엔터를 클릭하여 아이템을 선택한 후 옵션 패널에서 속성을 변경할 수 있습니다."
+      aria-haspopup="true"
+      aria-expanded="false"
+      style="width: 315px; height: 375.5px; top: 647px; left: 1492px; transform: rotate(0deg)"
+    >
+      <div style="width: 100%; height: 100%; position: relative; overflow: hidden">
+        <div class="menuTypeArea r5_menu_90_landscape" style="width: 100%; height: 100%">
+          <div class="menuTypeGroup menu">
+            <div class="menuItem itemGrid type-02" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); --col1: 80; --col2: 20;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Inter';
+                    font-size: 21px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(54, 29, 11, 0);
+                    line-height: 1.2;
+                    margin-bottom: 15px;
+                  ">
+                    FOOD NAME HERE
+                </div>
+                
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal_down">
+                    <div class="size_option size_down">
+                      <div class="price_option">
+                        <span style="
+                            font-family: 'Inter';
+                            font-size: 21.3px;
+                            font-weight: 700; 
+                            font-style: normal;
+                            color: rgb(0, 0, 0);
+                            background-color: rgba(54, 29, 11, 0);
+                          ">
+                          9.40
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12.2px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(25, 25, 25);
+                        background-color: rgba(54, 29, 11, 0);
+                        letter-spacing: -0.095px;
+                      ">
+                      99 Kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 13px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(0, 0, 0);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: 0.076px;
+                      margin-bottom: 3px;
+                    ">
+                    Briefly describe the ingredient and its <br>characteristics.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 11px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(242, 103, 48);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: -0.086px;
+                    ">
+                    Milk, nuts, eggs, peanuts, fish, wheat, <br>shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-02" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); --col1: 80; --col2: 20;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Inter';
+                    font-size: 21px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(54, 29, 11, 0);
+                    line-height: 1.2;
+                    margin-bottom: 15px;
+                  ">
+                    FOOD NAME HERE
+                </div>
+                
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal_down">
+                    <div class="size_option size_down">
+                      <div class="price_option">
+                        <span style="
+                            font-family: 'Inter';
+                            font-size: 21.3px;
+                            font-weight: 700; 
+                            font-style: normal;
+                            color: rgb(0, 0, 0);
+                            background-color: rgba(54, 29, 11, 0);
+                          ">
+                          9.40
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12.2px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(25, 25, 25);
+                        background-color: rgba(54, 29, 11, 0);
+                        letter-spacing: -0.095px;
+                      ">
+                      99 Kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 13px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(0, 0, 0);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: 0.076px;
+                      margin-bottom: 3px;
+                    ">
+                    Briefly describe the ingredient and its <br>characteristics.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 11px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(242, 103, 48);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: -0.086px;
+                    ">
+                    Milk, nuts, eggs, peanuts, fish, wheat, <br>shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="menuItem itemGrid type-02" style="grid-template-columns: calc(var(--col1) * 1%) calc(var(--col2) * 1%); grid-template-rows: calc(var(--row1) * 1%) calc(var(--row2) * 1%); --col1: 80; --col2: 20;">
+              <!-- Grid-A -->
+              <div class="itemGrid-A dragContainer">
+                <div class="item-name dragBox" draggable="true" style="
+                    font-family: 'Inter';
+                    font-size: 21px;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: rgb(0, 0, 0);
+                    background-color: rgba(54, 29, 11, 0);
+                    line-height: 1.2;
+                    margin-bottom: 15px;
+                  ">
+                    FOOD NAME HERE
+                </div>
+                
+              </div>
+
+              <!-- Grid-B -->
+              <div class="itemGrid-B dragContainer">
+                <div class="menuOption dragBox" draggable="true">
+                  <div class="kcal_option kcal_down">
+                    <div class="size_option size_down">
+                      <div class="price_option">
+                        <span style="
+                            font-family: 'Inter';
+                            font-size: 21.3px;
+                            font-weight: 700; 
+                            font-style: normal;
+                            color: rgb(0, 0, 0);
+                            background-color: rgba(54, 29, 11, 0);
+                          ">
+                          9.40
+                        </span>
+                      </div>
+                    </div>
+                    <span class="kcal-right" style="
+                        font-family: 'Inter';
+                        font-size: 12.2px;
+                        font-weight: normal;
+                        font-style: normal;
+                        color: rgb(25, 25, 25);
+                        background-color: rgba(54, 29, 11, 0);
+                        letter-spacing: -0.095px;
+                      ">
+                      99 Kcal
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Grid-C -->
+              <div class="itemGrid-C dragContainer">
+                <div class="description dragBox" draggable="true">
+                  <div class="menuExplain" style="
+                      font-family: 'Inter';
+                      font-size: 13px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(0, 0, 0);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: 0.076px;
+                      margin-bottom: 3px;
+                    ">
+                    Briefly describe the ingredient and its <br>characteristics.
+                  </div>
+                  <div class="allergy" style="
+                      font-family: 'Pretendard';
+                      font-size: 11px;
+                      font-weight: normal;
+                      font-style: normal;
+                      color: rgb(242, 103, 48);
+                      background-color: rgba(54, 29, 11, 0);
+                      letter-spacing: -0.086px;
+                    ">
+                    Milk, nuts, eggs, peanuts, fish, wheat, <br>shellfish, soybeans, sesame
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 여기까지 -->
+  </div>
+  <body></body>
+</body>
