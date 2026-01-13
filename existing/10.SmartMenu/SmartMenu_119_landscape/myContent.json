@@ -1,0 +1,455 @@
+[
+  {
+    "id": 0,
+    "display_order": 1,
+    "content_type": "IMAGE",
+    "top": 0,
+    "left": 0,
+    "width": 1920,
+    "height": 1080,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/background.jpg",
+    "content_size": 133103,
+    "scene_no": 1,
+    "media_name": "background.jpg",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 1,
+    "display_order": 2,
+    "content_type": "IMAGE",
+    "top": 249,
+    "left": 73,
+    "width": 1770,
+    "height": 2,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_11.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_11.png",
+    "content_size": 174,
+    "scene_no": 1,
+    "media_name": "img_11.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 2,
+    "display_order": 3,
+    "content_type": "IMAGE",
+    "top": 659,
+    "left": 73,
+    "width": 1770,
+    "height": 2,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_11.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_11.png",
+    "content_size": 174,
+    "scene_no": 1,
+    "media_name": "img_11.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 3,
+    "display_order": 4,
+    "content_type": "TEXT",
+    "top": 24,
+    "left": 81,
+    "width": 560,
+    "height": 244,
+    "angle": 0,
+    "content_size": 19,
+    "text_value": "ICE CREAM SHOP MENU",
+    "line_height": 1,
+    "scene_no": 1,
+    "option_text": {
+      "editor_option_text_font_name": "Chekharda",
+      "editor_option_text_font_size": "88",
+      "editor_option_text_style_bold": false,
+      "editor_option_text_style_italic": false,
+      "editor_option_text_style_line": false,
+      "editor_option_text_style_sub": false,
+      "editor_option_text_font_color": "19, 125, 171",
+      "editor_option_text_font_opacity": 1,
+      "editor_option_text_back_color": "63, 85, 44",
+      "editor_option_text_back_opacity": 0,
+      "editor_option_text_align": "left",
+      "editor_option_text_line_heig": "1.1",
+      "editor_option_text_spacing": "1",
+      "editor_option_text_font_file": "Chekharda-BoldItalic.ttf"
+    },
+    "option_text_outline": {
+      "editor_option_text_outline_color": "0,0,0",
+      "editor_option_text_outline_width": 0
+    },
+    "option_text_box": {
+      "editor_option_text_box_color": "0,0,0",
+      "editor_option_text_box_border": 0,
+      "editor_option_text_box_radius": 0,
+      "editor_option_text_box_radius_tl": 0,
+      "editor_option_text_box_radius_tr": 0,
+      "editor_option_text_box_radius_bl": 0,
+      "editor_option_text_box_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_angle": 6,
+      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    }
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "T_MENU",
+    "width": 1700,
+    "height": 812,
+    "top": 263,
+    "left": 120,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_119_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "PISTACHIO",
+            "description": "Describe ingredients & traits.",
+            "price": ["5.2"],
+            "calory": ["299"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_01.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_01.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_01.png"
+            }
+          },
+          {
+            "menu_name": "STRAWBERRY",
+            "description": "Describe ingredients & traits.",
+            "price": ["5.2"],
+            "calory": ["299"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_02.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_02.png"
+            }
+          },
+          {
+            "menu_name": "CHOCOLATE",
+            "description": "Describe ingredients & traits.",
+            "price": ["5.2"],
+            "calory": ["299"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_03.png"
+            }
+          },
+          {
+            "menu_name": "RASPBERRY",
+            "description": "Describe ingredients & traits.",
+            "price": ["5.2"],
+            "calory": ["299"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_04.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_04.png"
+            }
+          },
+          {
+            "menu_name": "SALTED CARAMEL",
+            "description": "Describe ingredients & traits.",
+            "price": ["5.2"],
+            "calory": ["299"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 5,
+            "enable": true,
+            "image": {
+              "item_name": "img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_05.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_05.png"
+            }
+          },
+          {
+            "menu_name": "MINT CHOCOLATE",
+            "description": "Describe ingredients & traits.",
+            "price": ["5.2"],
+            "calory": ["299"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 6,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_06.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_06.png"
+            }
+          },
+          {
+            "menu_name": "RAINBOW",
+            "description": "Describe ingredients & traits.",
+            "price": ["5.2"],
+            "calory": ["299"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 7,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_07.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_07.png"
+            }
+          },
+          {
+            "menu_name": "MANGO",
+            "description": "Describe ingredients & traits.",
+            "price": ["5.2"],
+            "calory": ["299"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 8,
+            "enable": true,
+            "image": {
+              "item_name": "img_08.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_08.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_08.png"
+            }
+          },
+          {
+            "menu_name": "GREEN TEA",
+            "description": "Describe ingredients & traits.",
+            "price": ["5.2"],
+            "calory": ["299"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 9,
+            "enable": true,
+            "image": {
+              "item_name": "img_09.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_09.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_09.png"
+            }
+          },
+          {
+            "menu_name": "TIRAMISU",
+            "description": "Describe ingredients & traits.",
+            "price": ["5.2"],
+            "calory": ["299"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 10,
+            "enable": true,
+            "image": {
+              "item_name": "img_10.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_10.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_119_landscape/img_10.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Chekharda-BoldItalic",
+        "font_file": "Chekharda-BoldItalic.ttf",
+        "font_size": 28.75,
+        "color": "rgba(119, 125, 171,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Inter-regular",
+        "font_file": "Inter-regular.ttf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Chekharda-BoldItalic",
+        "font_file": "Chekharda-BoldItalic.ttf",
+        "font_size": 24,
+        "color": "rgba(19, 125, 171,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "calories": {
+        "font_name": "Inter-regular",
+        "font_file": "Inter-regular.ttf",
+        "font_size": 12,
+        "color": "rgba(144, 148, 150,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Inter-regular",
+        "font_file": "Inter-regular.ttf",
+        "font_size": 11,
+        "color": "rgba(144, 148, 150,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Inter-regular",
+        "font_file": "Inter-regular.ttf",
+        "font_size": 18,
+        "color": "rgba(19, 125, 171,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 65,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  }
+]
