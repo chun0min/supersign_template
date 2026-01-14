@@ -1139,3 +1139,31 @@
   font-style: normal;
   src: url('../font/Ultra/Ultra.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'Rammetto One';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/rammetto-one/RammettoOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Fugaz One';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/fugaz-one/FugazOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Chekharda';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/chekharda/Chekharda-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Nerko One';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/nerko-one/NerkoOne-Regular.ttf') format('truetype');
+}
