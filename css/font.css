@@ -1139,3 +1139,10 @@
   font-style: normal;
   src: url('../font/Ultra/Ultra.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'Rammetto One';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/rammetto-one/RammettoOne-Regular.ttf') format('truetype');
+}
