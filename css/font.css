@@ -1068,4 +1068,74 @@
   font-style: normal;
   src: url('../font/seoulnamsan/SeoulNamsanM.ttf')
     format('truetype');
-} */
+} SeoulNamsanM 중복으로 제거함 */
+
+@font-face {
+  font-family: 'LGEIHeadline-Bold';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/LG-EI-Headline/LGEIHeadline-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'LGEIHeadline-Light';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/LG-EI-Headline/LGEIHeadline-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'LGEIHeadline-Regular';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/LG-EI-Headline/LGEIHeadline-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'LGEIHeadline-Semibold';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/LG-EI-Headline/LGEIHeadline-Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'LGEIHeadline-Thin';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/LG-EI-Headline/LGEIHeadline-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'LGEIText-Bold';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/LG-EI-text-ttf/LGEITextTTF-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'LGEIText-Light';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/LG-EI-text-ttf/LGEITextTTF-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'LGEIText-SemiBold';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/LG-EI-text-ttf/LGEITextTTF-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'LGEIText-Regular';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/LG-EI-text-ttf/LGEITextTTF-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Ultra';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/Ultra/Ultra.ttf') format('truetype');
+}

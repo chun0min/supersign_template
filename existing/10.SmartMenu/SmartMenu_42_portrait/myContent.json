@@ -208,7 +208,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 37,
         "color": "rgba(5, 128, 72, 1)",
@@ -230,7 +230,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 37,
         "color": "rgba(246, 104, 74, 1)",
@@ -241,7 +241,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(5, 128, 72, 1)",
@@ -252,7 +252,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 22,
         "color": "rgba(5, 128, 72, 1)",
@@ -263,7 +263,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi-Variable",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size": 29,
         "color": "rgba(75, 71, 69, 1)",
