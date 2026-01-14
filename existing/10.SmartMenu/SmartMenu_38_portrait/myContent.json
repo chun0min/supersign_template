@@ -113,7 +113,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 2,
+      "editor_option_text_spacing": 0,
       "editor_option_text_font_file": "ProtestStrike-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
@@ -167,7 +167,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 1,
+      "editor_option_text_spacing": 0,
       "editor_option_text_font_file": "Pretendard-Regular.otf",
       "editor_option_text_font_opacity": 1
     },
@@ -336,7 +336,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_38_portrait/img_02.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -409,28 +410,35 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "horizontal_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -468,7 +476,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_38_portrait/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -541,28 +550,35 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
-        "reverse": false,
+        "horizontal_scale": 55,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -600,7 +616,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_38_portrait/img_04.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -673,28 +690,35 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "horizontal_scale": 50,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -732,7 +756,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_38_portrait/img_05.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -805,28 +830,35 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
-        "reverse": false,
+        "horizontal_scale": 50,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -864,7 +896,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_38_portrait/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -937,28 +970,35 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "horizontal_scale": 50,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -974,7 +1014,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_38_portrait",
+    "widget_class": "r5_menu_38_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1026,7 +1066,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_38_portrait/img_09.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -1059,7 +1100,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -1070,7 +1111,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -1096,7 +1137,7 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -1111,12 +1152,18 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
       },
@@ -1136,7 +1183,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_38_portrait",
+    "widget_class": "r5_menu_38_portrait-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1188,7 +1235,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -1210,7 +1258,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "price": {
         "font_name": "Protest Strike",
@@ -1221,7 +1269,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Pretendard",
@@ -1232,7 +1280,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -1243,7 +1291,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "description": {
         "font_name": "Pretendard",
@@ -1254,35 +1302,40 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "custom": {
         "price_type": "left",
         "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "horizontal_scale": 80,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }

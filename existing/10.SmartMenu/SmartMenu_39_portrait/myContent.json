@@ -245,12 +245,12 @@
     "scene_no": 1,
     "option_text": {
       "editor_option_text_font_name": "Pridi",
-      "editor_option_text_font_size": "26",
-      "editor_option_text_style_bold": true,
+      "editor_option_text_font_size": "60",
+      "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "246, 193, 114",
+      "editor_option_text_font_color": "255,255,255",
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
@@ -424,7 +424,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pridi",
@@ -498,27 +499,34 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -556,7 +564,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pridi",
@@ -630,27 +639,34 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
-        "reverse": false,
+        "vertical_scale": 75,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -688,7 +704,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pridi",
@@ -762,43 +779,50 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
-        "reverse": false,
+        "vertical_scale": 75,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
 
   {
-    "id": 10,
-    "display_order": 11,
+    "id": 11,
+    "display_order": 12,
     "content_type": "T_MENU",
-    "width": 860,
+    "width": 840,
     "height": 415,
     "top": 1198,
-    "left": 180,
+    "left": 190,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_39_portrait",
+    "widget_class": "r5_menu_39_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -850,7 +874,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_39_portrait/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pridi",
@@ -924,7 +949,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 67,
         "reverse": false,
         "section": [
           {
@@ -935,12 +960,18 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
       },
@@ -960,7 +991,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_39_portrait",
+    "widget_class": "r5_menu_39_portrait-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1027,7 +1058,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_39_portrait/img_10.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pridi",
@@ -1101,7 +1133,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 55,
         "reverse": false,
         "section": [
           {
@@ -1112,12 +1144,18 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
       },

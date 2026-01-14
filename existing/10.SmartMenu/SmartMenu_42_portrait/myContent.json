@@ -49,7 +49,7 @@
     "top": 154,
     "left": 172,
     "width": 472,
-    "height": 178,
+    "height": 185,
     "angle": 0,
     "content_size": 11,
     "text_value": "WAFFLE MENU",
@@ -101,7 +101,7 @@
     "display_order": 3,
     "content_type": "T_MENU",
     "width": 735,
-    "height": 1424,
+    "height": 1380,
     "top": 420,
     "left": 172,
     "angle": 0,
@@ -117,7 +117,7 @@
           {
             "menu_name": "Food Name Here",
             "description": "Briefly describe the ingredient",
-            "price": ["13.00"],
+            "price": ["13"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish,soybeans, sesam",
             "ordr": 1,
@@ -132,7 +132,7 @@
           {
             "menu_name": "Food Name Here",
             "description": "Briefly describe the ingredient",
-            "price": ["13.00"],
+            "price": ["13"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish,soybeans, sesam",
             "ordr": 2,
@@ -147,7 +147,7 @@
           {
             "menu_name": "Food Name Here",
             "description": "Briefly describe the ingredient",
-            "price": ["13.00"],
+            "price": ["13"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish,soybeans, sesam",
             "ordr": 3,
@@ -162,7 +162,7 @@
           {
             "menu_name": "Food Name Here",
             "description": "Briefly describe the ingredient",
-            "price": ["13.00"],
+            "price": ["13"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish,soybeans, sesam",
             "ordr": 4,
@@ -177,7 +177,7 @@
           {
             "menu_name": "Food Name Here",
             "description": "Briefly describe the ingredient",
-            "price": ["13.00"],
+            "price": ["13"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish,soybeans, sesam",
             "ordr": 5,
@@ -192,7 +192,7 @@
           {
             "menu_name": "Food Name Here",
             "description": "Briefly describe the ingredient",
-            "price": ["13.00"],
+            "price": ["13"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish,soybeans, sesam",
             "ordr": 6,
@@ -204,8 +204,7 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_42_portrait/img_06.png"
             }
           }
-        ],
-        "unit_placement": "after"
+        ]
       },
       "name": {
         "font_name": "Satoshi",
@@ -275,30 +274,38 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 25,
+        "item_spacing": 10,
         "horizontal_scale": 35,
-        "vertical_scale": 60,
-        "reverse": false,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "gallery-b"
     },
     "name": ""
   }

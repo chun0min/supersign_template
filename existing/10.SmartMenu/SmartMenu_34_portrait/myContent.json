@@ -268,7 +268,7 @@
     "display_order": 7,
     "content_type": "TEXT",
     "top": 134,
-    "left": 53,
+    "left": 28,
     "width": 260,
     "height": 36,
     "angle": 0,
@@ -322,7 +322,7 @@
     "display_order": 8,
     "content_type": "TEXT",
     "top": 170,
-    "left": 53,
+    "left": 28,
     "width": 260,
     "height": 72,
     "angle": 0,
@@ -376,7 +376,7 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 242,
-    "left": 53,
+    "left": 28,
     "width": 260,
     "height": 27,
     "angle": 0,
@@ -566,7 +566,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -635,32 +636,37 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "price"]
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "balance"
+      "type": "block-b"
     },
     "name": ""
   },
@@ -676,7 +682,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_34_portrait",
+    "widget_class": "r5_menu_34_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -698,7 +704,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -767,32 +774,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "price"]
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -802,13 +816,13 @@
     "display_order": 14,
     "content_type": "T_MENU",
     "width": 273,
-    "height": 283,
+    "height": 185,
     "top": 440,
     "left": 410,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_34_portrait",
+    "widget_class": "r5_menu_34_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -830,7 +844,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -899,32 +914,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "vertical_scale": 55,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "price"]
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -940,7 +962,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_34_portrait",
+    "widget_class": "r5_menu_34_portrait-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -962,7 +984,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -1031,32 +1054,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "price"]
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "balance"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -1066,13 +1096,13 @@
     "display_order": 16,
     "content_type": "T_MENU",
     "width": 572,
-    "height": 520,
+    "height": 300,
     "top": 809,
     "left": 403,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_34_portrait",
+    "widget_class": "r5_menu_34_portrait-3",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1081,7 +1111,7 @@
         "menu_list": [
           {
             "menu_name": "JAJANGMYEON",
-            "description": "Dong-pae-yuk with soft lean meat and bok-choy Dong-pae-yuk with soft lean meat and bok-choy",
+            "description": "Dong-pae-yuk with soft lean meat and bok-choy Dong-pae-yuk with \nsoft lean meat and bok-choy",
             "price": ["12.0"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
@@ -1113,7 +1143,7 @@
 
           {
             "menu_name": "JJAMPPONG",
-            "description": "soft beef noodles soft beef noodlessoft beef noodlessoft beef noodlessoft beef noodles",
+            "description": "soft beef noodles soft beef noodlessoft beef noodlessoft beef noodlessoft \nbeef noodles",
             "price": ["10.0"],
             "calory": ["120"],
             "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS,",
@@ -1126,7 +1156,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Bebas Neue",
@@ -1195,48 +1226,53 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "horizontal_scale": 90,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "price"]
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description"]
+            "list": [ ]
           }
         ]
       },
-      "type": "balance"
+      "type": "text-b"
     },
     "name": ""
   },
 
   {
-    "id": 15,
-    "display_order": 16,
+    "id": 16,
+    "display_order": 17,
     "content_type": "T_MENU",
     "width": 847,
-    "height": 520,
+    "height": 250,
     "top": 1624,
     "left": 116,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_34_portrait",
+    "widget_class": "r5_menu_34_portrait-3",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1290,7 +1326,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Bebas Neue",
@@ -1359,32 +1396,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 43,
+        "horizontal_scale": 90,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
-            "list": ["name", "price"]
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description"]
+            "list": [ ]
           }
         ]
       },
-      "type": "balance"
+      "type": "text-b"
     },
     "name": ""
   }

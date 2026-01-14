@@ -48,7 +48,7 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 181,
-    "left": 205,
+    "left": 180,
     "width": 676,
     "height": 79,
     "angle": 0,
@@ -475,8 +475,7 @@
               "item_thumbnail_url": ""
             }
           }
-        ],
-        "unit_placement": "after"
+        ]
       },
       "name": {
         "font_name": "Pretendard",
@@ -546,30 +545,36 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -637,8 +642,7 @@
               "item_thumbnail_url": ""
             }
           }
-        ],
-        "unit_placement": "after"
+        ]
       },
       "name": {
         "font_name": "Pretendard",
@@ -708,30 +712,36 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -784,8 +794,7 @@
               "item_thumbnail_url": ""
             }
           }
-        ],
-        "unit_placement": "after"
+        ]
       },
       "name": {
         "font_name": "Pretendard",
@@ -855,30 +864,36 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -991,8 +1006,7 @@
               "item_thumbnail_url": ""
             }
           }
-        ],
-        "unit_placement": "after"
+        ]
       },
       "name": {
         "font_name": "Pretendard",
@@ -1062,30 +1076,36 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   },
@@ -1198,8 +1218,7 @@
               "item_thumbnail_url": ""
             }
           }
-        ],
-        "unit_placement": "after"
+        ]
       },
       "name": {
         "font_name": "Pretendard",
@@ -1269,30 +1288,36 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
+        "item_spacing": 10,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": []
           },
           {
             "id": "orange",
-            "direction": "horizontal",
-            "list": ["name", "description"]
+            "direction": "vertical",
+            "list": [
+              "name",
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "description"
+            ]
           }
         ]
-      }
+      },
+      "type": "balance"
     },
     "name": ""
   }

@@ -47,8 +47,8 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 56,
-    "left": 671,
-    "width": 688,
+    "left": 646,
+    "width": 578,
     "height": 90,
     "angle": 0,
     "content_size": 16,
@@ -66,7 +66,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
+      "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
       "editor_option_text_font_file": "Bebas Neue.ttf"
@@ -99,7 +99,7 @@
     "display_order": 3,
     "content_type": "TEXT",
     "top": 140,
-    "left": 871,
+    "left": 846,
     "width": 178,
     "height": 90,
     "angle": 0,
@@ -118,7 +118,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
+      "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
       "editor_option_text_font_file": "Bebas Neue.ttf"
@@ -173,10 +173,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_01.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_01.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_01.png"
             }
           }
         ]
@@ -248,38 +248,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
-        "scale": 1,
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1.31,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 30,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -310,10 +311,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_02.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_02.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_02.png"
             }
           }
         ]
@@ -385,38 +386,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
-        "scale": 1,
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1.31,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 30,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -447,10 +449,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_03.png"
             }
           }
         ]
@@ -522,38 +524,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
-        "scale": 1,
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1.31,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 30,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -584,10 +587,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_04.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_04.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_04.png"
             }
           }
         ]
@@ -659,38 +662,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
-        "scale": 1,
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1.31,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 30,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -721,10 +725,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_05.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_05.png"
             }
           }
         ]
@@ -796,38 +800,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
-        "scale": 1,
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1.31,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 30,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -858,10 +863,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_06.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_104_landscape/img_06.png"
             }
           }
         ]
@@ -933,38 +938,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
-        "scale": 1,
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1.31,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 30,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   }

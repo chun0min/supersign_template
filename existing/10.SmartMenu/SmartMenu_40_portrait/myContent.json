@@ -58,7 +58,7 @@
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "LOTTERIA CHAB",
+      "editor_option_text_font_name": "chab",
       "editor_option_text_font_size": "110",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -70,7 +70,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "LOTTERIA CHAB.ttf",
+      "editor_option_text_font_file": "chab.otf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -184,7 +184,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_01.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Pretendard",
@@ -206,7 +207,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
         "font_name": "Inter",
@@ -217,7 +218,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
         "font_name": "Inter",
@@ -228,7 +229,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -254,11 +255,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 86,
         "reverse": false,
         "section": [
           {
@@ -269,12 +270,18 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
       },
@@ -294,7 +301,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_40_portrait",
+    "widget_class": "r5_menu_40_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -346,7 +353,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_04.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Pretendard",
@@ -368,7 +376,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
         "font_name": "Inter",
@@ -379,7 +387,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
         "font_name": "Inter",
@@ -390,7 +398,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -416,11 +424,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
@@ -431,12 +439,18 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
       },
@@ -446,8 +460,8 @@
   },
 
   {
-    "id": 4,
-    "display_order": 5,
+    "id": 5,
+    "display_order": 6,
     "content_type": "T_MENU",
     "width": 1055,
     "height": 375,
@@ -456,7 +470,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_40_portrait",
+    "widget_class": "r5_menu_40_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -508,7 +522,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_40_portrait/img_07.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Pretendard",
@@ -530,7 +545,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
         "font_name": "Inter",
@@ -541,7 +556,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
         "font_name": "Inter",
@@ -552,7 +567,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
         "font_name": "Pretendard",
@@ -578,11 +593,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
@@ -593,12 +608,18 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "image",
+              "name"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "description",
+              "price"
+            ]
           }
         ]
       },
