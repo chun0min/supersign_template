@@ -861,3 +861,68 @@
 .r5_menu_93_landscape .menu .menuOption:not(.text_center) .kcal_option {
   align-items: center;
 }
+
+.r5_menu_94_landscape .menu .item-image img {
+  max-width: 411px;
+}
+
+.r5_menu_94_landscape .menu {
+  flex-direction: column;
+  gap: 61px;
+}
+
+.r5_menu_94_landscape .menu .menuOption .kcal_option {
+  align-items: center;
+}
+
+.r5_menu_95_landscape .menu {
+  gap: 30px;
+}
+
+.r5_menu_95_landscape .menu .menuOption .kcal_option {
+  align-items: center;
+}
+
+.r5_menu_96_landscape .menu {
+  gap: 50px;
+}
+
+.r5_menu_96_landscape .menu .menuOption .kcal_option {
+  align-items: center;
+}
+
+.r5_menu_97_landscape .menu {
+  gap: 50px;
+}
+
+.r5_menu_98_landscape .menu {
+  flex-direction: column;
+  gap: 18px;
+}
+
+.r5_menu_98_landscape .menuTypeGroup .size_option {
+  align-items: center;
+}
+
+.r5_menu_99_landscape .menu {
+  flex-direction: column;
+  gap: 16px;
+}
+
+.r5_menu_99_landscape .menuTypeGroup .kcal_option {
+  align-items: center;
+}
+
+.r5_menu_100_landscape .menu {
+  flex-direction: column;
+  gap: 14px;
+}
+
+.r5_menu_100_landscape .menu .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_101_landscape .menu {
+  flex-direction: column;
+  gap: 108px;
+}
