@@ -348,7 +348,7 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 158,
-    "left": 220,
+    "left": 195,
     "width": 403,
     "height": 50,
     "angle": 0,
@@ -400,7 +400,7 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 227,
-    "left": 217,
+    "left": 192,
     "width": 412,
     "height": 80,
     "angle": 0,
@@ -420,7 +420,7 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1.1",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "4",
       "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
@@ -461,7 +461,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter",
+      "editor_option_text_font_name": "Inter-Regular",
       "editor_option_text_font_size": "20.7",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -504,12 +504,12 @@
     "display_order": 12,
     "content_type": "TEXT",
     "top": 615,
-    "left": 845,
+    "left": 820,
     "width": 136,
     "height": 30,
     "angle": 0,
     "content_size": 5,
-    "text_value": "SWEET",
+    "text_value": "Sweet",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
@@ -556,12 +556,12 @@
     "display_order": 13,
     "content_type": "TEXT",
     "top": 77,
-    "left": 1236,
+    "left": 1211,
     "width": 154,
     "height": 30,
     "angle": 0,
     "content_size": 6,
-    "text_value": "COFFEE",
+    "text_value": "Coffee",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
@@ -608,12 +608,12 @@
     "display_order": 14,
     "content_type": "TEXT",
     "top": 612,
-    "left": 1676,
+    "left": 1651,
     "width": 77,
     "height": 30,
     "angle": 0,
     "content_size": 3,
-    "text_value": "TEA",
+    "text_value": "Tea",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
@@ -680,7 +680,13 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -689,7 +695,13 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -698,12 +710,18 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 21.3,
         "color": "rgba(0, 0, 0,1)",
@@ -717,7 +735,7 @@
         "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
-        "color": "rgba(3, 19, 138, 1)",
+        "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -725,7 +743,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 21.3,
         "color": "rgba(0, 0, 0,1)",
@@ -736,7 +754,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12.2,
         "color": "rgba(0, 0, 0,1)",
@@ -747,7 +765,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(242, 103, 48,1)",
@@ -758,7 +776,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(25, 25, 25,1)",
@@ -769,38 +787,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "item_spacing": 10,
+        "horizontal_scale": 75,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
-              "name",
               "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description"
-            ]
+            "list": [ ]
           }
         ]
       },
-      "type": "balance"
-    }
+      "type": "text-b"
+    },
+    "name": ""
   },
   {
     "id": 15,
@@ -827,7 +846,13 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -836,7 +861,13 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -845,12 +876,18 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 21.3,
         "color": "rgba(0, 0, 0,1)",
@@ -864,7 +901,7 @@
         "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
-        "color": "rgba(3, 19, 138, 1)",
+        "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -872,7 +909,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 21.3,
         "color": "rgba(0, 0, 0,1)",
@@ -883,7 +920,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12.2,
         "color": "rgba(0, 0, 0,1)",
@@ -894,7 +931,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(242, 103, 48,1)",
@@ -905,7 +942,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(25, 25, 25,1)",
@@ -916,38 +953,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "item_spacing": 10,
+        "horizontal_scale": 75,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
-              "name",
               "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description"
-            ]
+            "list": [ ]
           }
         ]
       },
-      "type": "balance"
-    }
+      "type": "text-b"
+    },
+    "name": ""
   },
   {
     "id": 16,
@@ -974,7 +1012,13 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -983,7 +1027,13 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
@@ -992,12 +1042,18 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 21.3,
         "color": "rgba(0, 0, 0,1)",
@@ -1011,7 +1067,7 @@
         "font_name": "Noto Sans KR",
         "font_file": "NotoSansKR-Regular.otf",
         "font_size": 20,
-        "color": "rgba(3, 19, 138, 1)",
+        "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1019,7 +1075,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 21.3,
         "color": "rgba(0, 0, 0,1)",
@@ -1030,7 +1086,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 12.2,
         "color": "rgba(0, 0, 0,1)",
@@ -1041,7 +1097,7 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(242, 103, 48,1)",
@@ -1052,7 +1108,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(25, 25, 25,1)",
@@ -1063,37 +1119,38 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "item_spacing": 10,
+        "horizontal_scale": 75,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
-              "name",
               "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description"
-            ]
+            "list": [ ]
           }
         ]
       },
-      "type": "balance"
-    }
+      "type": "text-b"
+    },
+    "name": ""
   }
 ]
