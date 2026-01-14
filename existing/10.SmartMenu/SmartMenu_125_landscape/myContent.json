@@ -8,9 +8,9 @@
     "width": 1920,
     "height": 1080,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/thumbnail.jpg",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/background.jpg",
-    "content_size": 1136728,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/thumbnail.jpg",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/background.jpg",
+    "content_size": 2421882,
     "scene_no": 1,
     "media_name": "background.jpg",
     "option_line": {
@@ -46,14 +46,14 @@
     "id": 1,
     "display_order": 2,
     "content_type": "IMAGE",
-    "top": 307,
-    "left": 171,
-    "width": 710,
-    "height": 278,
+    "top": 90,
+    "left": 460,
+    "width": 150,
+    "height": 34,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_01.png",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_01.png",
-    "content_size": 9325,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_01.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_01.png",
+    "content_size": 831,
     "scene_no": 1,
     "media_name": "img_01.png",
     "option_line": {
@@ -89,16 +89,16 @@
     "id": 2,
     "display_order": 3,
     "content_type": "IMAGE",
-    "top": 307,
-    "left": 1035,
-    "width": 710,
-    "height": 278,
+    "top": 90,
+    "left": 1310,
+    "width": 150,
+    "height": 34,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_01.png",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_01.png",
-    "content_size": 9325,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_02.png",
+    "content_size": 890,
     "scene_no": 1,
-    "media_name": "img_01.png",
+    "media_name": "img_02.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -132,16 +132,16 @@
     "id": 3,
     "display_order": 4,
     "content_type": "IMAGE",
-    "top": 650,
-    "left": 171,
-    "width": 710,
-    "height": 278,
+    "top": 271,
+    "left": 77,
+    "width": 419,
+    "height": 682,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_01.png",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_01.png",
-    "content_size": 9325,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_03.png",
+    "content_size": 269341,
     "scene_no": 1,
-    "media_name": "img_01.png",
+    "media_name": "img_03.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -175,16 +175,16 @@
     "id": 4,
     "display_order": 5,
     "content_type": "IMAGE",
-    "top": 650,
-    "left": 1035,
-    "width": 710,
-    "height": 278,
+    "top": 271,
+    "left": 526,
+    "width": 419,
+    "height": 682,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_01.png",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_01.png",
-    "content_size": 9325,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_03.png",
+    "content_size": 269341,
     "scene_no": 1,
-    "media_name": "img_01.png",
+    "media_name": "img_03.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -217,31 +217,160 @@
   {
     "id": 5,
     "display_order": 6,
-    "content_type": "TEXT",
-    "top": 80,
-    "left": 560,
-    "width": 800,
-    "height": 115,
+    "content_type": "IMAGE",
+    "top": 271,
+    "left": 975,
+    "width": 419,
+    "height": 682,
     "angle": 0,
-    "content_size": 8,
-    "text_value": "FOODMENU",
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_03.png",
+    "content_size": 269341,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "IMAGE",
+    "top": 271,
+    "left": 1424,
+    "width": 419,
+    "height": 682,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_03.png",
+    "content_size": 269341,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "IMAGE",
+    "top": 995,
+    "left": 671,
+    "width": 577,
+    "height": 65,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_04.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_04.png",
+    "content_size": 3106,
+    "scene_no": 1,
+    "media_name": "img_04.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 8,
+    "display_order": 9,
+    "content_type": "TEXT",
+    "top": 70,
+    "left": 610,
+    "width": 700,
+    "height": 75,
+    "angle": 0,
+    "content_size": 15,
+    "text_value": "MENU RESTAURANT",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Mitr",
-      "editor_option_text_font_size": "100",
-      "editor_option_text_style_bold": true,
+      "editor_option_text_font_name": "Milonga",
+      "editor_option_text_font_size": "60",
+      "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "52, 85, 12",
+      "editor_option_text_font_color": "255, 255, 255",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": "5",
-      "editor_option_text_font_file": "Mitr.ttf"
+      "editor_option_text_spacing": "0",
+      "editor_option_text_font_file": "Milonga.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -267,33 +396,33 @@
     }
   },
   {
-    "id": 6,
-    "display_order": 7,
+    "id": 9,
+    "display_order": 10,
     "content_type": "TEXT",
-    "top": 74,
-    "left": 1619,
-    "width": 215,
-    "height": 29,
+    "top": 161,
+    "left": 859,
+    "width": 202,
+    "height": 25,
     "angle": 0,
     "content_size": 14,
     "text_value": "0000-0000-0000",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
-      "editor_option_text_font_size": "24",
-      "editor_option_text_style_bold": true,
+      "editor_option_text_font_name": "Milonga",
+      "editor_option_text_font_size": "20",
+      "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
-      "editor_option_text_font_color": "52, 85, 12",
+      "editor_option_text_font_color": "255, 255, 255",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": "1.2",
-      "editor_option_text_font_file": "Pretendard-Regular.otf"
+      "editor_option_text_spacing": "0",
+      "editor_option_text_font_file": "Milonga.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -319,17 +448,17 @@
     }
   },
   {
-    "id": 7,
-    "display_order": 8,
+    "id": 10,
+    "display_order": 11,
     "content_type": "T_MENU",
-    "width": 744,
-    "height": 575,
-    "top": 331,
-    "left": 201,
+    "width": 1761,
+    "height": 590,
+    "top": 361,
+    "left": 79,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_101_landscape",
+    "widget_class": "r5_menu_125_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -337,254 +466,132 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
-            "price": ["12"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1,
-            "enable": true,
-            "image": {
-              "item_name": "img_02.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_02.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_02.png"
-            }
-          },
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
-            "price": ["12"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1,
-            "enable": true,
-            "image": {
-              "item_name": "img_04.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_04.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_04.png"
-            }
-          }
-        ]
-      },
-      "name": {
-        "font_name": "Mitr",
-        "font_file": "Mitr.otf",
-        "font_size": 28,
-        "color": "rgba(0, 0, 0, 1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
-        "font_size": 40,
-        "color": "rgba(255, 255, 255, 1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "price": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
-        "font_size": 40,
-        "color": "rgba(255, 255, 255, 1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
-        "font_size": 14,
-        "color": "rgba(255, 255, 255, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
-        "font_size": 12,
-        "color": "rgba(75, 99, 46, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
-        "font_size": 16,
-        "color": "rgba(0, 0, 0, 1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "custom": {
-        "price_type": "above",
-        "calories": "below",
-        "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
-        "section": [
-          {
-            "id": "blue",
-            "direction": "horizontal",
-            "list": []
-          },
-          {
-            "id": "orange",
-            "direction": "horizontal",
-            "list": [
-              "image",
-              "name"
-            ]
-          },
-          {
-            "id": "purple",
-            "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
-          }
-        ]
-      },
-      "type": "block-a"
-    },
-    "name": ""
-  },
-  {
-    "id": 8,
-    "display_order": 9,
-    "content_type": "T_MENU",
-    "width": 744,
-    "height": 575,
-    "top": 331,
-    "left": 1065,
-    "angle": 0,
-    "scene_no": 1,
-    "option_menu_version": "v2",
-    "widget_class": "r5_menu_101_landscape",
-    "option_menu": {
-      "menu_item": {
-        "price_unit": "us",
-        "price_type": "1",
-        "price_type_text": [""],
-        "menu_list": [
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
-            "price": ["12"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1,
-            "enable": true,
-            "image": {
-              "item_name": "img_03.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_03.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_03.png"
-            }
-          },
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
-            "price": ["12"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "menu_name": "CAKE NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["9.0"],
+            "calory": ["240"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame",
             "ordr": 1,
             "enable": true,
             "image": {
               "item_name": "img_05.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_05.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_101_landscape/img_05.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_05.png"
+            }
+          },
+          {
+            "menu_name": "CAKE NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["9.0"],
+            "calory": ["240"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_06.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_06.png"
+            }
+          },
+          {
+            "menu_name": "CAKE NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["9.0"],
+            "calory": ["240"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_07.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_07.png"
+            }
+          },
+          {
+            "menu_name": "CAKE NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": ["9.0"],
+            "calory": ["240"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, \nwheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_08.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_08.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_08.png"
             }
           }
         ]
       },
       "name": {
-        "font_name": "Mitr",
-        "font_file": "Mitr.otf",
-        "font_size": 28,
-        "color": "rgba(0, 0, 0, 1)",
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 26,
+        "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
-        "font_size": 40,
+        "font_name": "Milonga",
+        "font_file": "Milonga.otf",
+        "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": true,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
-        "font_size": 40,
+        "font_name": "Milonga",
+        "font_file": "Milonga.otf",
+        "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
-        "style_bold": true,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
-      },
-      "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
-        "font_size": 12,
-        "color": "rgba(75, 99, 46, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
-        "color": "rgba(0, 0, 0, 1)",
+        "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "custom": {
         "price_type": "above",

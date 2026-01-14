@@ -926,3 +926,7 @@
   flex-direction: column;
   gap: 108px;
 }
+
+.r5_menu_125_landscape .menu {
+  gap: 34px;
+}
