@@ -277,7 +277,7 @@
     "font-weight": 700,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BarlowCondensed",
+      "editor_option_text_font_name": "Barlow Condensed",
       "editor_option_text_font_size": "125",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -289,7 +289,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "BarlowCondensed.ttf",
+      "editor_option_text_font_file": "BarlowCondensed-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -408,8 +408,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "BarlowCondensed",
-        "font_file": "BarlowCondensed.ttf",
+        "font_name": "Barlow Condensed",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -540,8 +540,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "BarlowCondensed",
-        "font_file": "BarlowCondensed.ttf",
+        "font_name": "Barlow Condensed",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -672,8 +672,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "BarlowCondensed",
-        "font_file": "BarlowCondensed.ttf",
+        "font_name": "Barlow Condensed",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -804,8 +804,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "BarlowCondensed",
-        "font_file": "BarlowCondensed.ttf",
+        "font_name": "Barlow Condensed",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -936,8 +936,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "BarlowCondensed",
-        "font_file": "BarlowCondensed.ttf",
+        "font_name": "Barlow Condensed",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,

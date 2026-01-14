@@ -366,7 +366,7 @@
         ]
       },
       "name": {
-        "font_name": "BarlowCondensed",
+        "font_name": "Barlow Condensed",
         "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 24,
         "color": "rgba(25, 25, 25, 1)",
@@ -377,7 +377,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "BarlowCondensed",
+        "font_name": "Barlow Condensed",
         "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 24,
         "color": "rgba(25, 25, 25, 1)",
@@ -388,7 +388,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "BarlowCondensed",
+        "font_name": "Barlow Condensed",
         "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 24,
         "color": "rgba(25, 25, 25, 1)",
@@ -524,7 +524,7 @@
         ]
       },
       "name": {
-        "font_name": "BarlowCondensed",
+        "font_name": "Barlow Condensed",
         "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 24,
         "color": "rgba(25, 25, 25, 1)",
@@ -535,7 +535,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "BarlowCondensed",
+        "font_name": "Barlow Condensed",
         "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 24,
         "color": "rgba(25, 25, 25, 1)",
@@ -546,7 +546,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "BarlowCondensed",
+        "font_name": "Barlow Condensed",
         "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 24,
         "color": "rgba(25, 25, 25, 1)",
