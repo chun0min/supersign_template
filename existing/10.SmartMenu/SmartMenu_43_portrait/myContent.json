@@ -228,10 +228,10 @@
     "height": 300,
     "angle": 0,
     "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_43_portrait/img_05.png",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_43_portrait/img_04.pn5",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_43_portrait/img_04.png",
     "content_size": 260570,
     "scene_no": 1,
-    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_43_portrait/img_04.pn5",
+    "media_name": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_43_portrait/img_04.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -267,7 +267,7 @@
     "display_order": 7,
     "content_type": "TEXT",
     "top": 27,
-    "left": 205,
+    "left": 180,
     "width": 670,
     "height": 151,
     "angle": 0,
@@ -289,7 +289,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "BarlowCondensed-Regular.ttf",
+      "editor_option_text_font_file": "BarlowCondensed.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -409,7 +409,7 @@
       },
       "description": {
         "font_name": "Barlow Condensed",
-        "font_file": "BarlowCondensed-Regular.ttf",
+        "font_file": "BarlowCondensed.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -422,28 +422,36 @@
         "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
-        "reverse": false,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 78,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -541,7 +549,7 @@
       },
       "description": {
         "font_name": "Barlow Condensed",
-        "font_file": "BarlowCondensed-Regular.ttf",
+        "font_file": "BarlowCondensed.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -554,28 +562,36 @@
         "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
-        "reverse": false,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 78,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -673,7 +689,7 @@
       },
       "description": {
         "font_name": "Barlow Condensed",
-        "font_file": "BarlowCondensed-Regular.ttf",
+        "font_file": "BarlowCondensed.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -686,28 +702,36 @@
         "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
-        "reverse": false,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 78,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -805,7 +829,7 @@
       },
       "description": {
         "font_name": "Barlow Condensed",
-        "font_file": "BarlowCondensed-Regular.ttf",
+        "font_file": "BarlowCondensed.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -818,28 +842,36 @@
         "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
-        "reverse": false,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 78,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -937,7 +969,7 @@
       },
       "description": {
         "font_name": "Barlow Condensed",
-        "font_file": "BarlowCondensed-Regular.ttf",
+        "font_file": "BarlowCondensed.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -950,28 +982,36 @@
         "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
-        "reverse": false,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 78,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "gallery-b"
     },
     "name": ""
   }

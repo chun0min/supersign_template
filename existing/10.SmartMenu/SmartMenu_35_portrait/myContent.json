@@ -312,8 +312,8 @@
     "display_order": 8,
     "content_type": "TEXT",
     "top": 18,
-    "left": 530,
-    "width": 399,
+    "left": 30,
+    "width": 450,
     "height": 48,
     "angle": 0,
     "content_size": 18,
@@ -366,7 +366,7 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 1864,
-    "left": 865,
+    "left": 840,
     "width": 185,
     "height": 29,
     "angle": 0,
@@ -420,7 +420,7 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 1512,
-    "left": 50,
+    "left": 30,
     "width": 185,
     "height": 29,
     "angle": 0,
@@ -474,7 +474,7 @@
     "display_order": 11,
     "content_type": "T_MENU",
     "width": 999,
-    "height": 500,
+    "height": 200,
     "top": 186,
     "left": 41,
     "angle": 0,
@@ -532,7 +532,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Mogra",
@@ -604,9 +605,9 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 0,
+        "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -617,16 +618,21 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-b"
     },
     "name": ""
   },
@@ -636,7 +642,7 @@
     "display_order": 12,
     "content_type": "T_MENU",
     "width": 999,
-    "height": 500,
+    "height": 200,
     "top": 706,
     "left": 41,
     "angle": 0,
@@ -694,7 +700,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Mogra",
@@ -766,9 +773,9 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 0,
+        "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -779,16 +786,21 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-b"
     },
     "name": ""
   },
@@ -797,14 +809,14 @@
     "id": 12,
     "display_order": 13,
     "content_type": "T_MENU",
-    "width": 1032,
+    "width": 1000,
     "height": 258,
     "top": 1196,
-    "left": 24,
+    "left": 40,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_35_portrait",
+    "widget_class": "r5_menu_35_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -841,7 +853,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_35_portrait/img_08.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Mogra",
@@ -914,44 +927,50 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "horizontal_scale": 40,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
-
   {
     "id": 13,
     "display_order": 14,
     "content_type": "T_MENU",
-    "width": 1032,
-    "height": 258,
+    "width": 490,
+    "height": 225,
     "top": 1570,
-    "left": 50,
+    "left": 40,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_35_portrait",
+    "widget_class": "r5_menu_35_portrait-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -974,21 +993,6 @@
             }
           },
           {
-            "menu_name": "Go ahead",
-            "description": "Fried food set menu where you can enjoy a lot of tempura",
-            "price": ["11"],
-            "calory": ["120"],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,  NUTS, MACKEREL,",
-            "ordr": 2,
-            "enable": true,
-            "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
-            }
-          },
-          {
             "menu_name": "Mochi-ridohu",
             "description": "Fried food set menu where you can enjoy a lot of tempura",
             "price": ["9"],
@@ -1002,23 +1006,9 @@
               "item_type": "",
               "item_thumbnail_url": ""
             }
-          },
-          {
-            "menu_name": "chashu",
-            "description": "Fried food set menu where you can enjoy a lot of tempura",
-            "price": ["11"],
-            "calory": ["120"],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,  NUTS, MACKEREL,",
-            "ordr": 4,
-            "enable": true,
-            "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
-            }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Mogra",
@@ -1068,7 +1058,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
-        "color": "rgba(132, 132, 132, 1)",
+        "color": "rgba(159, 64, 96, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -1088,31 +1078,188 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "item_spacing": 10,
+        "horizontal_scale": 87,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
+    },
+    "name": ""
+  },
+  {
+    "id": 14,
+    "display_order": 15,
+    "content_type": "T_MENU",
+    "width": 490,
+    "height": 225,
+    "top": 1570,
+    "left": 560,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_35_portrait-2",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Go ahead",
+            "description": "Fried food set menu where you can enjoy a lot of tempura",
+            "price": ["11"],
+            "calory": ["120"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,  NUTS, MACKEREL,",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "chashu",
+            "description": "Fried food set menu where you can enjoy a lot of tempura",
+            "price": ["11"],
+            "calory": ["120"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,  NUTS, MACKEREL,",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ],
+        "unit_placement": "before"
+      },
+      "name": {
+        "font_name": "Mogra",
+        "font_file": "Mogra-Regular.tff",
+        "font_size": 22,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Bebas Neue",
+        "font_file": "Bebas Neue.otf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Mogra",
+        "font_file": "Mogra-Regular.ttf",
+        "font_size": 42,
+        "color": "rgba(132,16,55,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(133, 133, 133,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(159, 64, 96, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 16,
+        "color": "rgba(46, 46, 46, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 87,
+        "vertical_scale": 100,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": []
+          }
+        ]
+      },
+      "type": "text-b"
     },
     "name": ""
   }

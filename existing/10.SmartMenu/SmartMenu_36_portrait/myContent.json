@@ -268,7 +268,7 @@
     "display_order": 7,
     "content_type": "TEXT",
     "top": 134,
-    "left": 330,
+    "left": 310,
     "width": 570,
     "height": 46,
     "angle": 0,
@@ -288,8 +288,8 @@
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 2,
+      "editor_option_text_line_heig": "0.7",
+      "editor_option_text_spacing": 1,
       "editor_option_text_font_file": "BookkMyungjo-Bold.ttf",
       "editor_option_text_font_opacity": 1
     },
@@ -322,9 +322,9 @@
     "display_order": 8,
     "content_type": "TEXT",
     "top": 66,
-    "left": 833,
-    "width": 181,
-    "height": 24,
+    "left": 770,
+    "width": 200,
+    "height": 30,
     "angle": 0,
     "content_size": 14,
     "text_value": "0000-0000-0000",
@@ -341,7 +341,7 @@
       "editor_option_text_font_color": "94, 69, 43",
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "left",
+      "editor_option_text_align": "right",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
       "editor_option_text_font_file": "BookkMyungjo-Bold.ttf",
@@ -376,7 +376,7 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 858,
-    "left": 740,
+    "left": 735,
     "width": 22,
     "height": 23,
     "angle": 0,
@@ -430,7 +430,7 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 1600,
-    "left": 101,
+    "left": 90,
     "width": 127,
     "height": 24,
     "angle": 0,
@@ -450,7 +450,7 @@
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.7",
       "editor_option_text_spacing": 2,
       "editor_option_text_font_file": "BookkMyungjo-Bold.ttf",
       "editor_option_text_font_opacity": 1
@@ -484,7 +484,7 @@
     "display_order": 11,
     "content_type": "TEXT",
     "top": 1600,
-    "left": 584,
+    "left": 575,
     "width": 86,
     "height": 24,
     "angle": 0,
@@ -504,7 +504,7 @@
       "editor_option_text_back_color": "255,255,255",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.7",
       "editor_option_text_spacing": 2,
       "editor_option_text_font_file": "BookkMyungjo-Bold.ttf",
       "editor_option_text_font_opacity": 1
@@ -544,7 +544,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_36_portrait",
+    "widget_class": "r5_menu_36_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -566,7 +566,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Bookk Myungjo",
@@ -640,7 +641,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -651,16 +652,21 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-b"
     },
     "name": ""
   },
@@ -676,7 +682,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_36_portrait",
+    "widget_class": "r5_menu_36_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -698,7 +704,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Bookk Myungjo",
@@ -772,7 +779,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 75,
         "reverse": false,
         "section": [
           {
@@ -783,26 +790,30 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-b"
     },
     "name": ""
   },
-
   {
     "id": 13,
     "display_order": 14,
     "content_type": "T_MENU",
-    "width":877,
-    "height": 1453,
+    "width":420,
+    "height": 480,
     "top": 1070,
     "left": 101,
     "angle": 0,
@@ -830,23 +841,6 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_06.png"
             }
           },
-
-          {
-            "menu_name": "SOFT TOFU STEW",
-            "description": "STEW MADE WITH SOFT SOFT TOFU STEW MADE",
-            "price": ["20.0"],
-            "calory": ["220"],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
-            "ordr": 2,
-            "enable": true,
-            "image": {
-              "item_name": "img_07.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_07.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_07.png"
-            }
-          },
-
           {
             "menu_name": "BIBIMBAP",
             "description": "RICE WITH 8 KINDS OF WILD VEGETABLES",
@@ -862,7 +856,160 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_08.png"
             }
           },
-
+          {
+            "menu_name": "RICE CAKE",
+            "description": "MADE OF ICHEON RICE",
+            "price": ["11.0"],
+            "calory": ["220"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 5,
+            "enable": true,
+            "image": {
+              "item_name": "img_10.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_10.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_10.png"
+            }
+          }
+        ],
+        "unit_placement": "before"
+      },
+      "name": {
+        "font_name": "Bookk Myungjo",
+        "font_file": "BookkMyungjo-Bold.tff",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Bebas Neue",
+        "font_file": "Bebas Neue.otf",
+        "font_size": 20,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Bookk Myungjo",
+        "font_file": "BookkMyungjo-Bold.ttf",
+        "font_size": 20,
+        "color": "rgba(0,0,0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(61, 61, 61,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 11,
+        "color": "rgba(130, 130, 130, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(62, 62, 62, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 45,
+        "horizontal_scale": 35,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "gallery-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 14,
+    "display_order": 15,
+    "content_type": "T_MENU",
+    "width":420,
+    "height": 480,
+    "top": 1070,
+    "left": 550,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_36_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "SOFT TOFU STEW",
+            "description": "STEW MADE WITH SOFT SOFT TOFU STEW MADE",
+            "price": ["20.0"],
+            "calory": ["220"],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_07.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_07.png"
+            }
+          },
           {
             "menu_name": "STIR-FRIED FISH",
             "description": "STIR-FRY MADE FROM NATURAL OCTOPUS",
@@ -878,23 +1025,6 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_09.png"
             }
           },
-
-          {
-            "menu_name": "RICE CAKE",
-            "description": "MADE OF ICHEON RICE",
-            "price": ["11.0"],
-            "calory": ["220"],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL, PORK, CHICKEN, BEE",
-            "ordr": 5,
-            "enable": true,
-            "image": {
-              "item_name": "img_10.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_10.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_10.png"
-            }
-          },
-
           {
             "menu_name": "KIMCHI FRIED RICE",
             "description": "KIMCHI MADE BY THE OWNER  OWNER",
@@ -910,12 +1040,13 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_36_portrait/img_11.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.tff",
-        "font_size": 28,
+        "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -926,7 +1057,7 @@
       "priceType": {
         "font_name": "Bebas Neue",
         "font_file": "Bebas Neue.otf",
-        "font_size": 27,
+        "font_size": 20,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
         "style_italic": false,
@@ -937,7 +1068,7 @@
       "price": {
         "font_name": "Bookk Myungjo",
         "font_file": "BookkMyungjo-Bold.ttf",
-        "font_size": 30,
+        "font_size": 20,
         "color": "rgba(0,0,0,1)",
         "style_bold": true,
         "style_italic": false,
@@ -948,7 +1079,7 @@
       "calories": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
-        "font_size": 18,
+        "font_size": 12,
         "color": "rgba(61, 61, 61,1)",
         "style_bold": true,
         "style_italic": false,
@@ -959,7 +1090,7 @@
       "allergies": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
-        "font_size": 10,
+        "font_size": 11,
         "color": "rgba(130, 130, 130, 1)",
         "style_bold": false,
         "style_italic": false,
@@ -970,7 +1101,7 @@
       "description": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
-        "font_size": 16,
+        "font_size": 14,
         "color": "rgba(62, 62, 62, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -982,36 +1113,42 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "item_spacing": 45,
+        "horizontal_scale": 35,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
-
   {
-    "id": 14,
-    "display_order": 15,
+    "id": 15,
+    "display_order": 16,
     "content_type": "T_MENU",
     "width":394,
     "height": 158,
@@ -1020,7 +1157,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_36_portrait",
+    "widget_class": "r5_menu_36_portrait-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1057,7 +1194,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Bookk Myungjo",
@@ -1127,38 +1265,43 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "item_spacing": 10,
+        "horizontal_scale": 87,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
 
   {
-    "id": 15,
-    "display_order": 16,
+    "id": 17,
+    "display_order": 18,
     "content_type": "T_MENU",
     "width":394,
     "height": 158,
@@ -1167,7 +1310,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_36_portrait",
+    "widget_class": "r5_menu_36_portrait-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1204,7 +1347,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Bookk Myungjo",
@@ -1274,31 +1418,36 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "item_spacing": 10,
+        "horizontal_scale": 87,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }

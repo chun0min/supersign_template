@@ -47,7 +47,7 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 154,
-    "left": 419,
+    "left": 395,
     "width": 241,
     "height": 52,
     "angle": 0,
@@ -100,19 +100,19 @@
     "display_order": 3,
     "content_type": "TEXT",
     "top": 202,
-    "left": 265,
+    "left": 230,
     "width": 550,
     "height": 130,
     "angle": 0,
     "content_size": 4,
-    "text_value": "MENU",
+    "text_value": "RESTAURANT",
     "line_height": 1,
     "font-weight": 400,
     "scene_no": 1,
     "option_text": {
       "editor_option_text_font_name": "Bebas Neue",
       "editor_option_text_font_size": "120",
-      "editor_option_text_style_bold": false,
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
@@ -121,7 +121,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 1,
+      "editor_option_text_spacing": 10,
       "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
@@ -148,15 +148,14 @@
       "editor_option_shadow_opacity": 1
     }
   },
-  
   {
     "id": 3,
     "display_order": 4,
     "content_type": "T_MENU",
-    "width": 800,
-    "height": 1230,
+    "width": 335,
+    "height": 575,
     "top": 467,
-    "left": 140,
+    "left": 151,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -171,7 +170,7 @@
             "menu_name": "Jajangmyeon",
             "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
             "price": [
-              "11.00"
+              "11.0"
             ],
             "calory": [
               "240"
@@ -185,65 +184,9 @@
               "item_type": "image",
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_01.png"
             }
-          },
-          {
-            "menu_name": "Jjamppong",
-            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
-            "price": [
-              "14.00"
-            ],
-            "calory": [
-              "240"
-            ],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,NUTS,MACKEREL,MACKEREL, MACKEREL",
-            "ordr": 2,
-            "enable": true,
-            "image": {
-              "item_name": "img_02.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_02.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_02.png"
-            }
-          },
-          {
-            "menu_name": "Boneless Sweet And",
-            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
-            "price": [
-              "16.00"
-            ],
-            "calory": [
-              "240"
-            ],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,NUTS,MACKEREL,MACKEREL, MACKEREL",
-            "ordr": 3,
-            "enable": true,
-            "image": {
-              "item_name": "img_03.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_03.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_03.png"
-            }
-          },
-          {
-            "menu_name": "Seafood Jjamppong Tang",
-            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
-            "price": [
-              "12.00"
-            ],
-            "calory": [
-              "240"
-            ],
-            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,NUTS,MACKEREL,MACKEREL, MACKEREL",
-            "ordr": 4,
-            "enable": true,
-            "image": {
-              "item_name": "img_04.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_04.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_04.png"
-            }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -313,11 +256,437 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 62,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "T_MENU",
+    "width": 335,
+    "height": 575,
+    "top": 467,
+    "left": 593,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_46_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Jjamppong",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "14.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,NUTS,MACKEREL,MACKEREL, MACKEREL",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_02.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_02.png"
+            }
+          }
+        ],
+        "unit_placement": "before"
+      },
+      "name": {
+        "font_name": "Protest Strike",
+        "font_file": "ProtestStrike-Regular.ttf",
+        "font_size": 30,
+        "color": "rgba(232, 205, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Bebas Neue",
+        "font_file": "Bebas Neue.otf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Protest Strike",
+        "font_file": "ProtestStrike-Regular.ttf",
+        "font_size": 48,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 16,
+        "color": "rgba(119, 134, 170, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(232, 205, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 16,
+        "color": "rgba(255, 243, 151,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 62,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 335,
+    "height": 575,
+    "top": 1117,
+    "left": 151,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_46_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Boneless Sweet And",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "16.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,NUTS,MACKEREL,MACKEREL, MACKEREL",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_03.png"
+            }
+          }
+        ],
+        "unit_placement": "before"
+      },
+      "name": {
+        "font_name": "Protest Strike",
+        "font_file": "ProtestStrike-Regular.ttf",
+        "font_size": 30,
+        "color": "rgba(232, 205, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Bebas Neue",
+        "font_file": "Bebas Neue.otf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Protest Strike",
+        "font_file": "ProtestStrike-Regular.ttf",
+        "font_size": 48,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 16,
+        "color": "rgba(119, 134, 170, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(232, 205, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 16,
+        "color": "rgba(255, 243, 151,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 62,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "T_MENU",
+    "width": 335,
+    "height": 575,
+    "top": 1117,
+    "left": 593,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_46_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Seafood Jjamppong Tang",
+            "description": "an iced drink that is enjoyed by adding a shot to sweet iced tea",
+            "price": [
+              "12.0"
+            ],
+            "calory": [
+              "240"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS,NUTS,MACKEREL,MACKEREL, MACKEREL",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_04.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_46_portrait/img_04.png"
+            }
+          }
+        ],
+        "unit_placement": "before"
+      },
+      "name": {
+        "font_name": "Protest Strike",
+        "font_file": "ProtestStrike-Regular.ttf",
+        "font_size": 30,
+        "color": "rgba(232, 205, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Bebas Neue",
+        "font_file": "Bebas Neue.otf",
+        "font_size": 27,
+        "color": "rgba(222,76,66,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Protest Strike",
+        "font_file": "ProtestStrike-Regular.ttf",
+        "font_size": 48,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 16,
+        "color": "rgba(119, 134, 170, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(232, 205, 0,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 16,
+        "color": "rgba(255, 243, 151,1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 62,
         "reverse": false,
         "section": [
           {

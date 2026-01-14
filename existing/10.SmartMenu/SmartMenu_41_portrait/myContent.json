@@ -207,8 +207,8 @@
     "id": 4,
     "display_order": 5,
     "content_type": "T_MENU",
-    "width": 927,
-    "height": 1441,
+    "width": 456,
+    "height": 1200,
     "top": 667,
     "left": 89,
     "angle": 0,
@@ -250,25 +250,6 @@
               "99"
             ],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2,
-            "enable": true,
-            "image": {
-              "item_name": "img_02.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_02.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_02.png"
-            }
-          },
-          {
-            "menu_name": "Americano",
-            "description": "Describe ingredients",
-            "price": [
-              "11.00"
-            ],
-            "calory": [
-              "99"
-            ],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
             "enable": true,
             "image": {
@@ -276,25 +257,6 @@
               "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_03.png",
               "item_type": "image",
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_03.png"
-            }
-          },
-          {
-            "menu_name": "Americano",
-            "description": "Describe ingredients",
-            "price": [
-              "11.00"
-            ],
-            "calory": [
-              "99"
-            ],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4,
-            "enable": true,
-            "image": {
-              "item_name": "img_04.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_04.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_04.png"
             }
           },
           {
@@ -326,25 +288,6 @@
               "99"
             ],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 6,
-            "enable": true,
-            "image": {
-              "item_name": "img_06.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_06.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_06.png"
-            }
-          },
-          {
-            "menu_name": "Americano",
-            "description": "Describe ingredients",
-            "price": [
-              "11.00"
-            ],
-            "calory": [
-              "99"
-            ],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 7,
             "enable": true,
             "image": {
@@ -352,25 +295,6 @@
               "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_07.png",
               "item_type": "image",
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_07.png"
-            }
-          },
-          {
-            "menu_name": "Americano",
-            "description": "Describe ingredients",
-            "price": [
-              "11.00"
-            ],
-            "calory": [
-              "99"
-            ],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 8,
-            "enable": true,
-            "image": {
-              "item_name": "img_08.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_08.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_08.png"
             }
           },
           {
@@ -391,28 +315,8 @@
               "item_type": "image",
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_09.png"
             }
-          },
-          {
-            "menu_name": "Americano",
-            "description": "Describe ingredients",
-            "price": [
-              "11.00"
-            ],
-            "calory": [
-              "99"
-            ],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 10,
-            "enable": true,
-            "image": {
-              "item_name": "img_10.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_10.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_10.png"
-            }
           }
-        ],
-        "unit_placement": "after"
+        ]
       },
       "name": {
         "font_name": "Poppins",
@@ -482,30 +386,256 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 25,
-        "horizontal_scale": 35,
-        "vertical_scale": 60,
+        "item_spacing": 100,
+        "horizontal_scale": 40,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["name", "description"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["price"]
+            "list": [
+              "price"
+            ]
           }
         ]
-      }
+      },
+      "type": "gallery-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 5,
+    "display_order": 6,
+    "content_type": "T_MENU",
+    "width": 456,
+    "height": 1200,
+    "top": 667,
+    "left": 558,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_41_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "Americano",
+            "description": "Describe ingredients",
+            "price": [
+              "11.00"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_02.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_02.png"
+            }
+          },
+          {
+            "menu_name": "Americano",
+            "description": "Describe ingredients",
+            "price": [
+              "11.00"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_04.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_04.png"
+            }
+          },
+          {
+            "menu_name": "Americano",
+            "description": "Describe ingredients",
+            "price": [
+              "11.00"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 6,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_06.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_06.png"
+            }
+          },
+          {
+            "menu_name": "Americano",
+            "description": "Describe ingredients",
+            "price": [
+              "11.00"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 8,
+            "enable": true,
+            "image": {
+              "item_name": "img_08.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_08.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_08.png"
+            }
+          },
+          {
+            "menu_name": "Americano",
+            "description": "Describe ingredients",
+            "price": [
+              "11.00"
+            ],
+            "calory": [
+              "99"
+            ],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 10,
+            "enable": true,
+            "image": {
+              "item_name": "img_10.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_10.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_41_portrait/img_10.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Poppins",
+        "font_file": "Poppins-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(38, 90, 150, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 13,
+        "color": "rgba(27, 127, 89,1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Poppins",
+        "font_file": "Poppins-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(38, 90, 150, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(130, 163, 196, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(130, 163, 196, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Poppins",
+        "font_file": "Poppins-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(38, 90, 150, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 100,
+        "horizontal_scale": 40,
+        "vertical_scale": 65,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "gallery-a"
     },
     "name": ""
   }
