@@ -391,9 +391,9 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 62,
-    "left": 735,
+    "left": 710,
     "width": 543,
-    "height": 104,
+    "height": 120,
     "angle": 0,
     "content_size": 11,
     "text_value": "Coffee Menu",
@@ -411,7 +411,7 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1.1",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "1",
       "editor_option_text_font_file": "Lobster-Regular.ttf"
     },
@@ -443,7 +443,7 @@
     "display_order": 11,
     "content_type": "TEXT",
     "top": 232,
-    "left": 221,
+    "left": 196,
     "width": 196,
     "height": 39,
     "angle": 0,
@@ -463,8 +463,8 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1.1",
-      "editor_option_text_spacing": "1",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": "4",
       "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
@@ -495,7 +495,7 @@
     "display_order": 12,
     "content_type": "TEXT",
     "top": 588,
-    "left": 645,
+    "left": 620,
     "width": 196,
     "height": 39,
     "angle": 0,
@@ -515,8 +515,8 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1.1",
-      "editor_option_text_spacing": "1",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": "4",
       "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
@@ -547,7 +547,7 @@
     "display_order": 13,
     "content_type": "TEXT",
     "top": 232,
-    "left": 1075,
+    "left": 1050,
     "width": 196,
     "height": 39,
     "angle": 0,
@@ -556,7 +556,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -567,8 +567,8 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1.1",
-      "editor_option_text_spacing": "1",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": "4",
       "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
@@ -599,7 +599,7 @@
     "display_order": 14,
     "content_type": "TEXT",
     "top": 588,
-    "left": 1499,
+    "left": 1474,
     "width": 196,
     "height": 39,
     "angle": 0,
@@ -608,7 +608,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Inter-Regular",
+      "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "32",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -619,8 +619,8 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1.1",
-      "editor_option_text_spacing": "1",
+      "editor_option_text_line_heig": "1",
+      "editor_option_text_spacing": "4",
       "editor_option_text_font_file": "Inter-Regular.ttf"
     },
     "option_text_outline": {
@@ -651,13 +651,13 @@
     "display_order": 15,
     "content_type": "T_MENU",
     "width": 370,
-    "height": 320,
+    "height": 370,
     "top": 300,
     "left": 139,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_121_landscape",
+    "widget_class": "r5_menu_102_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -666,38 +666,56 @@
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredient and its characteristics.",
             "price": ["9.40"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredient and its characteristics.",
             "price": ["9.40"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredient and its characteristics.",
             "price": ["9.40"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 22,
-        "color": "rgba(31, 86, 96,1)",
+        "color": "rgba(31, 86, 96, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -705,7 +723,51 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(31, 86, 96, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 13,
+        "color": "rgba(178, 178, 178, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 13,
+        "color": "rgba(178, 178, 178, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(31, 86, 96, 1)",
@@ -715,96 +777,53 @@
         "style_sub": false,
         "alignment": "left"
       },
-      "price": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 24,
-        "color": "rgba(31, 86, 96,1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "right"
-      },
-      "calories": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 13,
-        "color": "rgba(178, 178, 178,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "right"
-      },
-      "allergies": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 13,
-        "color": "rgba(178, 178, 178,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "description": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 16,
-        "color": "rgba(31, 86, 96,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "item_spacing": 10,
+        "horizontal_scale": 75,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
-              "name",
               "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description"
-            ]
+            "list": [ ]
           }
         ]
       },
-      "type": "balance"
-    }
+      "type": "text-b"
+    },
+    "name": ""
   },
   {
     "id": 15,
     "display_order": 16,
     "content_type": "T_MENU",
     "width": 370,
-    "height": 320,
+    "height": 370,
     "top": 656,
     "left": 563,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_121_landscape",
+    "widget_class": "r5_menu_102_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -813,38 +832,56 @@
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredient and its characteristics.",
             "price": ["9.40"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredient and its characteristics.",
             "price": ["9.40"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredient and its characteristics.",
             "price": ["9.40"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 22,
-        "color": "rgba(31, 86, 96,1)",
+        "color": "rgba(31, 86, 96, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -852,7 +889,51 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(31, 86, 96, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 13,
+        "color": "rgba(178, 178, 178, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 13,
+        "color": "rgba(178, 178, 178, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(31, 86, 96, 1)",
@@ -862,243 +943,53 @@
         "style_sub": false,
         "alignment": "left"
       },
-      "price": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 24,
-        "color": "rgba(31, 86, 96,1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "right"
-      },
-      "calories": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 13,
-        "color": "rgba(178, 178, 178,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "right"
-      },
-      "allergies": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 13,
-        "color": "rgba(178, 178, 178,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "description": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 16,
-        "color": "rgba(31, 86, 96,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "item_spacing": 10,
+        "horizontal_scale": 75,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
-              "name",
               "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description"
-            ]
+            "list": [ ]
           }
         ]
       },
-      "type": "balance"
-    }
-  },  
-  {
-    "id": 16,
-    "display_order": 17,
-    "content_type": "T_MENU",
-    "width": 370,
-    "height": 320,
-    "top": 300,
-    "left": 993,
-    "angle": 0,
-    "scene_no": 1,
-    "option_menu_version": "v2",
-    "widget_class": "r5_menu_121_landscape",
-    "option_menu": {
-      "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
-        "price_type_text": [""],
-        "menu_list": [
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
-            "price": ["9.40"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1,
-            "enable": true
-          },
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
-            "price": ["9.40"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2,
-            "enable": true
-          },
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
-            "price": ["9.40"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3,
-            "enable": true
-          }
-        ]
-      },
-      "name": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 22,
-        "color": "rgba(31, 86, 96,1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "priceType": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 16,
-        "color": "rgba(31, 86, 96, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "price": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 24,
-        "color": "rgba(31, 86, 96,1)",
-        "style_bold": true,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "right"
-      },
-      "calories": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 13,
-        "color": "rgba(178, 178, 178,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "right"
-      },
-      "allergies": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 13,
-        "color": "rgba(178, 178, 178,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "description": {
-        "font_name": "Inter-Regular",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 16,
-        "color": "rgba(31, 86, 96,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "custom": {
-        "price_type": "above",
-        "calories": "below",
-        "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 45,
-        "reverse": false,
-        "section": [
-          {
-            "id": "blue",
-            "direction": "horizontal",
-            "list": ["image"]
-          },
-          {
-            "id": "orange",
-            "direction": "vertical",
-            "list": [
-              "name",
-              "price"
-            ]
-          },
-          {
-            "id": "purple",
-            "direction": "horizontal",
-            "list": [
-              "description"
-            ]
-          }
-        ]
-      },
-      "type": "balance"
-    }
+      "type": "text-b"
+    },
+    "name": ""
   },
   {
     "id": 16,
     "display_order": 17,
     "content_type": "T_MENU",
     "width": 370,
-    "height": 320,
-    "top": 656,
-    "left": 1417,
+    "height": 370,
+    "top": 300,
+    "left": 993,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_121_landscape",
+    "widget_class": "r5_menu_102_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "",
@@ -1107,38 +998,56 @@
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredient and its characteristics.",
             "price": ["9.40"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredient and its characteristics.",
             "price": ["9.40"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredient and its characteristics.",
             "price": ["9.40"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
       "name": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 22,
-        "color": "rgba(31, 86, 96,1)",
+        "color": "rgba(31, 86, 96, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -1146,7 +1055,51 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(31, 86, 96, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 13,
+        "color": "rgba(178, 178, 178, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 13,
+        "color": "rgba(178, 178, 178, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(31, 86, 96, 1)",
@@ -1156,11 +1109,133 @@
         "style_sub": false,
         "alignment": "left"
       },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 75,
+        "vertical_scale": 100,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [ ]
+          }
+        ]
+      },
+      "type": "text-b"
+    },
+    "name": ""
+  },
+  {
+    "id": 17,
+    "display_order": 18,
+    "content_type": "T_MENU",
+    "width": 370,
+    "height": 370,
+    "top": 656,
+    "left": 1417,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_102_landscape",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient and its characteristics.",
+            "price": ["9.40"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient and its characteristics.",
+            "price": ["9.40"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient and its characteristics.",
+            "price": ["9.40"],
+            "calory": ["99"],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 22,
+        "color": "rgba(31, 86, 96, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Noto Sans KR",
+        "font_file": "NotoSansKR-Regular.otf",
+        "font_size": 20,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
-        "color": "rgba(31, 86, 96,1)",
+        "color": "rgba(31, 86, 96, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -1168,10 +1243,10 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
-        "color": "rgba(178, 178, 178,1)",
+        "color": "rgba(178, 178, 178, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1179,10 +1254,10 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
-        "color": "rgba(178, 178, 178,1)",
+        "color": "rgba(178, 178, 178, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1190,10 +1265,10 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
-        "color": "rgba(31, 86, 96,1)",
+        "color": "rgba(31, 86, 96, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1201,37 +1276,38 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "item_spacing": 10,
+        "horizontal_scale": 75,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
-              "name",
               "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description"
-            ]
+            "list": [ ]
           }
         ]
       },
-      "type": "balance"
-    }
+      "type": "text-b"
+    },
+    "name": ""
   }
 ]
