@@ -348,7 +348,7 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 70,
-    "left": 610,
+    "left": 585,
     "width": 700,
     "height": 75,
     "angle": 0,
@@ -370,7 +370,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Milonga.ttf"
+      "editor_option_text_font_file": "Milonga-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -400,7 +400,7 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 161,
-    "left": 859,
+    "left": 834,
     "width": 202,
     "height": 25,
     "angle": 0,
@@ -422,7 +422,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Milonga.otf"
+      "editor_option_text_font_file": "Milonga-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -525,7 +525,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_125_landscape/img_08.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -551,7 +552,7 @@
       },
       "price": {
         "font_name": "Milonga",
-        "font_file": "Milonga.otf",
+        "font_file": "Milonga-Regular.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -594,7 +595,7 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
@@ -625,7 +626,8 @@
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "4"
     },
     "name": ""
   }

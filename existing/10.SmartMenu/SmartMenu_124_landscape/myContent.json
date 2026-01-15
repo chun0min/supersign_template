@@ -205,11 +205,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 2,
         "horizontal_scale": 0,
-        "vertical_scale": 65,
+        "vertical_scale": 75,
         "reverse": false,
         "section": [
           {
@@ -235,7 +235,8 @@
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "5"
     },
     "name": ""
   }
