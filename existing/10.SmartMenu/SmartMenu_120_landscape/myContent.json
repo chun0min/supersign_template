@@ -1137,8 +1137,8 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 20,
         "horizontal_scale": 0,
@@ -1349,8 +1349,8 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "left",
-        "calories": "right",
+        "price_type": "above",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 20,
         "horizontal_scale": 0,
