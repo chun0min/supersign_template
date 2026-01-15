@@ -1162,8 +1162,50 @@
 }
 
 @font-face {
+  font-family: 'Finger Paint';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/finger-paint/FingerPaint-Regular.ttf') format('truetype');
+}
+
+@font-face {
   font-family: 'Nerko One';
   font-weight: normal;
   font-style: normal;
   src: url('../font/nerko-one/NerkoOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Miltonian Tattoo';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/miltonian-tattoo/MiltonianTattoo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Manjari';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/manjari/Manjari-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Elsie';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/elsie/Elsie-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rakkas';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/rakkas/Rakkas-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mitr';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/mitr/Mitr-Regular.ttf') format('truetype');
 }

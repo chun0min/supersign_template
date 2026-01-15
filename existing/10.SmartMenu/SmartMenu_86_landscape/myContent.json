@@ -223,8 +223,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Iowan Old Style",
-        "font_file": "Iowan Old Style.ttf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 46,
         "color": "rgba(68, 68, 68, 1)",
         "style_bold": true,
@@ -234,8 +234,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Iowan Old Style",
-        "font_file": "Iowan Old Style.ttf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 46,
         "color": "rgba(68, 68, 68, 1)",
         "style_bold": true,
@@ -405,8 +405,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Iowan Old Style",
-        "font_file": "Iowan Old Style.ttf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 46,
         "color": "rgba(68, 68, 68, 1)",
         "style_bold": true,
@@ -416,8 +416,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Iowan Old Style",
-        "font_file": "Iowan Old Style.ttf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 46,
         "color": "rgba(68, 68, 68, 1)",
         "style_bold": true,
