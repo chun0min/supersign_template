@@ -293,7 +293,7 @@
       },
       "name": {
         "font_name": "Bungee Inline",
-        "font_file": "Bungee Inline.ttf",
+        "font_file": "Bungee-Inline.otf",
         "font_size": 24,
         "color": "rgba(47,47,47,1)",
         "style_bold": false,
@@ -326,7 +326,7 @@
       },
       "calories": {
         "font_name": "Big Shoulders Text",
-        "font_file": "Big Shoulders Text.ttf",
+        "font_file": "BigShouldersText-Regular.ttf",
         "font_size": 18,
         "color": "rgba(47, 47, 47, 1)",
         "style_bold": false,
@@ -460,7 +460,7 @@
       },
       "name": {
         "font_name": "Bungee Inline",
-        "font_file": "Bungee Inline.ttf",
+        "font_file": "Bungee-Inline.otf",
         "font_size": 24,
         "color": "rgba(47,47,47,1)",
         "style_bold": false,
@@ -493,7 +493,7 @@
       },
       "calories": {
         "font_name": "Big Shoulders Text",
-        "font_file": "Big Shoulders Text.ttf",
+        "font_file": "BigShouldersText-Regular.ttf",
         "font_size": 18,
         "color": "rgba(47, 47, 47, 1)",
         "style_bold": false,
