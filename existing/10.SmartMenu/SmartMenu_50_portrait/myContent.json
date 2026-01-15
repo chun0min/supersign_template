@@ -488,7 +488,7 @@
     "display_order": 12,
     "content_type": "TEXT",
     "top": 111,
-    "left": 322,
+    "left": 297,
     "width": 436,
     "height": 73,
     "angle": 0,
@@ -541,8 +541,8 @@
     "id": 12,
     "display_order": 13,
     "content_type": "TEXT",
-    "top": 1512,
-    "left": 495,
+    "top": 1520,
+    "left": 480,
     "width": 90,
     "height": 32,
     "angle": 0,
@@ -596,7 +596,7 @@
     "display_order": 14,
     "content_type": "TEXT",
     "top": 187,
-    "left": 439,
+    "left": 414,
     "width": 202,
     "height": 29,
     "angle": 0,
@@ -649,10 +649,10 @@
     "id": 14,
     "display_order": 15,
     "content_type": "T_MENU",
-    "width": 402,
+    "width": 352,
     "height": 170,
     "top": 669,
-    "left": 119,
+    "left": 144,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -678,7 +678,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -700,7 +701,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
         "font_name": "Inter",
@@ -733,7 +734,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "description": {
         "font_name": "Inter",
@@ -748,11 +749,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
@@ -763,7 +764,7 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": ["name"]
           },
           {
             "id": "purple",
@@ -781,10 +782,10 @@
     "id": 15,
     "display_order": 16,
     "content_type": "T_MENU",
-    "width": 402,
+    "width": 352,
     "height": 170,
     "top": 669,
-    "left": 559,
+    "left": 584,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -810,7 +811,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -832,7 +834,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
         "font_name": "Inter",
@@ -865,7 +867,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "description": {
         "font_name": "Inter",
@@ -880,11 +882,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
@@ -895,7 +897,7 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": ["name"]
           },
           {
             "id": "purple",
@@ -913,10 +915,10 @@
     "id": 16,
     "display_order": 17,
     "content_type": "T_MENU",
-    "width": 402,
+    "width": 352,
     "height": 170,
     "top": 1262,
-    "left": 119,
+    "left": 144,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -942,7 +944,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -964,7 +967,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
         "font_name": "Inter",
@@ -997,7 +1000,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "description": {
         "font_name": "Inter",
@@ -1012,11 +1015,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
@@ -1027,7 +1030,7 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": ["name"]
           },
           {
             "id": "purple",
@@ -1045,10 +1048,10 @@
     "id": 17,
     "display_order": 18,
     "content_type": "T_MENU",
-    "width": 402,
+    "width": 352,
     "height": 170,
     "top": 1262,
-    "left": 559,
+    "left": 584,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -1074,7 +1077,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -1096,7 +1100,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
         "font_name": "Inter",
@@ -1129,7 +1133,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "description": {
         "font_name": "Inter",
@@ -1144,11 +1148,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 30,
         "reverse": false,
         "section": [
           {
@@ -1159,7 +1163,7 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": ["name"]
           },
           {
             "id": "purple",
@@ -1172,19 +1176,18 @@
     },
     "name": ""
   },
-
   {
     "id": 18,
     "display_order": 19,
     "content_type": "T_MENU",
-    "width": 812,
-    "height": 246,
+    "width": 386,
+    "height": 265,
     "top": 1564,
     "left": 134,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_50_portrait",
+    "widget_class": "r5_menu_50_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1206,23 +1209,6 @@
               "item_thumbnail_url": ""
             }
           },
-
-          {
-            "menu_name": "MILK TEA",
-            "description": "White liquor produced in Yantai, Shandong Province, China",
-            "price": ["6.0"],
-            "calory": ["240"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1,
-            "enable": true,
-            "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
-            }
-          },
-
           {
             "menu_name": "MILK TEA",
             "description": "White liquor produced in Yantai, Shandong Province, China",
@@ -1238,7 +1224,158 @@
               "item_thumbnail_url": ""
             }
           },
-
+          {
+            "menu_name": "Coke and Sprite",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["4.0"],
+            "calory": ["240"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          }
+        ],
+        "unit_placement": "before"
+      },
+      "name": {
+        "font_name": "Charter",
+        "font_file": "Charter Regular.otf",
+        "font_size": 20,
+        "color": "rgba(55, 55, 55, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(5, 60, 81, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(55, 55, 55, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "right"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 10,
+        "color": "rgba(5, 60, 81, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(74, 74, 74, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 85,
+        "vertical_scale": 100,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": []
+          }
+        ]
+      },
+      "type": "text-b"
+    },
+    "name": ""
+  },
+  {
+    "id": 19,
+    "display_order": 20,
+    "content_type": "T_MENU",
+    "width": 386,
+    "height": 265,
+    "top": 1564,
+    "left": 560,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_50_portrait-1",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "MILK TEA",
+            "description": "White liquor produced in Yantai, Shandong Province, China",
+            "price": ["6.0"],
+            "calory": ["240"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },
           {
             "menu_name": "MILK TEA",
             "description": "White liquor produced in Yantai, Shandong Province, China",
@@ -1256,23 +1393,7 @@
           },
 
           {
-            "menu_name": "MILK TEA",
-            "description": "White liquor produced in Yantai, Shandong Province, China",
-            "price": ["4.0"],
-            "calory": ["240"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 1,
-            "enable": true,
-            "image": {
-              "item_name": "",
-              "item_url": "",
-              "item_type": "",
-              "item_thumbnail_url": ""
-            }
-          },
-
-          {
-            "menu_name": "MILK TEA",
+            "menu_name": "Coke and Sprite",
             "description": "White liquor produced in Yantai, Shandong Province, China",
             "price": ["4.0"],
             "calory": ["240"],
@@ -1286,7 +1407,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -1356,31 +1478,36 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "item_spacing": 10,
+        "horizontal_scale": 85,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "price"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }

@@ -47,7 +47,7 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 41,
-    "left": 288,
+    "left": 263,
     "width": 504,
     "height": 68,
     "angle": 0,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "Charter Regular.otf",
+      "editor_option_text_font_file": "Charter.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -100,7 +100,7 @@
     "display_order": 3,
     "content_type": "TEXT",
     "top": 131,
-    "left": 418,
+    "left": 393,
     "width": 243,
     "height": 29,
     "angle": 0,
@@ -190,7 +190,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter Regular.otf",
+        "font_file": "Charter.ttf",
         "font_size": 30,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -258,35 +258,36 @@
         "price_type": "left",
         "calories": "right",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "item_spacing": 10,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -332,7 +333,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter Regular.otf",
+        "font_file": "Charter.ttf",
         "font_size": 36,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -402,7 +403,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -438,7 +439,7 @@
     "display_order": 6,
     "content_type": "T_MENU",
     "width": 410,
-    "height": 482,
+    "height": 487,
     "top": 563,
     "left": 91,
     "angle": 0,
@@ -474,7 +475,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter Regular.otf",
+        "font_file": "Charter.ttf",
         "font_size": 36,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -544,7 +545,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -580,7 +581,7 @@
     "display_order": 7,
     "content_type": "T_MENU",
     "width": 410,
-    "height": 482,
+    "height": 412,
     "top": 794,
     "left": 581,
     "angle": 0,
@@ -594,7 +595,7 @@
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
-            "menu_name": "French Breakfast",
+            "menu_name": "Basil tomato bagel",
             "description": "Americano wit a gentle, mild acidity that you roast yourself",
             "price": [
               "9.5","10.5","11.5"
@@ -616,7 +617,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter Regular.otf",
+        "font_file": "Charter.ttf",
         "font_size": 36,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -686,7 +687,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -722,13 +723,13 @@
     "display_order": 8,
     "content_type": "T_MENU",
     "width": 410,
-    "height": 482,
-    "top": 1306,
-    "left": 581,
+    "height": 350,
+    "top": 1162,
+    "left": 91,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_49_portrait",
+    "widget_class": "r5_menu_49_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -736,7 +737,7 @@
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
-            "menu_name": "French Breakfast",
+            "menu_name": "Belgian Waffle",
             "description": "Americano wit a gentle, mild acidity that you roast yourself",
             "price": [
               "9.5","10.5","11.5"
@@ -748,17 +749,17 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_03.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_03.png",
+              "item_name": "img_02.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_02.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_03.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_02.png"
             }
           }
         ]
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter Regular.otf",
+        "font_file": "Charter.ttf",
         "font_size": 36,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -828,7 +829,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 40,
         "reverse": false,
         "section": [
           {
@@ -840,14 +841,14 @@
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "image"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
+              "name",
               "description",
               "price"
             ]
@@ -900,7 +901,149 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter Regular.otf",
+        "font_file": "Charter.ttf",
+        "font_size": 30,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(0, 0, 0, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 11,
+        "color": "rgba(151, 151, 151, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 9,
+        "color": "rgba(113, 113, 113, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(132, 66, 15, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1,
+        "item_spacing": 10,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": [
+              "image"
+            ]
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "gallery-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 9,
+    "display_order": 10,
+    "content_type": "T_MENU",
+    "width": 410,
+    "height": 487,
+    "top": 1306,
+    "left": 581,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_49_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
+        "menu_list": [
+          {
+            "menu_name": "French Breakfast",
+            "description": "Americano wit a gentle, mild acidity that you roast yourself",
+            "price": [
+              "9.5","10.5","11.5"
+            ],
+            "calory": [
+              "300","400","500"
+            ],
+            "allergy": "WHEAT, MILK, SOYBEANS, EGGS, WHEAT, PEANUTS, NUTS, MACKEREL",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_03.png"
+            }
+          }
+        ]
+      },
+      "name": {
+        "font_name": "Charter",
+        "font_file": "Charter.ttf",
         "font_size": 30,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -970,7 +1113,7 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -999,5 +1142,5 @@
       "type": "block-a"
     },
     "name": ""
-  },
+  }
 ]
