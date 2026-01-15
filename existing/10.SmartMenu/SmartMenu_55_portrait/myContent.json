@@ -253,7 +253,7 @@
       },
       "priceType": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(22, 22, 22, 1)",
         "style_bold": true,
@@ -460,7 +460,7 @@
       },
       "priceType": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(22, 22, 22, 1)",
         "style_bold": true,

@@ -296,7 +296,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 36,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -329,7 +329,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(111, 111, 111, 1)",
         "style_bold": false,
@@ -503,7 +503,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 36,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -536,7 +536,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 14,
         "color": "rgba(111, 111, 111, 1)",
         "style_bold": false,

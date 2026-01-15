@@ -510,7 +510,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "Charter.ttf",
+      "editor_option_text_font_file": "Charter Regular.otf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -564,7 +564,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Charter.ttf",
+      "editor_option_text_font_file": "Charter Regular.otf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -618,7 +618,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Charter.ttf",
+      "editor_option_text_font_file": "Charter Regular.otf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -682,7 +682,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -704,7 +704,7 @@
       },
       "price": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 28,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -715,7 +715,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(193, 193, 193, 1)",
         "style_bold": false,
@@ -814,7 +814,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -836,7 +836,7 @@
       },
       "price": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 28,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -847,7 +847,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(193, 193, 193, 1)",
         "style_bold": false,
@@ -946,7 +946,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -968,7 +968,7 @@
       },
       "price": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 28,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -979,7 +979,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(193, 193, 193, 1)",
         "style_bold": false,
@@ -1078,7 +1078,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -1100,7 +1100,7 @@
       },
       "price": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 28,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -1111,7 +1111,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(193, 193, 193, 1)",
         "style_bold": false,
@@ -1290,7 +1290,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 20,
         "color": "rgba(55, 55, 55, 1)",
         "style_bold": true,
@@ -1312,7 +1312,7 @@
       },
       "price": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(5, 60, 81, 1)",
         "style_bold": true,

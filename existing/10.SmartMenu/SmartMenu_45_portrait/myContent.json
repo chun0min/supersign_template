@@ -333,7 +333,7 @@
       },
       "description": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(154, 102, 81, 1)",
         "style_bold": false,
@@ -515,7 +515,7 @@
       },
       "description": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(154, 102, 81, 1)",
         "style_bold": false,
@@ -682,7 +682,7 @@
       },
       "description": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(154, 102, 81, 1)",
         "style_bold": false,
