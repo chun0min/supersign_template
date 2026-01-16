@@ -1230,3 +1230,17 @@
   font-style: normal;
   src: url('../font/big-shoulders-text/BigShouldersText-Regular.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'Almendra SC';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/almendra-sc/AlmendraSC-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rammetto One';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/Rammetto_One/RammettoOne-Regular.ttf') format('truetype');
+}

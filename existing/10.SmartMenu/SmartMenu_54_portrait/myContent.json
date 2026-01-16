@@ -448,7 +448,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -610,7 +610,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -772,7 +772,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -934,7 +934,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,

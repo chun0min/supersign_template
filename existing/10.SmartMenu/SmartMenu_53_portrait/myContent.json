@@ -422,7 +422,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "Almendra SC.ttf",
+      "editor_option_text_font_file": "AlmendraSC-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -476,7 +476,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "Almendra SC.ttf",
+      "editor_option_text_font_file": "AlmendraSC-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -540,7 +540,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
@@ -551,7 +551,7 @@
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -562,7 +562,7 @@
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -672,7 +672,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
@@ -683,7 +683,7 @@
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -694,7 +694,7 @@
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -804,7 +804,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
@@ -815,7 +815,7 @@
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -826,7 +826,7 @@
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -936,7 +936,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
@@ -947,7 +947,7 @@
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -958,7 +958,7 @@
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -1068,7 +1068,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
@@ -1079,7 +1079,7 @@
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -1090,7 +1090,7 @@
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -1200,7 +1200,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
@@ -1211,7 +1211,7 @@
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -1222,7 +1222,7 @@
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -1332,7 +1332,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
@@ -1343,7 +1343,7 @@
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -1354,7 +1354,7 @@
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -1464,7 +1464,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
@@ -1475,7 +1475,7 @@
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -1486,7 +1486,7 @@
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
