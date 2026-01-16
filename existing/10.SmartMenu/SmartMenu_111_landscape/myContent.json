@@ -310,12 +310,12 @@
     "height": 166,
     "angle": 0,
     "content_size": 10,
-    "text_value": "DRINK MENU",
+    "text_value": "FoodMenu",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
       "editor_option_text_font_name": "Lobster",
-      "editor_option_text_font_size": "80",
+      "editor_option_text_font_size": "133",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -330,8 +330,8 @@
       "editor_option_text_font_file": "Lobster.otf"
     },
     "option_text_outline": {
-      "editor_option_text_outline_color": "0,0,0",
-      "editor_option_text_outline_width": 0
+      "editor_option_text_outline_color": "255,255,255",
+      "editor_option_text_outline_width": 40
     },
     "option_text_box": {
       "editor_option_text_box_color": "0,0,0",
@@ -366,7 +366,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare",
+      "editor_option_text_font_name": "Pretendard-regular",
       "editor_option_text_font_size": "20.8",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -376,10 +376,10 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "Cafe24 Ohsquare.otf"
+      "editor_option_text_font_file": "Pretendard-regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -512,14 +512,14 @@
     "id": 11,
     "display_order": 12,
     "content_type": "T_MENU",
-    "width": 1090,
-    "height": 190,
-    "top": 808,
-    "left": 145,
+    "width": 1668,
+    "height": 392,
+    "top": 254.5,
+    "left": 125,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_111_landscape",
+    "widget_class": "r5_menu_111_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -606,7 +606,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest",
+        "font_name": "Onest-Regular",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(59, 59, 59,1)",
@@ -617,7 +617,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 9,
         "color": "rgba(35, 61, 135,1)",
@@ -628,7 +628,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
         "color": "rgba(35, 61, 135,1)",
@@ -639,7 +639,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
         "color": "rgba(151, 151, 151,1)",
@@ -650,7 +650,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(168, 168, 168,1)",
@@ -661,7 +661,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Onest",
+        "font_name": "Onest-Regular",
         "font_file": "Onest-Regular.ttf",
         "font_size": 16,
         "color": "rgba(59, 59, 59,1)",
@@ -674,7 +674,7 @@
       "custom": {
         "price_type": "left",
         "calories": "below",
-        "scale": 1,
+        "scale": 1.3,
         "item_spacing": 10,
         "horizontal_scale": 0,
         "vertical_scale": 70,
@@ -708,16 +708,16 @@
   },
   {
     "id": 12,
-    "display_order": 13,
+    "display_order": 17,
     "content_type": "T_MENU",
-    "width": 307,
-    "height": 341,
-    "top": 675,
-    "left": 1561,
+    "width": 1055,
+    "height": 180,
+    "top": 808,
+    "left": 145,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_102_landscape",
+    "widget_class": "r5_menu_111_landscape-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -725,48 +725,72 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "TOMATO PASTA",
+            "menu_name": "Tomato Pasta",
             "description": "Briefly describe the ingredients",
             "price": ["6.0"],
             "calory": ["240"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish",
             "ordr": 1,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
-            "menu_name": "TOMATO PASTA",
+            "menu_name": "Tomato Pasta",
             "description": "Briefly describe the ingredients",
             "price": ["6.0"],
             "calory": ["240"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 2,
-            "enable": true
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
-            "menu_name": "TOMATO PASTA",
+            "menu_name": "Tomato Pasta",
             "description": "Briefly describe the ingredients",
             "price": ["6.0"],
             "calory": ["240"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish",
             "ordr": 3,
-            "enable": true
-          },
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
+          },          
           {
-            "menu_name": "TOMATO PASTA",
+            "menu_name": "Tomato Pasta",
             "description": "Briefly describe the ingredients",
             "price": ["6.0"],
             "calory": ["240"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish",
             "ordr": 4,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
         ]
       },
       "name": {
         "font_name": "Charter",
         "font_file": "Charter Regular.otf",
-        "font_size": 20,
-        "color": "rgba(255, 255, 255,1)",
+        "font_size": 21.3,
+        "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -774,21 +798,21 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 20,
-        "color": "rgba(3, 19, 138, 1)",
-        "style_bold": false,
+        "font_name": "Onest-Regular",
+        "font_file": "Onest-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -796,10 +820,10 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-regular",
+        "font_file": "Pretendard-regular.ttf",
         "font_size": 12,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -807,10 +831,10 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
-        "color": "rgba(181, 181, 181,1)",
+        "color": "rgba(181, 181, 181, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -818,62 +842,64 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest",
+        "font_name": "Onest-Regular",
         "font_file": "Onest-Regular.ttf",
         "font_size": 16,
-        "color": "rgba(255, 255, 255,1)",
-        "style_bold": true,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "item_spacing": 10,
+        "horizontal_scale": 75,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
-              "name",
               "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "balance"
-    }
+      "type": "text-b",
+      "column": "2"
+    },
+    "name": ""
   },
   {
     "id": 13,
     "display_order": 14,
     "content_type": "T_MENU",
-    "width": 307,
-    "height": 341,
-    "top": 675,
-    "left": 1561,
+    "width": 488,
+    "height": 180,
+    "top": 810,
+    "left": 1295,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_102_landscape",
+    "widget_class": "r5_menu_111_landscape-3",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -881,48 +907,73 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "TSINGTAO",
+            "menu_name": "Tsingtao",
             "description": "",
             "price": ["6.0"],
             "calory": ["240"],
             "allergy": "",
             "ordr": 1,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
-            "menu_name": "YEONTAE HIGH LIQUOR",
+            "menu_name": "Yeontae High Liquor",
             "description": "",
             "price": ["15.0"],
             "calory": ["240"],
             "allergy": "",
-            "ordr": 2,
-            "enable": true
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
-            "menu_name": "YEONTAE HIGH LIQUOR",
+            "menu_name": "Yeontae High Liquor",
             "description": "",
             "price": ["15.0"],
             "calory": ["240"],
             "allergy": "",
-            "ordr": 3,
-            "enable": true
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
-            "menu_name": "ICE TEA",
+            "menu_name": "Ice tea",
             "description": "",
-            "price": ["6.0"],
+            "price": ["3.0"],
             "calory": ["240"],
             "allergy": "",
-            "ordr": 4,
-            "enable": true
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
         "font_file": "Charter Regular.otf",
-        "font_size": 20,
-        "color": "rgba(255, 255, 255,1)",
+        "font_size": 21.3,
+        "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -930,21 +981,21 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter",
-        "font_file": "Inter-Regular.ttf",
-        "font_size": 20,
-        "color": "rgba(3, 19, 138, 1)",
-        "style_bold": false,
+        "font_name": "Onest-Regular",
+        "font_file": "Onest-Regular.ttf",
+        "font_size": 24,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -952,10 +1003,10 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-regular",
+        "font_file": "Pretendard-regular.ttf",
         "font_size": 12,
-        "color": "rgba(255, 255, 255,1)",
+        "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -963,10 +1014,10 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Inter",
+        "font_name": "Inter-Regular",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
-        "color": "rgba(181, 181, 181,1)",
+        "color": "rgba(181, 181, 181, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -974,48 +1025,50 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Onest",
+        "font_name": "Onest-Regular",
         "font_file": "Onest-Regular.ttf",
         "font_size": 16,
-        "color": "rgba(255, 255, 255,1)",
-        "style_bold": true,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 0,
-        "horizontal_scale": 0,
-        "vertical_scale": 45,
+        "item_spacing": 10,
+        "horizontal_scale": 75,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": ["image"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
-            "direction": "vertical",
+            "direction": "horizontal",
             "list": [
-              "name",
               "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "balance"
-    }
+      "type": "text-b"
+    },
+    "name": ""
   }
+
 ]
