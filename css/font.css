@@ -1244,3 +1244,10 @@
   font-style: normal;
   src: url('../font/Rammetto_One/RammettoOne-Regular.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'Milonga';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/milonga/Milonga-Regular.ttf') format('truetype');
+}
