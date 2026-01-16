@@ -348,7 +348,7 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 60,
-    "left": 715,
+    "left": 690,
     "width": 500,
     "height": 97,
     "angle": 0,
@@ -361,7 +361,7 @@
       "editor_option_text_font_size": "80",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": true,
+      "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "255, 255, 255",
       "editor_option_text_font_opacity": 1,
@@ -386,13 +386,13 @@
       "editor_option_text_box_radius_br": 0
     },
     "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_show":true,
+      "editor_option_shadow_color": "0, 0, 0",
       "editor_option_shadow_blur": 0,
-      "editor_option_shadow_angle": 6,
-      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_angle": 9,
+      "editor_option_shadow_distance": 7,
       "editor_option_shadow_size": 10,
-      "editor_option_shadow_opacity": 1
+      "editor_option_shadow_opacity": 0.3
     }
   },
   {
@@ -400,7 +400,7 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 217,
-    "left": 866,
+    "left": 841,
     "width": 190,
     "height": 24,
     "angle": 0,
@@ -412,8 +412,8 @@
       "editor_option_text_font_name": "Inter",
       "editor_option_text_font_size": "20",
       "editor_option_text_style_bold": true,
-      "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": true,
+      "editor_option_text_style_italic": true,
+      "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "255, 255, 255",
       "editor_option_text_font_opacity": 1,
@@ -458,7 +458,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_115_landscape",
+    "widget_class": "r5_menu_115_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -493,7 +493,7 @@
             "calory": [
               "300", "400", "500"
             ],
-            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
             "enable": true,
             "image": {
@@ -512,7 +512,7 @@
             "calory": [
               "300", "400", "500"
             ],
-            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
             "enable": true,
             "image": {
@@ -526,7 +526,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest",
+        "font_name": "Onest-Regular",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(28, 121, 137, 1)",
@@ -623,21 +623,22 @@
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "3"
     }
   },
   {
     "id": 11,
     "display_order": 12,
     "content_type": "T_MENU",
-    "width": 1216,
+    "width": 1260,
     "height": 200,
     "top": 774,
     "left": 352,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_115_landscape",
+    "widget_class": "r5_menu_115_landscape-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -657,10 +658,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_05.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_115_landscape/img_05.png",
+              "item_name": "img_08.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_115_landscape/img_08.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_115_landscape/img_05.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_115_landscape/img_08.png"
             }
           },
           {
@@ -672,21 +673,21 @@
             "calory": [
               "300", "400", "500"
             ],
-            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
             "enable": true,
             "image": {
-              "item_name": "img_06.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_115_landscape/img_06.png",
+              "item_name": "img_09.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_115_landscape/img_09.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_115_landscape/img_06.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_115_landscape/img_09.png"
             }
           }
         ],
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest",
+        "font_name": "Onest-Regular",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(28, 121, 137, 1)",
@@ -738,7 +739,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "description": {
         "font_name": "Onest",
@@ -755,35 +756,37 @@
         "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 70,
+        "item_spacing": 7,
+        "horizontal_scale": 30,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a",
+      "column": "2"
     }
   }
 ]
