@@ -123,7 +123,7 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": 2,
+      "editor_option_text_spacing": 10,
       "editor_option_text_font_file": "Elsie-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
@@ -212,11 +212,11 @@
     "width": 465,
     "height": 425,
     "top": 44,
-    "left": 562,
+    "left": 565,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_55_portrait",
+    "widget_class": "r5_menu_55_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -238,7 +238,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_01.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Mina",
@@ -265,7 +266,7 @@
       "price": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
-        "font_size": 21,
+        "font_size": 32,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -309,10 +310,10 @@
       "custom": {
         "price_type": "left",
         "calories": "right",
-        "scale": 1,
+        "scale": 1.3,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
@@ -323,16 +324,22 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
-            "direction": "horizontal",
-            "list": ["description", "price"]
+            "direction": "vertical",
+            "list": [
+              "image",
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-a"
     },
     "name": ""
   },
@@ -342,9 +349,9 @@
     "display_order": 6,
     "content_type": "T_MENU",
     "width": 978,
-    "height": 1371,
+    "height": 425,
     "top": 512,
-    "left": 50,
+    "left": 52,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -384,68 +391,9 @@
               "item_type": "image",
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_03.png"
             }
-          },
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
-            "price": ["11"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 3,
-            "enable": true,
-            "image": {
-              "item_name": "img_04.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_04.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_04.png"
-            }
-          },
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
-            "price": ["16"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4,
-            "enable": true,
-            "image": {
-              "item_name": "img_05.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_05.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_05.png"
-            }
-          },
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
-            "price": ["19"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5,
-            "enable": true,
-            "image": {
-              "item_name": "img_06.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_06.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_06.png"
-            }
-          },
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
-            "price": ["19"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 6,
-            "enable": true,
-            "image": {
-              "item_name": "img_07.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_07.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_07.png"
-            }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Mina",
@@ -472,7 +420,7 @@
       "price": {
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
-        "font_size": 21,
+        "font_size": 32,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -516,10 +464,10 @@
       "custom": {
         "price_type": "left",
         "calories": "right",
-        "scale": 1,
+        "scale": 1.3,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 50,
         "reverse": false,
         "section": [
           {
@@ -530,16 +478,328 @@
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
-            "direction": "horizontal",
-            "list": ["description", "price"]
+            "direction": "vertical",
+            "list": [
+              "image",
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 6,
+    "display_order": 7,
+    "content_type": "T_MENU",
+    "width": 978,
+    "height": 425,
+    "top": 980,
+    "left": 52,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_55_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
+            "price": ["11"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_04.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_04.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_04.png"
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
+            "price": ["16"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_05.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_05.png"
+            }
+          }
+        ],
+        "unit_placement": "before"
+      },
+      "name": {
+        "font_name": "Mina",
+        "font_file": "Mina-Regular.ttf",
+        "font_size": 26,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(22, 22, 22, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 32,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1.3,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "vertical",
+            "list": [
+              "image",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "text-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 7,
+    "display_order": 8,
+    "content_type": "T_MENU",
+    "width": 978,
+    "height": 425,
+    "top": 1448,
+    "left": 52,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_55_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "1",
+        "price_type_text": [""],
+        "menu_list": [
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
+            "price": ["19"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 5,
+            "enable": true,
+            "image": {
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_06.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_06.png"
+            }
+          },
+          {
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredient Briefly describe the describe ingredient",
+            "price": ["19"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 6,
+            "enable": true,
+            "image": {
+              "item_name": "img_07.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_07.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_55_portrait/img_07.png"
+            }
+          }
+        ],
+        "unit_placement": "before"
+      },
+      "name": {
+        "font_name": "Mina",
+        "font_file": "Mina-Regular.ttf",
+        "font_size": 26,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(22, 22, 22, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "price": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 32,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "calories": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 14,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "allergies": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 12,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "description": {
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
+        "font_size": 16,
+        "color": "rgba(255, 255, 255, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "left"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "right",
+        "scale": 1.04,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 50,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "name",
+              "description"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "vertical",
+            "list": [
+              "image",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "text-a"
     },
     "name": ""
   }
