@@ -124,7 +124,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "Elsie.ttf",
+      "editor_option_text_font_file": "Elsie-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -178,7 +178,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "Elsie.ttf",
+      "editor_option_text_font_file": "Elsie-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -242,7 +242,7 @@
       },
       "name": {
         "font_name": "Mina",
-        "font_file": "Mina.ttf",
+        "font_file": "Mina-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -449,7 +449,7 @@
       },
       "name": {
         "font_name": "Mina",
-        "font_file": "Mina.ttf",
+        "font_file": "Mina-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
