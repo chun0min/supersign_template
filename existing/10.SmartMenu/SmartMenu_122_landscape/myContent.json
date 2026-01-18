@@ -1554,7 +1554,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(31, 86, 96, 1)",
@@ -1565,7 +1565,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 20,
         "color": "rgba(211, 87, 82,1)",
@@ -1587,7 +1587,7 @@
         "alignment": "left"
       },
       "allergies": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 13,
         "color": "rgba(199, 84, 78,1)",

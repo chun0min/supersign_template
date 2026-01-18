@@ -363,7 +363,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
@@ -385,7 +385,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 12,
         "color": "rgba(144, 148, 150,1)",
@@ -396,7 +396,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 11,
         "color": "rgba(144, 148, 150,1)",
@@ -407,7 +407,7 @@
         "alignment": "center"
       },
       "description": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 18,
         "color": "rgba(19, 125, 171,1)",

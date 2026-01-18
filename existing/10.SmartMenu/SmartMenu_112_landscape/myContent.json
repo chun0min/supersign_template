@@ -609,7 +609,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(238, 74, 47, 1)",
@@ -760,7 +760,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 24,
         "color": "rgba(238, 74, 47, 1)",

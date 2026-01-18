@@ -160,7 +160,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 40,
         "color": "rgba(255, 255, 255,1)",
@@ -182,7 +182,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 14,
         "color": "rgba(248, 248, 248,1)",

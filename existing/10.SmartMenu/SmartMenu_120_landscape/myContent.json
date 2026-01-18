@@ -1082,7 +1082,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
@@ -1093,7 +1093,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 24,
         "color": "rgba(19, 7, 0,1)",
@@ -1104,7 +1104,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 12,
         "color": "rgba(19, 7, 0,1)",
@@ -1115,7 +1115,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 12,
         "color": "rgba(183, 68, 10,1)",
@@ -1294,7 +1294,7 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
@@ -1305,7 +1305,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 24,
         "color": "rgba(19, 7, 0,1)",
@@ -1316,7 +1316,7 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 12,
         "color": "rgba(19, 7, 0,1)",
@@ -1327,7 +1327,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 12,
         "color": "rgba(183, 68, 10,1)",
