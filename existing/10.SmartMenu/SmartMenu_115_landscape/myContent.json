@@ -526,7 +526,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(28, 121, 137, 1)",
@@ -687,7 +687,7 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(28, 121, 137, 1)",

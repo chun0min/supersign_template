@@ -598,7 +598,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(255, 255, 255, 1)",
@@ -620,8 +620,8 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard-regular",
-        "font_file": "Pretendard-regular.ttf",
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(132, 132, 132, 1)",
         "style_bold": false,
@@ -749,7 +749,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Onest-Regular",
+        "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(255, 255, 255, 1)",
@@ -771,8 +771,8 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard-regular",
-        "font_file": "Pretendard-regular.ttf",
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(132, 132, 132, 1)",
         "style_bold": false,

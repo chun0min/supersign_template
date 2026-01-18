@@ -245,8 +245,8 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest-Regular",
-        "font_file": "Onest-Regular.otf",
+        "font_name": "Onest",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(59, 59, 59, 1)",
         "style_bold": true,
@@ -443,8 +443,8 @@
         "unit_placement": "after"
       },
       "name": {
-        "font_name": "Onest-Regular",
-        "font_file": "Onest-Regular.otf",
+        "font_name": "Onest",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(59, 59, 59, 1)",
         "style_bold": true,
