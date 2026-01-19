@@ -151,7 +151,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "43.7",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -203,7 +203,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Plantagenet Cherokee",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "43.7",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -216,7 +216,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "1.366",
-      "editor_option_text_font_file": "Plantagenet Cherokee.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -255,7 +255,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Plantagenet Cherokee",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "43.7",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -268,7 +268,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "1.366",
-      "editor_option_text_font_file": "Plantagenet Cherokee.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -359,7 +359,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
@@ -370,7 +370,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -381,7 +381,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -414,7 +414,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -526,7 +526,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
@@ -537,7 +537,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -548,7 +548,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -581,7 +581,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -693,7 +693,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
@@ -704,7 +704,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -715,7 +715,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -748,7 +748,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -860,7 +860,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
@@ -871,7 +871,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -882,7 +882,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -915,7 +915,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -1009,7 +1009,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
@@ -1020,7 +1020,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -1031,7 +1031,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -1064,7 +1064,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -1158,7 +1158,7 @@
         ]
       },
       "name": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
@@ -1169,7 +1169,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -1180,7 +1180,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24Ohsquare",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -1213,7 +1213,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "SpoqaHanSansNeo-Regular",
+        "font_name": "Spoqa Han Sans Neo",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",

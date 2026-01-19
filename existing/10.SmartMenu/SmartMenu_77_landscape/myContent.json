@@ -142,7 +142,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond-Regular",
+      "editor_option_text_font_name": "EBGaramond",
       "editor_option_text_font_size": "44",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -194,7 +194,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BreeSerif-Regular",
+      "editor_option_text_font_name": "Bree Serif",
       "editor_option_text_font_size": "139",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -246,7 +246,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BreeSerif-Regular",
+      "editor_option_text_font_name": "Bree Serif",
       "editor_option_text_font_size": "53",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -298,7 +298,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BreeSerif-Regular",
+      "editor_option_text_font_name": "Bree Serif",
       "editor_option_text_font_size": "53",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,

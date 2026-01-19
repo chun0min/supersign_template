@@ -614,7 +614,7 @@
     "text_value": "HEALTH MEDICAL",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BlackOpsOne-Regular",
+      "editor_option_text_font_name": "Black Ops One",
       "editor_option_text_font_size": "50",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -716,7 +716,7 @@
     "text_value": "MEDICAL CARE",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BlackOpsOne-Regular",
+      "editor_option_text_font_name": "Black Ops One",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -818,7 +818,7 @@
     "text_value": "HEALIST MASSAGE",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BlackOpsOne-Regular",
+      "editor_option_text_font_name": "Black Ops One",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -920,7 +920,7 @@
     "text_value": "BEST HEALIST",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BlackOpsOne-Regular",
+      "editor_option_text_font_name": "Black Ops One",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -1022,7 +1022,7 @@
     "text_value": "BEST HEALIST",
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BlackOpsOne-Regular",
+      "editor_option_text_font_name": "Black Ops One",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
