@@ -407,7 +407,7 @@
         "font_size": 21,
         "color": "rgba(230, 82, 46, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -573,7 +573,7 @@
         "font_size": 21,
         "color": "rgba(230, 82, 46, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
