@@ -541,7 +541,7 @@
       },
       "priceType": {
         "font_name": "Milonga",
-        "font_file": "Milonga.otf",
+        "font_file": "Milonga-Regular.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,

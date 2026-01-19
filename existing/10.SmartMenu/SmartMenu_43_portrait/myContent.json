@@ -289,7 +289,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "BarlowCondensed.ttf",
+      "editor_option_text_font_file": "BarlowCondensed-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -409,7 +409,7 @@
       },
       "description": {
         "font_name": "Barlow Condensed",
-        "font_file": "BarlowCondensed.ttf",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -549,7 +549,7 @@
       },
       "description": {
         "font_name": "Barlow Condensed",
-        "font_file": "BarlowCondensed.ttf",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -689,7 +689,7 @@
       },
       "description": {
         "font_name": "Barlow Condensed",
-        "font_file": "BarlowCondensed.ttf",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -829,7 +829,7 @@
       },
       "description": {
         "font_name": "Barlow Condensed",
-        "font_file": "BarlowCondensed.ttf",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,
@@ -969,7 +969,7 @@
       },
       "description": {
         "font_name": "Barlow Condensed",
-        "font_file": "BarlowCondensed.ttf",
+        "font_file": "BarlowCondensed-Regular.ttf",
         "font_size": 22,
         "color": "rgba(226, 54, 14, 1)",
         "style_bold": true,

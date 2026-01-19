@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "Charter.ttf",
+      "editor_option_text_font_file": "Charter Regular.otf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -190,7 +190,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 30,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -333,7 +333,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 36,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -475,7 +475,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 36,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -617,7 +617,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 36,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -759,7 +759,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 36,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -901,7 +901,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 30,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -1043,7 +1043,7 @@
       },
       "name": {
         "font_name": "Charter",
-        "font_file": "Charter.ttf",
+        "font_file": "Charter Regular.otf",
         "font_size": 30,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,

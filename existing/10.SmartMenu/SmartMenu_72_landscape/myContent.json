@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "3.6",
-      "editor_option_text_font_file": "Rammetto One.otf"
+      "editor_option_text_font_file": "RammettoOne-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -122,7 +122,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0.8",
-      "editor_option_text_font_file": "Rammetto One.otf"
+      "editor_option_text_font_file": "RammettoOne-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -214,7 +214,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.otf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 20,
         "color": "rgba(15,85,57,1)",
         "style_bold": false,
@@ -381,7 +381,7 @@
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.otf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 20,
         "color": "rgba(15,85,57,1)",
         "style_bold": false,

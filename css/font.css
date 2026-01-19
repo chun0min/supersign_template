@@ -1251,3 +1251,17 @@
   font-style: normal;
   src: url('../font/milonga/Milonga-Regular.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'allura';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/allura/Allura-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Aboreto';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/aboreto/Aboreto-Regular.ttf') format('truetype');
+}

@@ -327,7 +327,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": -2,
-      "editor_option_text_font_file": "EBGaramond-BoldItalic.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -535,7 +535,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Pretendard-Light.ttf"
+      "editor_option_text_font_file": "Pretendard-Regular.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -639,7 +639,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Pretendard-Light.ttf"
+      "editor_option_text_font_file": "Pretendard-Regular.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -691,7 +691,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "0.8",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "EBGaramond-ExtraBoldItalic.ttf"
+      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",

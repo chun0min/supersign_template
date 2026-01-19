@@ -432,7 +432,7 @@
       },
       "description": {
         "font_name": "Maven Pro",
-        "font_file": "Maven Pro.ttf",
+        "font_file": "MavenPro-Regular.ttf",
         "font_size": 18,
         "color": "rgba(224,78,45,1)",
         "style_bold": false,
@@ -614,7 +614,7 @@
       },
       "description": {
         "font_name": "Maven Pro",
-        "font_file": "Maven Pro.ttf",
+        "font_file": "MavenPro-Regular.ttf",
         "font_size": 18,
         "color": "rgba(224,78,45,1)",
         "style_bold": false,

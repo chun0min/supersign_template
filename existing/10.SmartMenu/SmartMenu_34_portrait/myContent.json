@@ -290,7 +290,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bebas Neue.otf",
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -344,7 +344,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bebas Neue.otf",
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -398,7 +398,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bebas Neue.otf",
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -452,7 +452,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bebas Neue.otf",
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -506,7 +506,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bebas Neue.otf",
+      "editor_option_text_font_file": "BebasNeue-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -571,7 +571,7 @@
       },
       "name": {
         "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(49, 50, 50,1)",
         "style_bold": false,
@@ -593,7 +593,7 @@
       },
       "price": {
         "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(251, 227, 179,1)",
         "style_bold": false,
@@ -709,7 +709,7 @@
       },
       "name": {
         "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -731,7 +731,7 @@
       },
       "price": {
         "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -849,7 +849,7 @@
       },
       "name": {
         "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -871,7 +871,7 @@
       },
       "price": {
         "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -989,7 +989,7 @@
       },
       "name": {
         "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 34,
         "color": "rgba(49, 50, 50, 1)",
         "style_bold": false,
@@ -1011,7 +1011,7 @@
       },
       "price": {
         "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 48,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -1161,7 +1161,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255, 217, 160, 1)",
         "style_bold": false,
@@ -1183,7 +1183,7 @@
       },
       "price": {
         "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 24,
         "color": "rgba(251, 227, 179, 1)",
         "style_bold": false,
@@ -1331,7 +1331,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.ttf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 26,
         "color": "rgba(255, 217, 160, 1)",
         "style_bold": false,
@@ -1353,7 +1353,7 @@
       },
       "price": {
         "font_name": "Protest Strike",
-        "font_file": "Protest Strike.ttf",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 24,
         "color": "rgba(251, 227, 179, 1)",
         "style_bold": false,

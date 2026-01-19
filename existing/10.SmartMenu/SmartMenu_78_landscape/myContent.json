@@ -388,7 +388,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0.762",
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -440,7 +440,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -492,7 +492,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -544,7 +544,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0.28",
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -687,7 +687,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bluetea",
+      "editor_option_text_font_name": "Pacifico",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -700,7 +700,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Bluetea.ttf"
+      "editor_option_text_font_file": "Pacifico.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -783,7 +783,7 @@
       },
       "name": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -816,7 +816,7 @@
       },
       "calories": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 13,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -838,7 +838,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 19,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -941,7 +941,7 @@
       },
       "name": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
@@ -974,7 +974,7 @@
       },
       "calories": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 13,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -996,7 +996,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 19,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,

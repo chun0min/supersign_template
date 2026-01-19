@@ -203,7 +203,7 @@
       },
       "calories": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 12,
         "color": "rgba(178, 127, 0 1)",
         "style_bold": false,
@@ -379,7 +379,7 @@
       },
       "calories": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 12,
         "color": "rgba(178, 127, 0 1)",
         "style_bold": false,
@@ -555,7 +555,7 @@
       },
       "calories": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 12,
         "color": "rgba(178, 127, 0 1)",
         "style_bold": false,
