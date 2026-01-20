@@ -154,7 +154,7 @@
     "display_order": 4,
     "content_type": "T_MENU",
     "width": 420,
-    "height": 147,
+    "height": 155,
     "top": 278,
     "left": 85,
     "angle": 0,
@@ -186,7 +186,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_01.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -256,7 +257,7 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 30,
@@ -329,7 +330,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_02.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -399,7 +401,7 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -471,7 +473,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -541,7 +544,7 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -613,7 +616,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_04.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -683,7 +687,7 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -755,7 +759,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_02.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -825,7 +830,7 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -897,7 +902,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_01.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -967,7 +973,7 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 30,
@@ -1039,7 +1045,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_49_portrait/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -1109,7 +1116,7 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,

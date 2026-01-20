@@ -1,11 +1,11 @@
 {
   "type": "template_New",
-  "name": "SmartMenu_20_portrait",
+  "name": "SmartMenu_41_portrait",
   "group": "SmartMenu",
   "screen": {
     "width": "1080",
     "height": "1920"
   },
   "version": "1.00",
-  "folderName": "SmartMenu_20_portrait"
+  "folderName": "SmartMenu_41_portrait"
 }
