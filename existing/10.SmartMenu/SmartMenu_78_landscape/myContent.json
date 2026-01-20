@@ -262,7 +262,7 @@
     "display_order": 7,
     "content_type": "TEXT",
     "top": 40,
-    "left": 667,
+    "left": 642,
     "width": 585,
     "height": 142,
     "angle": 0,
@@ -271,7 +271,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "AlfaSlabOne-Regular",
+      "editor_option_text_font_name": "Alfa Slab One",
       "editor_option_text_font_size": "103",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -314,7 +314,7 @@
     "display_order": 8,
     "content_type": "TEXT",
     "top": 159,
-    "left": 836,
+    "left": 811,
     "width": 247,
     "height": 49,
     "angle": 0,
@@ -366,7 +366,7 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 107,
-    "left": 1670,
+    "left": 1645,
     "width": 72,
     "height": 32,
     "angle": 0,
@@ -388,7 +388,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0.762",
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -418,7 +418,7 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 139,
-    "left": 1659,
+    "left": 1634,
     "width": 94,
     "height": 25,
     "angle": 0,
@@ -440,7 +440,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -470,7 +470,7 @@
     "display_order": 11,
     "content_type": "TEXT",
     "top": 162,
-    "left": 1622,
+    "left": 1597,
     "width": 168,
     "height": 25,
     "angle": 0,
@@ -492,7 +492,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -522,9 +522,9 @@
     "display_order": 12,
     "content_type": "TEXT",
     "top": 192,
-    "left": 1653,
+    "left": 1628,
     "width": 105,
-    "height": 23,
+    "height": 30,
     "angle": 0,
     "content_size": 9,
     "text_value": "@cafemenu",
@@ -542,9 +542,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1.2",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0.28",
-      "editor_option_text_font_file": "Onest.ttf"
+      "editor_option_text_font_file": "Onest-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -583,7 +583,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "AlfaSlabOne-Regular",
+      "editor_option_text_font_name": "Alfa Slab One",
       "editor_option_text_font_size": "48",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -593,7 +593,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0",
       "editor_option_text_font_file": "AlfaSlabOne-Regular.ttf"
@@ -626,7 +626,7 @@
     "display_order": 14,
     "content_type": "TEXT",
     "top": 310,
-    "left": 1418,
+    "left": 1417,
     "width": 345,
     "height": 66,
     "angle": 0,
@@ -635,7 +635,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "AlfaSlabOne-Regular",
+      "editor_option_text_font_name": "Alfa Slab One",
       "editor_option_text_font_size": "48",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -645,7 +645,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0",
       "editor_option_text_font_file": "AlfaSlabOne-Regular.ttf"
@@ -680,14 +680,14 @@
     "top": 716,
     "left": 550,
     "width": 123,
-    "height": 85,
+    "height": 100,
     "angle": 0,
     "content_size": 33,
     "text_value": "Happiness \nis a \nChoice",
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Bluetea",
+      "editor_option_text_font_name": "Pacifico",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -700,7 +700,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Bluetea.ttf"
+      "editor_option_text_font_file": "Pacifico.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -729,8 +729,8 @@
     "id": 15,
     "display_order": 16,
     "content_type": "T_MENU",
-    "width": 421,
-    "height": 620,
+    "width": 430,
+    "height": 514,
     "top": 408,
     "left": 75,
     "angle": 0,
@@ -750,44 +750,69 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
             "ordr": 1,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
             "description": "Briefly describe the ingredients and their characteristics.",
             "price": ["9.5"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
             "description": "Briefly describe the ingredients and their characteristics.",
             "price": ["9.5"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
             "description": "Briefly describe the ingredients and their characteristics.",
             "price": ["9.5"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
-            "ordr": 4,
-            "enable": true
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
-      "name": {
+     "name": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -816,7 +841,7 @@
       },
       "calories": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 13,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -838,7 +863,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 19,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -848,38 +873,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 33,
+        "horizontal_scale": 88,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
@@ -887,8 +911,8 @@
     "id": 16,
     "display_order": 17,
     "content_type": "T_MENU",
-    "width": 421,
-    "height": 620,
+    "width": 430,
+    "height": 514,
     "top": 408,
     "left": 1417,
     "angle": 0,
@@ -908,44 +932,69 @@
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
             "ordr": 1,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
             "description": "Briefly describe the ingredients and their characteristics.",
             "price": ["9.5"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
             "description": "Briefly describe the ingredients and their characteristics.",
             "price": ["9.5"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
-            "enable": true
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           },
           {
             "menu_name": "FOOD NAME HERE",
             "description": "Briefly describe the ingredients and their characteristics.",
             "price": ["9.5"],
             "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
-            "ordr": 4,
-            "enable": true
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "",
+              "item_url": "",
+              "item_type": "",
+              "item_thumbnail_url": ""
+            }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
-      "name": {
+     "name": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 24,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -974,7 +1023,7 @@
       },
       "calories": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 13,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -996,7 +1045,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 19,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -1006,38 +1055,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 33,
+        "horizontal_scale": 88,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }

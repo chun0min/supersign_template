@@ -57,7 +57,7 @@
     "font-weight": 700,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Manrope-VariableFont_wght",
+      "editor_option_text_font_name": "Manrope",
       "editor_option_text_font_size": "17",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 10,
-      "editor_option_text_font_file": "Manrope-VariableFont_wght.ttf",
+      "editor_option_text_font_file": "Manrope-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {

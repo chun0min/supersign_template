@@ -107,7 +107,7 @@
     "scene_no": 1,
     "font-weight": "bold",
     "option_text": {
-      "editor_option_text_font_name": "Oswald-Regular",
+      "editor_option_text_font_name": "Oswald",
       "editor_option_text_font_size": "98",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -210,7 +210,7 @@
     "scene_no": 1,
     "font-weight": "bold",
     "option_text": {
-      "editor_option_text_font_name": "Oswald-Regular",
+      "editor_option_text_font_name": "Oswald",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -262,7 +262,7 @@
     "scene_no": 1,
     "font-weight": "bold",
     "option_text": {
-      "editor_option_text_font_name": "Oswald-Regular",
+      "editor_option_text_font_name": "Oswald",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -365,7 +365,7 @@
     "scene_no": 1,
     "font-weight": "bold",
     "option_text": {
-      "editor_option_text_font_name": "Oswald-Regular",
+      "editor_option_text_font_name": "Oswald",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -417,7 +417,7 @@
     "scene_no": 1,
     "font-weight": "bold",
     "option_text": {
-      "editor_option_text_font_name": "Oswald-Regular",
+      "editor_option_text_font_name": "Oswald",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -520,7 +520,7 @@
     "scene_no": 1,
     "font-weight": "bold",
     "option_text": {
-      "editor_option_text_font_name": "Oswald-Regular",
+      "editor_option_text_font_name": "Oswald",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -572,7 +572,7 @@
     "scene_no": 1,
     "font-weight": "bold",
     "option_text": {
-      "editor_option_text_font_name": "Oswald-Regular",
+      "editor_option_text_font_name": "Oswald",
       "editor_option_text_font_size": "28",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,

@@ -582,7 +582,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.otf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -720,7 +720,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.otf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -887,7 +887,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.otf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 20,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -1056,7 +1056,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.otf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 20,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -1210,7 +1210,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.otf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,
@@ -1363,7 +1363,7 @@
       },
       "priceType": {
         "font_name": "Bebas Neue",
-        "font_file": "Bebas Neue.otf",
+        "font_file": "BebasNeue-Regular.ttf",
         "font_size": 27,
         "color": "rgba(222,76,66,1)",
         "style_bold": true,

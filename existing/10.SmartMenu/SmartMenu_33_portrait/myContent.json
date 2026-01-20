@@ -70,7 +70,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Pretendard.otf",
+      "editor_option_text_font_file": "Sarina-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -124,7 +124,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Racing Sans One.otf",
+      "editor_option_text_font_file": "RacingSansOne-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -215,7 +215,7 @@
       },
       "price": {
         "font_name": "Sansita One",
-        "font_file": "Sansita One.ttf",
+        "font_file": "SansitaOne.ttf",
         "font_size": 54,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,
@@ -500,7 +500,7 @@
       },
       "price": {
         "font_name": "Sansita One",
-        "font_file": "Sansita One.ttf",
+        "font_file": "SansitaOne.ttf",
         "font_size": 54,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": false,

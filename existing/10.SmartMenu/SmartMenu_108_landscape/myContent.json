@@ -176,7 +176,7 @@
     "display_order": 5,
     "content_type": "TEXT",
     "top": 121,
-    "left": 401,
+    "left": 376,
     "width": 1117,
     "height": 163,
     "angle": 0,
@@ -186,7 +186,7 @@
     "scene_no": 1,
     "option_text": {
       "editor_option_text_font_name": "Ultra",
-      "editor_option_text_font_size": "163",
+      "editor_option_text_font_size": "126",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
@@ -250,10 +250,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_07.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_07.png",
+              "item_name": "img_04.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_04.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_07.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_04.png"
             }
           },
           {
@@ -265,10 +265,10 @@
             "ordr": 2,
             "enable": true,
             "image": {
-              "item_name": "img_08.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_08.png",
+              "item_name": "img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_05.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_08.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_05.png"
             }
           },
           {
@@ -280,10 +280,10 @@
             "ordr": 3,
             "enable": true,
             "image": {
-              "item_name": "img_09.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_09.png",
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_06.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_09.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_09.png"
             }
           }
         ]
@@ -292,7 +292,7 @@
         "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size":  28,
-        "color": "rgba(246, 104, 74, 1)",
+        "color": "rgba(5, 128, 72, 1)",
         "style_bold": true,
         "style_italic": true,
         "style_line": false,
@@ -355,38 +355,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -418,9 +419,9 @@
             "enable": true,
             "image": {
               "item_name": "img_07.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_07.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_07.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_07.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_07.png"
             }
           },
           {
@@ -433,9 +434,9 @@
             "enable": true,
             "image": {
               "item_name": "img_08.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_08.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_08.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_08.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_08.png"
             }
           },
           {
@@ -448,9 +449,9 @@
             "enable": true,
             "image": {
               "item_name": "img_09.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_09.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_09.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_09.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_09.png"
             }
           }
         ]
@@ -459,7 +460,7 @@
         "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size":  28,
-        "color": "rgba(246, 104, 74, 1)",
+        "color": "rgba(5, 128, 72, 1)",
         "style_bold": true,
         "style_italic": true,
         "style_line": false,
@@ -522,38 +523,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -584,10 +586,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_07.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_07.png",
+              "item_name": "img_10.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_10.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_07.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_10.png"
             }
           },
           {
@@ -599,10 +601,10 @@
             "ordr": 2,
             "enable": true,
             "image": {
-              "item_name": "img_08.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_08.png",
+              "item_name": "img_11.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_11.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_08.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_11.png"
             }
           },
           {
@@ -614,10 +616,10 @@
             "ordr": 3,
             "enable": true,
             "image": {
-              "item_name": "img_09.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_09.png",
+              "item_name": "img_12.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_12.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_portrait/img_09.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_108_landscape/img_12.png"
             }
           }
         ]
@@ -626,7 +628,7 @@
         "font_name": "Satoshi",
         "font_file": "Satoshi-Variable.ttf",
         "font_size":  28,
-        "color": "rgba(246, 104, 74, 1)",
+        "color": "rgba(5, 128, 72, 1)",
         "style_bold": true,
         "style_italic": true,
         "style_line": false,
@@ -689,38 +691,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   }

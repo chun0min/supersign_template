@@ -47,9 +47,9 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 113,
-    "left": 46,
+    "left": 21,
     "width": 387,
-    "height": 212,
+    "height": 260,
     "angle": 0,
     "content_size": 16,
     "text_value": "Dessert \nMenu",
@@ -67,13 +67,13 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "0.8",
       "editor_option_text_spacing": "1.33",
       "editor_option_text_font_file": "Lobster.otf"
     },
     "option_text_outline": {
-      "editor_option_text_outline_color": "0,0,0",
-      "editor_option_text_outline_width": 0
+      "editor_option_text_outline_color": "255,255,255",
+      "editor_option_text_outline_width": 40
     },
     "option_text_box": {
       "editor_option_text_box_color": "0,0,0",
@@ -98,8 +98,8 @@
     "id": 2,
     "display_order": 3,
     "content_type": "TEXT",
-    "top": 344,
-    "left": 129,
+    "top": 374,
+    "left": 104,
     "width": 221,
     "height": 106,
     "angle": 0,
@@ -120,12 +120,12 @@
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
-      "editor_option_text_spacing": "1.33",
+      "editor_option_text_spacing": "1",
       "editor_option_text_font_file": "Lobster.otf"
     },
     "option_text_outline": {
-      "editor_option_text_outline_color": "0,0,0",
-      "editor_option_text_outline_width": 0
+      "editor_option_text_outline_color": "255,255,255",
+      "editor_option_text_outline_width": 24
     },
     "option_text_box": {
       "editor_option_text_box_color": "0,0,0",
@@ -209,7 +209,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_86_landscape/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -223,8 +224,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Iowan Old Style",
-        "font_file": "Iowan Old Style.ttf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 46,
         "color": "rgba(68, 68, 68, 1)",
         "style_bold": true,
@@ -234,8 +235,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Iowan Old Style",
-        "font_file": "Iowan Old Style.ttf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 46,
         "color": "rgba(68, 68, 68, 1)",
         "style_bold": true,
@@ -278,12 +279,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 70,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -309,7 +310,8 @@
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "3"
     },
     "name": ""
   },
@@ -391,7 +393,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_86_landscape/img_07.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -405,8 +408,8 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Iowan Old Style",
-        "font_file": "Iowan Old Style.ttf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 46,
         "color": "rgba(68, 68, 68, 1)",
         "style_bold": true,
@@ -416,8 +419,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Iowan Old Style",
-        "font_file": "Iowan Old Style.ttf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 46,
         "color": "rgba(68, 68, 68, 1)",
         "style_bold": true,
@@ -460,12 +463,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 70,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -489,9 +492,11 @@
               "price"
             ]
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "4"
     },
     "name": ""
   }

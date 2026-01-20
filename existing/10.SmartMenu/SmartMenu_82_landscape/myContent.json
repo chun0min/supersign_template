@@ -228,7 +228,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Charter Regular",
+      "editor_option_text_font_name": "Charter",
       "editor_option_text_font_size": "56",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -280,7 +280,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Charter Regular",
+      "editor_option_text_font_name": "Charter",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -332,7 +332,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Charter Regular",
+      "editor_option_text_font_name": "Charter",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -384,7 +384,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Charter Regular",
+      "editor_option_text_font_name": "Charter",
       "editor_option_text_font_size": "26",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -458,7 +458,7 @@
         ]
       },
       "name": {
-        "font_name": "Charter Regular",
+        "font_name": "Charter",
         "font_file": "Charter Regular.otf",
         "font_size": 28,
         "color": "rgba(255, 255, 255, 1)",
@@ -595,7 +595,7 @@
         ]
       },
       "name": {
-        "font_name": "Charter Regular",
+        "font_name": "Charter",
         "font_file": "Charter Regular.otf",
         "font_size": 28,
         "color": "rgba(255, 255, 255, 1)",
@@ -732,7 +732,7 @@
         ]
       },
       "name": {
-        "font_name": "Charter Regular",
+        "font_name": "Charter",
         "font_file": "Charter Regular.otf",
         "font_size": 28,
         "color": "rgba(255, 255, 255, 1)",
@@ -869,7 +869,7 @@
         ]
       },
       "name": {
-        "font_name": "Charter Regular",
+        "font_name": "Charter",
         "font_file": "Charter Regular.otf",
         "font_size": 26,
         "color": "rgba(0, 0, 0, 1)",
@@ -1006,7 +1006,7 @@
         ]
       },
       "name": {
-        "font_name": "Charter Regular",
+        "font_name": "Charter",
         "font_file": "Charter Regular.otf",
         "font_size": 26,
         "color": "rgba(0, 0, 0, 1)",
@@ -1143,7 +1143,7 @@
         ]
       },
       "name": {
-        "font_name": "Charter Regular",
+        "font_name": "Charter",
         "font_file": "Charter Regular.otf",
         "font_size": 26,
         "color": "rgba(0, 0, 0, 1)",
@@ -1292,7 +1292,7 @@
         ]
       },
       "name": {
-        "font_name": "Charter Regular",
+        "font_name": "Charter",
         "font_file": "Charter Regular.otf",
         "font_size": 20,
         "color": "rgba(55, 55, 55, 1)",
@@ -1441,7 +1441,7 @@
         ]
       },
       "name": {
-        "font_name": "Charter Regular",
+        "font_name": "Charter",
         "font_file": "Charter Regular.otf",
         "font_size": 20,
         "color": "rgba(55, 55, 55, 1)",

@@ -110,7 +110,7 @@
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare-v2.0",
+      "editor_option_text_font_name": "Cafe24 Ohsquare",
       "editor_option_text_font_size": "77",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -366,7 +366,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare-v2.0",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
@@ -496,7 +496,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare-v2.0",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
@@ -634,7 +634,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare-v2.0",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
@@ -776,7 +776,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare-v2.0",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
@@ -905,7 +905,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare-v2.0",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",
@@ -1043,7 +1043,7 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare-v2.0",
+        "font_name": "Cafe24 Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.0.ttf",
         "font_size": 22,
         "color": "rgba(154, 0, 0,1)",

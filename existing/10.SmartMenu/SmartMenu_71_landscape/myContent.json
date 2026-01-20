@@ -109,7 +109,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255, 255, 255",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": false,
       "editor_option_text_font_file": "Blinker.otf"
@@ -161,9 +161,9 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255, 255, 255",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.1",
-      "editor_option_text_spacing": false,
+      "editor_option_text_spacing": 10,
       "editor_option_text_font_file": "Blinker.otf"
     },
     "option_text_outline": {
@@ -213,10 +213,10 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "255, 255, 255",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": false,
-      "editor_option_text_font_file": "Bungee Inline.otf"
+      "editor_option_text_font_file": "Bungee-Inline.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -255,7 +255,7 @@
     "widget_class": "r5_menu_71_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "2",
         "price_type_text": [""],
         "menu_list": [
@@ -289,11 +289,12 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_71_landscape/img_02.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Bungee Inline",
-        "font_file": "Bungee Inline.ttf",
+        "font_file": "Bungee-Inline.otf",
         "font_size": 24,
         "color": "rgba(47,47,47,1)",
         "style_bold": false,
@@ -326,7 +327,7 @@
       },
       "calories": {
         "font_name": "Big Shoulders Text",
-        "font_file": "Big Shoulders Text.ttf",
+        "font_file": "BigShouldersText-Regular.ttf",
         "font_size": 18,
         "color": "rgba(47, 47, 47, 1)",
         "style_bold": false,
@@ -358,38 +359,40 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
+        "item_spacing": 47,
+        "horizontal_scale": 50,
         "vertical_scale": 74,
-        "reverse": false,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b",
+      "column": "2"
     },
     "name": ""
   },
@@ -407,7 +410,7 @@
     "widget_class": "r5_menu_71_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "3",
         "price_type_text": [""],
         "menu_list": [
@@ -456,11 +459,12 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_71_landscape/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Bungee Inline",
-        "font_file": "Bungee Inline.ttf",
+        "font_file": "Bungee-Inline.otf",
         "font_size": 24,
         "color": "rgba(47,47,47,1)",
         "style_bold": false,
@@ -493,7 +497,7 @@
       },
       "calories": {
         "font_name": "Big Shoulders Text",
-        "font_file": "Big Shoulders Text.ttf",
+        "font_file": "BigShouldersText-Regular.ttf",
         "font_size": 18,
         "color": "rgba(47, 47, 47, 1)",
         "style_bold": false,
@@ -525,38 +529,40 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
+        "item_spacing": 47,
+        "horizontal_scale": 50,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b",
+      "column": "3"
     },
     "name": ""
   }

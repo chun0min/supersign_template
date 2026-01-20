@@ -138,7 +138,7 @@
     "top": 845,
     "left": 584,
     "width": 380,
-    "height": 328,
+    "height": 238,
     "angle": 0,
     "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_53_portrait/img_03.png",
     "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_53_portrait/img_03.png",
@@ -400,7 +400,7 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 99,
-    "left": 86,
+    "left": 61,
     "width": 908,
     "height": 97,
     "angle": 0,
@@ -422,7 +422,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "Almendra SC.ttf",
+      "editor_option_text_font_file": "AlmendraSC-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -454,7 +454,7 @@
     "display_order": 11,
     "content_type": "TEXT",
     "top": 16,
-    "left": 887,
+    "left": 862,
     "width": 163,
     "height": 31,
     "angle": 0,
@@ -476,7 +476,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "Almendra SC.ttf",
+      "editor_option_text_font_file": "AlmendraSC-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -536,11 +536,12 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
@@ -551,7 +552,7 @@
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -562,7 +563,7 @@
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -573,7 +574,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -610,27 +611,34 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
-        "reverse": false,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -646,7 +654,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_53_portrait",
+    "widget_class": "r5_menu_53_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -668,51 +676,52 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -723,7 +732,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "description": {
         "font_name": "Inter",
@@ -734,7 +743,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "custom": {
         "price_type": "left",
@@ -742,27 +751,34 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -800,11 +816,12 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
@@ -815,7 +832,7 @@
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -826,7 +843,7 @@
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -837,7 +854,7 @@
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
@@ -874,27 +891,34 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
-        "reverse": false,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -910,7 +934,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_53_portrait",
+    "widget_class": "r5_menu_53_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -932,51 +956,52 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -987,7 +1012,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "description": {
         "font_name": "Inter",
@@ -998,7 +1023,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "custom": {
         "price_type": "left",
@@ -1006,27 +1031,34 @@
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -1036,13 +1068,13 @@
     "display_order": 16,
     "content_type": "T_MENU",
     "width": 260,
-    "height": 238,
+    "height": 180,
     "top": 1443,
     "left": 220,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_53_portrait",
+    "widget_class": "r5_menu_53_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1064,51 +1096,52 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -1119,7 +1152,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "description": {
         "font_name": "Inter",
@@ -1130,35 +1163,42 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -1168,13 +1208,13 @@
     "display_order": 17,
     "content_type": "T_MENU",
     "width": 260,
-    "height": 238,
+    "height": 180,
     "top": 1443,
     "left": 688,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_53_portrait",
+    "widget_class": "r5_menu_53_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1196,51 +1236,52 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -1251,7 +1292,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "description": {
         "font_name": "Inter",
@@ -1262,35 +1303,42 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -1300,13 +1348,13 @@
     "display_order": 18,
     "content_type": "T_MENU",
     "width": 260,
-    "height": 238,
+    "height": 180,
     "top": 1696,
     "left": 220,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_53_portrait",
+    "widget_class": "r5_menu_53_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1328,51 +1376,52 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -1383,7 +1432,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "description": {
         "font_name": "Inter",
@@ -1394,35 +1443,42 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -1432,13 +1488,13 @@
     "display_order": 19,
     "content_type": "T_MENU",
     "width": 260,
-    "height": 238,
+    "height": 180,
     "top": 1696,
     "left": 688,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_53_portrait",
+    "widget_class": "r5_menu_53_portrait-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1460,51 +1516,52 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "priceType": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 32,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "price": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 24,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Inter",
-        "font_file": "Inter.ttf",
+        "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(127, 0, 2, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -1515,7 +1572,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "description": {
         "font_name": "Inter",
@@ -1526,35 +1583,42 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
-            "list": ["image", "name"]
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": ["description", "price"]
+            "list": [
+              "price"
+            ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   }

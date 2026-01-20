@@ -47,7 +47,7 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 40,
-    "left": 661,
+    "left": 636,
     "width": 599,
     "height": 98,
     "angle": 0,
@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare",
+      "editor_option_text_font_name": "Cafe24 Classictype",
       "editor_option_text_font_size": "80",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
+      "editor_option_text_font_file": "Cafe24ClassicType.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24Ohsquare",
+      "editor_option_text_font_name": "Cafe24 Classictype",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -121,7 +121,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
+      "editor_option_text_font_file": "Cafe24ClassicType.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -150,14 +150,15 @@
     "id": 3,
     "display_order": 4,
     "content_type": "T_MENU",
-    "width": 1496,
-    "height": 395,
+    "width": 1586,
+    "height": 415,
     "top": 205,
-    "left": 212,
+    "left": 168,
     "angle": 0,
     "scene_no": 1,
+
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_110_landscape",
+    "widget_class": "r5_menu_38_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -184,15 +185,15 @@
             }
           },
           {
-            "menu_name": "Chicken Burger",
-            "description": "Describe ingredients and features.",
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients",
             "price": [
               "9.5", "10.5", "11.0"
             ],
             "calory": [
               "300", "400", "500"
             ],
-            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 2,
             "enable": true,
             "image": {
@@ -203,15 +204,15 @@
             }
           },
           {
-            "menu_name": "Chicken Burger",
-            "description": "Describe ingredients and features.",
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients",
             "price": [
               "9.5", "10.5", "11.0"
             ],
             "calory": [
               "300", "400", "500"
             ],
-            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 3,
             "enable": true,
             "image": {
@@ -222,15 +223,15 @@
             }
           },
           {
-            "menu_name": "Chicken Burger",
-            "description": "Describe ingredients and features.",
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients",
             "price": [
               "9.5", "10.5", "11.0"
             ],
             "calory": [
               "300", "400", "500"
             ],
-            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 4,
             "enable": true,
             "image": {
@@ -247,7 +248,7 @@
         "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
-        "color": "rgba(59, 59, 59,1)",
+        "color": "rgba(59, 59, 59, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -257,9 +258,9 @@
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 9,
-        "color": "rgba(15, 85, 57,1)",
-        "style_bold": true,
+        "font_size": 11,
+        "color": "rgba(15, 85, 57, 1)",
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -269,7 +270,7 @@
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
-        "color": "rgba(15, 85, 57,1)",
+        "color": "rgba(15, 85, 57, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -280,7 +281,7 @@
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
-        "color": "rgba(151, 151, 151,1)",
+        "color": "rgba(151, 151, 151, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -290,8 +291,8 @@
       "allergies": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 14,
-        "color": "rgba(143, 38, 37,1)",
+        "font_size": 13,
+        "color": "rgba(103, 147, 120, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -302,7 +303,7 @@
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
-        "color": "rgba(59, 59, 59,1)",
+        "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -348,14 +349,14 @@
     "id": 4,
     "display_order": 5,
     "content_type": "T_MENU",
-    "width": 1496,
-    "height": 395,
+    "width": 1586,
+    "height": 415,
     "top": 632,
-    "left": 212,
+    "left": 168,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_110_landscape",
+    "widget_class": "r5_menu_38_landscape",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -372,70 +373,70 @@
               "300", "400", "500"
             ],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5,
+            "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_01.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_01.png",
+              "item_name": "img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_05.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_01.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_05.png"
             }
           },
           {
-            "menu_name": "Chicken Burger",
-            "description": "Describe ingredients and features.",
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients",
             "price": [
               "9.5", "10.5", "11.0"
             ],
             "calory": [
               "300", "400", "500"
             ],
-            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
-            "ordr": 6,
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
             "enable": true,
             "image": {
-              "item_name": "img_02.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_02.png",
+              "item_name": "img_06.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_06.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_02.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_06.png"
             }
           },
           {
-            "menu_name": "Chicken Burger",
-            "description": "Describe ingredients and features.",
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients",
             "price": [
               "9.5", "10.5", "11.0"
             ],
             "calory": [
               "300", "400", "500"
             ],
-            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
-            "ordr": 7,
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
             "enable": true,
             "image": {
-              "item_name": "img_03.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_03.png",
+              "item_name": "img_07.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_07.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_03.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_07.png"
             }
           },
           {
-            "menu_name": "Chicken Burger",
-            "description": "Describe ingredients and features.",
+            "menu_name": "FOOD NAME HERE",
+            "description": "Briefly describe the ingredients",
             "price": [
               "9.5", "10.5", "11.0"
             ],
             "calory": [
               "300", "400", "500"
             ],
-            "allergy": "Hamburger bun, beef patty, lettuce, tomato, pickles, onion, cheese, mayonnaise",
-            "ordr": 8,
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 4,
             "enable": true,
             "image": {
-              "item_name": "img_04.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_04.png",
+              "item_name": "img_08.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_08.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_04.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_110_landscape/img_08.png"
             }
           }
         ],
@@ -445,7 +446,7 @@
         "font_name": "Onest",
         "font_file": "Onest-Regular.ttf",
         "font_size": 20,
-        "color": "rgba(59, 59, 59,1)",
+        "color": "rgba(59, 59, 59, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -455,9 +456,9 @@
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 9,
-        "color": "rgba(15, 85, 57,1)",
-        "style_bold": true,
+        "font_size": 11,
+        "color": "rgba(15, 85, 57, 1)",
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -467,7 +468,7 @@
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 18,
-        "color": "rgba(15, 85, 57,1)",
+        "color": "rgba(15, 85, 57, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -478,7 +479,7 @@
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 11,
-        "color": "rgba(151, 151, 151,1)",
+        "color": "rgba(151, 151, 151, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -488,8 +489,8 @@
       "allergies": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 14,
-        "color": "rgba(143, 38, 37,1)",
+        "font_size": 13,
+        "color": "rgba(103, 147, 120, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -500,7 +501,7 @@
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 14,
-        "color": "rgba(59, 59, 59,1)",
+        "color": "rgba(0, 0, 0,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,

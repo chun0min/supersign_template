@@ -410,7 +410,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "0.502",
       "editor_option_text_font_file": "Inter-Regular.ttf"
@@ -462,7 +462,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0.045",
       "editor_option_text_font_file": "Inter-Regular.ttf"
@@ -517,10 +517,10 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_01.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_79_landscape/img_01.png",
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_79_landscape/img_03.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_79_landscape/img_01.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_79_landscape/img_03.png"
             }
           },
           {
@@ -546,7 +546,7 @@
         "font_size": 27,
         "color": "rgba(25, 25, 25, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -556,8 +556,8 @@
         "font_file": "Inter-Regular.ttf",
         "font_size": 29,
         "color": "rgba(195, 36, 20, 1)",
-        "style_bold": true,
-        "style_italic": true,
+        "style_bold": false,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -568,7 +568,7 @@
         "font_size": 29,
         "color": "rgba(195, 36, 20, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -597,7 +597,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 18,
         "color": "rgba(109, 109, 109, 1)",
         "style_bold": true,
@@ -608,11 +608,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 68,
         "reverse": false,
         "section": [
           {
@@ -698,7 +698,7 @@
         "font_size": 27,
         "color": "rgba(25, 25, 25, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -709,7 +709,7 @@
         "font_size": 29,
         "color": "rgba(195, 36, 20, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -720,7 +720,7 @@
         "font_size": 29,
         "color": "rgba(195, 36, 20, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -749,7 +749,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 18,
         "color": "rgba(109, 109, 109, 1)",
         "style_bold": true,
@@ -760,11 +760,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 68,
         "reverse": false,
         "section": [
           {
@@ -835,7 +835,7 @@
         "font_size": 27,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -846,7 +846,7 @@
         "font_size": 29,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -857,7 +857,7 @@
         "font_size": 29,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -886,7 +886,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 18,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -897,11 +897,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -972,7 +972,7 @@
         "font_size": 27,
         "color": "rgba(25, 25, 25, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -983,7 +983,7 @@
         "font_size": 29,
         "color": "rgba(195, 36, 20, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -1023,7 +1023,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 18,
         "color": "rgba(109, 109, 109, 1)",
         "style_bold": true,
@@ -1034,11 +1034,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
@@ -1124,7 +1124,7 @@
         "font_size": 27,
         "color": "rgba(25, 25, 25, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -1135,7 +1135,7 @@
         "font_size": 29,
         "color": "rgba(195, 36, 20, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -1146,7 +1146,7 @@
         "font_size": 29,
         "color": "rgba(195, 36, 20, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -1175,7 +1175,7 @@
       },
       "description": {
         "font_name": "Onest",
-        "font_file": "Onest.ttf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 18,
         "color": "rgba(109, 109, 109, 1)",
         "style_bold": true,
@@ -1186,11 +1186,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 68,
         "reverse": false,
         "section": [
           {

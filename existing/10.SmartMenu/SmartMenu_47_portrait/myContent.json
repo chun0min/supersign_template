@@ -46,9 +46,9 @@
     "id": 1,
     "display_order": 2,
     "content_type": "TEXT",
-    "top": 75,
-    "left": 186,
-    "width": 706,
+    "top": 85,
+    "left": 160,
+    "width": 705,
     "height": 70,
     "angle": 0,
     "content_size": 10,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 2,
-      "editor_option_text_font_file": "Rammetto One.ttf",
+      "editor_option_text_font_file": "RammettoOne-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -100,7 +100,7 @@
     "display_order": 3,
     "content_type": "TEXT",
     "top": 172,
-    "left": 188,
+    "left": 161,
     "width": 705,
     "height": 24,
     "angle": 0,
@@ -122,7 +122,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 1,
-      "editor_option_text_font_file": "Rammetto One.ttf",
+      "editor_option_text_font_file": "RammettoOne-Regular.ttf",
       "editor_option_text_font_opacity": 1
     },
     "option_text_outline": {
@@ -148,12 +148,11 @@
       "editor_option_shadow_opacity": 1
     }
   },
-  
   {
     "id": 3,
     "display_order": 4,
     "content_type": "T_MENU",
-    "width": 768,
+    "width": 300,
     "height": 1448,
     "top": 284,
     "left": 160,
@@ -223,69 +222,13 @@
               "item_type": "image",
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_03.png"
             }
-          },
-          {
-            "menu_name": "BUGER NAME HERE",
-            "description": "Briefly describe the ingredient",
-            "price": [
-              "9.5","10.5","11.5"
-            ],
-            "calory": [
-              "300","400","500"
-            ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4,
-            "enable": true,
-            "image": {
-              "item_name": "img_04.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_04.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_04.png"
-            }
-          },
-          {
-            "menu_name": "BUGER NAME HERE",
-            "description": "Briefly describe the ingredient",
-            "price": [
-              "9.5","10.5","11.5"
-            ],
-            "calory": [
-              "300","400","500"
-            ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 5,
-            "enable": true,
-            "image": {
-              "item_name": "img_05.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_05.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_05.png"
-            }
-          },
-          {
-            "menu_name": "BUGER NAME HERE",
-            "description": "Briefly describe the ingredient",
-            "price": [
-              "9.5","10.5","11.5"
-            ],
-            "calory": [
-              "300","400","500"
-            ],
-            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 6,
-            "enable": true,
-            "image": {
-              "item_name": "img_06.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_06.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_06.png"
-            }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "Rammetto One.ttf",
+        "font_file": "RammettoOne-Regular.ttf",
         "font_size": 20,
         "color": "rgba(15, 85, 57, 1)",
         "style_bold": false,
@@ -303,7 +246,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
         "font_name": "Inter",
@@ -314,7 +257,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "calories": {
         "font_name": "Inter",
@@ -325,7 +268,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "allergies": {
         "font_name": "Inter",
@@ -351,11 +294,191 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 60,
+        "vertical_scale": 70,
+        "reverse": false,
+        "section": [
+          {
+            "id": "blue",
+            "direction": "horizontal",
+            "list": []
+          },
+          {
+            "id": "orange",
+            "direction": "horizontal",
+            "list": [
+              "image",
+              "name"
+            ]
+          },
+          {
+            "id": "purple",
+            "direction": "horizontal",
+            "list": [
+              "description",
+              "price"
+            ]
+          }
+        ]
+      },
+      "type": "block-a"
+    },
+    "name": ""
+  },
+  {
+    "id": 4,
+    "display_order": 5,
+    "content_type": "T_MENU",
+    "width": 300,
+    "height": 1448,
+    "top": 284,
+    "left": 620,
+    "angle": 0,
+    "scene_no": 1,
+    "option_menu_version": "v2",
+    "widget_class": "r5_menu_47_portrait",
+    "option_menu": {
+      "menu_item": {
+        "price_unit": "us",
+        "price_type": "3",
+        "price_type_text": ["S","M","L"],
+        "menu_list": [
+          {
+            "menu_name": "BUGER NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": [
+              "9.5","10.5","11.5"
+            ],
+            "calory": [
+              "300","400","500"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 1,
+            "enable": true,
+            "image": {
+              "item_name": "img_01.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_01.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_01.png"
+            }
+          },
+          {
+            "menu_name": "BUGER NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": [
+              "9.5","10.5","11.5"
+            ],
+            "calory": [
+              "300","400","500"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 2,
+            "enable": true,
+            "image": {
+              "item_name": "img_02.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_02.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_02.png"
+            }
+          },
+          {
+            "menu_name": "BUGER NAME HERE",
+            "description": "Briefly describe the ingredient",
+            "price": [
+              "9.5","10.5","11.5"
+            ],
+            "calory": [
+              "300","400","500"
+            ],
+            "allergy": "Contains milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
+            "ordr": 3,
+            "enable": true,
+            "image": {
+              "item_name": "img_03.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_03.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_47_portrait/img_03.png"
+            }
+          }
+        ],
+        "unit_placement": "after"
+      },
+      "name": {
+        "font_name": "Rammetto One",
+        "font_file": "RammettoOne-Regular.ttf",
+        "font_size": 20,
+        "color": "rgba(15, 85, 57, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "priceType": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 9,
+        "color": "rgba(15, 85, 57, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "price": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 18,
+        "color": "rgba(15, 85, 57, 1)",
+        "style_bold": true,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "calories": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 11,
+        "color": "rgba(151, 151, 151, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "allergies": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 12,
+        "color": "rgba(58, 138, 78, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "description": {
+        "font_name": "Inter",
+        "font_file": "Inter-Regular.ttf",
+        "font_size": 15,
+        "color": "rgba(58, 58, 58, 1)",
+        "style_bold": false,
+        "style_italic": false,
+        "style_line": false,
+        "style_sub": false,
+        "alignment": "center"
+      },
+      "custom": {
+        "price_type": "left",
+        "calories": "below",
+        "scale": 1,
+        "item_spacing": 0,
+        "horizontal_scale": 0,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {

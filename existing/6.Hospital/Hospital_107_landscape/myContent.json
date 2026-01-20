@@ -228,7 +228,7 @@
     "scene_no": 1,
     "font-weight": "bold",
     "option_text": {
-      "editor_option_text_font_name": "BodoniModa_72pt-Medium",
+      "editor_option_text_font_name": "Bodoni Moda",
       "editor_option_text_font_size": "70",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -331,7 +331,7 @@
     "scene_no": 1,
     "font-weight": "bold",
     "option_text": {
-      "editor_option_text_font_name": "BodoniModa_72pt-Medium",
+      "editor_option_text_font_name": "Bodoni Moda",
       "editor_option_text_font_size": "40",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -344,7 +344,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Bodoni72-Regular.ttf"
+      "editor_option_text_font_file": "BodoniModa_72pt-Medium.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",

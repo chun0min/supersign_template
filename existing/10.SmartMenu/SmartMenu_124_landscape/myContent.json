@@ -160,7 +160,7 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Inter-Regular",
+        "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
         "font_size": 40,
         "color": "rgba(255, 255, 255,1)",
@@ -171,8 +171,8 @@
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard-Regular",
-        "font_file": "Pretendard-Regular.ttf",
+        "font_name": "Pretendard",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(255, 255, 255,1)",
         "style_bold": true,
@@ -182,7 +182,7 @@
         "alignment": "center"
       },
       "allergies": {
-        "font_name": "Inter-regular",
+        "font_name": "Inter",
         "font_file": "Inter-regular.ttf",
         "font_size": 14,
         "color": "rgba(248, 248, 248,1)",
@@ -205,11 +205,11 @@
       },
       "custom": {
         "price_type": "left",
-        "calories": "right",
+        "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 2,
         "horizontal_scale": 0,
-        "vertical_scale": 65,
+        "vertical_scale": 75,
         "reverse": false,
         "section": [
           {
@@ -235,7 +235,8 @@
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "5"
     },
     "name": ""
   }

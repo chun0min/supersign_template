@@ -497,7 +497,7 @@
     "font_weight": "700",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BonaNovaSC-Regular",
+      "editor_option_text_font_name": "Bona Nova SC",
       "editor_option_text_font_size": "60",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -599,7 +599,7 @@
     "text_value": "OUR HOTEL SERVICE",  
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "BonaNovaSC-Regular",
+      "editor_option_text_font_name": "Bona Nova SC",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,

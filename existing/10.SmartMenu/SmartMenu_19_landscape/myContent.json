@@ -57,7 +57,7 @@
     "scene_no": 1,
     "font-weight": "700",
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 Ohsquare.otf",
+      "editor_option_text_font_name": "Cafe24 Ohsquare",
       "editor_option_text_font_size": "77",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
@@ -70,7 +70,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": 0,
-      "editor_option_text_font_file": "Cafe24 Ohsquare.otf"
+      "editor_option_text_font_file": "Cafe24Ohsquare-v2.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -110,7 +110,7 @@
     "scene_no": 1,
     "font-weight": "500",
     "option_text": {
-      "editor_option_text_font_name": "Pretendard.otf",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,

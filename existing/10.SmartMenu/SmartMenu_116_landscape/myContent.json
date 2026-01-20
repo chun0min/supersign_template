@@ -307,7 +307,7 @@
     "top": 60,
     "left": 61,
     "width": 500,
-    "height": 124,
+    "height": 150,
     "angle": 0,
     "content_size": 5,
     "text_value": "Pizza",
@@ -318,16 +318,16 @@
       "editor_option_text_font_size": "187",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": true,
+      "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "230, 82, 46",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1.1",
+      "editor_option_text_line_heig": "0.6",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "Bree Serif.ttf"
+      "editor_option_text_font_file": "BreeSerif-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -357,9 +357,9 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 184,
-    "left": 96,
-    "width": 190,
-    "height": 124,
+    "left": 78,
+    "width": 441,
+    "height": 123,
     "angle": 0,
     "content_size": 4,
     "text_value": "Menu",
@@ -370,16 +370,16 @@
       "editor_option_text_font_size": "162",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": true,
+      "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "230, 82, 46",
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1.1",
+      "editor_option_text_line_heig": "0.9",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "Alex Brush.ttf"
+      "editor_option_text_font_file": "AlexBrush-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -409,7 +409,7 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 332,
-    "left": 96,
+    "left": 60,
     "width": 220,
     "height": 44,
     "angle": 0,
@@ -422,7 +422,7 @@
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": true,
+      "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "230, 82, 46",
       "editor_option_text_font_opacity": 1,
@@ -431,7 +431,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "Bree Serif.ttf"
+      "editor_option_text_font_file": "BreeSerif-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -461,7 +461,7 @@
     "display_order": 11,
     "content_type": "TEXT",
     "top": 699,
-    "left": 96,
+    "left": 60,
     "width": 220,
     "height": 44,
     "angle": 0,
@@ -474,7 +474,7 @@
       "editor_option_text_font_size": "30",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": true,
+      "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "230, 82, 46",
       "editor_option_text_font_opacity": 1,
@@ -483,7 +483,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "Bree Serif.ttf"
+      "editor_option_text_font_file": "BreeSerif-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -526,7 +526,7 @@
       "editor_option_text_font_size": "47",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
-      "editor_option_text_style_line": true,
+      "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
       "editor_option_text_font_color": "230, 82, 46",
       "editor_option_text_font_opacity": 1,
@@ -535,7 +535,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "Bree Serif.ttf"
+      "editor_option_text_font_file": "BreeSerif-Regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -580,7 +580,7 @@
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredients Briefly describe the ingredients",
             "price": [
               "30.5", "30.5"
             ],
@@ -599,7 +599,7 @@
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredients Briefly describe the ingredients",
             "price": [
               "30.5", "30.5"
             ],
@@ -628,18 +628,18 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 18,
+        "font_size": 11.8,
         "color": "rgba(83, 54, 32,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "price": {
         "font_name": "Inter",
@@ -650,12 +650,12 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "calories": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 12,
+        "font_size": 11,
         "color": "rgba(83, 54, 32,1)",
         "style_bold": false,
         "style_italic": false,
@@ -672,7 +672,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "description": {
         "font_name": "Inter",
@@ -683,7 +683,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "custom": {
         "price_type": "left",
@@ -725,7 +725,7 @@
     "content_type": "T_MENU",
     "width": 274,
     "height": 329,
-    "top": 714,
+    "top": 719,
     "left": 333,
     "angle": 0,
     "scene_no": 1,
@@ -739,7 +739,7 @@
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredients Briefly describe the ingredients",
             "price": [
               "30.5", "30.5"
             ],
@@ -758,7 +758,7 @@
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredients Briefly describe the ingredients",
             "price": [
               "30.5", "30.5"
             ],
@@ -787,18 +787,18 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 18,
+        "font_size": 11.8,
         "color": "rgba(83, 54, 32,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "price": {
         "font_name": "Inter",
@@ -809,12 +809,12 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "calories": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 12,
+        "font_size": 11,
         "color": "rgba(83, 54, 32,1)",
         "style_bold": false,
         "style_italic": false,
@@ -831,7 +831,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "description": {
         "font_name": "Inter",
@@ -842,7 +842,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "custom": {
         "price_type": "left",
@@ -898,7 +898,7 @@
         "menu_list": [
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredients Briefly describe the ingredients",
             "price": [
               "30.5", "30.5"
             ],
@@ -917,7 +917,7 @@
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredients Briefly describe the ingredients",
             "price": [
               "30.5", "30.5"
             ],
@@ -936,7 +936,7 @@
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredients Briefly describe the ingredients",
             "price": [
               "30.5", "30.5"
             ],
@@ -955,7 +955,7 @@
           },
           {
             "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredients",
+            "description": "Briefly describe the ingredients Briefly describe the ingredients",
             "price": [
               "30.5", "30.5"
             ],
@@ -984,18 +984,18 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 18,
+        "font_size": 11.8,
         "color": "rgba(83, 54, 32,1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "price": {
         "font_name": "Inter",
@@ -1006,18 +1006,18 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "calories": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 12,
+        "font_size": 11,
         "color": "rgba(83, 54, 32,1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "allergies": {
         "font_name": "Inter",
@@ -1028,7 +1028,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "description": {
         "font_name": "Inter",
@@ -1039,7 +1039,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "left"
       },
       "custom": {
         "price_type": "left",
@@ -1072,7 +1072,8 @@
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "4"
     }
   }
 ]
