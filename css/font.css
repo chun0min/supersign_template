@@ -1265,3 +1265,38 @@
   font-style: normal;
   src: url('../font/aboreto/Aboreto-Regular.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'Montagu Slab';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/montagu-slab/MontaguSlab-VariableFont.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Handlee';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/handlee/Handlee-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Passion One';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/passion-one/PassionOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cantata One';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/cantata-one/CantataOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Post No Bills Colombo';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/postnobillscolombo/postnobillscolombo-bold.ttf') format('truetype');
+}
