@@ -176,8 +176,8 @@
     "display_order": 5,
     "content_type": "IMAGE",
     "top": 657,
-    "left": 120,
-    "width": 1440,
+    "left": 1440,
+    "width": 360,
     "height": 88,
     "angle": 0,
     "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_05.png",
@@ -219,7 +219,7 @@
     "display_order": 6,
     "content_type": "TEXT",
     "top": 94,
-    "left": 839,
+    "left": 834,
     "width": 241,
     "height": 52,
     "angle": 0,
@@ -238,7 +238,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "3.36",
       "editor_option_text_font_file": "BebasNeue-Regular.ttf"
@@ -270,7 +270,7 @@
     "id": 6,
     "display_order": 7,
     "content_type": "TEXT",
-    "top": 142,
+    "top": 150,
     "left": 684,
     "width": 550,
     "height": 129,
@@ -324,7 +324,7 @@
     "content_type": "T_MENU",
     "width": 1680,
     "height": 575,
-    "top": 391,
+    "top": 388,
     "left": 120,
     "angle": 0,
     "scene_no": 1,
@@ -332,7 +332,7 @@
     "widget_class": "r5_menu_74_landscape",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
+        "price_unit": "us",
         "price_type": "1",
         "price_type_text": [""],
         "menu_list": [
@@ -396,7 +396,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_04.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Protest Strike",
@@ -407,7 +408,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "priceType": {
         "font_name": "Protest Strike",
@@ -418,159 +419,22 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "center"
       },
       "price": {
         "font_name": "Protest Strike",
         "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 18,
-        "color": "rgba(232, 205, 0, 1)",
+        "font_size": 48,
+        "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
-      },
-      "calories": {
-        "font_name": "Protest Strike",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 11,
-        "color": "rgba(151,151,151,1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "center"
-      },
-      "allergies": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
-        "font_size": 9,
-        "color": "rgba(113, 113, 113, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "description": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
-        "font_size": 14,
-        "color": "rgba(132, 6, 15, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "left"
-      },
-      "custom": {
-        "price_type": "above",
-        "calories": "below",
-        "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
-        "section": [
-          {
-            "id": "blue",
-            "direction": "horizontal",
-            "list": []
-          },
-          {
-            "id": "orange",
-            "direction": "horizontal",
-            "list": [
-              "image",
-              "name"
-            ]
-          },
-          {
-            "id": "purple",
-            "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
-          }
-        ]
-      },
-      "type": "block-a"
-    },
-    "name": ""
-  },
-  {
-    "id": 6,
-    "display_order": 7,
-    "content_type": "T_MENU",
-    "width": 410,
-    "height": 523,
-    "top": 486,
-    "left": 66,
-    "angle": 0,
-    "scene_no": 1,
-    "option_menu_version": "v2",
-    "widget_class": "r5_menu_73_landscape",
-    "option_menu": {
-      "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
-        "price_type_text": ["S","M","L"],
-        "menu_list": [
-          {
-            "menu_name": "French Breakfast",
-            "description": "Americano with a gentle, mild acidity that you roast yourself",
-            "price": ["9.5","10.5","11.5"],
-            "calory": ["300","400","500"],
-            "allergy": "wheat, milk, soybeans, eggs, wheat, peanuts, nuts, mackerel",
-            "ordr": 1,
-            "enable": true,
-            "image": {
-              "item_name": "img_03.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_03.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_74_landscape/img_03.png"
-            }
-          }
-        ]
-      },
-      "name": {
-        "font_name": "Protest Strike",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 30,
-        "color": "rgba(232, 205, 0, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "center"
-      },
-      "priceType": {
-        "font_name": "Protest Strike",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 48,
-        "color": "rgba(232, 205, 0, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
-        "alignment": "center"
-      },
-      "price": {
-        "font_name": "Protest Strike",
-        "font_file": "ProtestStrike-Regular.ttf",
-        "font_size": 48,
-        "color": "rgba(232, 205, 0, 1)",
-        "style_bold": false,
-        "style_italic": false,
-        "style_line": false,
-        "style_sub": false,
         "alignment": "center"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Protest Strike",
+        "font_file": "ProtestStrike-Regular.ttf",
         "font_size": 16,
         "color": "rgba(119, 134, 170, 1)",
         "style_bold": false,
@@ -594,7 +458,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
-        "color": "rgba(232, 205, 0, 1)",
+        "color": "rgba(255, 243, 151, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -602,12 +466,12 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 80,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 58,
         "reverse": false,
         "section": [
           {
@@ -633,7 +497,8 @@
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "4"
     },
     "name": ""
   }
