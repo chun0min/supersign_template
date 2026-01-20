@@ -132,8 +132,8 @@
     "id": 3,
     "display_order": 4,
     "content_type": "TEXT",
-    "top": 42,
-    "left": 710,
+    "top": 52,
+    "left": 685,
     "width": 504,
     "height": 68,
     "angle": 0,
@@ -144,7 +144,7 @@
     "option_text": {
       "editor_option_text_font_name": "Charter",
       "editor_option_text_font_size": "56",
-      "editor_option_text_style_bold": 900,
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
@@ -153,7 +153,7 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1.1",
+      "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "7.28",
       "editor_option_text_font_file": "Charter Regular.otf"
     },
@@ -196,7 +196,7 @@
     "option_text": {
       "editor_option_text_font_name": "Charter",
       "editor_option_text_font_size": "24",
-      "editor_option_text_style_bold": false,
+      "editor_option_text_style_bold": true,
       "editor_option_text_style_italic": false,
       "editor_option_text_style_line": false,
       "editor_option_text_style_sub": false,
@@ -204,7 +204,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "3.12",
       "editor_option_text_font_file": "Charter Regular.otf"
@@ -243,11 +243,11 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_73_landscape",
+    "widget_class": "r5_menu_73_landscape-1",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
@@ -265,7 +265,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_02.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Charter",
@@ -281,7 +282,7 @@
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 18,
+        "font_size": 9,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -326,7 +327,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
-        "color": "rgba(132, 6, 15, 1)",
+        "color": "rgba(132, 66, 15, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -334,38 +335,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 12,
+        "horizontal_scale": 27,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -380,11 +382,11 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_73_landscape",
+    "widget_class": "r5_menu_73_landscape-2",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
@@ -396,13 +398,14 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_03.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_03.png",
+              "item_name": "img_08.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_08.png",
               "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_03.png"
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_08.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -418,7 +421,7 @@
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 24,
+        "font_size": 9,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -463,7 +466,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
-        "color": "rgba(132, 6, 15, 1)",
+        "color": "rgba(132, 66, 15, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -471,12 +474,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 77,
         "reverse": false,
         "section": [
           {
@@ -517,11 +520,11 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_73_landscape",
+    "widget_class": "r5_menu_73_landscape-2",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
@@ -539,7 +542,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_04.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Charter",
@@ -555,7 +559,7 @@
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 24,
+        "font_size": 9,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -600,7 +604,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
-        "color": "rgba(132, 6, 15, 1)",
+        "color": "rgba(132, 66, 15, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -608,12 +612,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
@@ -654,11 +658,11 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_73_landscape",
+    "widget_class": "r5_menu_73_landscape-2",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
@@ -676,7 +680,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_05.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Charter",
@@ -692,7 +697,7 @@
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 24,
+        "font_size": 9,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -737,7 +742,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
-        "color": "rgba(132, 6, 15, 1)",
+        "color": "rgba(132, 66, 15, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -745,12 +750,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
@@ -791,11 +796,11 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_73_landscape",
+    "widget_class": "r5_menu_73_landscape-2",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
@@ -813,7 +818,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Charter",
@@ -829,7 +835,7 @@
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 24,
+        "font_size": 9,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -874,7 +880,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
-        "color": "rgba(132, 6, 15, 1)",
+        "color": "rgba(132, 66, 15, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -882,12 +888,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
@@ -928,11 +934,11 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_73_landscape",
+    "widget_class": "r5_menu_73_landscape-2",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
@@ -950,7 +956,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_07.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Charter",
@@ -966,7 +973,7 @@
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 24,
+        "font_size": 9,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -1011,7 +1018,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
-        "color": "rgba(132, 6, 15, 1)",
+        "color": "rgba(132, 66, 15, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1019,7 +1026,7 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
@@ -1065,11 +1072,11 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_73_landscape",
+    "widget_class": "r5_menu_73_landscape-2",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
@@ -1087,7 +1094,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_08.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -1103,7 +1111,7 @@
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 24,
+        "font_size": 9,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -1148,7 +1156,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 16,
-        "color": "rgba(132, 6, 15, 1)",
+        "color": "rgba(132, 66, 15, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1156,12 +1164,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 77,
         "reverse": false,
         "section": [
           {
@@ -1202,11 +1210,11 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_73_landscape",
+    "widget_class": "r5_menu_73_landscape-1",
     "option_menu": {
       "menu_item": {
-        "price_unit": "",
-        "price_type": "1",
+        "price_unit": "us",
+        "price_type": "3",
         "price_type_text": ["S","M","L"],
         "menu_list": [
           {
@@ -1224,7 +1232,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_73_landscape/img_09.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Charter",
@@ -1240,7 +1249,7 @@
       "priceType": {
         "font_name": "Inter",
         "font_file": "Inter-Regular.ttf",
-        "font_size": 18,
+        "font_size": 9,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": true,
         "style_italic": false,
@@ -1285,7 +1294,7 @@
         "font_name": "Pretendard",
         "font_file": "Pretendard-Regular.otf",
         "font_size": 14,
-        "color": "rgba(132, 6, 15, 1)",
+        "color": "rgba(132, 66, 15, 1)",
         "style_bold": false,
         "style_italic": false,
         "style_line": false,
@@ -1293,38 +1302,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 12,
+        "horizontal_scale": 27,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   }
