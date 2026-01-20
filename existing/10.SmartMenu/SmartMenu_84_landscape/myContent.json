@@ -142,7 +142,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Alex Brush",
+      "editor_option_text_font_name": "AlexBrush-Regular",
       "editor_option_text_font_size": "120",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -204,7 +204,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
       "editor_option_text_font_file": "Aboreto-Regular.ttf"
@@ -338,7 +338,8 @@
             "ordr": 4,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement" : "before"
       },
       "name": {
         "font_name": "Aboreto",
@@ -346,7 +347,7 @@
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -407,38 +408,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 50,
+        "horizontal_scale": 90,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }

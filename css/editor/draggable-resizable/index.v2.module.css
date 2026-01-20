@@ -930,3 +930,34 @@
 .r5_menu_125_landscape .menu {
   gap: 34px;
 }
+
+.r5_menu_126_landscape .menu {
+  flex-direction: column;
+  gap: 50px;
+}
+
+.r5_menu_127_landscape .menu {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.r5_menu_128_landscape .menu {
+  gap: 19px;
+}
+
+.r5_menu_129_landscape .menu {
+  flex-direction: column;
+  gap: 24px;
+}
+
+.r5_menu_129_landscape .menuTypeGroup .kcal_option {
+  align-items: center;
+}
+
+.r5_menu_129_landscape .menuTypeGroup .type-02 .menuOption {
+  justify-content: flex-end;
+}
+
+.r5_menu_130_landscape .menuTypeGroup .kcal_option {
+  align-items: center;
+}
