@@ -135,7 +135,7 @@
     "top": 182,
     "left": 723,
     "width": 474,
-    "height": 47,
+    "height": 100,
     "angle": 0,
     "content_size": 10,
     "text_value": "BREAD MENU",
@@ -312,12 +312,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 20,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 43,
         "reverse": false,
         "section": [
           {
@@ -329,21 +329,21 @@
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
-            "direction": "horizontal",
+            "direction": "vertical",
             "list": [
-              "description",
+              "image",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-b"
     },
     "name": ""
   },
@@ -479,12 +479,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 20,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 43,
         "reverse": false,
         "section": [
           {
@@ -496,21 +496,21 @@
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
-            "direction": "horizontal",
+            "direction": "vertical",
             "list": [
-              "description",
+              "image",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-b"
     },
     "name": ""
   },
@@ -646,12 +646,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 20,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 43,
         "reverse": false,
         "section": [
           {
@@ -663,21 +663,21 @@
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
-            "direction": "horizontal",
+            "direction": "vertical",
             "list": [
-              "description",
+              "image",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-b"
     },
     "name": ""
   }
