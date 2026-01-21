@@ -99,7 +99,7 @@
     "display_order": 3,
     "content_type": "T_MENU",
     "width": 370,
-    "height": 600,
+    "height": 650,
     "top": 316,
     "left": 547.7,
     "angle": 0,
@@ -172,7 +172,7 @@
         "font_name": "EBGaramond",
         "font_file": "EBGaramond-Regular.ttf",
         "font_size": 21.3,
-        "color": "rgba(178, 127, 0 1)",
+        "color": "rgba(178, 127, 0, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -235,38 +235,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 24,
+        "horizontal_scale": 77,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
@@ -275,7 +274,7 @@
     "display_order": 4,
     "content_type": "T_MENU",
     "width": 370,
-    "height": 600,
+    "height": 650,
     "top": 316,
     "left": 992,
     "angle": 0,
@@ -348,7 +347,7 @@
         "font_name": "EBGaramond",
         "font_file": "EBGaramond-Regular.ttf",
         "font_size": 21.3,
-        "color": "rgba(178, 127, 0 1)",
+        "color": "rgba(178, 127, 0, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -410,39 +409,38 @@
         "style_sub": false,
         "alignment": "left"
       },
-      "custom": {
-        "price_type": "above",
-        "calories": "below",
+"custom": {
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 24,
+        "horizontal_scale": 77,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
@@ -451,7 +449,7 @@
     "display_order": 5,
     "content_type": "T_MENU",
     "width": 370,
-    "height": 600,
+    "height": 650,
     "top": 316,
     "left": 1430,
     "angle": 0,
@@ -524,7 +522,7 @@
         "font_name": "EBGaramond",
         "font_file": "EBGaramond-Regular.ttf",
         "font_size": 21.3,
-        "color": "rgba(178, 127, 0 1)",
+        "color": "rgba(178, 127, 0, 1)",
         "style_bold": true,
         "style_italic": false,
         "style_line": false,
@@ -586,39 +584,38 @@
         "style_sub": false,
         "alignment": "left"
       },
-      "custom": {
-        "price_type": "above",
-        "calories": "below",
+     "custom": {
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 24,
+        "horizontal_scale": 77,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }
