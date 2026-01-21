@@ -347,16 +347,16 @@
     "id": 8,
     "display_order": 9,
     "content_type": "IMAGE",
-    "top": 792,
-    "left": 105,
-    "width": 750,
-    "height": 4,
+    "top": 183,
+    "left": 1408,
+    "width": 410,
+    "height": 563,
     "angle": 0,
-    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_03.png",
-    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_03.png",
-    "content_size": 202,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_02.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_02.png",
+    "content_size": 7837,
     "scene_no": 1,
-    "media_name": "img_03.png",
+    "media_name": "img_02.png",
     "option_line": {
       "editor_option_line_color": "0,0,0",
       "editor_option_line_opacity": 1,
@@ -390,8 +390,8 @@
     "id": 9,
     "display_order": 10,
     "content_type": "IMAGE",
-    "top": 792,
-    "left": 1067,
+    "top": 780,
+    "left": 105,
     "width": 750,
     "height": 4,
     "angle": 0,
@@ -432,9 +432,95 @@
   {
     "id": 10,
     "display_order": 11,
+    "content_type": "IMAGE",
+    "top": 780,
+    "left": 105,
+    "width": 750,
+    "height": 4,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_03.png",
+    "content_size": 202,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 11,
+    "display_order": 12,
+    "content_type": "IMAGE",
+    "top": 780,
+    "left": 1067,
+    "width": 750,
+    "height": 4,
+    "angle": 0,
+    "thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_03.png",
+    "media_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_03.png",
+    "content_size": 202,
+    "scene_no": 1,
+    "media_name": "img_03.png",
+    "option_line": {
+      "editor_option_line_color": "0,0,0",
+      "editor_option_line_opacity": 1,
+      "editor_option_line_style": "none",
+      "editor_option_line_border": 1,
+      "editor_option_line_radius": 0,
+      "editor_option_line_radius_tl": 0,
+      "editor_option_line_radius_tr": 0,
+      "editor_option_line_radius_bl": 0,
+      "editor_option_line_radius_br": 0
+    },
+    "option_shadow": {
+      "editor_option_shadow_show": false,
+      "editor_option_shadow_color": "0,0,0",
+      "editor_option_shadow_blur": 10,
+      "editor_option_shadow_angle": 10,
+      "editor_option_shadow_distance": 10,
+      "editor_option_shadow_size": 10,
+      "editor_option_shadow_opacity": 1
+    },
+    "option_crop": {
+      "editor_option_crop_iscut": false,
+      "editor_option_crop_height": 0,
+      "editor_option_crop_width": 0,
+      "editor_option_crop_positionx": 0,
+      "editor_option_crop_positiony": 0
+    },
+    "is_crop": false
+  },
+  {
+    "id": 12,
+    "display_order": 13,
     "content_type": "TEXT",
     "top": 80,
-    "left": 759,
+    "left": 709,
     "width": 436,
     "height": 73,
     "angle": 0,
@@ -482,11 +568,11 @@
     }
   },
   {
-    "id": 11,
-    "display_order": 12,
+    "id": 13,
+    "display_order": 14,
     "content_type": "TEXT",
     "top": 70,
-    "left": 1639,
+    "left": 1614,
     "width": 202,
     "height": 29,
     "angle": 0,
@@ -534,11 +620,11 @@
     }
   },
   {
-    "id": 12,
-    "display_order": 13,
+    "id": 14,
+    "display_order": 15,
     "content_type": "TEXT",
     "top": 776,
-    "left": 916,
+    "left": 891,
     "width": 90,
     "height": 30,
     "angle": 0,
@@ -586,12 +672,12 @@
     }
   },
   {
-    "id": 13,
-    "display_order": 14,
+    "id": 15,
+    "display_order": 16,
     "content_type": "T_MENU",
     "width": 402,
     "height": 563,
-    "top": 187,
+    "top": 170,
     "left": 109,
     "angle": 0,
     "scene_no": 1,
@@ -618,7 +704,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_04.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -626,7 +713,7 @@
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -686,8 +773,8 @@
         "style_sub": false,
         "alignment": "center"
       },
-      "custom": {
-        "price_type": "above",
+     "custom": {
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
@@ -719,16 +806,15 @@
         ]
       },
       "type": "block-a"
-    },
-    "name": ""
+    }
   },
   {
-    "id": 14,
-    "display_order": 15,
+    "id": 16,
+    "display_order": 17,
     "content_type": "T_MENU",
     "width": 402,
     "height": 563,
-    "top": 187,
+    "top": 170,
     "left": 543,
     "angle": 0,
     "scene_no": 1,
@@ -755,7 +841,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_05.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -763,7 +850,7 @@
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -824,7 +911,7 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
@@ -856,16 +943,15 @@
         ]
       },
       "type": "block-a"
-    },
-    "name": ""
+    }
   },
   {
-    "id": 15,
-    "display_order": 16,
+    "id": 17,
+    "display_order": 18,
     "content_type": "T_MENU",
     "width": 402,
     "height": 563,
-    "top": 187,
+    "top": 170,
     "left": 977,
     "angle": 0,
     "scene_no": 1,
@@ -892,7 +978,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -900,7 +987,7 @@
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -961,7 +1048,7 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
@@ -993,16 +1080,15 @@
         ]
       },
       "type": "block-a"
-    },
-    "name": ""
+    }
   },
   {
-    "id": 16,
-    "display_order": 17,
+    "id": 18,
+    "display_order": 19,
     "content_type": "T_MENU",
     "width": 402,
     "height": 563,
-    "top": 187,
+    "top": 170,
     "left": 1411,
     "angle": 0,
     "scene_no": 1,
@@ -1029,7 +1115,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_83_landscape/img_07.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -1037,7 +1124,7 @@
         "font_size": 26,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "center"
@@ -1098,7 +1185,7 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
@@ -1130,12 +1217,11 @@
         ]
       },
       "type": "block-a"
-    },
-    "name": ""
+    }
   },
   {
-    "id": 17,
-    "display_order": 18,
+    "id": 19,
+    "display_order": 20,
     "content_type": "T_MENU",
     "width": 766,
     "height": 200,
@@ -1178,7 +1264,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -1186,7 +1273,7 @@
         "font_size": 20,
         "color": "rgba(55, 55, 55, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -1247,44 +1334,43 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 0,
+        "horizontal_scale": 93,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
   {
-    "id": 18,
-    "display_order": 19,
+    "id": 20,
+    "display_order": 21,
     "content_type": "T_MENU",
     "width": 766,
     "height": 200,
@@ -1327,7 +1413,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -1335,7 +1422,7 @@
         "font_size": 20,
         "color": "rgba(55, 55, 55, 1)",
         "style_bold": true,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -1396,38 +1483,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 0,
+        "horizontal_scale":93,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }
