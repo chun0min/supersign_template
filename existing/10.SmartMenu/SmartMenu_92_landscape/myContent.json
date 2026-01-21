@@ -171,6 +171,21 @@
               "item_type": "image",
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_04.png"
             }
+          },
+          {
+            "menu_name": "FOOD NAME",
+            "description": "Briefly describe the ingredient \nand its characteristics.",
+            "price": ["9.40"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, \nsoybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_05.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_05.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_05.png"
+            }
           }
         ]
       },
@@ -244,9 +259,9 @@
         "price_type": "above",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 80,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
@@ -272,7 +287,8 @@
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "5"
     },
     "name": ""
   },
@@ -303,21 +319,6 @@
             "ordr": 1,
             "enable": true,
             "image": {
-              "item_name": "img_05.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_05.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_05.png"
-            }
-          },
-          {
-            "menu_name": "FOOD NAME",
-            "description": "Briefly describe the ingredient \nand its characteristics.",
-            "price": ["9.40"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, \nsoybeans, sesame",
-            "ordr": 2,
-            "enable": true,
-            "image": {
               "item_name": "img_06.png",
               "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_06.png",
               "item_type": "image",
@@ -330,7 +331,7 @@
             "price": ["9.40"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, \nsoybeans, sesame",
-            "ordr": 3,
+            "ordr": 2,
             "enable": true,
             "image": {
               "item_name": "img_07.png",
@@ -345,13 +346,43 @@
             "price": ["9.40"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, \nsoybeans, sesame",
-            "ordr": 4,
+            "ordr": 3,
             "enable": true,
             "image": {
               "item_name": "img_08.png",
               "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_08.png",
               "item_type": "image",
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_08.png"
+            }
+          },
+          {
+            "menu_name": "FOOD NAME",
+            "description": "Briefly describe the ingredient \nand its characteristics.",
+            "price": ["9.40"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, \nsoybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_09.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_09.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_09.png"
+            }
+          },
+          {
+            "menu_name": "FOOD NAME",
+            "description": "Briefly describe the ingredient \nand its characteristics.",
+            "price": ["9.40"],
+            "calory": ["99"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, \nsoybeans, sesame",
+            "ordr": 4,
+            "enable": true,
+            "image": {
+              "item_name": "img_10.png",
+              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_10.png",
+              "item_type": "image",
+              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_92_landscape/img_10.png"
             }
           }
         ]
@@ -426,9 +457,9 @@
         "price_type": "above",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 80,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 60,
         "reverse": false,
         "section": [
           {
@@ -454,7 +485,8 @@
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "5"
     },
     "name": ""
   }
