@@ -532,7 +532,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_128_landscape/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -602,11 +603,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 79,
         "reverse": false,
         "section": [
           {
@@ -640,10 +641,10 @@
     "id": 12,
     "display_order": 13,
     "content_type": "T_MENU",
-    "width": 1013,
+    "width": 963,
     "height": 365,
     "top": 223,
-    "left": 825,
+    "left": 850,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -699,7 +700,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_128_landscape/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -769,11 +771,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 63,
         "reverse": false,
         "section": [
           {
@@ -807,10 +809,10 @@
     "id": 13,
     "display_order": 14,
     "content_type": "T_MENU",
-    "width": 1013,
+    "width": 963,
     "height": 365,
     "top": 608,
-    "left": 825,
+    "left": 850,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
@@ -866,7 +868,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_128_landscape/img_09.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -936,11 +939,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 63,
         "reverse": false,
         "section": [
           {

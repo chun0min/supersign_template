@@ -348,7 +348,7 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 50,
-    "left": 715,
+    "left": 690,
     "width": 489,
     "height": 97,
     "angle": 0,
@@ -400,7 +400,7 @@
     "display_order": 10,
     "content_type": "TEXT",
     "top": 30,
-    "left": 1721,
+    "left": 1700,
     "width": 169,
     "height": 32,
     "angle": 0,
@@ -453,7 +453,7 @@
     "content_type": "TEXT",
     "top": 766,
     "left": 140,
-    "width": 512,
+    "width": 460,
     "height": 29,
     "angle": 0,
     "content_size": 9,
@@ -505,7 +505,7 @@
     "content_type": "TEXT",
     "top": 766,
     "left": 704,
-    "width": 512,
+    "width": 460,
     "height": 29,
     "angle": 0,
     "content_size": 9,
@@ -557,7 +557,7 @@
     "content_type": "TEXT",
     "top": 766,
     "left": 1268,
-    "width": 512,
+    "width": 460,
     "height": 29,
     "angle": 0,
     "content_size": 9,
@@ -608,7 +608,7 @@
     "display_order": 14,
     "content_type": "T_MENU",
     "width": 340,
-    "height": 447,
+    "height": 480,
     "top": 206,
     "left": 145,
     "angle": 0,
@@ -636,7 +636,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_127_landscape/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Inter",
@@ -650,8 +651,8 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -661,8 +662,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -710,7 +711,7 @@
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
@@ -745,7 +746,7 @@
     "display_order": 15,
     "content_type": "T_MENU",
     "width": 340,
-    "height": 447,
+    "height": 480,
     "top": 206,
     "left": 575,
     "angle": 0,
@@ -773,7 +774,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_127_landscape/img_04.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Inter",
@@ -787,8 +789,8 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -798,8 +800,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -847,7 +849,7 @@
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
@@ -882,7 +884,7 @@
     "display_order": 16,
     "content_type": "T_MENU",
     "width": 340,
-    "height": 447,
+    "height": 480,
     "top": 206,
     "left": 1005,
     "angle": 0,
@@ -910,7 +912,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_127_landscape/img_05.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Inter",
@@ -924,8 +927,8 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -935,8 +938,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -984,7 +987,7 @@
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
@@ -1019,7 +1022,7 @@
     "display_order": 17,
     "content_type": "T_MENU",
     "width": 340,
-    "height": 447,
+    "height": 480,
     "top": 206,
     "left": 1435,
     "angle": 0,
@@ -1047,7 +1050,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_127_landscape/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Inter",
@@ -1061,8 +1065,8 @@
         "alignment": "center"
       },
       "priceType": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -1072,8 +1076,8 @@
         "alignment": "center"
       },
       "price": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Cafe24 Classictype",
+        "font_file": "Cafe24Classictype.ttf",
         "font_size": 30,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -1121,7 +1125,7 @@
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
@@ -1162,7 +1166,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_127_landscape",
+    "widget_class": "r5_menu_127_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1187,7 +1191,8 @@
             "ordr": 2,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Inter",
@@ -1256,38 +1261,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 75,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
@@ -1302,7 +1306,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_127_landscape",
+    "widget_class": "r5_menu_127_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1327,7 +1331,8 @@
             "ordr": 2,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Inter",
@@ -1396,38 +1401,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 75,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
@@ -1442,7 +1446,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_127_landscape",
+    "widget_class": "r5_menu_127_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1467,7 +1471,8 @@
             "ordr": 2,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Inter",
@@ -1536,38 +1541,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 75,
+        "vertical_scale": 65,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }

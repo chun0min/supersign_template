@@ -47,7 +47,7 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 19,
-    "left": 460,
+    "left": 435,
     "width": 1000,
     "height": 113,
     "angle": 0,
@@ -99,7 +99,7 @@
     "display_order": 3,
     "content_type": "TEXT",
     "top": 108,
-    "left": 1695,
+    "left": 1670,
     "width": 185,
     "height": 24,
     "angle": 0,
@@ -165,7 +165,7 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "FOOD NAME HERE",
+            "menu_name": "FOOD MENU NAME",
             "description": "Describe ingredients & traits Describe ingredients & traits Describe ingredients.",
             "price": ["24"],
             "calory": ["99"],
@@ -179,7 +179,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_130_landscape/img_01.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -248,38 +249,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 0,
+        "horizontal_scale": 48,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -302,8 +304,8 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Describe ingredients & traits Describe ingredients & traits Describe ingredients.",
+            "menu_name": "FOOD MENU NAME",
+            "description": "Describe ingredients & traits Describe ingredients",
             "price": ["24"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame, sesame",
@@ -316,7 +318,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_130_landscape/img_02.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -385,38 +388,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
+        "item_spacing": 0,
+        "horizontal_scale": 48,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -439,8 +443,8 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Describe ingredients & traits Describe ingredients & traits Describe ingredients.",
+            "menu_name": "FOOD MENU NAME",
+            "description": "Describe ingredients & traits Describe ingredients ",
             "price": ["24"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame, sesame",
@@ -453,7 +457,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_130_landscape/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -522,38 +527,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
+        "item_spacing": 0,
+        "horizontal_scale": 51,
+        "vertical_scale": 75,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -562,7 +568,7 @@
     "display_order": 7,
     "content_type": "T_MENU",
     "width": 342,
-    "height": 434,
+    "height": 435,
     "top": 606,
     "left": 758,
     "angle": 0,
@@ -576,8 +582,8 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Describe ingredients & traits Describe ingredients & traits Describe ingredients.",
+            "menu_name": "FOOD MENU NAME",
+            "description": "Describe ingredients & traits Describe ingredients traits ",
             "price": ["24"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame, sesame",
@@ -590,7 +596,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_130_landscape/img_04.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -659,12 +666,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
+        "item_spacing": 0,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 45,
         "reverse": false,
         "section": [
           {
@@ -676,21 +683,21 @@
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
-              "price"
+              "price",
+              "image"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-b"
     },
     "name": ""
   },
@@ -705,7 +712,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_130_landscape",
+    "widget_class": "r5_menu_130_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -713,9 +720,9 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Describe ingredients & traits Describe ingredients & traits Describe ingredients.",
-            "price": ["24"],
+            "menu_name": "FOOD MENU NAME",
+            "description": "Describe ingredients & traits Describe ingredients ",
+            "price": ["18"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame, sesame",
             "ordr": 1,
@@ -727,7 +734,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_130_landscape/img_05.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -796,38 +804,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 0,
+        "horizontal_scale": 33,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -842,7 +851,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_130_landscape",
+    "widget_class": "r5_menu_130_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -850,9 +859,9 @@
         "price_type_text": [""],
         "menu_list": [
           {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Describe ingredients & traits Describe ingredients & traits Describe ingredients.",
-            "price": ["24"],
+            "menu_name": "FOOD MENU NAME",
+            "description": "Describe ingredients & traits Describe ingredients ",
+            "price": ["18"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame, sesame",
             "ordr": 1,
@@ -864,7 +873,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_130_landscape/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -933,38 +943,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
+        "item_spacing": 0,
+        "horizontal_scale": 33,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   }
