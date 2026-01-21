@@ -434,9 +434,9 @@
     "display_order": 11,
     "content_type": "TEXT",
     "top": 70,
-    "left": 393,
-    "width": 1135,
-    "height": 97,
+    "left": 320,
+    "width": 1300,
+    "height": 104,
     "angle": 0,
     "content_size": 23,
     "text_value": "WESTERN FOOD RESTAURANT",
@@ -505,7 +505,7 @@
       "editor_option_text_font_opacity": 1,
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
-      "editor_option_text_align": "center",
+      "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
       "editor_option_text_font_file": "AlmendraSC-Regular.ttf"
@@ -574,7 +574,7 @@
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -635,38 +635,39 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
+        "item_spacing": 75,
+        "horizontal_scale": 45,
+        "vertical_scale": 66,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -711,7 +712,7 @@
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -772,41 +773,44 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
-        "reverse": false,
+        "item_spacing": 75,
+        "horizontal_scale": 45,
+        "vertical_scale": 66,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
+
+
   {
     "id": 14,
     "display_order": 15,
@@ -818,7 +822,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_85_landscape",
+    "widget_class": "r5_menu_85_landscape-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -848,7 +852,7 @@
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "right"
@@ -909,38 +913,39 @@
         "alignment": "right"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 45,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -955,7 +960,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_85_landscape",
+    "widget_class": "r5_menu_85_landscape-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -985,7 +990,7 @@
         "font_size": 38,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "right"
@@ -1046,38 +1051,39 @@
         "alignment": "right"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 45,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a"
     },
     "name": ""
   },
@@ -1087,12 +1093,12 @@
     "content_type": "T_MENU",
     "width": 1738,
     "height": 180,
-    "top": 849,
+    "top": 860,
     "left": 57,
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_85_landscape",
+    "widget_class": "r5_menu_85_landscape-3",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -1167,7 +1173,7 @@
         "font_size": 24,
         "color": "rgba(54, 29, 11, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "right"
@@ -1228,38 +1234,40 @@
         "alignment": "right"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 54,
+        "horizontal_scale": 30,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a",
+      "column": "4"
     },
     "name": ""
   }
