@@ -339,7 +339,7 @@
       },
       "allergies": {
         "font_name": "Onest",
-        "font_file": "Onest.otf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 10.7,
         "color": "rgba(201, 87, 73, 1)",
         "style_bold": false,
