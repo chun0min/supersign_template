@@ -47,7 +47,7 @@
     "display_order": 2,
     "content_type": "TEXT",
     "top": 102,
-    "left": 118,
+    "left": 93,
     "width": 348,
     "height": 186,
     "angle": 0,
@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "FingerPaint-Regular.ttf"
+      "editor_option_text_font_file": "Finger Paint.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -121,7 +121,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.3",
       "editor_option_text_spacing": "0.24",
-      "editor_option_text_font_file": "FingerPaint-Regular.ttf"
+      "editor_option_text_font_file": "Finger Paint.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -183,7 +183,7 @@
       },
       "name": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 30,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -194,7 +194,7 @@
       },
       "priceType": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 46,
         "color": "rgba(124, 1, 1, 1)",
         "style_bold": false,
@@ -205,7 +205,7 @@
       },
       "price": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 46,
         "color": "rgba(124, 1, 1, 1)",
         "style_bold": false,
@@ -241,7 +241,7 @@
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0, 0, 0, 1)",
-        "style_bold": true,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -335,7 +335,7 @@
       },
       "name": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 22,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -346,7 +346,7 @@
       },
       "priceType": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 36,
         "color": "rgba(124, 1, 1, 1)",
         "style_bold": false,
@@ -357,7 +357,7 @@
       },
       "price": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 36,
         "color": "rgba(124, 1, 1, 1)",
         "style_bold": false,
@@ -393,7 +393,7 @@
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0, 0, 0, 1)",
-        "style_bold": true,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -401,11 +401,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 64,
         "reverse": false,
         "section": [
           {
@@ -487,7 +487,7 @@
       },
       "name": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 22,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -498,7 +498,7 @@
       },
       "priceType": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 36,
         "color": "rgba(124, 1, 1, 1)",
         "style_bold": false,
@@ -509,7 +509,7 @@
       },
       "price": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 36,
         "color": "rgba(124, 1, 1, 1)",
         "style_bold": false,
@@ -545,7 +545,7 @@
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0, 0, 0, 1)",
-        "style_bold": true,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -553,11 +553,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 64,
         "reverse": false,
         "section": [
           {
@@ -639,7 +639,7 @@
       },
       "name": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 22,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -650,7 +650,7 @@
       },
       "priceType": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 36,
         "color": "rgba(124, 1, 1, 1)",
         "style_bold": false,
@@ -661,7 +661,7 @@
       },
       "price": {
         "font_name": "Finger Paint",
-        "font_file": "FingerPaint-Regular.ttf",
+        "font_file": "Finger Paint.ttf",
         "font_size": 36,
         "color": "rgba(124, 1, 1, 1)",
         "style_bold": false,
@@ -697,7 +697,7 @@
         "font_file": "Inter-Regular.ttf",
         "font_size": 16,
         "color": "rgba(0, 0, 0, 1)",
-        "style_bold": true,
+        "style_bold": false,
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
@@ -705,11 +705,11 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 64,
         "reverse": false,
         "section": [
           {
