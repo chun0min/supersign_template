@@ -262,7 +262,7 @@
     "display_order": 7,
     "content_type": "IMAGE",
     "top": 740,
-    "left": 832,
+    "left": 814,
     "width": 50,
     "height": 3,
     "angle": 0,
@@ -348,7 +348,7 @@
     "display_order": 9,
     "content_type": "TEXT",
     "top": 76,
-    "left": 605,
+    "left": 580,
     "width": 674,
     "height": 119,
     "angle": 0,
@@ -562,7 +562,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_95_landscape",
+    "widget_class": "r5_menu_95_landscape-1",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -629,7 +629,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_95_landscape/img_08.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -698,12 +699,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 80,
         "reverse": false,
         "section": [
           {
@@ -729,7 +730,8 @@
           }
         ]
       },
-      "type": "block-a"
+      "type": "block-a",
+      "column": "4"
     },
     "name": ""
   },
@@ -744,7 +746,7 @@
     "angle": 0,
     "scene_no": 1,
     "option_menu_version": "v2",
-    "widget_class": "r5_menu_95_landscape",
+    "widget_class": "r5_menu_95_landscape-2",
     "option_menu": {
       "menu_item": {
         "price_unit": "us",
@@ -795,23 +797,9 @@
               "item_type": "image",
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_95_landscape/img_11.png"
             }
-          },
-          {
-            "menu_name": "FOOD NAME HERE",
-            "description": "Briefly describe the ingredient",
-            "price": ["12"],
-            "calory": ["99"],
-            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
-            "ordr": 4,
-            "enable": true,
-            "image": {
-              "item_name": "img_12.png",
-              "item_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_95_landscape/img_12.png",
-              "item_type": "image",
-              "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_95_landscape/img_12.png"
-            }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -880,38 +868,40 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
-        "calories": "below",
+        "price_type": "left",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "horizontal_scale": 50,
+        "vertical_scale": 70,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "image"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "name",
+              "description"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
             "list": [
-              "description",
               "price"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "gallery-a",
+      "column": "3"
     },
     "name": ""
   }
