@@ -454,9 +454,9 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "left",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "BlackOpsOne-Regular.ttf"
+      "editor_option_text_font_file": "Black Ops One.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -472,11 +472,11 @@
       "editor_option_text_box_radius_br": 0
     },
     "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_show": true,
+      "editor_option_shadow_color": "0, 0, 0",
       "editor_option_shadow_blur": 0,
-      "editor_option_shadow_angle": 6,
-      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_angle": 52,
+      "editor_option_shadow_distance": 9,
       "editor_option_shadow_size": 10,
       "editor_option_shadow_opacity": 1
     }
@@ -524,11 +524,11 @@
       "editor_option_text_box_radius_br": 0
     },
     "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_show": true,
+      "editor_option_shadow_color": "0, 0, 0",
       "editor_option_shadow_blur": 0,
-      "editor_option_shadow_angle": 6,
-      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_angle": 40,
+      "editor_option_shadow_distance": 5,
       "editor_option_shadow_size": 10,
       "editor_option_shadow_opacity": 1
     }
@@ -576,11 +576,11 @@
       "editor_option_text_box_radius_br": 0
     },
     "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_show": true,
+      "editor_option_shadow_color": "0, 0, 0",
       "editor_option_shadow_blur": 0,
-      "editor_option_shadow_angle": 6,
-      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_angle": 49,
+      "editor_option_shadow_distance": 8,
       "editor_option_shadow_size": 10,
       "editor_option_shadow_opacity": 1
     }
@@ -628,11 +628,11 @@
       "editor_option_text_box_radius_br": 0
     },
     "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_show": true,
+      "editor_option_shadow_color": "0, 0, 0",
       "editor_option_shadow_blur": 0,
-      "editor_option_shadow_angle": 6,
-      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_angle": 46,
+      "editor_option_shadow_distance": 5,
       "editor_option_shadow_size": 10,
       "editor_option_shadow_opacity": 1
     }
@@ -680,11 +680,11 @@
       "editor_option_text_box_radius_br": 0
     },
     "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_show": true,
+      "editor_option_shadow_color": "0, 0, 0",
       "editor_option_shadow_blur": 0,
-      "editor_option_shadow_angle": 6,
-      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_angle": 46,
+      "editor_option_shadow_distance": 5,
       "editor_option_shadow_size": 10,
       "editor_option_shadow_opacity": 1
     }
@@ -732,11 +732,11 @@
       "editor_option_text_box_radius_br": 0
     },
     "option_shadow": {
-      "editor_option_shadow_show": false,
-      "editor_option_shadow_color": "182, 182, 182",
+      "editor_option_shadow_show": true,
+      "editor_option_shadow_color": "0, 0, 0",
       "editor_option_shadow_blur": 0,
-      "editor_option_shadow_angle": 6,
-      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_angle": 46,
+      "editor_option_shadow_distance": 5,
       "editor_option_shadow_size": 10,
       "editor_option_shadow_opacity": 1
     }
@@ -774,11 +774,12 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_98_landscape/img_08.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "RammettoOne-Regular.ttf",
+        "font_file": "Rammetto One.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -843,12 +844,12 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 67,
         "reverse": false,
         "section": [
           {
@@ -911,11 +912,12 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_98_landscape/img_09.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "RammettoOne-Regular.ttf",
+        "font_file": "Rammetto One.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -980,12 +982,12 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 67,
         "reverse": false,
         "section": [
           {
@@ -1048,11 +1050,12 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_98_landscape/img_10.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "RammettoOne-Regular.ttf",
+        "font_file": "Rammetto One.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -1117,12 +1120,12 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 67,
         "reverse": false,
         "section": [
           {
@@ -1185,11 +1188,12 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_98_landscape/img_11.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "RammettoOne-Regular.ttf",
+        "font_file": "Rammetto One.otf",
         "font_size": 20,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -1254,12 +1258,12 @@
         "alignment": "center"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 67,
         "reverse": false,
         "section": [
           {
@@ -1274,7 +1278,7 @@
               "image",
               "name"
             ]
-          },
+          }, 
           {
             "id": "purple",
             "direction": "horizontal",
@@ -1335,10 +1339,11 @@
             "enable": true
           }
         ]
+        ,"unit_placement": "after"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "RammettoOne-Regular.ttf",
+        "font_file": "Rammetto One.otf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -1403,38 +1408,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 0,
+        "horizontal_scale": 86,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
@@ -1483,11 +1487,12 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "after"
       },
       "name": {
         "font_name": "Rammetto One",
-        "font_file": "RammettoOne-Regular.ttf",
+        "font_file": "Rammetto One.otf",
         "font_size": 18,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
@@ -1552,38 +1557,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 0,
+        "horizontal_scale": 86,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }

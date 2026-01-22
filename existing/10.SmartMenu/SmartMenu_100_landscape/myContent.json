@@ -434,7 +434,7 @@
     "display_order": 11,
     "content_type": "TEXT",
     "top": 55,
-    "left": 731,
+    "left": 706,
     "width": 460,
     "height": 80,
     "angle": 0,
@@ -454,7 +454,7 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "0",
       "editor_option_text_font_file": "Mina-Regular.ttf"
     },
@@ -486,7 +486,7 @@
     "display_order": 12,
     "content_type": "TEXT",
     "top": 123,
-    "left": 831,
+    "left": 806,
     "width": 260,
     "height": 26,
     "angle": 0,
@@ -508,7 +508,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Rakkas-Regular.ttf"
+      "editor_option_text_font_file": "Rakkas.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -538,7 +538,7 @@
     "display_order": 13,
     "content_type": "TEXT",
     "top": 252,
-    "left": 234,
+    "left": 209,
     "width": 260,
     "height": 26,
     "angle": 0,
@@ -560,7 +560,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Rakkas-Regular.ttf"
+      "editor_option_text_font_file": "Rakkas.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -590,7 +590,7 @@
     "display_order": 14,
     "content_type": "TEXT",
     "top": 252,
-    "left": 1437,
+    "left": 1413,
     "width": 260,
     "height": 26,
     "angle": 0,
@@ -612,7 +612,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Rakkas-Regular.ttf"
+      "editor_option_text_font_file": "Rakkas.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -642,7 +642,7 @@
     "display_order": 15,
     "content_type": "TEXT",
     "top": 622,
-    "left": 592,
+    "left": 567,
     "width": 260,
     "height": 26,
     "angle": 0,
@@ -664,7 +664,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Rakkas-Regular.ttf"
+      "editor_option_text_font_file": "Rakkas.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -694,7 +694,7 @@
     "display_order": 16,
     "content_type": "TEXT",
     "top": 622,
-    "left": 1068,
+    "left": 1043,
     "width": 260,
     "height": 26,
     "angle": 0,
@@ -716,7 +716,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Rakkas-Regular.ttf"
+      "editor_option_text_font_file": "Rakkas.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -855,38 +855,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 0,
+        "horizontal_scale": 86,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
@@ -1004,38 +1003,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 0,
+        "horizontal_scale": 86,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
@@ -1153,38 +1151,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 0,
+        "horizontal_scale": 86,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
@@ -1302,38 +1299,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 0,
+        "horizontal_scale": 86,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }
