@@ -304,7 +304,7 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 30,
+        "horizontal_scale": 37,
         "vertical_scale": 55,
         "reverse": false,
         "section": [
@@ -442,7 +442,7 @@
         "calories": "right",
         "scale": 1.18,
         "item_spacing": 10,
-        "horizontal_scale": 30,
+        "horizontal_scale": 32,
         "vertical_scale": 55,
         "reverse": false,
         "section": [
@@ -518,7 +518,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "priceType": {
         "font_name": "Pretendard",
@@ -529,7 +529,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "price": {
         "font_name": "Pretendard",
@@ -540,7 +540,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Inter",
@@ -551,7 +551,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -562,7 +562,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "description": {
         "font_name": "Inter",
@@ -573,16 +573,16 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "custom": {
         "price_type": "left",
         "calories": "right",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 30,
-        "vertical_scale": 55,
-        "reverse": false,
+        "horizontal_scale": 37,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
@@ -608,7 +608,7 @@
           }
         ]
       },
-      "type": "gallery-a"
+      "type": "gallery-b"
     },
     "name": ""
   },
@@ -718,7 +718,7 @@
         "calories": "right",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 30,
+        "horizontal_scale": 37,
         "vertical_scale": 55,
         "reverse": false,
         "section": [
@@ -856,7 +856,7 @@
         "calories": "right",
         "scale": 1.18,
         "item_spacing": 10,
-        "horizontal_scale": 30,
+        "horizontal_scale": 37,
         "vertical_scale": 55,
         "reverse": false,
         "section": [
@@ -932,7 +932,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "priceType": {
         "font_name": "Pretendard",
@@ -943,7 +943,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "price": {
         "font_name": "Pretendard",
@@ -954,7 +954,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "calories": {
         "font_name": "Inter",
@@ -965,7 +965,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "center"
+        "alignment": "right"
       },
       "allergies": {
         "font_name": "Inter",
@@ -976,7 +976,7 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "description": {
         "font_name": "Inter",
@@ -987,16 +987,16 @@
         "style_italic": false,
         "style_line": false,
         "style_sub": false,
-        "alignment": "left"
+        "alignment": "right"
       },
       "custom": {
         "price_type": "left",
         "calories": "right",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 30,
-        "vertical_scale": 55,
-        "reverse": false,
+        "horizontal_scale": 37,
+        "vertical_scale": 70,
+        "reverse": true,
         "section": [
           {
             "id": "blue",
@@ -1022,7 +1022,7 @@
           }
         ]
       },
-      "type": "gallery-a"
+      "type": "gallery-b"
     },
     "name": ""
   }
