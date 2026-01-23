@@ -69,7 +69,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
+      "editor_option_text_font_file": "Bebas Neue.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -121,7 +121,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "BebasNeue-Regular.ttf"
+      "editor_option_text_font_file": "Bebas Neue.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -167,7 +167,7 @@
           {
             "menu_name": "CAFFE LATTE",
             "description": "Smooth matcha blended with milk and topped with soft cream",
-            "price": ["9.40"],
+            "price": ["6.8"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
@@ -183,7 +183,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(96, 50, 17, 1)",
         "style_bold": false,
@@ -205,7 +205,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(96, 50, 17, 1)",
         "style_bold": false,
@@ -305,7 +305,7 @@
           {
             "menu_name": "MATCHA CREAM LATTE",
             "description": "Smooth matcha blended with milk and topped with soft cream",
-            "price": ["9.40"],
+            "price": ["6.8"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
@@ -321,7 +321,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(86, 124, 5, 1)",
         "style_bold": false,
@@ -343,7 +343,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(86, 124, 5, 1)",
         "style_bold": false,
@@ -443,7 +443,7 @@
           {
             "menu_name": "GRAPEFRUIT ICE TEA",
             "description": "Smooth matcha blended with milk and topped with soft cream",
-            "price": ["9.40"],
+            "price": ["6.8"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
@@ -459,7 +459,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(227, 65, 0, 1)",
         "style_bold": false,
@@ -481,7 +481,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(227, 65, 0, 1)",
         "style_bold": false,
@@ -581,7 +581,7 @@
           {
             "menu_name": "LATTE ICE CREAM",
             "description": "Smooth matcha blended with milk and topped with soft cream",
-            "price": ["9.40"],
+            "price": ["6.8"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
@@ -597,7 +597,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(96, 50, 17, 1)",
         "style_bold": false,
@@ -619,7 +619,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(96, 50, 17, 1)",
         "style_bold": false,
@@ -719,7 +719,7 @@
           {
             "menu_name": "LATTE ICE CREAM",
             "description": "Smooth matcha blended with milk and topped with soft cream",
-            "price": ["9.40"],
+            "price": ["6.8"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
@@ -735,7 +735,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(86, 124, 5, 1)",
         "style_bold": false,
@@ -757,7 +757,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(86, 124, 5, 1)",
         "style_bold": false,
@@ -857,7 +857,7 @@
           {
             "menu_name": "GRAPEFRUIT ICE CREAM",
             "description": "Smooth matcha blended with milk and topped with soft cream",
-            "price": ["9.40"],
+            "price": ["6.8"],
             "calory": ["99"],
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame",
             "ordr": 1,
@@ -873,7 +873,7 @@
       },
       "name": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(227, 65, 0, 1)",
         "style_bold": false,
@@ -895,7 +895,7 @@
       },
       "price": {
         "font_name": "Bebas Neue",
-        "font_file": "BebasNeue-Regular.ttf",
+        "font_file": "Bebas Neue.ttf",
         "font_size": 33.5,
         "color": "rgba(227, 65, 0, 1)",
         "style_bold": false,

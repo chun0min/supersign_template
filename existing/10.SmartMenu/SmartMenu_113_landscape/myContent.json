@@ -426,7 +426,7 @@
       },
       "price": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-regular.ttf",
         "font_size": 24,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -437,7 +437,7 @@
       },
       "calories": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-regular.ttf",
         "font_size": 12,
         "color": "rgba(132, 132, 132, 1)",
         "style_bold": false,
@@ -674,7 +674,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_113_landscape/img_03.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -868,7 +869,7 @@
       },
       "price": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-regular.ttf",
         "font_size": 24,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": true,
@@ -879,7 +880,7 @@
       },
       "calories": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_file": "Pretendard-regular.ttf",
         "font_size": 12,
         "color": "rgba(132, 132, 132, 1)",
         "style_bold": false,

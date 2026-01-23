@@ -366,7 +366,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard",
+      "editor_option_text_font_name": "Pretendard-regular",
       "editor_option_text_font_size": "20.8",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -379,7 +379,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "Pretendard-Regular.otf"
+      "editor_option_text_font_file": "Pretendard-regular.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -784,7 +784,8 @@
               "item_thumbnail_url": ""
             }
           }
-        ]
+        ],
+        "unit_placement" : "before"
       },
       "name": {
         "font_name": "Charter",
@@ -820,8 +821,8 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-regular",
+        "font_file": "Pretendard-regular.ttf",
         "font_size": 12,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -1003,8 +1004,8 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard",
-        "font_file": "Pretendard-Regular.otf",
+        "font_name": "Pretendard-regular",
+        "font_file": "Pretendard-regular.ttf",
         "font_size": 12,
         "color": "rgba(255, 255, 255, 1)",
         "style_bold": false,
@@ -1070,5 +1071,4 @@
     },
     "name": ""
   }
-
 ]
