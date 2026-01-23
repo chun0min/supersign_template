@@ -203,7 +203,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond",
+      "editor_option_text_font_name": "Plantagenet Cherokee",
       "editor_option_text_font_size": "43.7",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -216,7 +216,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "1.366",
-      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
+      "editor_option_text_font_file": "Plantagenet Cherokee.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -255,7 +255,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "EBGaramond",
+      "editor_option_text_font_name": "Plantagenet Cherokee",
       "editor_option_text_font_size": "43.7",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -268,7 +268,7 @@
       "editor_option_text_align": "left",
       "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "1.366",
-      "editor_option_text_font_file": "EBGaramond-Regular.ttf"
+      "editor_option_text_font_file": "Plantagenet Cherokee.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -356,10 +356,11 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_09.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
@@ -370,7 +371,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -381,7 +382,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -414,7 +415,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
+        "font_name": "SpoqaHanSansNeo-Regular",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -425,12 +426,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 15,
         "reverse": false,
         "section": [
           {
@@ -440,10 +441,10 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
+            "direction": "vertical",
             "list": [
-              "image",
-              "name"
+              "name",
+              "price"
             ]
           },
           {
@@ -451,12 +452,12 @@
             "direction": "horizontal",
             "list": [
               "description",
-              "price"
+              "image"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "balance"
     },
     "name": ""
   },
@@ -523,10 +524,11 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_10.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
@@ -537,7 +539,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -548,7 +550,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -581,7 +583,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
+        "font_name": "SpoqaHanSansNeo-Regular",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -592,12 +594,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 15,
         "reverse": false,
         "section": [
           {
@@ -607,10 +609,10 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
+            "direction": "vertical",
             "list": [
-              "image",
-              "name"
+              "name",
+              "price"
             ]
           },
           {
@@ -618,12 +620,12 @@
             "direction": "horizontal",
             "list": [
               "description",
-              "price"
+              "image"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "balance"
     },
     "name": ""
   },
@@ -690,10 +692,11 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_11.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
@@ -704,7 +707,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -715,7 +718,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -748,7 +751,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
+        "font_name": "SpoqaHanSansNeo-Regular",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -759,12 +762,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 15,
         "reverse": false,
         "section": [
           {
@@ -774,10 +777,10 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
+            "direction": "vertical",
             "list": [
-              "image",
-              "name"
+              "name",
+              "price"
             ]
           },
           {
@@ -785,12 +788,12 @@
             "direction": "horizontal",
             "list": [
               "description",
-              "price"
+              "image"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "balance"
     },
     "name": ""
   },
@@ -799,7 +802,7 @@
     "display_order": 10,
     "content_type": "T_MENU",
     "width": 200,
-    "height": 929,
+    "height": 940,
     "top": 72,
     "left": 1187,
     "angle": 0,
@@ -857,10 +860,11 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_81_landscape/img_12.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
@@ -871,7 +875,7 @@
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -882,7 +886,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -915,7 +919,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
+        "font_name": "SpoqaHanSansNeo-Regular",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -926,12 +930,12 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
         "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "vertical_scale": 15,
         "reverse": false,
         "section": [
           {
@@ -941,10 +945,10 @@
           },
           {
             "id": "orange",
-            "direction": "horizontal",
+            "direction": "vertical",
             "list": [
-              "image",
-              "name"
+              "name",
+              "price"
             ]
           },
           {
@@ -952,12 +956,12 @@
             "direction": "horizontal",
             "list": [
               "description",
-              "price"
+              "image"
             ]
           }
         ]
       },
-      "type": "block-a"
+      "type": "balance"
     },
     "name": ""
   },
@@ -1005,22 +1009,32 @@
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
             "ordr": 3,
             "enable": true
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "ordr": 3,
+            "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -1031,7 +1045,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -1064,7 +1078,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
+        "font_name": "SpoqaHanSansNeo-Regular",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -1074,39 +1088,38 @@
         "style_sub": false,
         "alignment": "left"
       },
-      "custom": {
-        "price_type": "above",
+"custom": {
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 36,
+        "horizontal_scale": 88,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   },
@@ -1154,22 +1167,32 @@
             "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
             "ordr": 3,
             "enable": true
+          },
+          {
+            "menu_name": "AMERICANO",
+            "description": "bold black coffee",
+            "price": ["9.9"],
+            "calory": ["10"],
+            "allergy": "Milk, nuts, eggs, peanuts, fish, wheat, shellfish, soybeans, sesame.",
+            "ordr": 4,
+            "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
       },
       "priceType": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -1180,7 +1203,7 @@
         "alignment": "right"
       },
       "price": {
-        "font_name": "Cafe24 Ohsquare",
+        "font_name": "Cafe24Ohsquare",
         "font_file": "Cafe24Ohsquare-v2.ttf",
         "font_size": 15.5,
         "color": "rgba(175, 117, 97, 1)",
@@ -1213,7 +1236,7 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Spoqa Han Sans Neo",
+        "font_name": "SpoqaHanSansNeo-Regular",
         "font_file": "SpoqaHanSansNeo-Regular.ttf",
         "font_size": 15,
         "color": "rgba(76, 76, 76, 1)",
@@ -1224,38 +1247,37 @@
         "alignment": "left"
       },
       "custom": {
-        "price_type": "above",
+        "price_type": "left",
         "calories": "below",
         "scale": 1,
-        "item_spacing": 10,
-        "horizontal_scale": 0,
-        "vertical_scale": 74,
+        "item_spacing": 36,
+        "horizontal_scale": 88,
+        "vertical_scale": 100,
         "reverse": false,
         "section": [
           {
             "id": "blue",
             "direction": "horizontal",
-            "list": []
+            "list": [
+              "name",
+              "description"
+            ]
           },
           {
             "id": "orange",
             "direction": "horizontal",
             "list": [
-              "image",
-              "name"
+              "price"
             ]
           },
           {
             "id": "purple",
             "direction": "horizontal",
-            "list": [
-              "description",
-              "price"
-            ]
+            "list": []
           }
         ]
       },
-      "type": "block-a"
+      "type": "text-b"
     },
     "name": ""
   }
