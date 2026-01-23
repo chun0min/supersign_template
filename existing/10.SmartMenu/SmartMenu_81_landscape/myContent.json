@@ -365,7 +365,7 @@
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -533,7 +533,7 @@
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -701,7 +701,7 @@
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"
@@ -869,7 +869,7 @@
         "font_size": 15.5,
         "color": "rgba(0, 0, 0, 1)",
         "style_bold": false,
-        "style_italic": true,
+        "style_italic": false,
         "style_line": false,
         "style_sub": false,
         "alignment": "left"

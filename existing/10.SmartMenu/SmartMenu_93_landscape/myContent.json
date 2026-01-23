@@ -801,7 +801,7 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -938,7 +938,7 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -1075,7 +1075,7 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -1212,7 +1212,7 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -1349,7 +1349,7 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -1486,7 +1486,7 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -1623,7 +1623,7 @@
       },
       "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,
@@ -1760,7 +1760,7 @@
       },
   "custom": {
         "price_type": "above",
-        "calories": "below",
+        "calories": "right",
         "scale": 1,
         "item_spacing": 0,
         "horizontal_scale": 0,

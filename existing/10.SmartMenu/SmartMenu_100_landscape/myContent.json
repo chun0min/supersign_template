@@ -786,7 +786,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -934,7 +935,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+                "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -1082,7 +1084,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+                "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",
@@ -1230,7 +1233,8 @@
             "ordr": 3,
             "enable": true
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Pretendard",

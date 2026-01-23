@@ -566,7 +566,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_85_landscape/img_05.png"
             }
           }
-        ]
+        ],
+         "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
@@ -704,7 +705,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_85_landscape/img_06.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
@@ -809,8 +811,6 @@
     },
     "name": ""
   },
-
-
   {
     "id": 14,
     "display_order": 15,
@@ -844,7 +844,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_85_landscape/img_07.png"
             }
           }
-        ]
+        ],
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
@@ -982,7 +983,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_85_landscape/img_08.png"
             }
           }
-        ]
+        ],
+         "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",
@@ -1165,7 +1167,8 @@
               "item_thumbnail_url": "SUPERSIGN/Template/existing/10.SmartMenu/SmartMenu_85_landscape/img_12.png"
             }
           }
-        ]
+        ],
+         "unit_placement": "before"
       },
       "name": {
         "font_name": "Rammetto One",

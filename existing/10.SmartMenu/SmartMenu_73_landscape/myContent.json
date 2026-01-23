@@ -153,7 +153,7 @@
       "editor_option_text_back_color": "63, 85, 44",
       "editor_option_text_back_opacity": 0,
       "editor_option_text_align": "center",
-      "editor_option_text_line_heig": "1",
+      "editor_option_text_line_heig": "1.2",
       "editor_option_text_spacing": "7.28",
       "editor_option_text_font_file": "Charter Regular.otf"
     },
@@ -543,7 +543,7 @@
             }
           }
         ],
-        "unit_placement": "after"
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -681,7 +681,7 @@
             }
           }
         ],
-        "unit_placement": "after"
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -819,7 +819,7 @@
             }
           }
         ],
-        "unit_placement": "after"
+        "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
@@ -957,7 +957,7 @@
             }
           }
         ],
-        "unit_placement": "after"
+       "unit_placement": "before"
       },
       "name": {
         "font_name": "Charter",
