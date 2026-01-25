@@ -88,10 +88,10 @@
     "option_shadow": {
       "editor_option_shadow_show": true,
       "editor_option_shadow_color": "182,182,182",
-      "editor_option_shadow_blur": 10,
-      "editor_option_shadow_angle": 10,
-      "editor_option_shadow_distance": 10,
-      "editor_option_shadow_size": 10,
+      "editor_option_shadow_blur": 0,
+      "editor_option_shadow_angle": 40,
+      "editor_option_shadow_distance": 6,
+      "editor_option_shadow_size": 6,
       "editor_option_shadow_opacity": 1
     }
   },
