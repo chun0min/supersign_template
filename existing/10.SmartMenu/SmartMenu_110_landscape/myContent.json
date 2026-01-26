@@ -56,7 +56,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 ClassicType",
+      "editor_option_text_font_name": "Cafe24 Classictype",
       "editor_option_text_font_size": "80",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -108,7 +108,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Cafe24 ClassicType",
+      "editor_option_text_font_name": "Cafe24 Classictype",
       "editor_option_text_font_size": "24",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -246,7 +246,7 @@
       },
       "name": {
         "font_name": "Onest",
-        "font_file": "Onest-Regular.otf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(59, 59, 59, 1)",
         "style_bold": true,
@@ -444,7 +444,7 @@
       },
       "name": {
         "font_name": "Onest",
-        "font_file": "Onest-Regular.otf",
+        "font_file": "Onest-Regular.ttf",
         "font_size": 20,
         "color": "rgba(59, 59, 59, 1)",
         "style_bold": true,

@@ -366,7 +366,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Pretendard-regular",
+      "editor_option_text_font_name": "Pretendard",
       "editor_option_text_font_size": "20.8",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -821,7 +821,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard-regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-regular.ttf",
         "font_size": 12,
         "color": "rgba(255, 255, 255, 1)",
@@ -1004,7 +1004,7 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Pretendard-regular",
+        "font_name": "Pretendard",
         "font_file": "Pretendard-regular.ttf",
         "font_size": 12,
         "color": "rgba(255, 255, 255, 1)",

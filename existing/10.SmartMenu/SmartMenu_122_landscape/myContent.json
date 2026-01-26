@@ -1576,7 +1576,7 @@
         "alignment": "left"
       },
       "calories": {
-        "font_name": "Satoshi-Regular",
+        "font_name": "Satoshi",
         "font_file": "Satoshi-Regular.ttf",
         "font_size": 13,
         "color": "rgba(199, 84, 78,1)",
