@@ -585,7 +585,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1.1",
       "editor_option_text_spacing": "1",
-      "editor_option_text_font_file": "Satoshi-Regular.ttf"
+      "editor_option_text_font_file": "Satoshi-Variable.ttf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -1056,8 +1056,8 @@
         ]
       },
       "name": {
-        "font_name": "Satoshi-Regular",
-        "font_file": "Satoshi-Regular.ttf",
+        "font_name": "Satoshi",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 23,
         "color": "rgba(74, 110, 119,1)",
         "style_bold": true,
@@ -1078,8 +1078,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Satoshi-Regular",
-        "font_file": "Satoshi-Regular.ttf",
+        "font_name": "Satoshi",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 19.1,
         "color": "rgba(74, 110, 119,1)",
         "style_bold": true,
@@ -1089,8 +1089,8 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Satoshi-Regular",
-        "font_file": "Satoshi-Regular.ttf",
+        "font_name": "Satoshi",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 15,
         "color": "rgba(74, 110, 119,1)",
         "style_bold": true,
@@ -1100,8 +1100,8 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Satoshi-Regular",
-        "font_file": "Satoshi-Regular.ttf",
+        "font_name": "Satoshi",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 13,
         "color": "rgba(180, 115, 14,1)",
         "style_bold": false,
@@ -1111,8 +1111,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi-Regular",
-        "font_file": "Satoshi-Regular.ttf",
+        "font_name": "Satoshi",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(74, 110, 119,1)",
         "style_bold": true,
@@ -1207,8 +1207,8 @@
         ]
       },
       "name": {
-        "font_name": "Satoshi-Regular",
-        "font_file": "Satoshi-Regular.ttf",
+        "font_name": "Satoshi",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 23,
         "color": "rgba(74, 110, 119,1)",
         "style_bold": true,
@@ -1229,8 +1229,8 @@
         "alignment": "left"
       },
       "price": {
-        "font_name": "Satoshi-Regular",
-        "font_file": "Satoshi-Regular.ttf",
+        "font_name": "Satoshi",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 19.1,
         "color": "rgba(74, 110, 119,1)",
         "style_bold": true,
@@ -1240,8 +1240,8 @@
         "alignment": "right"
       },
       "calories": {
-        "font_name": "Satoshi-Regular",
-        "font_file": "Satoshi-Regular.ttf",
+        "font_name": "Satoshi",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 15,
         "color": "rgba(74, 110, 119,1)",
         "style_bold": true,
@@ -1251,8 +1251,8 @@
         "alignment": "right"
       },
       "allergies": {
-        "font_name": "Satoshi-Regular",
-        "font_file": "Satoshi-Regular.ttf",
+        "font_name": "Satoshi",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 13,
         "color": "rgba(180, 115, 14,1)",
         "style_bold": false,
@@ -1262,8 +1262,8 @@
         "alignment": "left"
       },
       "description": {
-        "font_name": "Satoshi-Regular",
-        "font_file": "Satoshi-Regular.ttf",
+        "font_name": "Satoshi",
+        "font_file": "Satoshi-Variable.ttf",
         "font_size": 17,
         "color": "rgba(74, 110, 119,1)",
         "style_bold": true,

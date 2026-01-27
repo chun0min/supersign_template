@@ -622,7 +622,7 @@
       },
       "calories": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard-regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(132, 132, 132, 1)",
         "style_bold": false,
@@ -774,7 +774,7 @@
       },
       "calories": {
         "font_name": "Pretendard",
-        "font_file": "Pretendard-regular.ttf",
+        "font_file": "Pretendard-Regular.otf",
         "font_size": 12,
         "color": "rgba(132, 132, 132, 1)",
         "style_bold": false,
