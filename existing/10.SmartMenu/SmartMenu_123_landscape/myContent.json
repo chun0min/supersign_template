@@ -572,7 +572,7 @@
     "line_height": 1,
     "scene_no": 1,
     "option_text": {
-      "editor_option_text_font_name": "Playlist script",
+      "editor_option_text_font_name": "Playlist Script",
       "editor_option_text_font_size": "210",
       "editor_option_text_style_bold": false,
       "editor_option_text_style_italic": false,
@@ -585,7 +585,7 @@
       "editor_option_text_align": "center",
       "editor_option_text_line_heig": "1",
       "editor_option_text_spacing": "0",
-      "editor_option_text_font_file": "Playlist script.otf"
+      "editor_option_text_font_file": "Playlist Script.otf"
     },
     "option_text_outline": {
       "editor_option_text_outline_color": "0,0,0",
@@ -1147,7 +1147,7 @@
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 75,
+        "horizontal_scale": 86,
         "vertical_scale": 100,
         "reverse": false,
         "section": [
@@ -1343,7 +1343,7 @@
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 75,
+        "horizontal_scale": 86,
         "vertical_scale": 100,
         "reverse": false,
         "section": [
@@ -1378,7 +1378,7 @@
     "display_order": 25,
     "content_type": "T_MENU",
     "width": 490,
-    "height": 490,
+    "height": 460,
     "top": 376,
     "left": 1302,
     "angle": 0,
@@ -1524,7 +1524,7 @@
         "calories": "below",
         "scale": 1,
         "item_spacing": 10,
-        "horizontal_scale": 75,
+        "horizontal_scale": 86,
         "vertical_scale": 100,
         "reverse": false,
         "section": [
